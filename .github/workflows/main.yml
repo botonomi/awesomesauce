@@ -1,0 +1,27 @@
+name: New Free Tiers
+  
+on:
+  schedule:
+    -   cron:  '0 0,8,16 * * *'
+
+jobs:
+  build:
+    
+    runs-on: ubuntu-latest
+    
+    env:
+      TOKEN: ${{ secrets.TOKEN }}  
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser requests github3.py
+
+    - name: Assemble RSS of new items
+      run: python3 ./saucy.py
