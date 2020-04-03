@@ -51,7 +51,7 @@ xml.close()
 
 # Connect to GitHub API and push the changes.
 github = github3.login(token=os.environ['TOKEN'])
-repository = github.repository(owner, 'BoSK-Watch')
+repository = github.repository(owner, 'awesomesauce')
 
 with open('feed.xml', 'rb') as fd:
         contents = fd.read()
