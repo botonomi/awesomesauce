@@ -7,6 +7,7 @@ import github3
 
 link = ""
 owner = os.environ['GITHUB_ACTOR']
+owner = 'botonomi'
 
 
 xml = open("feed.xml", "w")
