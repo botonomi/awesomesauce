@@ -1,1 +1,108 @@
-feedme
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"><channel>
+<title>New Free-For-Dev</title>
+<description>New Free Resources</description>
+<link></link>
+<item>
+	<title>Merge pull request #1465 from sdil/add-zarvis</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d49f6eefa2f98603215caeec471a700ad4493ade</link><description><![CDATA[  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add zarvis.ai</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6e2184186edaa64faee0b6b0770dbf19fbbdc563</link><description><![CDATA[  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1464 from Ziggoto/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f5bc843038e54d4f91a718c2dcfa37ee8394d9cb</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adds Platform9 on PaaS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2cd9b01426bff52e1f67b6681de8b847a17a23c7</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1463 from adisreyaj/feature-cosmosdb</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ed5de7f9d361e8fa8c13b747e5290a6a475b81e7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Azure Cosmos DB to the List</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/455534f97e3403d0986759b37b0febbb494d0de7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1459 from NurdTurd/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/64b32c8553a43a24de29af9df24ab7c01b02ad18</link><description><![CDATA[   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1461 from TugboatQA/tugboat</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5cc9e3512b3d52a52ec14bca66ec76c3f67dfd4a</link><description><![CDATA[  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add [Tugboat](https://tugboat.qa) to Teams & Collaboration</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0ddc914d27c5e74d35088c37d32cb4842acbe591</link><description><![CDATA[  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1460 from nickfox-taterli/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/98884d65417acc721e397af8c30ada93ac1263dc</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>DemosWP will closes on MAY 01, 2020</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bca75cb951bd6005677005f9bae85d1b80292a98</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add Radmin VPN</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2111f8153f7cb5819135aef48c17eac608df22bc</link><description><![CDATA[   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1458 from callmegar/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a584f6fc315641f922a4dedec8fdf2e42dd4ef22</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javaScript apps. Free for 1,000 sessions a month, 14 days retention<br>
+  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fixed case</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a3e52958b54811a7d3da94d8e0d78792242ef98e</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding LogRocket to Crash and Exception Handling</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8337e103fc4a06cb2ffd57fd6c018e4ac02a39ed</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javaScript apps. Free for 1,000 sessions a month, 14 days retention<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1457 from MariiaMalitska/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/986ef39c15e0bc50dc82e5bc8128e7083d7298ef</link><description><![CDATA[  * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security and more in your digital solution. Free for applications with up to 250 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add "Virgil Security" to "Security and PKI"section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ff61c8f2903fbf79cbdb53e2853ac0b496da40b5</link><description><![CDATA[  * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security and more in your digital solution. Free for applications with up to 250 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1456 from Nciso/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bcba2c54b9640e15724287ef97ef33fd58a82c01</link><description><![CDATA[  * [Miro](https://miro.com/) - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. With freemium plan.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Miro</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0e71c1457681c557b79eb5d5dec2eaf9bd85cc9d</link><description><![CDATA[  * [Miro](https://miro.com/) - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. With freemium plan.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1452 from howuku/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6e91dda51ad2f9f388bff722345b353b08f5a2fa</link><description><![CDATA[   * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month<br>
+   * [howuku.com](https://howuku.com) — 200 sessions/month with 1 month data retention.<br>
+ ]]></description>
+</item>
+
+</channel>
+</rss>
