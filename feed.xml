@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1469 from aclarembeau/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a246dd1f80a7456c31b0ff81176821fcdea19577</link><description><![CDATA[  * [fiwit.io](https://www.fiwit.io/) —  General purpose IT management (asset inventory, ticketing & documentation), 10 assets free<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df49ee8c21cdcf395b6ab84c9e5225db9a33b97c</link><description><![CDATA[  * [fiwit.io](https://www.fiwit.io/) —  General purpose IT management (asset inventory, ticketing & documentation), 10 assets free<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1468 from brentybh/patch-3</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0beddbf5e4a9c634e5bb14e9033eed533bbdfdad</link><description><![CDATA[ ]]></description>
 </item>
@@ -88,16 +98,6 @@
 <item>
 	<title>Fixed case</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a3e52958b54811a7d3da94d8e0d78792242ef98e</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javascript apps. Free for 1,000 sessions a month, 14 days retention<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding LogRocket to Crash and Exception Handling</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8337e103fc4a06cb2ffd57fd6c018e4ac02a39ed</link><description><![CDATA[  * [logrocket.io](https://www.logrocket.com) - Logging and session replay for javaScript apps. Free for 1,000 sessions a month, 14 days retention<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1457 from MariiaMalitska/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/986ef39c15e0bc50dc82e5bc8128e7083d7298ef</link><description><![CDATA[  * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security and more in your digital solution. Free for applications with up to 250 users.<br>
  ]]></description>
 </item>
 
