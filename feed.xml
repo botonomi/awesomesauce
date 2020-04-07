@@ -4,6 +4,42 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1472 from gmontard/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/90d54a7f375d882260249e5a92effed6aae012b7</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1474 from Wuzado/patch-2</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b69bf2e1f7084579b12d4c3368b3d25eea15e4c</link><description><![CDATA[   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.<br>
+   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Confluence</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/886b301e6ff315400e7a5068e9edfe572cf65bf4</link><description><![CDATA[   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Jira</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c3768da2378e6d8dc486a3f7366523202e11095a</link><description><![CDATA[   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1473 from Wuzado/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c54988ad7bf3355535b588f191ae52169aaa1ff2</link><description><![CDATA[  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix a biased description of honeybadger.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3c83e13ad5ef97faa5c4da2bc78e96a4d5ad9037</link><description><![CDATA[  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e37ccae70ac5a0048c97214c4ae08fff59242bc9</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1470 from Klendat/patch-3</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/56e2d275e3482c4a41b5c81955dac48e4f0ea469</link><description><![CDATA[   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member. <br>
    * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.<br>
@@ -68,39 +104,6 @@
 <item>
 	<title>Merge pull request #1463 from adisreyaj/feature-cosmosdb</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ed5de7f9d361e8fa8c13b747e5290a6a475b81e7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Azure Cosmos DB to the List</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/455534f97e3403d0986759b37b0febbb494d0de7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1459 from NurdTurd/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/64b32c8553a43a24de29af9df24ab7c01b02ad18</link><description><![CDATA[   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1461 from TugboatQA/tugboat</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5cc9e3512b3d52a52ec14bca66ec76c3f67dfd4a</link><description><![CDATA[  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add [Tugboat](https://tugboat.qa) to Teams & Collaboration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ddc914d27c5e74d35088c37d32cb4842acbe591</link><description><![CDATA[  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1460 from nickfox-taterli/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/98884d65417acc721e397af8c30ada93ac1263dc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>DemosWP will closes on MAY 01, 2020</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bca75cb951bd6005677005f9bae85d1b80292a98</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Radmin VPN</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2111f8153f7cb5819135aef48c17eac608df22bc</link><description><![CDATA[   * [Radmin VPN](https://www.radmin-vpn.com/) - Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
  ]]></description>
 </item>
 
