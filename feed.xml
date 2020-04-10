@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1476 from iondrey/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/894e7fb515c48ba99174e6ae783f8dcb6249ccd0</link><description><![CDATA[  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate<br>
+  * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection<br>
+  <br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c188e4ed93b010809efc07eeb1733ac57d389070</link><description><![CDATA[  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate<br>
+  * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection<br>
+  <br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1472 from gmontard/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/90d54a7f375d882260249e5a92effed6aae012b7</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
  ]]></description>
@@ -94,16 +108,6 @@
 <item>
 	<title>Merge pull request #1464 from Ziggoto/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f5bc843038e54d4f91a718c2dcfa37ee8394d9cb</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adds Platform9 on PaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2cd9b01426bff52e1f67b6681de8b847a17a23c7</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1463 from adisreyaj/feature-cosmosdb</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ed5de7f9d361e8fa8c13b747e5290a6a475b81e7</link><description><![CDATA[    * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year<br>
  ]]></description>
 </item>
 
