@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1477 from alexandrevicenzi/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6c1d8d7deef55f4887e6b47896131c6f618b48b4</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove "free" kubernetes in IBM Cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f918f70e352597c49aa47f106ebd439d9db77ed4</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Fix "free" IBM Kubernetes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fc4db8a3a8f7417f718aaf644910aecdf5af306d</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1476 from iondrey/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/894e7fb515c48ba99174e6ae783f8dcb6249ccd0</link><description><![CDATA[  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate<br>
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection<br>
@@ -93,21 +107,6 @@
 <item>
 	<title>Add LeanCloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fb64747d5637a084f9c938cfb8207636eec9fe88</link><description><![CDATA[  * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1465 from sdil/add-zarvis</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d49f6eefa2f98603215caeec471a700ad4493ade</link><description><![CDATA[  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add zarvis.ai</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e2184186edaa64faee0b6b0770dbf19fbbdc563</link><description><![CDATA[  * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1464 from Ziggoto/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f5bc843038e54d4f91a718c2dcfa37ee8394d9cb</link><description><![CDATA[  * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.<br>
  ]]></description>
 </item>
 
