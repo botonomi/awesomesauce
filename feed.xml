@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1479 from adbek/patch-4</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b479d355b9f871958ff351f5321a34b3af921e61</link><description><![CDATA[  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added verimail to ##Email section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0dd5827c36dd47946ff1fe6063a5e3d454d385c3</link><description><![CDATA[  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1478 from pchico83/okteto</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c6700817af3e4a5c68f226ccc3ecbc4ab94cff47</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
  ]]></description>
@@ -99,15 +109,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df49ee8c21cdcf395b6ab84c9e5225db9a33b97c</link><description><![CDATA[  * [fiwit.io](https://www.fiwit.io/) —  General purpose IT management (asset inventory, ticketing & documentation), 10 assets free<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1468 from brentybh/patch-3</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0beddbf5e4a9c634e5bb14e9033eed533bbdfdad</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1467 from brentybh/patch-2</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5be2ffc01c232a268127afa8179014bc09b4aa11</link><description><![CDATA[  * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
  ]]></description>
 </item>
 
