@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1478 from pchico83/okteto</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6700817af3e4a5c68f226ccc3ecbc4ab94cff47</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Okteto Cloud free tier terms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c4bf6698049362dc5a8b88fd144c7b217df14476</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1477 from alexandrevicenzi/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6c1d8d7deef55f4887e6b47896131c6f618b48b4</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
  ]]></description>
@@ -98,15 +108,6 @@
 <item>
 	<title>Merge pull request #1467 from brentybh/patch-2</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5be2ffc01c232a268127afa8179014bc09b4aa11</link><description><![CDATA[  * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove nstack</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f3ff43803b5a37807e0eb8c51455582007825a4f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add LeanCloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fb64747d5637a084f9c938cfb8207636eec9fe88</link><description><![CDATA[  * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
  ]]></description>
 </item>
 
