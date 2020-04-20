@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1482 from Jeff-Tian/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0c0758240826f82b8466c36f29662b7ec847c54c</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1480 from JerryGoyal/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0c8938e6dc71c286a053a3a6789dcfec371bb8d3</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added fly.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/95a70e59b4132a8924a3522188de860db930771d</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/78c6665cf9629b6e5a85ac06bb25c9dbaf9f7e7d</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1479 from adbek/patch-4</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b479d355b9f871958ff351f5321a34b3af921e61</link><description><![CDATA[  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month<br>
  ]]></description>
@@ -85,30 +105,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e37ccae70ac5a0048c97214c4ae08fff59242bc9</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1470 from Klendat/patch-3</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/56e2d275e3482c4a41b5c81955dac48e4f0ea469</link><description><![CDATA[   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member. <br>
-   * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.<br>
-   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard). <br>
- ]]></description>
-</item>
-<item>
-	<title>Added ilograph diagrams and Kumu graphs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/94b7456954740efdc112317a37ca71de34185bbb</link><description><![CDATA[   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member. <br>
-   * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.<br>
-   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard). <br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1469 from aclarembeau/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a246dd1f80a7456c31b0ff81176821fcdea19577</link><description><![CDATA[  * [fiwit.io](https://www.fiwit.io/) —  General purpose IT management (asset inventory, ticketing & documentation), 10 assets free<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df49ee8c21cdcf395b6ab84c9e5225db9a33b97c</link><description><![CDATA[  * [fiwit.io](https://www.fiwit.io/) —  General purpose IT management (asset inventory, ticketing & documentation), 10 assets free<br>
  ]]></description>
 </item>
 
