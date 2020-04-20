@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1483 from brentybh/patch-4</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/80adccd7ea4c44bd773da197a3b1879a9a464990</link><description><![CDATA[  * [zeit.co/now](https://zeit.co/now) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Zeit/now.sh free tier update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e2605116a020f4129578e888e431fc34d899e2bf</link><description><![CDATA[  * [zeit.co/now](https://zeit.co/now) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1482 from Jeff-Tian/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0c0758240826f82b8466c36f29662b7ec847c54c</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
  ]]></description>
@@ -95,16 +105,6 @@
 <item>
 	<title>Merge pull request #1473 from Wuzado/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c54988ad7bf3355535b588f191ae52169aaa1ff2</link><description><![CDATA[  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix a biased description of honeybadger.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3c83e13ad5ef97faa5c4da2bc78e96a4d5ad9037</link><description><![CDATA[  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e37ccae70ac5a0048c97214c4ae08fff59242bc9</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
  ]]></description>
 </item>
 
