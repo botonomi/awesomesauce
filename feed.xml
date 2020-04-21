@@ -24,12 +24,7 @@
 </item>
 <item>
 	<title>update poilcy on TLS in free tiers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c5e6b257e1cdd36f596a4854a2804a4c74a7226</link><description><![CDATA[*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a Free Tier and not just a free trial. If the Free Tier is time bucketed it has to be at least a year. We also consider the free tier from a security perspective, no SSO is fine but will not accept services that restrict TLS to paid only tiers.<br>
-  * [APIFull](https://apifull.com/) — Web Scraping API handling headless browsers and rotating proxies for developers.<br>
-  * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.<br>
-   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.<br>
-   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c5e6b257e1cdd36f596a4854a2804a4c74a7226</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1483 from brentybh/patch-4</title>
@@ -43,23 +38,19 @@
 </item>
 <item>
 	<title>Merge pull request #1482 from Jeff-Tian/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0c0758240826f82b8466c36f29662b7ec847c54c</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0c0758240826f82b8466c36f29662b7ec847c54c</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1480 from JerryGoyal/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0c8938e6dc71c286a053a3a6789dcfec371bb8d3</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0c8938e6dc71c286a053a3a6789dcfec371bb8d3</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Added fly.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/95a70e59b4132a8924a3522188de860db930771d</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/95a70e59b4132a8924a3522188de860db930771d</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/78c6665cf9629b6e5a85ac06bb25c9dbaf9f7e7d</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/78c6665cf9629b6e5a85ac06bb25c9dbaf9f7e7d</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1479 from adbek/patch-4</title>
@@ -68,8 +59,7 @@
 </item>
 <item>
 	<title>Added verimail to ##Email section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0dd5827c36dd47946ff1fe6063a5e3d454d385c3</link><description><![CDATA[  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0dd5827c36dd47946ff1fe6063a5e3d454d385c3</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1478 from pchico83/okteto</title>
@@ -78,13 +68,11 @@
 </item>
 <item>
 	<title>Update Okteto Cloud free tier terms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c4bf6698049362dc5a8b88fd144c7b217df14476</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c4bf6698049362dc5a8b88fd144c7b217df14476</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1477 from alexandrevicenzi/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6c1d8d7deef55f4887e6b47896131c6f618b48b4</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6c1d8d7deef55f4887e6b47896131c6f618b48b4</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Remove "free" kubernetes in IBM Cloud</title>
@@ -92,8 +80,7 @@
 </item>
 <item>
 	<title>Fix "free" IBM Kubernetes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fc4db8a3a8f7417f718aaf644910aecdf5af306d</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fc4db8a3a8f7417f718aaf644910aecdf5af306d</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1476 from iondrey/master</title>
