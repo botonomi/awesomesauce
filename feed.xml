@@ -4,6 +4,34 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1485 from zaee-k/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/422880b631d36b7e027872dcf50239983e4b03f2</link><description><![CDATA[  * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added virushee.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d689e6b0afa23fe0b773200a7388b805a0fd3dd7</link><description><![CDATA[  * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1484 from ripienaar/tls_policy_update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54911dbef41021154ddb75ffc2f61a79cc5e7741</link><description><![CDATA[*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a Free Tier and not just a free trial. If the Free Tier is time bucketed it has to be at least a year. We also consider the free tier from a security perspective, no SSO is fine but will not accept services that restrict TLS to paid only tiers.<br>
+  * [APIFull](https://apifull.com/) — Web Scraping API handling headless browsers and rotating proxies for developers.<br>
+  * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.<br>
+   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.<br>
+   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).<br>
+ ]]></description>
+</item>
+<item>
+	<title>update poilcy on TLS in free tiers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c5e6b257e1cdd36f596a4854a2804a4c74a7226</link><description><![CDATA[*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a Free Tier and not just a free trial. If the Free Tier is time bucketed it has to be at least a year. We also consider the free tier from a security perspective, no SSO is fine but will not accept services that restrict TLS to paid only tiers.<br>
+  * [APIFull](https://apifull.com/) — Web Scraping API handling headless browsers and rotating proxies for developers.<br>
+  * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.<br>
+   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.<br>
+   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1483 from brentybh/patch-4</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/80adccd7ea4c44bd773da197a3b1879a9a464990</link><description><![CDATA[  * [zeit.co/now](https://zeit.co/now) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
  ]]></description>
@@ -84,27 +112,6 @@
 <item>
 	<title>Merge pull request #1472 from gmontard/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/90d54a7f375d882260249e5a92effed6aae012b7</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1474 from Wuzado/patch-2</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5b69bf2e1f7084579b12d4c3368b3d25eea15e4c</link><description><![CDATA[   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.<br>
-   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Confluence</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/886b301e6ff315400e7a5068e9edfe572cf65bf4</link><description><![CDATA[   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Jira</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c3768da2378e6d8dc486a3f7366523202e11095a</link><description><![CDATA[   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1473 from Wuzado/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c54988ad7bf3355535b588f191ae52169aaa1ff2</link><description><![CDATA[  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for solo devs and open-source projects (12,000 errors/month).<br>
  ]]></description>
 </item>
 
