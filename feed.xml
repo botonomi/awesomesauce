@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1487 from brentybh/patch-6</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d6dd3de079589e1ae48f0fa9fa0b03990f680618</link><description><![CDATA[  * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
+ ]]></description>
+</item>
+<item>
+	<title>ZEIT is now Vercel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4237c3e734fd00729b1be5bd13b8181f5103e693</link><description><![CDATA[  * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1485 from zaee-k/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/422880b631d36b7e027872dcf50239983e4b03f2</link><description><![CDATA[  * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload<br>
  ]]></description>
@@ -100,18 +110,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/894e7fb515c48ba99174e6ae783f8dcb6249ccd0</link><description><![CDATA[  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate<br>
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection<br>
   <br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c188e4ed93b010809efc07eeb1733ac57d389070</link><description><![CDATA[  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate<br>
-  * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection<br>
-  <br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1472 from gmontard/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/90d54a7f375d882260249e5a92effed6aae012b7</link><description><![CDATA[  * [bearer.sh](https://www.bearer.sh) - Automatically Monitor API Requests, Track Performance, Detect Anomalies and Fix Issues on your critical API Usage. Install the Bearer Agent for Free with 1 line of code.<br>
  ]]></description>
 </item>
 
