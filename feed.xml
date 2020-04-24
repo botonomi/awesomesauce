@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1490 from ariaseta/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b445658456ac4600c0449a856747d8b97883770</link><description><![CDATA[  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/abc5292e77aee110b9cd130aaee4652b02003467</link><description><![CDATA[  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1489 from brentybh/patch-8</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e94740e9645f038cd2e578d5efb7d8e049a26df1</link><description><![CDATA[  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.<br>
  ]]></description>
@@ -100,15 +110,6 @@
 	<title>Update Okteto Cloud free tier terms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c4bf6698049362dc5a8b88fd144c7b217df14476</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1477 from alexandrevicenzi/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6c1d8d7deef55f4887e6b47896131c6f618b48b4</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove "free" kubernetes in IBM Cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f918f70e352597c49aa47f106ebd439d9db77ed4</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
