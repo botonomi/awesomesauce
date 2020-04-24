@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1489 from brentybh/patch-8</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e94740e9645f038cd2e578d5efb7d8e049a26df1</link><description><![CDATA[  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Zilore to English page</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3159a615c8ed480fa93c4db4e0c6f95408aaf5ac</link><description><![CDATA[  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1487 from brentybh/patch-6</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d6dd3de079589e1ae48f0fa9fa0b03990f680618</link><description><![CDATA[  * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
  ]]></description>
@@ -99,18 +109,6 @@
 <item>
 	<title>Remove "free" kubernetes in IBM Cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f918f70e352597c49aa47f106ebd439d9db77ed4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Fix "free" IBM Kubernetes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fc4db8a3a8f7417f718aaf644910aecdf5af306d</link><description><![CDATA[    * Kubernetes - Free cluster with 1 worker node for 30 days<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1476 from iondrey/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/894e7fb515c48ba99174e6ae783f8dcb6249ccd0</link><description><![CDATA[  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate<br>
-  * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) — Free DDoS protection<br>
-  <br>
- ]]></description>
 </item>
 
 </channel>
