@@ -4,6 +4,24 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1493 from danielro/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4f2e70c7778db173b6072be1b1e642734b255416</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1492 from GovindMalviya/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0fde2901205ca08f99d4931f6866e003d3770e00</link><description><![CDATA[  * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registartion and 3 social providers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed formaholic</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/771920acdef95abc0a6ece351aec43100fc2cd13</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add LoginRadius under "Security and PKI" category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54f2b77e210689f7fa33df40e0ba8a5f3039bb41</link><description><![CDATA[  * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registartion and 3 social providers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1490 from ariaseta/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5b445658456ac4600c0449a856747d8b97883770</link><description><![CDATA[  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month<br>
  ]]></description>
@@ -89,26 +107,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/78c6665cf9629b6e5a85ac06bb25c9dbaf9f7e7d</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1479 from adbek/patch-4</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b479d355b9f871958ff351f5321a34b3af921e61</link><description><![CDATA[  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Added verimail to ##Email section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0dd5827c36dd47946ff1fe6063a5e3d454d385c3</link><description><![CDATA[  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1478 from pchico83/okteto</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c6700817af3e4a5c68f226ccc3ecbc4ab94cff47</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Okteto Cloud free tier terms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c4bf6698049362dc5a8b88fd144c7b217df14476</link><description><![CDATA[  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.<br>
  ]]></description>
 </item>
 
