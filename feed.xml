@@ -4,12 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1494 from kami4ka/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9c324a43da98e261a4b4a802d788c88bb70be4d8</link><description><![CDATA[  * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1493 from danielro/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f2e70c7778db173b6072be1b1e642734b255416</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Merge pull request #1492 from GovindMalviya/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0fde2901205ca08f99d4931f6866e003d3770e00</link><description><![CDATA[  * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registartion and 3 social providers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>ScrapingAnt added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dcb6e1dc9da46d8ab029bdbedfb19dde705cdf65</link><description><![CDATA[  * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.<br>
  ]]></description>
 </item>
 <item>
@@ -97,16 +107,6 @@
 <item>
 	<title>Merge pull request #1480 from JerryGoyal/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0c8938e6dc71c286a053a3a6789dcfec371bb8d3</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
- ]]></description>
-</item>
-<item>
-	<title>Added fly.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/95a70e59b4132a8924a3522188de860db930771d</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/78c6665cf9629b6e5a85ac06bb25c9dbaf9f7e7d</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
  ]]></description>
 </item>
 
