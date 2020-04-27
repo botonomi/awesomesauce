@@ -4,6 +4,24 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1496 from herkyl/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3ecf5e65f0b996ec0f72172a86ade4c1d2017ed5</link><description><![CDATA[  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day<br>
+ ]]></description>
+</item>
+<item>
+	<title>Move Scaledrone from WebRTC to Messaging</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/39efc68dc909d7b83c55f69ab12d1b6f6575f4f9</link><description><![CDATA[  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1495 from VictorioBerra/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b9cc3f1fe63963d5b239515491c1c15725611767</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove rollbar.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/960b05594db748ed87b96323310cadbb44390ec9</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1494 from kami4ka/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9c324a43da98e261a4b4a802d788c88bb70be4d8</link><description><![CDATA[  * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.<br>
  ]]></description>
@@ -87,26 +105,6 @@
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.<br>
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.<br>
    * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1483 from brentybh/patch-4</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/80adccd7ea4c44bd773da197a3b1879a9a464990</link><description><![CDATA[  * [zeit.co/now](https://zeit.co/now) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
- ]]></description>
-</item>
-<item>
-	<title>Zeit/now.sh free tier update</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e2605116a020f4129578e888e431fc34d899e2bf</link><description><![CDATA[  * [zeit.co/now](https://zeit.co/now) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1482 from Jeff-Tian/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0c0758240826f82b8466c36f29662b7ec847c54c</link><description><![CDATA[  * [fly.io](https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free for side projects, $10/mo of service credit that automatically applies to any paid service. And if you ran really small virtual machines, credits will go a long way.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1480 from JerryGoyal/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0c8938e6dc71c286a053a3a6789dcfec371bb8d3</link><description><![CDATA[  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators) with Pipelines for CI/CD<br>
  ]]></description>
 </item>
 
