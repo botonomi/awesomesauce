@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1500 from chinkiat/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5a12386d7fdbbb0446173dddf9ad4a1593eeee0a</link><description><![CDATA[  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Include Jumpcloud (Azure AD replacement)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/700caac0953b7d9a7edf12619dceafa89827a796</link><description><![CDATA[  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1499 from engineervix/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/feb68e650a9018f1fc8ab06d49d59432419c1ba9</link><description><![CDATA[  * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added forwardemail.net</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0446584720e9fa4c4a9f5636fa75ee461b44765e</link><description><![CDATA[  * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1498 from svikashk/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd599bd6e1d2cfe422f79c78f15867d186b369f4</link><description><![CDATA[   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together.<br>
    * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.<br>
@@ -78,26 +98,6 @@
 <item>
 	<title>Merge pull request #1490 from ariaseta/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5b445658456ac4600c0449a856747d8b97883770</link><description><![CDATA[  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/abc5292e77aee110b9cd130aaee4652b02003467</link><description><![CDATA[  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1489 from brentybh/patch-8</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e94740e9645f038cd2e578d5efb7d8e049a26df1</link><description><![CDATA[  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Zilore to English page</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3159a615c8ed480fa93c4db4e0c6f95408aaf5ac</link><description><![CDATA[  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1487 from brentybh/patch-6</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d6dd3de079589e1ae48f0fa9fa0b03990f680618</link><description><![CDATA[  * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
  ]]></description>
 </item>
 
