@@ -4,6 +4,32 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1498 from svikashk/patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dd599bd6e1d2cfe422f79c78f15867d186b369f4</link><description><![CDATA[   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together.<br>
+   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated readme file to include free tier for Zepel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7a502f620ba14000545170d632eafaa9c05f220</link><description><![CDATA[   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge pull request #1497 from sdil/add-cloudkarafka</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4a77f6d690291b80daf08d7031fe00e8e71873d5</link><description><![CDATA[  * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated readme file to include a tool called Zepel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/126709b0967f43dcf728cb2deedd003d369ab8b8</link><description><![CDATA[   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add CloudKarafka</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b37b39e552ffaaae9b7a34e18814534b7e1b3412</link><description><![CDATA[  * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1496 from herkyl/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3ecf5e65f0b996ec0f72172a86ade4c1d2017ed5</link><description><![CDATA[  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day<br>
  ]]></description>
@@ -72,39 +98,6 @@
 <item>
 	<title>Merge pull request #1487 from brentybh/patch-6</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d6dd3de079589e1ae48f0fa9fa0b03990f680618</link><description><![CDATA[  * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
- ]]></description>
-</item>
-<item>
-	<title>ZEIT is now Vercel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4237c3e734fd00729b1be5bd13b8181f5103e693</link><description><![CDATA[  * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1485 from zaee-k/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/422880b631d36b7e027872dcf50239983e4b03f2</link><description><![CDATA[  * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload<br>
- ]]></description>
-</item>
-<item>
-	<title>Added virushee.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d689e6b0afa23fe0b773200a7388b805a0fd3dd7</link><description><![CDATA[  * [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. Possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1484 from ripienaar/tls_policy_update</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54911dbef41021154ddb75ffc2f61a79cc5e7741</link><description><![CDATA[*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a Free Tier and not just a free trial. If the Free Tier is time bucketed it has to be at least a year. We also consider the free tier from a security perspective, no SSO is fine but will not accept services that restrict TLS to paid only tiers.<br>
-  * [APIFull](https://apifull.com/) — Web Scraping API handling headless browsers and rotating proxies for developers.<br>
-  * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.<br>
-   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.<br>
-   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).<br>
- ]]></description>
-</item>
-<item>
-	<title>update poilcy on TLS in free tiers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c5e6b257e1cdd36f596a4854a2804a4c74a7226</link><description><![CDATA[*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to offer a Free Tier and not just a free trial. If the Free Tier is time bucketed it has to be at least a year. We also consider the free tier from a security perspective, no SSO is fine but will not accept services that restrict TLS to paid only tiers.<br>
-  * [APIFull](https://apifull.com/) — Web Scraping API handling headless browsers and rotating proxies for developers.<br>
-  * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.<br>
-   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.<br>
-   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).<br>
  ]]></description>
 </item>
 
