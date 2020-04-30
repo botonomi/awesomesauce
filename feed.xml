@@ -4,6 +4,42 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1503 from adityatelange/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/befc1d6e85b18fdcaee6bdae76f6abb35149d162</link><description><![CDATA[   * [Commenting Platforms](#commenting-platforms)<br>
+## Commenting Platforms<br>
+  * [ReplyBox](https://getreplybox.com) - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
+  * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
+  * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience. <br>
+  * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!<br>
+  * [Talkyard](https://www.talkyard.io/blog-comments) - Talkyard is a commenting system for your website. Open source, install for free<br>
+  * [Isso](https://posativ.org/isso) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.<br>
+  * [Commento](https://commento.io/) - A fast, privacy-focused commenting platform<br>
+  * [Remark42](https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.<br>
+  * [schnack](https://schnack.cool/) - An easy to use, self-hosted and open source commenting system<br>
+  * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove non-free and self hosted services from commenting platforms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/41e7c6a00803a50c7c4b312596e2831f66cbc6d9</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>add commenting platforms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[   * [Commenting Platforms](#commenting-platforms)<br>
+## Commenting Platforms<br>
+  * [ReplyBox](https://getreplybox.com) - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
+  * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
+  * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience. <br>
+  * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!<br>
+  * [Talkyard](https://www.talkyard.io/blog-comments) - Talkyard is a commenting system for your website. Open source, install for free<br>
+  * [Isso](https://posativ.org/isso) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.<br>
+  * [Commento](https://commento.io/) - A fast, privacy-focused commenting platform<br>
+  * [Remark42](https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.<br>
+  * [schnack](https://schnack.cool/) - An easy to use, self-hosted and open source commenting system<br>
+  * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1502 from aleksakrstic/add-localizely</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4a56609b107b7288213c078d69a31e3d7dd55fd5</link><description><![CDATA[  * [localizely.com](https://localizely.com/) — Free for Open Source<br>
  ]]></description>
@@ -85,20 +121,6 @@
 <item>
 	<title>Merge pull request #1493 from danielro/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f2e70c7778db173b6072be1b1e642734b255416</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1492 from GovindMalviya/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0fde2901205ca08f99d4931f6866e003d3770e00</link><description><![CDATA[  * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registartion and 3 social providers.<br>
- ]]></description>
-</item>
-<item>
-	<title>ScrapingAnt added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dcb6e1dc9da46d8ab029bdbedfb19dde705cdf65</link><description><![CDATA[  * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed formaholic</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/771920acdef95abc0a6ece351aec43100fc2cd13</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
