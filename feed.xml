@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1502 from aleksakrstic/add-localizely</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4a56609b107b7288213c078d69a31e3d7dd55fd5</link><description><![CDATA[  * [localizely.com](https://localizely.com/) — Free for Open Source<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Localizely</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f0dcbd179179372bcd54f78257e5c39c8cfb78f</link><description><![CDATA[  * [localizely.com](https://localizely.com/) — Free for Open Source<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1500 from chinkiat/patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5a12386d7fdbbb0446173dddf9ad4a1593eeee0a</link><description><![CDATA[  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
  ]]></description>
@@ -89,16 +99,6 @@
 <item>
 	<title>Removed formaholic</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/771920acdef95abc0a6ece351aec43100fc2cd13</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add LoginRadius under "Security and PKI" category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54f2b77e210689f7fa33df40e0ba8a5f3039bb41</link><description><![CDATA[  * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registartion and 3 social providers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1490 from ariaseta/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5b445658456ac4600c0449a856747d8b97883770</link><description><![CDATA[  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month<br>
- ]]></description>
 </item>
 
 </channel>
