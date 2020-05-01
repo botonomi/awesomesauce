@@ -4,6 +4,32 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1505 from considine/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/174f52fc08fe5f1180b547e42577e3153a3861f0</link><description><![CDATA[   * [Esignature](#esignature)<br>
+## eSignature<br>
+  * [WaiverStevie.com](https://waiverstevie.com) - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
+  * [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.<br>
+  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
+ ]]></description>
+</item>
+<item>
+	<title>fix: remove orphan line</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7fd3e8e1fbdb8c6fe97e51b0c24e8f47ff050e0c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>fix: move esignature to existing for mcategory</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a435d209527538542af4f56f58367bafe11cf66b</link><description><![CDATA[  * [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.<br>
+  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add free eSignature provider</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[   * [Esignature](#esignature)<br>
+## eSignature<br>
+  * [WaiverStevie.com](https://waiverstevie.com) - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1503 from adityatelange/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/befc1d6e85b18fdcaee6bdae76f6abb35149d162</link><description><![CDATA[   * [Commenting Platforms](#commenting-platforms)<br>
 ## Commenting Platforms<br>
@@ -104,23 +130,6 @@
 	<title>Move Scaledrone from WebRTC to Messaging</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/39efc68dc909d7b83c55f69ab12d1b6f6575f4f9</link><description><![CDATA[  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1495 from VictorioBerra/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b9cc3f1fe63963d5b239515491c1c15725611767</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove rollbar.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/960b05594db748ed87b96323310cadbb44390ec9</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1494 from kami4ka/master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9c324a43da98e261a4b4a802d788c88bb70be4d8</link><description><![CDATA[  * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1493 from danielro/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4f2e70c7778db173b6072be1b1e642734b255416</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
