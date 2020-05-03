@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge pull request #1506 from qb0C80aE/master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d21c137ff14a65fb702b1e955a56cf1354037487</link><description><![CDATA[   * [localhost.run](https://localhost.run/) — Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add localhost.run</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/501fc93f415142be4d67af6ff21ede86c6e14c65</link><description><![CDATA[   * [localhost.run](https://localhost.run/) — Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge pull request #1505 from considine/master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/174f52fc08fe5f1180b547e42577e3153a3861f0</link><description><![CDATA[   * [Esignature](#esignature)<br>
 ## eSignature<br>
@@ -119,16 +129,6 @@
 <item>
 	<title>Add CloudKarafka</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b37b39e552ffaaae9b7a34e18814534b7e1b3412</link><description><![CDATA[  * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge pull request #1496 from herkyl/patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3ecf5e65f0b996ec0f72172a86ade4c1d2017ed5</link><description><![CDATA[  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day<br>
- ]]></description>
-</item>
-<item>
-	<title>Move Scaledrone from WebRTC to Messaging</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/39efc68dc909d7b83c55f69ab12d1b6f6575f4f9</link><description><![CDATA[  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day<br>
  ]]></description>
 </item>
 
