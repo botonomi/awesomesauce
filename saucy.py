@@ -1,4 +1,5 @@
 import feedparser
+import re
 import requests
 import string
 import sys
@@ -23,6 +24,7 @@ xml.write(link)
 xml.write("</link>\n")
 
 for entry in raw.entries:
+    if not re.search("^Merge pull rquest", entry.title):
         xml.write("<item>\n\t<title>")
         xml.write(entry.title)
         xml.write("</title>\n\t<link>")
@@ -32,16 +34,16 @@ for entry in raw.entries:
         patch = requests.get(entry.link + '.patch')
 
         for line in patch.text.split("\n"):
-                try:
-                        lead = list(line)[0]
+            try:
+                lead = list(line)[0]
 
-                        if list(line)[0] == "+" and list(line)[1] != "+":
-                                line = line[1:]
-                                xml.write(line)
-                                xml.write("<br>\n")
+                if list(line)[0] == "+" and list(line)[1] != "+":
+                    line = line[1:]
+                    xml.write(line)
+                    xml.write("<br>\n")
 
-                except Exception:
-                        continue
+            except Exception:
+                continue
 
         xml.write(' ]]></description>')
         xml.write("\n</item>\n")
@@ -55,7 +57,7 @@ github = github3.login(token=os.environ['TOKEN'])
 repository = github.repository(owner, 'awesomesauce')
 
 with open('feed.xml', 'rb') as fd:
-        contents = fd.read()
+    contents = fd.read()
 
 contents_object = repository.file_contents('feed.xml')
 
