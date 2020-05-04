@@ -24,7 +24,7 @@ xml.write(link)
 xml.write("</link>\n")
 
 for entry in raw.entries:
-    if not re.search("^Merge pull rquest", entry.title):
+    if not re.search('Merge\Wpull\Wrequest', entry.title):
         xml.write("<item>\n\t<title>")
         xml.write(entry.title)
         xml.write("</title>\n\t<link>")
