@@ -39,7 +39,13 @@ for entry in raw.entries:
 
                 if list(line)[0] == "+" and list(line)[1] != "+":
                     line = line[1:]
-                    xml.write(line)
+                    
+                    w = re.search("\[(.*)\]\((.*)\)", line)
+                    link = '<a href="' + w.group(2) + '">' + w.group(1) + '</a>'
+                    desc = ' '.join(lines.split()[3:])
+
+                    xml.write(link)
+                    xml.write(desc)
                     xml.write("<br>\n")
 
             except Exception:
