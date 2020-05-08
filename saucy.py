@@ -31,7 +31,7 @@ for entry in raw.entries:
         xml.write(entry.link)
         xml.write('</link><description><![CDATA[')
 
-        patch = requests.get(entry.link + '.patch')
+        patch = requests.get(entry.link + '.patch', verify=False)
 
         for line in patch.text.split("\n"):
             try:
@@ -39,13 +39,19 @@ for entry in raw.entries:
 
                 if list(line)[0] == "+" and list(line)[1] != "+":
                     line = line[1:]
-                    
-                    w = re.search("\[(.*)\]\((.*)\)", line)
-                    link = '<a href="' + w.group(2) + '">' + w.group(1) + '</a>'
-                    desc = ' '.join(lines.split()[3:])
 
-                    xml.write(link)
-                    xml.write(desc)
+                    w = re.search("\[(.*)\]\((.*)\)", line)
+                    name = w.group(1)
+                    url = w.group(2)
+
+                    desclink = '<a href="' + name + '">' + url + '</a>'
+                    desctext = ' '.join(line.split()[3:])
+                    #print(desc)
+
+                    #xml.write(line)
+                    xml.write(desclink)
+                    xml.write(" - ")
+                    xml.write(desctext)
                     xml.write("<br>\n")
 
             except Exception:
@@ -57,15 +63,3 @@ for entry in raw.entries:
 xml.write("\n</channel>\n</rss>\n")
 
 xml.close()
-
-# Connect to GitHub API and push the changes.
-github = github3.login(token=os.environ['TOKEN'])
-repository = github.repository(owner, 'awesomesauce')
-
-with open('feed.xml', 'rb') as fd:
-    contents = fd.read()
-
-contents_object = repository.file_contents('feed.xml')
-
-push_status = contents_object.update('automatic', contents)
-print(push_status)
