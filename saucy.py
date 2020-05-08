@@ -62,14 +62,14 @@ xml.write("\n</channel>\n</rss>\n")
 
 xml.close()
 
-# Connect to GitHub API and push the changes.	
-github = github3.login(token=os.environ['TOKEN'])	
-repository = github.repository(owner, 'awesomesauce')	
+# Connect to GitHub API and push the changes.
+github = github3.login(token=os.environ['TOKEN'])
+repository = github.repository(owner, 'awesomesauce')
 
-with open('feed.xml', 'rb') as fd:	
-    contents = fd.read()	
+with open('feed.xml', 'rb') as fd:
+    contents = fd.read()
 
-contents_object = repository.file_contents('feed.xml')	
+contents_object = repository.file_contents('feed.xml')
 
-push_status = contents_object.update('automatic', contents)	
+push_status = contents_object.update('automatic', contents)
 print(push_status)
