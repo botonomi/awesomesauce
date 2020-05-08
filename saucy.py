@@ -31,7 +31,7 @@ for entry in raw.entries:
         xml.write(entry.link)
         xml.write('</link><description><![CDATA[')
 
-        patch = requests.get(entry.link + '.patch', verify=False)
+        patch = requests.get(entry.link + '.patch')
 
         for line in patch.text.split("\n"):
             try:
