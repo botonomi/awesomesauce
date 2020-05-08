@@ -4,75 +4,73 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
-	<title>Add localhost.run</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/501fc93f415142be4d67af6ff21ede86c6e14c65</link><description><![CDATA[   * [localhost.run](https://localhost.run/) — Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
+        <title>Add localhost.run</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/501fc93f415142be4d67af6ff21ede86c6e14c65</link><description><![CDATA[<a href="localhost.run">https://localhost.run/</a> - Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
  ]]></description>
 </item>
 <item>
-	<title>fix: remove orphan line</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7fd3e8e1fbdb8c6fe97e51b0c24e8f47ff050e0c</link><description><![CDATA[ ]]></description>
+        <title>fix: remove orphan line</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/7fd3e8e1fbdb8c6fe97e51b0c24e8f47ff050e0c</link><description><![CDATA[ ]]></description>
 </item>
 <item>
-	<title>fix: move esignature to existing for mcategory</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a435d209527538542af4f56f58367bafe11cf66b</link><description><![CDATA[  * [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.<br>
-  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
+        <title>fix: move esignature to existing for mcategory</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/a435d209527538542af4f56f58367bafe11cf66b</link><description><![CDATA[<a href="WaiverStevie.com">https://waiverstevie.com</a> - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.<br>
+<a href="github.com — FOSS for Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
  ]]></description>
 </item>
 <item>
-	<title>Add free eSignature provider</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[   * [Esignature](#esignature)<br>
-## eSignature<br>
-  * [WaiverStevie.com](https://waiverstevie.com) - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
+        <title>Add free eSignature provider</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[<a href="Esignature">#esignature</a> - <br>
+<a href="WaiverStevie.com">https://waiverstevie.com</a> - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
  ]]></description>
 </item>
 <item>
-	<title>Remove non-free and self hosted services from commenting platforms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/41e7c6a00803a50c7c4b312596e2831f66cbc6d9</link><description><![CDATA[ ]]></description>
+        <title>Remove non-free and self hosted services from commenting platforms</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/41e7c6a00803a50c7c4b312596e2831f66cbc6d9</link><description><![CDATA[ ]]></description>
 </item>
 <item>
-	<title>add commenting platforms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[   * [Commenting Platforms](#commenting-platforms)<br>
-## Commenting Platforms<br>
-  * [ReplyBox](https://getreplybox.com) - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
-  * [Staticman](https://staticman.net/) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
-  * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience. <br>
-  * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!<br>
-  * [Talkyard](https://www.talkyard.io/blog-comments) - Talkyard is a commenting system for your website. Open source, install for free<br>
-  * [Isso](https://posativ.org/isso) - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.<br>
-  * [Commento](https://commento.io/) - A fast, privacy-focused commenting platform<br>
-  * [Remark42](https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.<br>
-  * [schnack](https://schnack.cool/) - An easy to use, self-hosted and open source commenting system<br>
-  * [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.<br>
+        <title>add commenting platforms</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[<a href="Commenting Platforms">#commenting-platforms</a> - <br>
+<a href="ReplyBox">https://getreplybox.com</a> - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
+<a href="Staticman">https://staticman.net/</a> - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
+<a href="GraphComment">https://graphcomment.com/</a> - GraphComment is a comments platform that helps you build an active community from website’s audience.<br>
+<a href="Utterances">https://utteranc.es/</a> - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!<br>
+<a href="Talkyard">https://www.talkyard.io/blog-comments</a> - Talkyard is a commenting system for your website. Open source, install for free<br>
+<a href="Isso">https://posativ.org/isso</a> - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.<br>
+<a href="Commento">https://commento.io/</a> - A fast, privacy-focused commenting platform<br>
+<a href="Remark42">https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional</a> - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.<br>
+<a href="schnack">https://schnack.cool/</a> - An easy to use, self-hosted and open source commenting system<br>
+<a href="Disqus">https://disqus.com/</a> - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.<br>
  ]]></description>
 </item>
 <item>
-	<title>Added Localizely</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6f0dcbd179179372bcd54f78257e5c39c8cfb78f</link><description><![CDATA[  * [localizely.com](https://localizely.com/) — Free for Open Source<br>
+        <title>Added Localizely</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/6f0dcbd179179372bcd54f78257e5c39c8cfb78f</link><description><![CDATA[<a href="localizely.com">https://localizely.com/</a> - Free for Open Source<br>
  ]]></description>
 </item>
 <item>
-	<title>Include Jumpcloud (Azure AD replacement)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/700caac0953b7d9a7edf12619dceafa89827a796</link><description><![CDATA[  * [Jumpcloud](https://jumpcloud.com/) — Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
+        <title>Include Jumpcloud (Azure AD replacement)</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/700caac0953b7d9a7edf12619dceafa89827a796</link><description><![CDATA[<a href="Jumpcloud">https://jumpcloud.com/</a> - Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
  ]]></description>
 </item>
 <item>
-	<title>Added forwardemail.net</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0446584720e9fa4c4a9f5636fa75ee461b44765e</link><description><![CDATA[  * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.<br>
+        <title>Added forwardemail.net</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/0446584720e9fa4c4a9f5636fa75ee461b44765e</link><description><![CDATA[<a href="forwardemail.net">https://forwardemail.net</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.<br>
  ]]></description>
 </item>
 <item>
-	<title>Updated readme file to include free tier for Zepel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7a502f620ba14000545170d632eafaa9c05f220</link><description><![CDATA[   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.<br>
+        <title>Updated readme file to include free tier for Zepel</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/e7a502f620ba14000545170d632eafaa9c05f220</link><description><![CDATA[<a href="zepel.io">https://zepel.io/</a> - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.<br>
  ]]></description>
 </item>
 <item>
-	<title>Updated readme file to include a tool called Zepel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/126709b0967f43dcf728cb2deedd003d369ab8b8</link><description><![CDATA[   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together.<br>
+        <title>Updated readme file to include a tool called Zepel</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/126709b0967f43dcf728cb2deedd003d369ab8b8</link><description><![CDATA[<a href="zepel.io">https://zepel.io/</a> - The project management tool that lets you plan features, collaborate across disciplines, and build software together.<br>
  ]]></description>
 </item>
 <item>
-	<title>Add CloudKarafka</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b37b39e552ffaaae9b7a34e18814534b7e1b3412</link><description><![CDATA[  * [cloudkarafka.com](https://www.cloudkarafka.com/) - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
+        <title>Add CloudKarafka</title>
+        <link>https://github.com/ripienaar/free-for-dev/commit/b37b39e552ffaaae9b7a34e18814534b7e1b3412</link><description><![CDATA[<a href="cloudkarafka.com">https://www.cloudkarafka.com/</a> - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
  ]]></description>
 </item>
 
