@@ -2,7 +2,7 @@ name: New Free Tiers
   
 on:
   schedule:
-    -   cron:  '50 0,8,13,16 * * *'
+    -   cron:  '50 0,8,16 * * *'
 
 jobs:
   build:
