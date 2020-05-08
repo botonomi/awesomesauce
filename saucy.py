@@ -46,9 +46,7 @@ for entry in raw.entries:
 
                     desclink = '<a href="' + name + '">' + url + '</a>'
                     desctext = ' '.join(line.split()[3:])
-                    #print(desc)
 
-                    #xml.write(line)
                     xml.write(desclink)
                     xml.write(" - ")
                     xml.write(desctext)
