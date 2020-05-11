@@ -4,6 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add currencyApi.net</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/65482256cb94eb64b96c190b6359d74ae9983cf5</link><description><![CDATA[<a href="currencyapi.net">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
+<a href="github.com — FOSS for Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add memcachier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b5109f1a6f0d80eaaabf605669f38bb16b96d3a</link><description><![CDATA[<a href="MemCachier">https://www.memcachier.com/</a> - Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics<br>
+<a href="github.com — FOSS for Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add localhost.run</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/501fc93f415142be4d67af6ff21ede86c6e14c65</link><description><![CDATA[<a href="localhost.run">https://localhost.run/</a> - Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
  ]]></description>
@@ -56,21 +68,6 @@
 <item>
 	<title>Added forwardemail.net</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0446584720e9fa4c4a9f5636fa75ee461b44765e</link><description><![CDATA[<a href="forwardemail.net">https://forwardemail.net</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated readme file to include free tier for Zepel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7a502f620ba14000545170d632eafaa9c05f220</link><description><![CDATA[<a href="zepel.io">https://zepel.io/</a> - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated readme file to include a tool called Zepel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/126709b0967f43dcf728cb2deedd003d369ab8b8</link><description><![CDATA[<a href="zepel.io">https://zepel.io/</a> - The project management tool that lets you plan features, collaborate across disciplines, and build software together.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CloudKarafka</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b37b39e552ffaaae9b7a34e18814534b7e1b3412</link><description><![CDATA[<a href="cloudkarafka.com">https://www.cloudkarafka.com/</a> - Free Shared Kafka cluser, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
  ]]></description>
 </item>
 
