@@ -4,50 +4,50 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
-        <title>add newreleases.io</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/503d369d76695efd1e137bba90f095e7af57d7d2</link><description><![CDATA[<a href="https://newreleases.io/">https://newreleases.io/</a> - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.<br>
+	<title>add newreleases.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/503d369d76695efd1e137bba90f095e7af57d7d2</link><description><![CDATA[<a href="https://newreleases.io/">https://newreleases.io/</a> - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.<br>
  ]]></description>
 </item>
 <item>
-        <title>Add currencyApi.net</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/65482256cb94eb64b96c190b6359d74ae9983cf5</link><description><![CDATA[<a href="https://currencyapi.net/">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
+	<title>Add currencyApi.net</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/65482256cb94eb64b96c190b6359d74ae9983cf5</link><description><![CDATA[<a href="https://currencyapi.net/">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
 <a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
  ]]></description>
 </item>
 <item>
-        <title>Add memcachier</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/5b5109f1a6f0d80eaaabf605669f38bb16b96d3a</link><description><![CDATA[<a href="https://www.memcachier.com/">https://www.memcachier.com/</a> - Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics<br>
+	<title>Add memcachier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b5109f1a6f0d80eaaabf605669f38bb16b96d3a</link><description><![CDATA[<a href="https://www.memcachier.com/">https://www.memcachier.com/</a> - Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics<br>
 <a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
  ]]></description>
 </item>
 <item>
-        <title>Add localhost.run</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/501fc93f415142be4d67af6ff21ede86c6e14c65</link><description><![CDATA[<a href="https://localhost.run/">https://localhost.run/</a> - Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
+	<title>Add localhost.run</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/501fc93f415142be4d67af6ff21ede86c6e14c65</link><description><![CDATA[<a href="https://localhost.run/">https://localhost.run/</a> - Instantly share your localhost environment! No download required. Run your app on port 8080 and then run this command and share the URL.<br>
  ]]></description>
 </item>
 <item>
-        <title>fix: remove orphan line</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/7fd3e8e1fbdb8c6fe97e51b0c24e8f47ff050e0c</link><description><![CDATA[ ]]></description>
+	<title>fix: remove orphan line</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7fd3e8e1fbdb8c6fe97e51b0c24e8f47ff050e0c</link><description><![CDATA[ ]]></description>
 </item>
 <item>
-        <title>fix: move esignature to existing for mcategory</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/a435d209527538542af4f56f58367bafe11cf66b</link><description><![CDATA[<a href="https://waiverstevie.com">https://waiverstevie.com</a> - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.<br>
+	<title>fix: move esignature to existing for mcategory</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a435d209527538542af4f56f58367bafe11cf66b</link><description><![CDATA[<a href="https://waiverstevie.com">https://waiverstevie.com</a> - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, but allows unlimited envelopes + signatures.<br>
 <a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
  ]]></description>
 </item>
 <item>
-        <title>Add free eSignature provider</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[<a href="#esignature">#esignature</a> - <br>
+	<title>Add free eSignature provider</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[<a href="#esignature">#esignature</a> - <br>
 <a href="https://waiverstevie.com">https://waiverstevie.com</a> - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
  ]]></description>
 </item>
 <item>
-        <title>Remove non-free and self hosted services from commenting platforms</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/41e7c6a00803a50c7c4b312596e2831f66cbc6d9</link><description><![CDATA[ ]]></description>
+	<title>Remove non-free and self hosted services from commenting platforms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/41e7c6a00803a50c7c4b312596e2831f66cbc6d9</link><description><![CDATA[ ]]></description>
 </item>
 <item>
-        <title>add commenting platforms</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[<a href="#commenting-platforms">#commenting-platforms</a> - <br>
+	<title>add commenting platforms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[<a href="#commenting-platforms">#commenting-platforms</a> - <br>
 <a href="https://getreplybox.com">https://getreplybox.com</a> - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
 <a href="https://staticman.net/">https://staticman.net/</a> - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
 <a href="https://graphcomment.com/">https://graphcomment.com/</a> - GraphComment is a comments platform that helps you build an active community from website’s audience.<br>
@@ -61,13 +61,13 @@
  ]]></description>
 </item>
 <item>
-        <title>Added Localizely</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/6f0dcbd179179372bcd54f78257e5c39c8cfb78f</link><description><![CDATA[<a href="https://localizely.com/">https://localizely.com/</a> - Free for Open Source<br>
+	<title>Added Localizely</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f0dcbd179179372bcd54f78257e5c39c8cfb78f</link><description><![CDATA[<a href="https://localizely.com/">https://localizely.com/</a> - Free for Open Source<br>
  ]]></description>
 </item>
 <item>
-        <title>Include Jumpcloud (Azure AD replacement)</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/700caac0953b7d9a7edf12619dceafa89827a796</link><description><![CDATA[<a href="https://jumpcloud.com/">https://jumpcloud.com/</a> - Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
+	<title>Include Jumpcloud (Azure AD replacement)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/700caac0953b7d9a7edf12619dceafa89827a796</link><description><![CDATA[<a href="https://jumpcloud.com/">https://jumpcloud.com/</a> - Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
  ]]></description>
 </item>
 
