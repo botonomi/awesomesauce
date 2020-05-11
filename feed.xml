@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add newreleases.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/503d369d76695efd1e137bba90f095e7af57d7d2</link><description><![CDATA[<a href="newreleases.io">https://newreleases.io/</a> - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add currencyApi.net</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/65482256cb94eb64b96c190b6359d74ae9983cf5</link><description><![CDATA[<a href="currencyapi.net">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
 <a href="github.com — FOSS for Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
@@ -63,11 +68,6 @@
 <item>
 	<title>Include Jumpcloud (Azure AD replacement)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/700caac0953b7d9a7edf12619dceafa89827a796</link><description><![CDATA[<a href="Jumpcloud">https://jumpcloud.com/</a> - Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added forwardemail.net</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0446584720e9fa4c4a9f5636fa75ee461b44765e</link><description><![CDATA[<a href="forwardemail.net">https://forwardemail.net</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.<br>
  ]]></description>
 </item>
 
