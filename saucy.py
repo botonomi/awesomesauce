@@ -31,7 +31,7 @@ for entry in raw.entries:
         xml.write(entry.link)
         xml.write('</link><description><![CDATA[')
 
-        patch = requests.get(entry.link + '.patch')
+        patch = requests.get(entry.link + '.patch', verify=False)
 
         for line in patch.text.split("\n"):
             try:
@@ -43,11 +43,11 @@ for entry in raw.entries:
                     w = re.search("\[(.*)\]\((.*)\)", line)
                     name = w.group(1)
                     url = w.group(2)
-                    
-                    if 'http' not in url:
-                        url = 'https://' + url
-                    
-                    desclink = '<a href="' + name + '">' + url + '</a>'
+
+                    #if 'http' not in url:
+                    #    url = 'https://' + url
+
+                    desclink = '<a href="' + url + '">' + url + '</a>'
                     desctext = ' '.join(line.split()[3:])
 
                     xml.write(desclink)
