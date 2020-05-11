@@ -43,7 +43,10 @@ for entry in raw.entries:
                     w = re.search("\[(.*)\]\((.*)\)", line)
                     name = w.group(1)
                     url = w.group(2)
-
+                    
+                    if 'http' not in url:
+                        url = 'https://' + url
+                    
                     desclink = '<a href="' + name + '">' + url + '</a>'
                     desctext = ' '.join(line.split()[3:])
 
