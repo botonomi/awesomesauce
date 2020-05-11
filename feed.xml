@@ -37,7 +37,7 @@
 </item>
 <item>
         <title>Add free eSignature provider</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[<a href="https://#esignature">https://#esignature</a> - <br>
+        <link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[<a href="#esignature">#esignature</a> - <br>
 <a href="https://waiverstevie.com">https://waiverstevie.com</a> - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
  ]]></description>
 </item>
@@ -47,7 +47,7 @@
 </item>
 <item>
         <title>add commenting platforms</title>
-        <link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[<a href="https://#commenting-platforms">https://#commenting-platforms</a> - <br>
+        <link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[<a href="#commenting-platforms">#commenting-platforms</a> - <br>
 <a href="https://getreplybox.com">https://getreplybox.com</a> - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
 <a href="https://staticman.net/">https://staticman.net/</a> - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
 <a href="https://graphcomment.com/">https://graphcomment.com/</a> - GraphComment is a comments platform that helps you build an active community from website’s audience.<br>
