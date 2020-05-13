@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add DeepCode</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/525f896558843f7320522e96a7c43e9e5c592dbc</link><description><![CDATA[<a href="https://www.deepcode.ai">https://www.deepcode.ai</a> - DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and Gitlab. Free for open source and private repos, free up to 30 developers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Clarify cluster hours</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/41387cc0cecd97a90e1abb0a57bc7632f7e1f372</link><description><![CDATA[<a href="https://usekrucible.com">https://usekrucible.com</a> - Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.<br>
  ]]></description>
@@ -54,25 +59,6 @@
 	<title>Add free eSignature provider</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3fe8cb5545ebfe9098279bacd05b891c8037ee6e</link><description><![CDATA[<a href="#esignature">#esignature</a> - <br>
 <a href="https://waiverstevie.com">https://waiverstevie.com</a> - Request electronic signatures via REST API. Receive notifications with webhooks. Free plan watermarks signed documents.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove non-free and self hosted services from commenting platforms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/41e7c6a00803a50c7c4b312596e2831f66cbc6d9</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add commenting platforms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/53e4d852e4903f809c71a4fa14893e016259c88f</link><description><![CDATA[<a href="#commenting-platforms">#commenting-platforms</a> - <br>
-<a href="https://getreplybox.com">https://getreplybox.com</a> - ReplyBox, a simple, honest comment system. No ads, no dodgy affiliate links, no fluff.<br>
-<a href="https://staticman.net/">https://staticman.net/</a> - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub and/or GitLab repository, using Pull Requests.<br>
-<a href="https://graphcomment.com/">https://graphcomment.com/</a> - GraphComment is a comments platform that helps you build an active community from website’s audience.<br>
-<a href="https://utteranc.es/">https://utteranc.es/</a> - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!<br>
-<a href="https://www.talkyard.io/blog-comments">https://www.talkyard.io/blog-comments</a> - Talkyard is a commenting system for your website. Open source, install for free<br>
-<a href="https://posativ.org/isso">https://posativ.org/isso</a> - A lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.<br>
-<a href="https://commento.io/">https://commento.io/</a> - A fast, privacy-focused commenting platform<br>
-<a href="https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional">https://remark42.com/) - A self-hosted, lightweight, and simple (yet functional</a> - A self-hosted, lightweight, and simple (yet functional) commenting system, which doesn't spy on users.<br>
-<a href="https://schnack.cool/">https://schnack.cool/</a> - An easy to use, self-hosted and open source commenting system<br>
-<a href="https://disqus.com/">https://disqus.com/</a> - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.<br>
  ]]></description>
 </item>
 
