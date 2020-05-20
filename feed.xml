@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add "Google Fonts" in the "Font" section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7903b60fa2ac74292cb064bd88dd49d3e0ac28f2</link><description><![CDATA[<a href="https://fonts.google.com/">https://fonts.google.com/</a> - - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add videoinu</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7d5e1d6c3b9aa54339f3f2c7f861fee6cf3bbc83</link><description><![CDATA[<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Google Meet</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3c251c30404e33e8f07e5c5d5d0ce593a98ed542</link><description><![CDATA[<a href="https://meet.google.com/">https://meet.google.com/</a> - — Use Google Meet for your business's online video meeting needs. Meet provides secure, easy-to-join online meetings.<br>
  ]]></description>
@@ -40,18 +50,6 @@
 <item>
 	<title>add newreleases.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/503d369d76695efd1e137bba90f095e7af57d7d2</link><description><![CDATA[<a href="https://newreleases.io/">https://newreleases.io/</a> - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add currencyApi.net</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65482256cb94eb64b96c190b6359d74ae9983cf5</link><description><![CDATA[<a href="https://currencyapi.net/">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
-<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
- ]]></description>
-</item>
-<item>
-	<title>Add memcachier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5b5109f1a6f0d80eaaabf605669f38bb16b96d3a</link><description><![CDATA[<a href="https://www.memcachier.com/">https://www.memcachier.com/</a> - Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics<br>
-<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
  ]]></description>
 </item>
 
