@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Update README.md"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7e4bb167af5b671cf807d773c5c549de38cdfb00</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/50a4652cfbe09e2789339009a4718c7202ae7f8c</link><description><![CDATA[<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Firebase Authentication to Security and PKI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6365394230358414f4250ae91dd7280ffd48546b</link><description><![CDATA[<a href="https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month">https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month</a> - — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month), and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add "Google Fonts" in the "Font" section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7903b60fa2ac74292cb064bd88dd49d3e0ac28f2</link><description><![CDATA[<a href="https://fonts.google.com/">https://fonts.google.com/</a> - - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.<br>
  ]]></description>
@@ -35,21 +49,6 @@
 <item>
 	<title>Clarify cluster hours</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/41387cc0cecd97a90e1abb0a57bc7632f7e1f372</link><description><![CDATA[<a href="https://usekrucible.com">https://usekrucible.com</a> - Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Bubble URL</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/37513e10dc85a4faaf6faec9f744ef51ba120d94</link><description><![CDATA[<a href="https://bubble.io/">https://bubble.io/</a> - Visual programming to build web and mobile apps without code, free with Bubble branding.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Krucible</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a33e4c6f0a0a0407663633ff5a2396c2ba350981</link><description><![CDATA[<a href="https://usekrucible.com">https://usekrucible.com</a> - Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 clusters each month.<br>
- ]]></description>
-</item>
-<item>
-	<title>add newreleases.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/503d369d76695efd1e137bba90f095e7af57d7d2</link><description><![CDATA[<a href="https://newreleases.io/">https://newreleases.io/</a> - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.<br>
  ]]></description>
 </item>
 
