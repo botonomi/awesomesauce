@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge branch 'master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0ad0d7e408ab54c69d323ec83b18bc524784ae1f</link><description><![CDATA[<a href="https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month">https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month</a> - — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month), and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e23f9e5ab46d8f2367e7fa24e142436548b53996</link><description><![CDATA[<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fddc54366b5b496af43ea4a16f83b773ad273865</link><description><![CDATA[<a href="https://www.scraperapi.com/">https://www.scraperapi.com/</a> - — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.<br>
+<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Revert "Update README.md"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7e4bb167af5b671cf807d773c5c549de38cdfb00</link><description><![CDATA[ ]]></description>
 </item>
@@ -39,16 +55,6 @@
 <item>
 	<title>Add reflect.run</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a91cb4a1dbb8641c7d1cae07a2ed446bd0b42793</link><description><![CDATA[<a href="https://reflect.run">https://reflect.run</a> - Codeless automated tests for web apps. Tests can be scheduled in-app or executed from a CI/CD tool. Each test run includes a full video recording along with console and network logs. The free tier includes an unlimited number of saved tests, with 25 test runs per month and up to 3 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DeepCode</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/525f896558843f7320522e96a7c43e9e5c592dbc</link><description><![CDATA[<a href="https://www.deepcode.ai">https://www.deepcode.ai</a> - DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and Gitlab. Free for open source and private repos, free up to 30 developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Clarify cluster hours</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/41387cc0cecd97a90e1abb0a57bc7632f7e1f372</link><description><![CDATA[<a href="https://usekrucible.com">https://usekrucible.com</a> - Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.<br>
  ]]></description>
 </item>
 
