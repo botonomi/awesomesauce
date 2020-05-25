@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2a8933c4b8e1f9edf03a3177d4fba3a10021620b</link><description><![CDATA[<a href="https://fosshost.org/">https://fosshost.org/</a> - Free open source hosting VPS, web, storage and mirror hosting<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0ad0d7e408ab54c69d323ec83b18bc524784ae1f</link><description><![CDATA[<a href="https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month">https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month</a> - — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month), and more.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Deleted Fiwit.io Entry</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/746c94f3fe837b8823832ff778622bc645dd4027</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add reflect.run</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a91cb4a1dbb8641c7d1cae07a2ed446bd0b42793</link><description><![CDATA[<a href="https://reflect.run">https://reflect.run</a> - Codeless automated tests for web apps. Tests can be scheduled in-app or executed from a CI/CD tool. Each test run includes a full video recording along with console and network logs. The free tier includes an unlimited number of saved tests, with 25 test runs per month and up to 3 users.<br>
- ]]></description>
 </item>
 
 </channel>
