@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>note on hosting</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/591faa0493adcc7a201707a0825c7e0c3436db45</link><description><![CDATA[<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
+ ]]></description>
+</item>
+<item>
+	<title>added https://forestry.io/</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/20a23189fcd76dd9ccc38a707ce5ab589d09af94</link><description><![CDATA[<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git.Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2a8933c4b8e1f9edf03a3177d4fba3a10021620b</link><description><![CDATA[<a href="https://fosshost.org/">https://fosshost.org/</a> - Free open source hosting VPS, web, storage and mirror hosting<br>
  ]]></description>
@@ -47,15 +57,6 @@
 	<title>Add videoinu</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d5e1d6c3b9aa54339f3f2c7f861fee6cf3bbc83</link><description><![CDATA[<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online<br>
  ]]></description>
-</item>
-<item>
-	<title>Added Google Meet</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3c251c30404e33e8f07e5c5d5d0ce593a98ed542</link><description><![CDATA[<a href="https://meet.google.com/">https://meet.google.com/</a> - — Use Google Meet for your business's online video meeting needs. Meet provides secure, easy-to-join online meetings.<br>
- ]]></description>
-</item>
-<item>
-	<title>Deleted Fiwit.io Entry</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/746c94f3fe837b8823832ff778622bc645dd4027</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
