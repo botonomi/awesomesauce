@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>New Search Service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/02a1791e9d125f6a37e0985df79ab15f5b1efadd</link><description><![CDATA[<a href="https://pagedart.com/">https://pagedart.com/</a> - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>note on hosting</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/591faa0493adcc7a201707a0825c7e0c3436db45</link><description><![CDATA[<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Add "Google Fonts" in the "Font" section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7903b60fa2ac74292cb064bd88dd49d3e0ac28f2</link><description><![CDATA[<a href="https://fonts.google.com/">https://fonts.google.com/</a> - - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add videoinu</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d5e1d6c3b9aa54339f3f2c7f861fee6cf3bbc83</link><description><![CDATA[<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online<br>
  ]]></description>
 </item>
 
