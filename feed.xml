@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Anvil</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b12a1448d00714211553019ef7906e1c29eb1bb6</link><description><![CDATA[<a href="https://anvil.works">https://anvil.works</a> - Web app development with nothing but Python. Free tier with unlimited apps.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Alwaysdata</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/165186674da50182f8642b20a65643134b71cb07</link><description><![CDATA[<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/50a4652cfbe09e2789339009a4718c7202ae7f8c</link><description><![CDATA[<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Firebase Authentication to Security and PKI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6365394230358414f4250ae91dd7280ffd48546b</link><description><![CDATA[<a href="https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month">https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month</a> - — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month), and more.<br>
  ]]></description>
 </item>
 
