@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/15b8c7e668642ddb8e169e5f0fc1cc97c7a2f2a6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>New DNS servers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d40dc1fdaaf4c7048219293fc9a1a5f75dc3c97b</link><description><![CDATA[<a href="https://www.alibabacloud.com/product/dns">https://www.alibabacloud.com/product/dns</a> - Free DNS hosting by Alibaba Cloud<br>
+<a href="https://docs.as207960.net/hexdns/">https://docs.as207960.net/hexdns/</a> - Free DNS hosting<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Anvil</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b12a1448d00714211553019ef7906e1c29eb1bb6</link><description><![CDATA[<a href="https://anvil.works">https://anvil.works</a> - Web app development with nothing but Python. Free tier with unlimited apps.<br>
  ]]></description>
@@ -47,15 +57,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fddc54366b5b496af43ea4a16f83b773ad273865</link><description><![CDATA[<a href="https://www.scraperapi.com/">https://www.scraperapi.com/</a> - — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.<br>
 <a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "Update README.md"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7e4bb167af5b671cf807d773c5c549de38cdfb00</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/50a4652cfbe09e2789339009a4718c7202ae7f8c</link><description><![CDATA[<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
  ]]></description>
 </item>
 
