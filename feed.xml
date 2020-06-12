@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixed typos in readme</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/826e44480d416f2b00bb7a88b01e8dc2bb89dd4b</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work are done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
+ ]]></description>
+</item>
+<item>
 	<title>repsy.io added</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5879abb66513a45a9fe9bec4eb06d43757fd175f</link><description><![CDATA[<a href="https://repsy.io">https://repsy.io</a> - 1 GB Free private/public Maven Repository.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>added https://forestry.io/</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/20a23189fcd76dd9ccc38a707ce5ab589d09af94</link><description><![CDATA[<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git.Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2a8933c4b8e1f9edf03a3177d4fba3a10021620b</link><description><![CDATA[<a href="https://fosshost.org/">https://fosshost.org/</a> - Free open source hosting VPS, web, storage and mirror hosting<br>
  ]]></description>
 </item>
 
