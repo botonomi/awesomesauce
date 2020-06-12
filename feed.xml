@@ -9,6 +9,16 @@
  ]]></description>
 </item>
 <item>
+	<title>fix url codesnip</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9220a6c5e4209f887d914ddb00b806a0ad71e428</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add https://codesnip.com.br</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/797dcaeeb56667fc28ac448237a3452a33adac47</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit!<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15b8c7e668642ddb8e169e5f0fc1cc97c7a2f2a6</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,22 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2a8933c4b8e1f9edf03a3177d4fba3a10021620b</link><description><![CDATA[<a href="https://fosshost.org/">https://fosshost.org/</a> - Free open source hosting VPS, web, storage and mirror hosting<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ad0d7e408ab54c69d323ec83b18bc524784ae1f</link><description><![CDATA[<a href="https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month">https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month</a> - — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month), and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e23f9e5ab46d8f2367e7fa24e142436548b53996</link><description><![CDATA[<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fddc54366b5b496af43ea4a16f83b773ad273865</link><description><![CDATA[<a href="https://www.scraperapi.com/">https://www.scraperapi.com/</a> - — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.<br>
-<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
  ]]></description>
 </item>
 
