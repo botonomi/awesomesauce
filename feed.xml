@@ -4,6 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge branch 'master' into patch-3</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f4e65079e622a5249101f54839ce7c42603de020</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
+<a href="https://datapane.com">https://datapane.com</a> - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add datapane to Readme</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec8c3c08a1dec93c2f1826a35a6009f1d902e8d1</link><description><![CDATA[<a href="https://datapane.com">https://datapane.com</a> - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d73d9d56cd71889c8a5dc9f8c6223dff88e41113</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work are done by 500+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9b25b60884ad4d62fbee59786e61ea92b3ebf595</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a85f897d6327cfa1b92acc78c8a6d029adef4f1e</link><description><![CDATA[<a href="https://www.memcachier.com/">https://www.memcachier.com/</a> - Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics<br>
 <a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
@@ -60,32 +81,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15b8c7e668642ddb8e169e5f0fc1cc97c7a2f2a6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>New DNS servers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d40dc1fdaaf4c7048219293fc9a1a5f75dc3c97b</link><description><![CDATA[<a href="https://www.alibabacloud.com/product/dns">https://www.alibabacloud.com/product/dns</a> - Free DNS hosting by Alibaba Cloud<br>
-<a href="https://docs.as207960.net/hexdns/">https://docs.as207960.net/hexdns/</a> - Free DNS hosting<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Anvil</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b12a1448d00714211553019ef7906e1c29eb1bb6</link><description><![CDATA[<a href="https://anvil.works">https://anvil.works</a> - Web app development with nothing but Python. Free tier with unlimited apps.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Alwaysdata</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/165186674da50182f8642b20a65643134b71cb07</link><description><![CDATA[<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
- ]]></description>
-</item>
-<item>
-	<title>New Search Service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/02a1791e9d125f6a37e0985df79ab15f5b1efadd</link><description><![CDATA[<a href="https://pagedart.com/">https://pagedart.com/</a> - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>note on hosting</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/591faa0493adcc7a201707a0825c7e0c3436db45</link><description><![CDATA[<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
- ]]></description>
 </item>
 
 </channel>
