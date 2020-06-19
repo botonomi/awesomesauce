@@ -2,3 +2,4 @@ R.I. Pienaar maintains a [list of awesome resources](https://github.com/ripienaa
 This maintains a [what's-new RSS feed](https://botonomi.github.io/awesomesauce/feed.xml)  
 
 Trying a page-build from branch "RSS": Fails  
+Trying a page-build from branch "gh-pages"  
