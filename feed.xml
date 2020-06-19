@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update txti.es to https link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/664c7a406ef6b65839bf9c00eb301c7fbf38cbcf</link><description><![CDATA[<a href="https://txti.es/">https://txti.es/</a> - Quickly create web pages with markdown.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Terrastruct</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5667e703e256643ee87b3e2226ac50192e92cb3e</link><description><![CDATA[<a href="https://terrastruct.com/">https://terrastruct.com/</a> - Online diagram maker specifically for software architecture. Free tier up to 4 layers per diagram.<br>
  ]]></description>
@@ -71,16 +76,6 @@
 <item>
 	<title>repsy.io added</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5879abb66513a45a9fe9bec4eb06d43757fd175f</link><description><![CDATA[<a href="https://repsy.io">https://repsy.io</a> - 1 GB Free private/public Maven Repository.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix url codesnip</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9220a6c5e4209f887d914ddb00b806a0ad71e428</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit.<br>
- ]]></description>
-</item>
-<item>
-	<title>add https://codesnip.com.br</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/797dcaeeb56667fc28ac448237a3452a33adac47</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit!<br>
  ]]></description>
 </item>
 
