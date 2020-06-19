@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Terrastruct</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5667e703e256643ee87b3e2226ac50192e92cb3e</link><description><![CDATA[<a href="https://terrastruct.com/">https://terrastruct.com/</a> - Online diagram maker specifically for software architecture. Free tier up to 4 layers per diagram.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into patch-3</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f4e65079e622a5249101f54839ce7c42603de020</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
 <a href="https://datapane.com">https://datapane.com</a> - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.<br>
@@ -77,10 +82,6 @@
 	<title>add https://codesnip.com.br</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/797dcaeeb56667fc28ac448237a3452a33adac47</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit!<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/15b8c7e668642ddb8e169e5f0fc1cc97c7a2f2a6</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
