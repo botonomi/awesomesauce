@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Qase to testing section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/07e9f27fced0bc30c95aac3c62b500bdfab805ad</link><description><![CDATA[<a href="https://qase.io">https://qase.io</a> - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added pony.icu in the web hosting section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1684aa0635f30e971b2b88e53ca633b9198862e5</link><description><![CDATA[<a href="https://pony.icu/">https://pony.icu/</a> - Free Web Hosting with Unlimited Disk Space, Unlimited Bandwidth and Unlimited Websites from PonyICU. PHP and MySQL included.<br>
  ]]></description>
@@ -71,11 +76,6 @@
 <a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit.<br>
 <a href="https://repsy.io">https://repsy.io</a> - 1 GB Free private/public Maven Repository.<br>
 <a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work are done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixed typos in readme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/826e44480d416f2b00bb7a88b01e8dc2bb89dd4b</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work are done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
  ]]></description>
 </item>
 
