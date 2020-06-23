@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Mockaroo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/834da6637fa651664ef177d33733239256eb554b</link><description><![CDATA[<a href="https://mockaroo.com/">https://mockaroo.com/</a> - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added in free plan limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/108f7d6f8d3b82e52f145e0883fc7bf70e3f8f13</link><description><![CDATA[<a href="https://www.sofodata.com/">https://www.sofodata.com/</a> - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.<br>
  ]]></description>
@@ -42,16 +47,6 @@
 <item>
 	<title>Add datapane to Readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ec8c3c08a1dec93c2f1826a35a6009f1d902e8d1</link><description><![CDATA[<a href="https://datapane.com">https://datapane.com</a> - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d73d9d56cd71889c8a5dc9f8c6223dff88e41113</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work are done by 500+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9b25b60884ad4d62fbee59786e61ea92b3ebf595</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
  ]]></description>
 </item>
 
