@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added in free plan limits</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/108f7d6f8d3b82e52f145e0883fc7bf70e3f8f13</link><description><![CDATA[<a href="https://www.sofodata.com/">https://www.sofodata.com/</a> - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Sofodata</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a4be27c72760d60d87c7aa4abe1b2c833cb69f51</link><description><![CDATA[<a href="https://www.sofodata.com/">https://www.sofodata.com/</a> - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Qase to testing section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07e9f27fced0bc30c95aac3c62b500bdfab805ad</link><description><![CDATA[<a href="https://qase.io">https://qase.io</a> - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.<br>
  ]]></description>
@@ -42,40 +52,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9b25b60884ad4d62fbee59786e61ea92b3ebf595</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a85f897d6327cfa1b92acc78c8a6d029adef4f1e</link><description><![CDATA[<a href="https://www.memcachier.com/">https://www.memcachier.com/</a> - Managed Memcache service. Free for up to 25MB, 1 Proxy Server and basic analytics<br>
-<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
-<a href="https://currencyapi.net/">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
-<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
-<a href="https://newreleases.io/">https://newreleases.io/</a> - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.<br>
-<a href="https://usekrucible.com">https://usekrucible.com</a> - Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 clusters each month.<br>
-<a href="https://bubble.io/">https://bubble.io/</a> - Visual programming to build web and mobile apps without code, free with Bubble branding.<br>
-<a href="https://usekrucible.com">https://usekrucible.com</a> - Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.<br>
-<a href="https://www.deepcode.ai">https://www.deepcode.ai</a> - DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and Gitlab. Free for open source and private repos, free up to 30 developers.<br>
-<a href="https://reflect.run">https://reflect.run</a> - Codeless automated tests for web apps. Tests can be scheduled in-app or executed from a CI/CD tool. Each test run includes a full video recording along with console and network logs. The free tier includes an unlimited number of saved tests, with 25 test runs per month and up to 3 users.<br>
-<a href="https://meet.google.com/">https://meet.google.com/</a> - — Use Google Meet for your business's online video meeting needs. Meet provides secure, easy-to-join online meetings.<br>
-<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online<br>
-<a href="https://fonts.google.com/">https://fonts.google.com/</a> - - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.<br>
-<a href="https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month">https://firebase.google.com/products/auth/) — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month</a> - — Free end-to-end identity solution, email and password accounts, Google, Twitter, Facebook, GitHub login, phone auth (up to 10k/month), and more.<br>
-<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
-<a href="https://www.scraperapi.com/">https://www.scraperapi.com/</a> - — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.<br>
-<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demands.<br>
-<a href="https://scrapingdog.com/">https://scrapingdog.com/</a> - Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand.<br>
-<a href="https://fosshost.org/">https://fosshost.org/</a> - Free open source hosting VPS, web, storage and mirror hosting<br>
-<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git.Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews.<br>
-<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
-<a href="https://pagedart.com/">https://pagedart.com/</a> - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.<br>
-<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
-<a href="https://anvil.works">https://anvil.works</a> - Web app development with nothing but Python. Free tier with unlimited apps.<br>
-<a href="https://www.alibabacloud.com/product/dns">https://www.alibabacloud.com/product/dns</a> - Free DNS hosting by Alibaba Cloud<br>
-<a href="https://docs.as207960.net/hexdns/">https://docs.as207960.net/hexdns/</a> - Free DNS hosting<br>
-<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit!<br>
-<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimit.<br>
-<a href="https://repsy.io">https://repsy.io</a> - 1 GB Free private/public Maven Repository.<br>
-<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work are done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
  ]]></description>
 </item>
 
