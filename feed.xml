@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove extra space</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fa9dd44e186b3bf907e3b8e7655d78d0854f88ae</link><description><![CDATA[<a href="https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source">https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source</a> - Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Appcircle CI/CD tool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fff42c3e51481494d589013c03a0552e35cef799</link><description><![CDATA[<a href="https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source">https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source</a> - Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Mockaroo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/834da6637fa651664ef177d33733239256eb554b</link><description><![CDATA[<a href="https://mockaroo.com/">https://mockaroo.com/</a> - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.<br>
  ]]></description>
@@ -36,17 +46,6 @@
 <item>
 	<title>Add Terrastruct</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5667e703e256643ee87b3e2226ac50192e92cb3e</link><description><![CDATA[<a href="https://terrastruct.com/">https://terrastruct.com/</a> - Online diagram maker specifically for software architecture. Free tier up to 4 layers per diagram.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into patch-3</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f4e65079e622a5249101f54839ce7c42603de020</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
-<a href="https://datapane.com">https://datapane.com</a> - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add datapane to Readme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec8c3c08a1dec93c2f1826a35a6009f1d902e8d1</link><description><![CDATA[<a href="https://datapane.com">https://datapane.com</a> - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.<br>
  ]]></description>
 </item>
 
