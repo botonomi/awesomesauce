@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove jsonstore</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/79b70c9fcb67e8bef06b27506deff3f4a3b1d9ab</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Sheetson</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cbd80b381581256bec734dca98a7a708232ca310</link><description><![CDATA[<a href="https://sheetson.com">https://sheetson.com</a> - Instantly turn any Google Sheets into RESTful API. Free plan available.<br>
  ]]></description>
@@ -46,11 +50,6 @@
 <item>
 	<title>Update txti.es to https link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/664c7a406ef6b65839bf9c00eb301c7fbf38cbcf</link><description><![CDATA[<a href="https://txti.es/">https://txti.es/</a> - Quickly create web pages with markdown.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Terrastruct</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5667e703e256643ee87b3e2226ac50192e92cb3e</link><description><![CDATA[<a href="https://terrastruct.com/">https://terrastruct.com/</a> - Online diagram maker specifically for software architecture. Free tier up to 4 layers per diagram.<br>
  ]]></description>
 </item>
 
