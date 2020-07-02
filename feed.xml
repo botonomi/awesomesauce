@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added Mocklets</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fa2a86cbe2c14c966f7d34809ed004cdc1d66b81</link><description><![CDATA[<a href="https://mocklets.com">https://mocklets.com</a> - a HTTP-based mock API simulator, which helps simulate APIs for faster parallel development and more comprehensive testing, with lifetime free tier.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DPLYR</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a22715ff59e5e871c1b9e2b5fb12a2d95b9865a3</link><description><![CDATA[<a href="https://www.dplyr.dev">https://www.dplyr.dev</a> - Deploy Web Apps with Databases. Free for deploying on your machines. Maximum 2 deployments<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Code Time to Miscellaneous</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f18aa6d0e206a0101a8366949e40c2639b747106</link><description><![CDATA[<a href="https://www.software.com/code-time">https://www.software.com/code-time</a> - - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add FunRetro</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ee412d911324e4aafaa9dce454234e113ce835f3</link><description><![CDATA[<a href="https://www.funretro.io/">https://www.funretro.io/</a> - Free simple and intuitive sprint retrospective tool<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Mohmal</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9dfc47133638886bccaaf1a2c2522c8eddce0018</link><description><![CDATA[<a href="https://www.mohmal.com/en">https://www.mohmal.com/en</a> - Disposable temporary email<br>
  ]]></description>
@@ -29,26 +49,6 @@
 <item>
 	<title>Add Appcircle CI/CD tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fff42c3e51481494d589013c03a0552e35cef799</link><description><![CDATA[<a href="https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source">https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source</a> - Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Mockaroo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/834da6637fa651664ef177d33733239256eb554b</link><description><![CDATA[<a href="https://mockaroo.com/">https://mockaroo.com/</a> - Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added in free plan limits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/108f7d6f8d3b82e52f145e0883fc7bf70e3f8f13</link><description><![CDATA[<a href="https://www.sofodata.com/">https://www.sofodata.com/</a> - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Sofodata</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a4be27c72760d60d87c7aa4abe1b2c833cb69f51</link><description><![CDATA[<a href="https://www.sofodata.com/">https://www.sofodata.com/</a> - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Qase to testing section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/07e9f27fced0bc30c95aac3c62b500bdfab805ad</link><description><![CDATA[<a href="https://qase.io">https://qase.io</a> - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform test runs, track defects and measure impact. The free tier includes all core features, with 500Mb available for attachments and up to 3 users.<br>
  ]]></description>
 </item>
 
