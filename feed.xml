@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added uptimetoolbox</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6c18b3e13a14209d19bf4a8e4bde18aff6f3bf30</link><description><![CDATA[<a href="https://nixstats.com">https://nixstats.com</a> - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.<br>
+<a href="https://uptimetoolbox.com/">https://uptimetoolbox.com/</a> - Free monitoring for 5 websites, 60 second intervals, public statuspage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Formcake to forms section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2eab5bcab3a083a4cd5a905caa1d26196e8e0fe</link><description><![CDATA[<a href="https://formcake.com">https://formcake.com</a> - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies required.<br>
  ]]></description>
@@ -44,11 +50,6 @@
 <item>
 	<title>Add Sheetson</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cbd80b381581256bec734dca98a7a708232ca310</link><description><![CDATA[<a href="https://sheetson.com">https://sheetson.com</a> - Instantly turn any Google Sheets into RESTful API. Free plan available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove extra space</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fa9dd44e186b3bf907e3b8e7655d78d0854f88ae</link><description><![CDATA[<a href="https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source">https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source</a> - Automated mobile CI/CD/CT for iOS and Android with online device emulators. 20 minutes build timeout (60 mins for Open Source) with single concurrency for free.<br>
  ]]></description>
 </item>
 
