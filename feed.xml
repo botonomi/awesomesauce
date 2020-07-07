@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fix details about okteto free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9fd36949b801e949f04fecd83c74635f7057b04e</link><description><![CDATA[<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add staroid.com to the list of PaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a1f1040503ddafa46e32976e854ca272dbe62b49</link><description><![CDATA[<a href="https://staroid.com">https://staroid.com</a> - Managed Kubernetes namespace service designed to fund open source developers. Free 8 CPUs and 16GB of RAM namespace to test branches and pull requests of public repository. Free test namespace shutdown every 30 minutes. Maximum 2 concurrent test namespaces.<br>
  ]]></description>
@@ -47,10 +52,6 @@
 <item>
 	<title>testanywhere.co is offline</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ca342bd0e0bb0ca8d6fe865c4707fbfa570cd151</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove jsonstore</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/79b70c9fcb67e8bef06b27506deff3f4a3b1d9ab</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
