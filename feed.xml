@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add staroid.com to the list of PaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a1f1040503ddafa46e32976e854ca272dbe62b49</link><description><![CDATA[<a href="https://staroid.com">https://staroid.com</a> - Managed Kubernetes namespace service designed to fund open source developers. Free 8 CPUs and 16GB of RAM namespace to test branches and pull requests of public repository. Free test namespace shutdown every 30 minutes. Maximum 2 concurrent test namespaces.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added uptimetoolbox</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6c18b3e13a14209d19bf4a8e4bde18aff6f3bf30</link><description><![CDATA[<a href="https://nixstats.com">https://nixstats.com</a> - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.<br>
 <a href="https://uptimetoolbox.com/">https://uptimetoolbox.com/</a> - Free monitoring for 5 websites, 60 second intervals, public statuspage.<br>
@@ -46,11 +51,6 @@
 <item>
 	<title>Remove jsonstore</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/79b70c9fcb67e8bef06b27506deff3f4a3b1d9ab</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Sheetson</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cbd80b381581256bec734dca98a7a708232ca310</link><description><![CDATA[<a href="https://sheetson.com">https://sheetson.com</a> - Instantly turn any Google Sheets into RESTful API. Free plan available.<br>
- ]]></description>
 </item>
 
 </channel>
