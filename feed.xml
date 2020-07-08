@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Kontent plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eaaa9af1837a49cd624ca3082ea946a3e638675b</link><description><![CDATA[<a href="https://www.kontent.ai">https://www.kontent.ai</a> - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added responsively.app</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c03d37621a7d3ba88795dba02788dbe93436f52b</link><description><![CDATA[<a href="https://responsively.app">https://responsively.app</a> - - A free dev-tool for faster and precise responsive web application development.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix details about okteto free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9fd36949b801e949f04fecd83c74635f7057b04e</link><description><![CDATA[<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
  ]]></description>
@@ -43,15 +53,6 @@
 	<title>Add FunRetro</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ee412d911324e4aafaa9dce454234e113ce835f3</link><description><![CDATA[<a href="https://www.funretro.io/">https://www.funretro.io/</a> - Free simple and intuitive sprint retrospective tool<br>
  ]]></description>
-</item>
-<item>
-	<title>Add Mohmal</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9dfc47133638886bccaaf1a2c2522c8eddce0018</link><description><![CDATA[<a href="https://www.mohmal.com/en">https://www.mohmal.com/en</a> - Disposable temporary email<br>
- ]]></description>
-</item>
-<item>
-	<title>testanywhere.co is offline</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca342bd0e0bb0ca8d6fe865c4707fbfa570cd151</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
