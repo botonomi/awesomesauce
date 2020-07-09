@@ -4,6 +4,30 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add xlayers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/deb2c8914d79d9a7dce2734a18f6d9313797fca5</link><description><![CDATA[<a href="https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers">https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers</a> - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9adfc66e8f748561ff2e117392387d2d86e77dd6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>move azure static web apps to Azure section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5c25547f3c6d257b4ff1bcafab356f4902419733</link><description><![CDATA[<a href="https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha">https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha</a> - Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authenticationa/Authorisations and custom domains<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f8374c32274edc8a4f81b7bdefcf9c3616ded4ba</link><description><![CDATA[<a href="https://scenelab.io">https://scenelab.io</a> - Online mockup graphics editor with an ever-expanding collection of free design templates<br>
+ ]]></description>
+</item>
+<item>
+	<title>add azure static web apps</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/73561931a33c10dce16d0b47bcf2b26162ba3008</link><description><![CDATA[<a href="https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha">https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha</a> - Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL and custom domains.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Kontent plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eaaa9af1837a49cd624ca3082ea946a3e638675b</link><description><![CDATA[<a href="https://www.kontent.ai">https://www.kontent.ai</a> - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.<br>
  ]]></description>
@@ -32,26 +56,6 @@
 <item>
 	<title>Add Formcake to forms section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2eab5bcab3a083a4cd5a905caa1d26196e8e0fe</link><description><![CDATA[<a href="https://formcake.com">https://formcake.com</a> - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies required.<br>
- ]]></description>
-</item>
-<item>
-	<title>added Mocklets</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fa2a86cbe2c14c966f7d34809ed004cdc1d66b81</link><description><![CDATA[<a href="https://mocklets.com">https://mocklets.com</a> - a HTTP-based mock API simulator, which helps simulate APIs for faster parallel development and more comprehensive testing, with lifetime free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DPLYR</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a22715ff59e5e871c1b9e2b5fb12a2d95b9865a3</link><description><![CDATA[<a href="https://www.dplyr.dev">https://www.dplyr.dev</a> - Deploy Web Apps with Databases. Free for deploying on your machines. Maximum 2 deployments<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Code Time to Miscellaneous</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f18aa6d0e206a0101a8366949e40c2639b747106</link><description><![CDATA[<a href="https://www.software.com/code-time">https://www.software.com/code-time</a> - - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add FunRetro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ee412d911324e4aafaa9dce454234e113ce835f3</link><description><![CDATA[<a href="https://www.funretro.io/">https://www.funretro.io/</a> - Free simple and intuitive sprint retrospective tool<br>
  ]]></description>
 </item>
 
