@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/60111c833d74f4371f106f2e5b009d459fd58a12</link><description><![CDATA[<a href="https://www.gleek.io">https://www.gleek.io</a> - Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyword.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added sirv.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e0a733b10cde250524e560b13a3671897bd79b28</link><description><![CDATA[<a href="https://sirv.com/">https://sirv.com/</a> - Smart Image CDN with on-the-fly image optimization and resizing. Free tier includes 500 MB of storage and 2 GB bandwidth.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update GCP free page</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/06141473a4b8befa01f5b30370103de17c344957</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Validator.Pizza</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0e4780548a16a45abbf2d1153fe7e1c6011e726d</link><description><![CDATA[<a href="https://www.validator.pizza/">https://www.validator.pizza/</a> - Free API to detect disposable emails<br>
  ]]></description>
@@ -30,31 +44,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f8374c32274edc8a4f81b7bdefcf9c3616ded4ba</link><description><![CDATA[<a href="https://scenelab.io">https://scenelab.io</a> - Online mockup graphics editor with an ever-expanding collection of free design templates<br>
- ]]></description>
-</item>
-<item>
-	<title>add azure static web apps</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/73561931a33c10dce16d0b47bcf2b26162ba3008</link><description><![CDATA[<a href="https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha">https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha</a> - Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL and custom domains.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Kontent plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eaaa9af1837a49cd624ca3082ea946a3e638675b</link><description><![CDATA[<a href="https://www.kontent.ai">https://www.kontent.ai</a> - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added responsively.app</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c03d37621a7d3ba88795dba02788dbe93436f52b</link><description><![CDATA[<a href="https://responsively.app">https://responsively.app</a> - - A free dev-tool for faster and precise responsive web application development.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix details about okteto free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9fd36949b801e949f04fecd83c74635f7057b04e</link><description><![CDATA[<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add staroid.com to the list of PaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a1f1040503ddafa46e32976e854ca272dbe62b49</link><description><![CDATA[<a href="https://staroid.com">https://staroid.com</a> - Managed Kubernetes namespace service designed to fund open source developers. Free 8 CPUs and 16GB of RAM namespace to test branches and pull requests of public repository. Free test namespace shutdown every 30 minutes. Maximum 2 concurrent test namespaces.<br>
  ]]></description>
 </item>
 
