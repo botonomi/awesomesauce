@@ -4,6 +4,29 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Changes made to README.md file"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/23a29113411d5c359b60d71dd1efbff22cb08a36</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>changes made to Google Cloud Platform block</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7d89a1a7d31f8744c6333345e4db2a9b2eb6ba49</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>added sonarqube in code quality section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2dc30c91da92f6ca27a8ae40ff8e50e843a176df</link><description><![CDATA[<a href="https://www.sonarqube.org/">https://www.sonarqube.org/</a> - Thousands of automated Static Code Analysis rules,protecting your app on multiple fronts,and guiding your team.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added sonarqube in code quality section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a66abdbe413d6b5b437aff93785c4e8eaa95d918</link><description><![CDATA[<a href="https://www.sonarqube.org/">https://www.sonarqube.org/</a> - Thousands of automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add InfinityFree to web hosting section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eaf4e16880163b29e90a1f0030c5747e8eb49812</link><description><![CDATA[<a href="https://infinityfree.net/">https://infinityfree.net/</a> - Free PHP website hosting with MySQL, cPanel, and no ads.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/60111c833d74f4371f106f2e5b009d459fd58a12</link><description><![CDATA[<a href="https://www.gleek.io">https://www.gleek.io</a> - Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyword.<br>
  ]]></description>
@@ -25,25 +48,6 @@
 <item>
 	<title>Add weblate.org</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/418ea4a7ca5077cfcbcdd59fd1b8376ab31cd2e0</link><description><![CDATA[<a href="https://weblate.org/">https://weblate.org/</a> - It's free for libre projects up to 10,000 string source for the free tier, and Unlimited Self-hosted on-premises.<br>
- ]]></description>
-</item>
-<item>
-	<title>add xlayers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/deb2c8914d79d9a7dce2734a18f6d9313797fca5</link><description><![CDATA[<a href="https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers">https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers</a> - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9adfc66e8f748561ff2e117392387d2d86e77dd6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>move azure static web apps to Azure section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5c25547f3c6d257b4ff1bcafab356f4902419733</link><description><![CDATA[<a href="https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha">https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha</a> - Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authenticationa/Authorisations and custom domains<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f8374c32274edc8a4f81b7bdefcf9c3616ded4ba</link><description><![CDATA[<a href="https://scenelab.io">https://scenelab.io</a> - Online mockup graphics editor with an ever-expanding collection of free design templates<br>
  ]]></description>
 </item>
 
