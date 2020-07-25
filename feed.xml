@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removed no longer available services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1f64ac9104f6cbc778d6a49cfa0e71b182d7cf53</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1c24ffc869c5d1c8c839a6d8012784f5e87a586a</link><description><![CDATA[<a href="https://astra.datastax.com/register">https://astra.datastax.com/register</a> - Cloud Native Cassandra as a Service with 10GB free tier<br>
  ]]></description>
@@ -45,16 +49,6 @@
 <item>
 	<title>changes made to Google Cloud Platform block</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d89a1a7d31f8744c6333345e4db2a9b2eb6ba49</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>added sonarqube in code quality section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2dc30c91da92f6ca27a8ae40ff8e50e843a176df</link><description><![CDATA[<a href="https://www.sonarqube.org/">https://www.sonarqube.org/</a> - Thousands of automated Static Code Analysis rules,protecting your app on multiple fronts,and guiding your team.<br>
- ]]></description>
-</item>
-<item>
-	<title>added sonarqube in code quality section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a66abdbe413d6b5b437aff93785c4e8eaa95d918</link><description><![CDATA[<a href="https://www.sonarqube.org/">https://www.sonarqube.org/</a> - Thousands of automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team.<br>
- ]]></description>
 </item>
 
 </channel>
