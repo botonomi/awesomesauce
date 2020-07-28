@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1581d845c831d7ac7d7362f83d7834ba0693e214</link><description><![CDATA[<a href="https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS">https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS</a> - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removed no longer available services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1f64ac9104f6cbc778d6a49cfa0e71b182d7cf53</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,10 +50,6 @@
 <item>
 	<title>Revert "Changes made to README.md file"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/23a29113411d5c359b60d71dd1efbff22cb08a36</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>changes made to Google Cloud Platform block</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d89a1a7d31f8744c6333345e4db2a9b2eb6ba49</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
