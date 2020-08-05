@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>GolangCi closes on april 2020</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0755bce802ce23a58a95df60bd13af283e807eb6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update gke restrictions</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eeb440180a302a6f92e8306f85c1b3f25286ba70</link><description><![CDATA[ ]]></description>
 </item>
@@ -44,11 +48,6 @@
 <item>
 	<title>Remove APIFull</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/415dfcac3db984cbaf0b24adcd166459d110c682</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>adds userforge.com details</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5a125708d11b8b0798a1560f94155ab7e47b2e92</link><description><![CDATA[<a href="https://userforge.com/">https://userforge.com/</a> - Interconnected online personas, user stories and context mapping. Helps keep design and dev in sync, free for up to 3 personas and 2 collaborators.<br>
- ]]></description>
 </item>
 
 </channel>
