@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fixed typo cluser instead of cluster</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b758719958dcf3d09f46f455f4be578fb4e16d15</link><description><![CDATA[<a href="https://www.cloudkarafka.com/">https://www.cloudkarafka.com/</a> - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
+ ]]></description>
+</item>
+<item>
 	<title>GolangCi closes on april 2020</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0755bce802ce23a58a95df60bd13af283e807eb6</link><description><![CDATA[ ]]></description>
 </item>
@@ -39,15 +44,6 @@
 	<title>Add cloudamqp.com (#1588)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aa18dd6b1422592611647d5dd21613366e58de2a</link><description><![CDATA[<a href="https://www.cloudamqp.com/">https://www.cloudamqp.com/</a> - RabbitMQ as a Service, up to 1M messages/month and 20 connections free<br>
  ]]></description>
-</item>
-<item>
-	<title>Add fontget to list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7c686f51802812cc5edf1b8fd58cf12e6f128e4</link><description><![CDATA[<a href="https://www.fontget.com/">https://www.fontget.com/</a> - Has a variety of fonts available to download and sorted neatly with tags.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove APIFull</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/415dfcac3db984cbaf0b24adcd166459d110c682</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
