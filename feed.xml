@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added The Endless Hosting to Web Hosting section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df2b68d0b320ec85a312d876f434f0ecca01fbe0</link><description><![CDATA[<a href="https://theendlessweb.com/">https://theendlessweb.com/</a> - — 300 MB storage, Free SSL, PHP, MySQL, FTP, free sub-domains, E-Mail, DNS, beatiful panel UI. One of the best!<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/441c87fd16768feb57c94cf911c97e5756109458</link><description><![CDATA[<a href="https://etf-data.com/">https://etf-data.com/</a> - API](https://etf-data.com/) - Quality European ETF, ETN and ETC data, updated daily. The API offers complete overview including sector, country, factor, dividend yield and valuations. Additionally basic information such as domicile, followed index, asset class, fee, currency, replication method, distribution type and frequency. 50 free API calls per day.<br>
 <a href="https://vattly.com/">https://vattly.com/</a> - Highly available, fast and secure VAT validation API, that provides full European Union coverage. 10 free API calls per day.<br>
@@ -41,11 +46,6 @@
 <item>
 	<title>Add Octopus.do to Design and UI section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9baa555d21b548c2aa512d9b4d9b11669d968183</link><description><![CDATA[<a href="https://octopus.do">https://octopus.do</a> - Visual sitemap builder. Build your website structure in real-time and rapidly share it to collaborate with your team or clients.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1581d845c831d7ac7d7362f83d7834ba0693e214</link><description><![CDATA[<a href="https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS">https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS</a> - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.<br>
  ]]></description>
 </item>
 
