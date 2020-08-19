@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Invantive Cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5d263c08e818cc8c90c0bb28fb08d9e6cd334c79</link><description><![CDATA[<a href="https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query">https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query</a> - — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated the EVA link, since that was not visible properly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0aaf45e08142b3e244cda782476258b4a880e003</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.<br>
+ ]]></description>
+</item>
+<item>
+	<title>[Email] Added free email validator API tool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cfc6c9e2317e3dbb3e1fa0fc2b944ff779ea0480</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8f9efa1b342cc96e2ad2e81d70ffd25d96f38e0c</link><description><![CDATA[<a href="#browser-based-hardware-emulation-written-in-javascript">#browser-based-hardware-emulation-written-in-javascript</a> - hardware emulation](#browser-based-hardware-emulation-written-in-javascript)<br>
  ]]></description>
@@ -41,19 +56,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/7a45383125f2e9a892fc7d03425364ef76a2193c</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.<br>
 <a href="https://www.heatlyanalytics.com">https://www.heatlyanalytics.com</a> - Free Heatmap tool to understand UI/UX.<br>
  ]]></description>
-</item>
-<item>
-	<title>fixed typo cluser instead of cluster</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b758719958dcf3d09f46f455f4be578fb4e16d15</link><description><![CDATA[<a href="https://www.cloudkarafka.com/">https://www.cloudkarafka.com/</a> - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>GolangCi closes on april 2020</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0755bce802ce23a58a95df60bd13af283e807eb6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update gke restrictions</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eeb440180a302a6f92e8306f85c1b3f25286ba70</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
