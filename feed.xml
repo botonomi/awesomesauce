@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add reSmush.it</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/70e3033a61a2bcff603cc8e83b8b316bc406b3a0</link><description><![CDATA[<a href="https://resmush.it">https://resmush.it</a> - reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as Wordpress, Drupal or Magento. reSmush.it is the most used image optimization API with more than 7 billions images already treated, and is still Free of charge.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add scraperbox.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/be9cbdc3c3eaaf70ee0390d95578a48eb50790bb</link><description><![CDATA[<a href="https://scraperbox.com/">https://scraperbox.com/</a> - Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Wufoo for forms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9d26e66f92552c4a3567fdd9b09efd0dae4f3cb2</link><description><![CDATA[<a href="https://www.wufoo.com/">https://www.wufoo.com/</a> - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.<br>
  ]]></description>
@@ -49,17 +59,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/441c87fd16768feb57c94cf911c97e5756109458</link><description><![CDATA[<a href="https://etf-data.com/">https://etf-data.com/</a> - API](https://etf-data.com/) - Quality European ETF, ETN and ETC data, updated daily. The API offers complete overview including sector, country, factor, dividend yield and valuations. Additionally basic information such as domicile, followed index, asset class, fee, currency, replication method, distribution type and frequency. 50 free API calls per day.<br>
 <a href="https://vattly.com/">https://vattly.com/</a> - Highly available, fast and secure VAT validation API, that provides full European Union coverage. 10 free API calls per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added DronaHQ in paas</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4bf8e2e17732d1f687fcdda57402d9b31b905a1a</link><description><![CDATA[<a href="https://www.dronahq.com/">https://www.dronahq.com/</a> - No code application development platform for enterprises to visually develop application, integrate with existing systems to Build internal apps, processes and forms, rapidly. Free plan offers 200 Tasks/month, Unlimited Draft Apps and 1 Published Apps<br>
- ]]></description>
-</item>
-<item>
-	<title>url normalization</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7a45383125f2e9a892fc7d03425364ef76a2193c</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.<br>
-<a href="https://www.heatlyanalytics.com">https://www.heatlyanalytics.com</a> - Free Heatmap tool to understand UI/UX.<br>
  ]]></description>
 </item>
 
