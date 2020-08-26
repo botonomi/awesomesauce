@@ -4,8 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merged two items</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8404553fa7af1c618c7db5250f14a2afeb999dd9</link><description><![CDATA[<a href="https://www.bigdatacloud.com/) - Provides fast, accurate and free (Unlimited or up to 10K-50K/month">https://www.bigdatacloud.com/) - Provides fast, accurate and free (Unlimited or up to 10K-50K/month</a> - Provides fast, accurate and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/92c4872313d48745ebd8d87faf9cc95c72edf228</link><description><![CDATA[<a href="https://hostingtocdo.cyou/">https://hostingtocdo.cyou/</a> - Free Unlimited Web Hosting Service for PHP, MySQL no ads include.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Spell error correction</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3212f5c19271b0af2dc547aaaa0ffe84fadfdc54</link><description><![CDATA[<a href="https://www.woopra.com/">https://www.woopra.com/</a> - Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding New Tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e593f531226cd1673d956d51c3f9f3cddc7d349a</link><description><![CDATA[<a href="https://www.bigdatacloud.com/ip-geolocation-apis) - Fast, accurate, and free (up to 10K/month">https://www.bigdatacloud.com/ip-geolocation-apis) - Fast, accurate, and free (up to 10K/month</a> - Geolocation API](https://www.bigdatacloud.com/ip-geolocation-apis) - Fast, accurate, and free (up to 10K/month) IP geolocation API. The API provides country data, detailed locality, estimated location coordinates, network data, BGP prefixes and confidence area.<br>
+<a href="https://www.bigdatacloud.com/geocoding-apis/free-reverse-geocode-to-city-api">https://www.bigdatacloud.com/geocoding-apis/free-reverse-geocode-to-city-api</a> - Reverse Gecoding API](https://www.bigdatacloud.com/geocoding-apis/free-reverse-geocode-to-city-api) - Free client-side reverse geocoding API that converts geo-coordinates into physical address. Unlimited query for client side implementation. No API key required.<br>
+<a href="https://www.woopra.com/">https://www.woopra.com/</a> - Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.<br>
  ]]></description>
 </item>
 <item>
@@ -41,23 +58,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8f9efa1b342cc96e2ad2e81d70ffd25d96f38e0c</link><description><![CDATA[<a href="#browser-based-hardware-emulation-written-in-javascript">#browser-based-hardware-emulation-written-in-javascript</a> - hardware emulation](#browser-based-hardware-emulation-written-in-javascript)<br>
- ]]></description>
-</item>
-<item>
-	<title>Added The Endless Hosting to Web Hosting section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df2b68d0b320ec85a312d876f434f0ecca01fbe0</link><description><![CDATA[<a href="https://theendlessweb.com/">https://theendlessweb.com/</a> - — 300 MB storage, Free SSL, PHP, MySQL, FTP, free sub-domains, E-Mail, DNS, beatiful panel UI. One of the best!<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eb7852ed6e1c922bd6e5f7f15e184a476e48b740</link><description><![CDATA[<a href="http://s-macke.github.io/jor1k/demos/main.html">http://s-macke.github.io/jor1k/demos/main.html</a> - a OpenRISC virtual machine capable of running Linux with network support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added browser based hardware emulation section.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2c8ad7f79807feb7e6f375c370ac942eebace323</link><description><![CDATA[<a href="https://bellard.org/jslinux">https://bellard.org/jslinux</a> - a really fast x86 virtual machine capable of running Linux and Windows 2k.<br>
-<a href="https://bellard.org/jslinux">https://bellard.org/jslinux</a> - a OpenRISC virtual machine capable of running Linux with network support.<br>
-<a href="https://copy.sh/v86">https://copy.sh/v86</a> - a x86 virtual machine capable of running Linux and other OS directly into the browser.<br>
  ]]></description>
 </item>
 
