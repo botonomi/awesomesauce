@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e4ac95280ae6533bd9db16bc212ba0ece835a7d4</link><description><![CDATA[<a href="https://element.io/">https://element.io/</a> - A decentralized and open source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update DeepSource description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c00981fa34be2c5fa82ae4dae464490f9f541f6d</link><description><![CDATA[<a href="https://deepsource.io/">https://deepsource.io/</a> - DeepSource continuously analyzes source code changes, finds and fixes issues categorized under security, performance, anti-patterns, bug-risks, documentation and style. Native integration with GitHub, GitLab and Bitbucket.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merged two items</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8404553fa7af1c618c7db5250f14a2afeb999dd9</link><description><![CDATA[<a href="https://www.bigdatacloud.com/) - Provides fast, accurate and free (Unlimited or up to 10K-50K/month">https://www.bigdatacloud.com/) - Provides fast, accurate and free (Unlimited or up to 10K-50K/month</a> - Provides fast, accurate and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.<br>
  ]]></description>
@@ -48,16 +58,6 @@
 <item>
 	<title>Updated the EVA link, since that was not visible properly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0aaf45e08142b3e244cda782476258b4a880e003</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.<br>
- ]]></description>
-</item>
-<item>
-	<title>[Email] Added free email validator API tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cfc6c9e2317e3dbb3e1fa0fc2b944ff779ea0480</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8f9efa1b342cc96e2ad2e81d70ffd25d96f38e0c</link><description><![CDATA[<a href="#browser-based-hardware-emulation-written-in-javascript">#browser-based-hardware-emulation-written-in-javascript</a> - hardware emulation](#browser-based-hardware-emulation-written-in-javascript)<br>
  ]]></description>
 </item>
 
