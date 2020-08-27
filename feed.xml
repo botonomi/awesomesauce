@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Change the request limit from 250 to 100</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ac2de5e82208fcfc01a1c7c00147b56377643ff7</link><description><![CDATA[<a href="https://microlink.io/">https://microlink.io/</a> - It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 100 reqs/day every day free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e4ac95280ae6533bd9db16bc212ba0ece835a7d4</link><description><![CDATA[<a href="https://element.io/">https://element.io/</a> - A decentralized and open source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.<br>
  ]]></description>
@@ -53,11 +58,6 @@
 <item>
 	<title>Add Invantive Cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5d263c08e818cc8c90c0bb28fb08d9e6cd334c79</link><description><![CDATA[<a href="https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query">https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query</a> - — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated the EVA link, since that was not visible properly</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0aaf45e08142b3e244cda782476258b4a880e003</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsable and having valid MX records.<br>
  ]]></description>
 </item>
 
