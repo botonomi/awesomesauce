@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>www2png.com seems dead</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b9a1453e232ab673db04a02ab2bb9fb9a7c30f85</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>serveo.net seems dead</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/09e064783c5e41bcbe4f9746e3659b1df32ab623</link><description><![CDATA[ ]]></description>
 </item>
@@ -44,11 +48,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e4ac95280ae6533bd9db16bc212ba0ece835a7d4</link><description><![CDATA[<a href="https://element.io/">https://element.io/</a> - A decentralized and open source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update DeepSource description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c00981fa34be2c5fa82ae4dae464490f9f541f6d</link><description><![CDATA[<a href="https://deepsource.io/">https://deepsource.io/</a> - DeepSource continuously analyzes source code changes, finds and fixes issues categorized under security, performance, anti-patterns, bug-risks, documentation and style. Native integration with GitHub, GitLab and Bitbucket.<br>
  ]]></description>
 </item>
 
