@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/38c7c9856a27fa560b00d0b0b2aabf241ff6eb91</link><description><![CDATA[<a href="https://www.mailerlite.com">https://www.mailerlite.com</a> - 1,000 subscribers/month, 12,000 emails/month free<br>
+<a href="https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit">https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit</a> - 6,000 emails/month free (200 emails daily sending limit)<br>
+ ]]></description>
+</item>
+<item>
 	<title>www2png.com seems dead</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b9a1453e232ab673db04a02ab2bb9fb9a7c30f85</link><description><![CDATA[ ]]></description>
 </item>
@@ -43,11 +49,6 @@
 <item>
 	<title>Change the request limit from 250 to 100</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ac2de5e82208fcfc01a1c7c00147b56377643ff7</link><description><![CDATA[<a href="https://microlink.io/">https://microlink.io/</a> - It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 100 reqs/day every day free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e4ac95280ae6533bd9db16bc212ba0ece835a7d4</link><description><![CDATA[<a href="https://element.io/">https://element.io/</a> - A decentralized and open source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.<br>
  ]]></description>
 </item>
 
