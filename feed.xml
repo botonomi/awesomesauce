@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Migadu</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a712058b5e304a4bebdfa1d9bace207d932657a2</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b4aefc6fba042847745aace92209c79b0e789f55</link><description><![CDATA[<a href="https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics">https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics</a> - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Liteflow</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ec1469e63289e065227c32400548f8d48a855ca6</link><description><![CDATA[<a href="https://liteflow.com/">https://liteflow.com/</a> - Low-code development toolkit built to help you focus on your app’s real value.<br>
  ]]></description>
@@ -39,11 +48,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d01fc029b17fd8228067336562253be36410aa72</link><description><![CDATA[<a href="https://uploadcare.com/hub/developers/">https://uploadcare.com/hub/developers/</a> - Hub](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8b702f132d43ac090ddd75c6a1b221abd1aec104</link><description><![CDATA[<a href="https://uploadcare.com/hub/developers/">https://uploadcare.com/hub/developers/</a> - Hub](https://uploadcare.com/hub/developers/) — In addition to paid services, Uploadcare has an absolutely free one for developers. There are a lot of Storage and Media Processing instruments such as file uploader, image and video manipualtions, CDN, etc.<br>
  ]]></description>
 </item>
 
