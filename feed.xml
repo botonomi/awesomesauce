@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7ce063d4eebc62344d90a42e88a9d6ad77276687</link><description><![CDATA[<a href="https://www.zoho.com/forms/">https://www.zoho.com/forms/</a> - - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Migadu</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a712058b5e304a4bebdfa1d9bace207d932657a2</link><description><![CDATA[ ]]></description>
 </item>
@@ -44,11 +49,6 @@
 <item>
 	<title>Removed ReplyBox</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9f0ced9d16ab3c4296f6d3769cfced48f8545719</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d01fc029b17fd8228067336562253be36410aa72</link><description><![CDATA[<a href="https://uploadcare.com/hub/developers/">https://uploadcare.com/hub/developers/</a> - Hub](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression.<br>
- ]]></description>
 </item>
 
 </channel>
