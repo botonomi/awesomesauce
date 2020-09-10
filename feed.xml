@@ -4,6 +4,33 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Base</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/581531dadf4a0707fa3b1e69cdbc12800031eaf3</link><description><![CDATA[<a href="https://www.cloudamqp.com/">https://www.cloudamqp.com/</a> - RabbitMQ as a Service, up to 1M messages/month and 20 connections free<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1a9ace6abcdbd21e083834dd198ba45209058f0e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Abstract API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/343e9fbc5c5c49e0b376d1f110d7176653e3b914</link><description><![CDATA[<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases including IP geolocation, gender detection or even email validation<br>
+<a href="https://www.abstractapi.com/website-screenshot-api">https://www.abstractapi.com/website-screenshot-api</a> - API](https://www.abstractapi.com/website-screenshot-api) — Screenshot API handling resizing, multiple image formats, css injections and javascript rendering.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Move Vercel from PaaS to Web Hosting</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c30f6f919e90a275700f3777b9b56b9e02516f5</link><description><![CDATA[<a href="https://vercel.com/">https://vercel.com/</a> - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Deta</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/89d698d548247291e6f9299c6c3be223585b4948</link><description><![CDATA[<a href="https://www.deta.sh">https://www.deta.sh</a> - Deploy unlimited number of Node.js and Python apps for free up to 50k requests/month. Includes free DBs, Auth and email.<br>
+<a href="https://www.deta.sh/">https://www.deta.sh/</a> - – Fast and easy to use NoSQL DB with powerful query capabilities. 2GB of storage for free.<br>
+<a href="https://www.elephantsql.com/">https://www.elephantsql.com/</a> - PostgreSQL as a service, 20 MB free<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7ce063d4eebc62344d90a42e88a9d6ad77276687</link><description><![CDATA[<a href="https://www.zoho.com/forms/">https://www.zoho.com/forms/</a> - - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs<br>
  ]]></description>
@@ -31,24 +58,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f0d02411285941e4415f29e786660337597842e</link><description><![CDATA[<a href="https://uploadcare.com/hub/developers/">https://uploadcare.com/hub/developers/</a> - Uploadcare provides media pipeline with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38c7c9856a27fa560b00d0b0b2aabf241ff6eb91</link><description><![CDATA[<a href="https://www.mailerlite.com">https://www.mailerlite.com</a> - 1,000 subscribers/month, 12,000 emails/month free<br>
-<a href="https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit">https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit</a> - 6,000 emails/month free (200 emails daily sending limit)<br>
- ]]></description>
-</item>
-<item>
-	<title>www2png.com seems dead</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b9a1453e232ab673db04a02ab2bb9fb9a7c30f85</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>serveo.net seems dead</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/09e064783c5e41bcbe4f9746e3659b1df32ab623</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removed ReplyBox</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9f0ced9d16ab3c4296f6d3769cfced48f8545719</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
