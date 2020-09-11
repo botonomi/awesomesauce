@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Tweek</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1c19b355d563dfbe9e570ca19668230cf60ae906</link><description><![CDATA[<a href="https://tweek.so/">https://tweek.so/</a> - Simple Weekly To-Do Calendar & Task Management.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Base</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/581531dadf4a0707fa3b1e69cdbc12800031eaf3</link><description><![CDATA[<a href="https://www.cloudamqp.com/">https://www.cloudamqp.com/</a> - RabbitMQ as a Service, up to 1M messages/month and 20 connections free<br>
  ]]></description>
@@ -52,11 +57,6 @@
 <item>
 	<title>[Miscellaneous] Added Online JWT decoder tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0b3f13479bd43e340eff24b95eccbf345c62d79b</link><description><![CDATA[<a href="https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token">https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token</a> - — Online free tool for decoding JWT(JSON web token) and verifying it's signature.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f0d02411285941e4415f29e786660337597842e</link><description><![CDATA[<a href="https://uploadcare.com/hub/developers/">https://uploadcare.com/hub/developers/</a> - Uploadcare provides media pipeline with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression.<br>
  ]]></description>
 </item>
 
