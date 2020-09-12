@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add RandomKeygen site</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/833e5bb33155467b29983c095e3dfa9d24885aad</link><description><![CDATA[<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online.<br>
+<a href="https://randomkeygen.com/">https://randomkeygen.com/</a> - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Reorder alphabetically</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07ef8b8258875aae47a63324613cde9ecc288369</link><description><![CDATA[<a href="https://cirrus-ci.org">https://cirrus-ci.org</a> - Free for public GitHub repositories<br>
 <a href="https://codemagic.io/">https://codemagic.io/</a> - Free 500 build minutes/month<br>
@@ -50,15 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7ce063d4eebc62344d90a42e88a9d6ad77276687</link><description><![CDATA[<a href="https://www.zoho.com/forms/">https://www.zoho.com/forms/</a> - - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Migadu</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a712058b5e304a4bebdfa1d9bace207d932657a2</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b4aefc6fba042847745aace92209c79b0e789f55</link><description><![CDATA[<a href="https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics">https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics</a> - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.<br>
  ]]></description>
 </item>
 
