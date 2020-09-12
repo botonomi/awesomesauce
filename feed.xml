@@ -4,6 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Reorder alphabetically</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/07ef8b8258875aae47a63324613cde9ecc288369</link><description><![CDATA[<a href="https://cirrus-ci.org">https://cirrus-ci.org</a> - Free for public GitHub repositories<br>
+<a href="https://codemagic.io/">https://codemagic.io/</a> - Free 500 build minutes/month<br>
+<a href="https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit">https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit</a> - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Squash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a707f8da1d4450b1bc2a78439c75f8e359ffb733</link><description><![CDATA[<a href="https://www.squash.io/">https://www.squash.io/</a> - — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Tweek</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1c19b355d563dfbe9e570ca19668230cf60ae906</link><description><![CDATA[<a href="https://tweek.so/">https://tweek.so/</a> - Simple Weekly To-Do Calendar & Task Management.<br>
  ]]></description>
@@ -47,16 +59,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b4aefc6fba042847745aace92209c79b0e789f55</link><description><![CDATA[<a href="https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics">https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics</a> - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Liteflow</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec1469e63289e065227c32400548f8d48a855ca6</link><description><![CDATA[<a href="https://liteflow.com/">https://liteflow.com/</a> - Low-code development toolkit built to help you focus on your app’s real value.<br>
- ]]></description>
-</item>
-<item>
-	<title>[Miscellaneous] Added Online JWT decoder tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0b3f13479bd43e340eff24b95eccbf345c62d79b</link><description><![CDATA[<a href="https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token">https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token</a> - — Online free tool for decoding JWT(JSON web token) and verifying it's signature.<br>
  ]]></description>
 </item>
 
