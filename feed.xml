@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixing a typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/82c56ef153838908ffd78819e4f5b2e9b8c054eb</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsoable and having valid MX records.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add RandomKeygen site</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/833e5bb33155467b29983c095e3dfa9d24885aad</link><description><![CDATA[<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online.<br>
 <a href="https://randomkeygen.com/">https://randomkeygen.com/</a> - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.<br>
