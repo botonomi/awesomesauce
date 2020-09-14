@@ -4,8 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Engine Yard</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f98a44345fd9015e602be31892b78a4ccfddd05f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge Cloudflare entries into one</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a11d1a99d0aba1e8ec0246c315bbb6b0c1b59c8e</link><description><![CDATA[<a href="https://www.cloudflare.com/">https://www.cloudflare.com/</a> - <br>
+<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
+ ]]></description>
+</item>
+<item>
+	<title>adds teletype to list of collaboration tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0efa59e7ccba6213166120132e719eb6533ffb12</link><description><![CDATA[<a href="https://teletype.oorja.io/">https://teletype.oorja.io/</a> - share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fixing a typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/82c56ef153838908ffd78819e4f5b2e9b8c054eb</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsoable and having valid MX records.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add TryCloudflare</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/acb88be342f54e9ed74f8138066e6067ac428068</link><description><![CDATA[<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
  ]]></description>
 </item>
 <item>
@@ -34,33 +54,6 @@
 <item>
 	<title>Remove Base</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/581531dadf4a0707fa3b1e69cdbc12800031eaf3</link><description><![CDATA[<a href="https://www.cloudamqp.com/">https://www.cloudamqp.com/</a> - RabbitMQ as a Service, up to 1M messages/month and 20 connections free<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1a9ace6abcdbd21e083834dd198ba45209058f0e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Abstract API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/343e9fbc5c5c49e0b376d1f110d7176653e3b914</link><description><![CDATA[<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases including IP geolocation, gender detection or even email validation<br>
-<a href="https://www.abstractapi.com/website-screenshot-api">https://www.abstractapi.com/website-screenshot-api</a> - API](https://www.abstractapi.com/website-screenshot-api) — Screenshot API handling resizing, multiple image formats, css injections and javascript rendering.<br>
- ]]></description>
-</item>
-<item>
-	<title>Move Vercel from PaaS to Web Hosting</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c30f6f919e90a275700f3777b9b56b9e02516f5</link><description><![CDATA[<a href="https://vercel.com/">https://vercel.com/</a> - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Deta</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/89d698d548247291e6f9299c6c3be223585b4948</link><description><![CDATA[<a href="https://www.deta.sh">https://www.deta.sh</a> - Deploy unlimited number of Node.js and Python apps for free up to 50k requests/month. Includes free DBs, Auth and email.<br>
-<a href="https://www.deta.sh/">https://www.deta.sh/</a> - – Fast and easy to use NoSQL DB with powerful query capabilities. 2GB of storage for free.<br>
-<a href="https://www.elephantsql.com/">https://www.elephantsql.com/</a> - PostgreSQL as a service, 20 MB free<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7ce063d4eebc62344d90a42e88a9d6ad77276687</link><description><![CDATA[<a href="https://www.zoho.com/forms/">https://www.zoho.com/forms/</a> - - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs<br>
  ]]></description>
 </item>
 
