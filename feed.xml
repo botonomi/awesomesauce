@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update limits for MockAPI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d747655b49e158ccb89713f49b4d31b752f6846e</link><description><![CDATA[<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/50 resources per project for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Engine Yard</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f98a44345fd9015e602be31892b78a4ccfddd05f</link><description><![CDATA[ ]]></description>
 </item>
@@ -11,6 +16,28 @@
 	<title>Merge Cloudflare entries into one</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a11d1a99d0aba1e8ec0246c315bbb6b0c1b59c8e</link><description><![CDATA[<a href="https://www.cloudflare.com/">https://www.cloudflare.com/</a> - <br>
 <a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add MockAPI resource; update punctuation characters in APIs, Data and…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/78d5381912d34fa9a4d1c004242a086ced6b7537</link><description><![CDATA[<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.<br>
+<a href="https://algorithmia.com/">https://algorithmia.com/</a> - Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.<br>
+<a href="https://bigml.com/">https://bigml.com/</a> - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.<br>
+<a href="https://www.dominodatalab.com">https://www.dominodatalab.com</a> - Data science with support for Python, R, Spark, Hadoop, MATLAB and others.<br>
+<a href="https://konghq.com/">https://konghq.com/</a> - API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.<br>
+<a href="https://monkeylearn.com/">https://monkeylearn.com/</a> - Text analysis with machine learning, free 300 queries/month.<br>
+<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool.<br>
+<a href="https://myfakeapi.com">https://myfakeapi.com</a> - Free serverless API mocking service for developers.<br>
+<a href="https://interaction-design.co.za/openapidesigner/">https://interaction-design.co.za/openapidesigner/</a> - — Visually create Open API 3 definitions for free.<br>
+<a href="https://parsehub.com/">https://parsehub.com/</a> - Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.<br>
+<a href="https://restlet.com/products/apispark/">https://restlet.com/products/apispark/</a> - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.<br>
+<a href="https://scrapinghub.com">https://scrapinghub.com</a> - Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.<br>
+<a href="https://shrtco.de/docs">https://shrtco.de/docs</a> - - Free URL Shortening API without authorisation and no request limits.<br>
+<a href="https://timedoor.io">https://timedoor.io</a> - - A time series analysis API.<br>
+<a href="https://wit.ai/">https://wit.ai/</a> - NLP for developers.<br>
+<a href="http://wolfram.com/language/">http://wolfram.com/language/</a> - Built-in knowledge-based algorithms in the cloud.<br>
+<a href="https://wrapapi.com/">https://wrapapi.com/</a> - Turn any website into a parameterized API. 30k API calls per month.<br>
+<a href="https://zenscrape.com/web-scraping-api">https://zenscrape.com/web-scraping-api</a> - Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits.<br>
  ]]></description>
 </item>
 <item>
@@ -44,16 +71,6 @@
 <item>
 	<title>add Squash</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a707f8da1d4450b1bc2a78439c75f8e359ffb733</link><description><![CDATA[<a href="https://www.squash.io/">https://www.squash.io/</a> - — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Tweek</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1c19b355d563dfbe9e570ca19668230cf60ae906</link><description><![CDATA[<a href="https://tweek.so/">https://tweek.so/</a> - Simple Weekly To-Do Calendar & Task Management.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Base</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/581531dadf4a0707fa3b1e69cdbc12800031eaf3</link><description><![CDATA[<a href="https://www.cloudamqp.com/">https://www.cloudamqp.com/</a> - RabbitMQ as a Service, up to 1M messages/month and 20 connections free<br>
  ]]></description>
 </item>
 
