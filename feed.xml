@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add bootify.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9e6827312757367f4b7bbc41964a9df845129eec</link><description><![CDATA[<a href="https://bootify.io/">https://bootify.io/</a> - Spring Boot app generator with custom database and REST API.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update redis resources</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/771f35a935bd614e0ae5ef4a838976d53da1fd17</link><description><![CDATA[<a href="https://www.redsmin.com/">https://www.redsmin.com/</a> - Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free<br>
 <a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30Mb redis instance<br>
@@ -64,12 +69,6 @@
 <item>
 	<title>Add TryCloudflare</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/acb88be342f54e9ed74f8138066e6067ac428068</link><description><![CDATA[<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add RandomKeygen site</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/833e5bb33155467b29983c095e3dfa9d24885aad</link><description><![CDATA[<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online.<br>
-<a href="https://randomkeygen.com/">https://randomkeygen.com/</a> - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.<br>
  ]]></description>
 </item>
 
