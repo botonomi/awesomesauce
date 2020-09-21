@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Bricks note-taking calculator</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2549e3448e887475a17a8225b5f2d1ae0b83e664</link><description><![CDATA[<a href="https://free.getbricks.app/) - a note-taking app (PWA">https://free.getbricks.app/) - a note-taking app (PWA</a> - Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update links</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9603f7e6159a2e1c9f6680306793233bd020970</link><description><![CDATA[<a href="https://azure.microsoft.com/services/virtual-machines/">https://azure.microsoft.com/services/virtual-machines/</a> - - 1 B1S Linux VM, 1 B1S Windows VM<br>
 <a href="https://azure.microsoft.com/services/app-service/">https://azure.microsoft.com/services/app-service/</a> - - 10 web, mobile or API apps<br>
@@ -138,12 +143,6 @@
 <item>
 	<title>Remove Engine Yard</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f98a44345fd9015e602be31892b78a4ccfddd05f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge Cloudflare entries into one</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a11d1a99d0aba1e8ec0246c315bbb6b0c1b59c8e</link><description><![CDATA[<a href="https://www.cloudflare.com/">https://www.cloudflare.com/</a> - <br>
-<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
- ]]></description>
 </item>
 
 </channel>
