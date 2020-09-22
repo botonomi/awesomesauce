@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add SourceLevel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/02ee629c50618a799bcaae3106a873fac37c2024</link><description><![CDATA[<a href="https://sourcelevel.io/">https://sourcelevel.io/</a> - Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Bricks note-taking calculator</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2549e3448e887475a17a8225b5f2d1ae0b83e664</link><description><![CDATA[<a href="https://free.getbricks.app/) - a note-taking app (PWA">https://free.getbricks.app/) - a note-taking app (PWA</a> - Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.<br>
  ]]></description>
@@ -139,10 +144,6 @@
 	<title>Update limits for MockAPI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d747655b49e158ccb89713f49b4d31b752f6846e</link><description><![CDATA[<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/50 resources per project for free.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove Engine Yard</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f98a44345fd9015e602be31892b78a4ccfddd05f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
