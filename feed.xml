@@ -4,6 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixing Zenhub entry</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f36c87c45e7f302163a7e59d8b3d0849207522c5</link><description><![CDATA[<a href="https://www.zenhub.com">https://www.zenhub.com</a> - The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removing zenhub (website is down)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1be1176a56a053e2ba163e0ba2162f24b398347e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Removing "hiberly" - website is down</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/93e8c711c28e4a0aa73bee9e7d333befb16feb3c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Removing Releaseflags project gone</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c073373da2e98625cd003a3a8bd9261c105f980f</link><description><![CDATA[ ]]></description>
 </item>
@@ -137,17 +150,6 @@
 <item>
 	<title>Remove redundant entries</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2de93dbee06cc879a45b35bc913f5a737944aaa9</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update redis resources</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/771f35a935bd614e0ae5ef4a838976d53da1fd17</link><description><![CDATA[<a href="https://www.redsmin.com/">https://www.redsmin.com/</a> - Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free<br>
-<a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30Mb redis instance<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding the Atlas toolkit.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c6bffdca83f9671d6c1a63929f393f2ba12a11f8</link><description><![CDATA[<a href="https://atlastk.org/">https://atlastk.org/</a> - - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.<br>
- ]]></description>
 </item>
 
 </channel>
