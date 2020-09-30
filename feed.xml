@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add API Mocha</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5f6fe73f7db6d01efd3fea2b43631bd590194cbd</link><description><![CDATA[<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fixing Zenhub entry</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f36c87c45e7f302163a7e59d8b3d0849207522c5</link><description><![CDATA[<a href="https://www.zenhub.com">https://www.zenhub.com</a> - The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations<br>
  ]]></description>
@@ -108,48 +113,6 @@
 	<title>add bootify.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9e6827312757367f4b7bbc41964a9df845129eec</link><description><![CDATA[<a href="https://bootify.io/">https://bootify.io/</a> - Spring Boot app generator with custom database and REST API.<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a25ecb8053188cf6206f89aaecd0d09774591af7</link><description><![CDATA[<a href="https://statusgator.com/">https://statusgator.com/</a> - Status page monitoring, 3 monitors free<br>
-<a href="https://www.squash.io/">https://www.squash.io/</a> - — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.<br>
-<a href="https://cirrus-ci.org">https://cirrus-ci.org</a> - Free for public GitHub repositories<br>
-<a href="https://codemagic.io/">https://codemagic.io/</a> - Free 500 build minutes/month<br>
-<a href="https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit">https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit</a> - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place<br>
-<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online.<br>
-<a href="https://randomkeygen.com/">https://randomkeygen.com/</a> - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.<br>
-<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
-<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsoable and having valid MX records.<br>
-<a href="https://teletype.oorja.io/">https://teletype.oorja.io/</a> - share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.<br>
-<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.<br>
-<a href="https://algorithmia.com/">https://algorithmia.com/</a> - Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.<br>
-<a href="https://bigml.com/">https://bigml.com/</a> - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.<br>
-<a href="https://www.dominodatalab.com">https://www.dominodatalab.com</a> - Data science with support for Python, R, Spark, Hadoop, MATLAB and others.<br>
-<a href="https://konghq.com/">https://konghq.com/</a> - API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.<br>
-<a href="https://monkeylearn.com/">https://monkeylearn.com/</a> - Text analysis with machine learning, free 300 queries/month.<br>
-<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool.<br>
-<a href="https://myfakeapi.com">https://myfakeapi.com</a> - Free serverless API mocking service for developers.<br>
-<a href="https://interaction-design.co.za/openapidesigner/">https://interaction-design.co.za/openapidesigner/</a> - — Visually create Open API 3 definitions for free.<br>
-<a href="https://parsehub.com/">https://parsehub.com/</a> - Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.<br>
-<a href="https://restlet.com/products/apispark/">https://restlet.com/products/apispark/</a> - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.<br>
-<a href="https://scrapinghub.com">https://scrapinghub.com</a> - Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.<br>
-<a href="https://shrtco.de/docs">https://shrtco.de/docs</a> - - Free URL Shortening API without authorisation and no request limits.<br>
-<a href="https://timedoor.io">https://timedoor.io</a> - - A time series analysis API.<br>
-<a href="https://wit.ai/">https://wit.ai/</a> - NLP for developers.<br>
-<a href="http://wolfram.com/language/">http://wolfram.com/language/</a> - Built-in knowledge-based algorithms in the cloud.<br>
-<a href="https://wrapapi.com/">https://wrapapi.com/</a> - Turn any website into a parameterized API. 30k API calls per month.<br>
-<a href="https://zenscrape.com/web-scraping-api">https://zenscrape.com/web-scraping-api</a> - Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits.<br>
-<a href="https://www.cloudflare.com/">https://www.cloudflare.com/</a> - <br>
-<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
-<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/50 resources per project for free.<br>
-<a href="https://atlastk.org/">https://atlastk.org/</a> - - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.<br>
-<a href="https://www.redsmin.com/">https://www.redsmin.com/</a> - Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free<br>
-<a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30Mb redis instance<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove redundant entries</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2de93dbee06cc879a45b35bc913f5a737944aaa9</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
