@@ -4,6 +4,32 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update some PaaS description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b9d9de19db5bc2c200297b22a1ea0c92aecc0d05</link><description><![CDATA[<a href="https://glitch.com/">https://glitch.com/</a> - Free public/private hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.<br>
+<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for remote development. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Fast.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/90168f63336b1bfc47a3092dceca43044bbefe34</link><description><![CDATA[<a href="https://fast.io/">https://fast.io/</a> - Host PDFs, videos, images, etc. with direct links on a fast global network. Free and includes CDN, custom domains, and analytics. Free for Personal Projects includes 5 Sites, 500 MB per Files, Free 100 GB Usage / Month<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'master' of https://github.com/ripienaar/free-for-dev in…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0388197d47e5ebc0583948742faceccc2968c4e6</link><description><![CDATA[<a href="https://free.getbricks.app/) - a note-taking app (PWA">https://free.getbricks.app/) - a note-taking app (PWA</a> - Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.<br>
+<a href="https://sourcelevel.io/">https://sourcelevel.io/</a> - Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.<br>
+<a href="https://devpal.xyz/base64-decode/">https://devpal.xyz/base64-decode/</a> - — Online free tool for decoding & encoding data.<br>
+<a href="https://www.zenhub.com">https://www.zenhub.com</a> - The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations<br>
+<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update the Email list and UI and design list by adding free tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/533ee7810ce74de0c4d26e866625cd166cf8f000</link><description><![CDATA[<a href="https://www.mail7.io/">https://www.mail7.io/</a> - Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API<br>
+<a href="https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height">https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height</a> - - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add API Mocha</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f6fe73f7db6d01efd3fea2b43631bd590194cbd</link><description><![CDATA[<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.<br>
  ]]></description>
@@ -33,85 +59,6 @@
 <item>
 	<title>Add SourceLevel</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/02ee629c50618a799bcaae3106a873fac37c2024</link><description><![CDATA[<a href="https://sourcelevel.io/">https://sourcelevel.io/</a> - Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Bricks note-taking calculator</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2549e3448e887475a17a8225b5f2d1ae0b83e664</link><description><![CDATA[<a href="https://free.getbricks.app/) - a note-taking app (PWA">https://free.getbricks.app/) - a note-taking app (PWA</a> - Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update links</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a9603f7e6159a2e1c9f6680306793233bd020970</link><description><![CDATA[<a href="https://azure.microsoft.com/services/virtual-machines/">https://azure.microsoft.com/services/virtual-machines/</a> - - 1 B1S Linux VM, 1 B1S Windows VM<br>
-<a href="https://azure.microsoft.com/services/app-service/">https://azure.microsoft.com/services/app-service/</a> - - 10 web, mobile or API apps<br>
-<a href="https://azure.microsoft.com/services/functions/">https://azure.microsoft.com/services/functions/</a> - 1 million requests per month<br>
-<a href="https://azure.microsoft.com/services/devtest-lab/">https://azure.microsoft.com/services/devtest-lab/</a> - - Enable fast, easy, and lean dev-test environments<br>
-<a href="https://azure.microsoft.com/services/active-directory/">https://azure.microsoft.com/services/active-directory/</a> - - 500,000 objects<br>
-<a href="https://azure.microsoft.com/services/active-directory/external-identities/b2c/">https://azure.microsoft.com/services/active-directory/external-identities/b2c/</a> - B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 monthly stored users<br>
-<a href="https://azure.microsoft.com/services/devops/">https://azure.microsoft.com/services/devops/</a> - - 5 active users, unlimited private Git repos<br>
-<a href="https://azure.microsoft.com/services/devops/pipelines/">https://azure.microsoft.com/services/devops/pipelines/</a> - — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows<br>
-<a href="https://azure.microsoft.com/services/iot-hub/">https://azure.microsoft.com/services/iot-hub/</a> - Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day<br>
-<a href="https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP">https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP</a> - - 1 free public load balanced IP (VIP)<br>
-<a href="https://azure.microsoft.com/services/notification-hubs/">https://azure.microsoft.com/services/notification-hubs/</a> - - 1 million push notifications<br>
-<a href="https://azure.microsoft.com/pricing/details/bandwidth/">https://azure.microsoft.com/pricing/details/bandwidth/</a> - 5GB egress per month<br>
-<a href="https://azure.microsoft.com/services/cosmos-db/">https://azure.microsoft.com/services/cosmos-db/</a> - - 5GB storage and 400 RUs of provisioned throughput<br>
-<a href="https://azure.microsoft.com/pricing/details/app-service/static/">https://azure.microsoft.com/pricing/details/app-service/static/</a> - Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains<br>
-<a href="https://azure.microsoft.com/services/storage/">https://azure.microsoft.com/services/storage/</a> - 5GB LRS File or Blob storage<br>
-<a href="https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...">https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...</a> - - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions<br>
-<a href="https://azure.microsoft.com/services/search/#features">https://azure.microsoft.com/services/search/#features</a> - - AI-based search and indexation service, free for 10,000 documents<br>
-<a href="https://azure.microsoft.com/services/kubernetes-service/">https://azure.microsoft.com/services/kubernetes-service/</a> - Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management<br>
-<a href="https://azure.microsoft.com/services/event-grid/">https://azure.microsoft.com/services/event-grid/</a> - - 100K ops/month<br>
-<a href="https://azure.microsoft.com/free/">https://azure.microsoft.com/free/</a> - list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/)<br>
-<a href="https://outlook.live.com/owa/">https://outlook.live.com/owa/</a> - Free personal email and calendar<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' of github.com:sinedied/free-for-dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/973429f22c23a08256861a20358d7107ac9df7a8</link><description><![CDATA[<a href="https://statusgator.com/">https://statusgator.com/</a> - Status page monitoring, 3 monitors free<br>
-<a href="https://www.squash.io/">https://www.squash.io/</a> - — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.<br>
-<a href="https://cirrus-ci.org">https://cirrus-ci.org</a> - Free for public GitHub repositories<br>
-<a href="https://codemagic.io/">https://codemagic.io/</a> - Free 500 build minutes/month<br>
-<a href="https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit">https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit</a> - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place<br>
-<a href="https://videoinu.com">https://videoinu.com</a> - Create and edit screen recordings and other videos online.<br>
-<a href="https://randomkeygen.com/">https://randomkeygen.com/</a> - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.<br>
-<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
-<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email vaidator API, which helps to identify whether an email is dispsoable and having valid MX records.<br>
-<a href="https://teletype.oorja.io/">https://teletype.oorja.io/</a> - share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.<br>
-<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases including IP geolocation, gender detection or even email validation.<br>
-<a href="https://algorithmia.com/">https://algorithmia.com/</a> - Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.<br>
-<a href="https://bigml.com/">https://bigml.com/</a> - Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.<br>
-<a href="https://www.dominodatalab.com">https://www.dominodatalab.com</a> - Data science with support for Python, R, Spark, Hadoop, MATLAB and others.<br>
-<a href="https://konghq.com/">https://konghq.com/</a> - API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.<br>
-<a href="https://monkeylearn.com/">https://monkeylearn.com/</a> - Text analysis with machine learning, free 300 queries/month.<br>
-<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool.<br>
-<a href="https://myfakeapi.com">https://myfakeapi.com</a> - Free serverless API mocking service for developers.<br>
-<a href="https://interaction-design.co.za/openapidesigner/">https://interaction-design.co.za/openapidesigner/</a> - — Visually create Open API 3 definitions for free.<br>
-<a href="https://parsehub.com/">https://parsehub.com/</a> - Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.<br>
-<a href="https://restlet.com/products/apispark/">https://restlet.com/products/apispark/</a> - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.<br>
-<a href="https://scrapinghub.com">https://scrapinghub.com</a> - Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.<br>
-<a href="https://shrtco.de/docs">https://shrtco.de/docs</a> - - Free URL Shortening API without authorisation and no request limits.<br>
-<a href="https://timedoor.io">https://timedoor.io</a> - - A time series analysis API.<br>
-<a href="https://wit.ai/">https://wit.ai/</a> - NLP for developers.<br>
-<a href="http://wolfram.com/language/">http://wolfram.com/language/</a> - Built-in knowledge-based algorithms in the cloud.<br>
-<a href="https://wrapapi.com/">https://wrapapi.com/</a> - Turn any website into a parameterized API. 30k API calls per month.<br>
-<a href="https://zenscrape.com/web-scraping-api">https://zenscrape.com/web-scraping-api</a> - Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits.<br>
-<a href="https://www.cloudflare.com/">https://www.cloudflare.com/</a> - <br>
-<a href="https://developers.cloudflare.com/argo-tunnel/trycloudflare">https://developers.cloudflare.com/argo-tunnel/trycloudflare</a> - Expose local HTTP servers through Argo Tunnel to public.<br>
-<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/50 resources per project for free.<br>
-<a href="https://atlastk.org/">https://atlastk.org/</a> - - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.<br>
-<a href="https://www.redsmin.com/">https://www.redsmin.com/</a> - Online real-time monitoring and administration service for Redis, Monitoring for 1 Redis instance free<br>
-<a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30Mb redis instance<br>
- ]]></description>
-</item>
-<item>
-	<title>Centralize all Azure services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d4acc4bcc86141831ca2f23863778afd9446338d</link><description><![CDATA[<a href="https://azure.microsoft.com/services/devops/pipelines/?WT.mc_id=freefordev-github-yolasors">https://azure.microsoft.com/services/devops/pipelines/?WT.mc_id=freefordev-github-yolasors</a> - — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows<br>
-<a href="https://azure.microsoft.com/services/search/?WT.mc_id=freefordev-github-yolasors#features">https://azure.microsoft.com/services/search/?WT.mc_id=freefordev-github-yolasors#features</a> - - AI-based search and indexation service, free for 10,000 documents<br>
- ]]></description>
-</item>
-<item>
-	<title>add bootify.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9e6827312757367f4b7bbc41964a9df845129eec</link><description><![CDATA[<a href="https://bootify.io/">https://bootify.io/</a> - Spring Boot app generator with custom database and REST API.<br>
  ]]></description>
 </item>
 
