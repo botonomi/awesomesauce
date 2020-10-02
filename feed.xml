@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9792cebc56333857fd531df3187ac80c70891cd3</link><description><![CDATA[<a href="https://amixr.io/">https://amixr.io/</a> - Developer-friendly alerting and on-call management with brilliant Slack Integration, API and Terraform. Free phone call, SMS, Telegram, Slack and E-Mail packages.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Free temporary and disposable phone numbers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/21b4e871bad381eabf794ba84d58f00c20a4b146</link><description><![CDATA[<a href="https://smsreceivefree.com/">https://smsreceivefree.com/</a> - Provides free temporary and disposable phone numbers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update some PaaS description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b9d9de19db5bc2c200297b22a1ea0c92aecc0d05</link><description><![CDATA[<a href="https://glitch.com/">https://glitch.com/</a> - Free public/private hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.<br>
 <a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for remote development. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
@@ -46,20 +56,6 @@
 <item>
 	<title>Removing "hiberly" - website is down</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/93e8c711c28e4a0aa73bee9e7d333befb16feb3c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removing Releaseflags project gone</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c073373da2e98625cd003a3a8bd9261c105f980f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Base64 online tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/23ae4a9929b51ebb6c811c5eaa25b7d070abf3de</link><description><![CDATA[<a href="https://devpal.xyz/base64-decode/">https://devpal.xyz/base64-decode/</a> - — Online free tool for decoding & encoding data.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add SourceLevel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/02ee629c50618a799bcaae3106a873fac37c2024</link><description><![CDATA[<a href="https://sourcelevel.io/">https://sourcelevel.io/</a> - Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.<br>
- ]]></description>
 </item>
 
 </channel>
