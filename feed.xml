@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Bip</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c8b1c8307c5b40711db554b84541ac3d076097e</link><description><![CDATA[<a href="https://bip.sh">https://bip.sh</a> - Bip provides zero downtime deployment, a global CDN, SSL, and more for static websites. Free plan with 100GB/month bandwidth.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9792cebc56333857fd531df3187ac80c70891cd3</link><description><![CDATA[<a href="https://amixr.io/">https://amixr.io/</a> - Developer-friendly alerting and on-call management with brilliant Slack Integration, API and Terraform. Free phone call, SMS, Telegram, Slack and E-Mail packages.<br>
  ]]></description>
