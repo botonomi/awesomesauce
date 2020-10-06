@@ -4,6 +4,35 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add ip.city</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/100f6f02d43b10821c7540f63910bca3376c1cdd</link><description><![CDATA[<a href="https://ip.city">https://ip.city</a> - 100 free IP geolocation requests per day<br>
+ ]]></description>
+</item>
+<item>
+	<title>add pingmeter</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ff2273a671f9d6b3ccb7392dff38fd5903dc14a7</link><description><![CDATA[<a href="https://pingmeter.com/">https://pingmeter.com/</a> - 5 uptime monitors with 10 minutes interval. monitor SSH, HTTP, HTTPS, and any custom TCP ports.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add hitsteps</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9980275c56238a3ea3fa2705f4107a1dd02155fd</link><description><![CDATA[<a href="https://hitsteps.com/">https://hitsteps.com/</a> - 2,000 pageviews per month for 1 website<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add reactflow</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bfa9f0623f0b611f6ba1c37a5645af289d1e804a</link><description><![CDATA[<a href="https://www.reactflow.com/">https://www.reactflow.com/</a> - Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking<br>
+ ]]></description>
+</item>
+<item>
+	<title>howuku belongs to session recording category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/81790ffd6607f0552774ab1300727ad6dfb3e2fd</link><description><![CDATA[<a href="https://howuku.com">https://howuku.com</a> - Track user interaction, engagement, and event. Free for up to 5,000 visits/month<br>
+ ]]></description>
+</item>
+<item>
+	<title>hotjar was mentioned two times (in analytics and in session recording).</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00f520948ba4ae243e5920b19e6283c9d7a4426e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added Bip</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8c8b1c8307c5b40711db554b84541ac3d076097e</link><description><![CDATA[<a href="https://bip.sh">https://bip.sh</a> - Bip provides zero downtime deployment, a global CDN, SSL, and more for static websites. Free plan with 100GB/month bandwidth.<br>
  ]]></description>
@@ -37,30 +66,6 @@
 <a href="https://www.zenhub.com">https://www.zenhub.com</a> - The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations<br>
 <a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update the Email list and UI and design list by adding free tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/533ee7810ce74de0c4d26e866625cd166cf8f000</link><description><![CDATA[<a href="https://www.mail7.io/">https://www.mail7.io/</a> - Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API<br>
-<a href="https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height">https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height</a> - - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add API Mocha</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f6fe73f7db6d01efd3fea2b43631bd590194cbd</link><description><![CDATA[<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixing Zenhub entry</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f36c87c45e7f302163a7e59d8b3d0849207522c5</link><description><![CDATA[<a href="https://www.zenhub.com">https://www.zenhub.com</a> - The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations<br>
- ]]></description>
-</item>
-<item>
-	<title>Removing zenhub (website is down)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1be1176a56a053e2ba163e0ba2162f24b398347e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removing "hiberly" - website is down</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/93e8c711c28e4a0aa73bee9e7d333befb16feb3c</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
