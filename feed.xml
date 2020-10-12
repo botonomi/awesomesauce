@@ -4,6 +4,24 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Sandstorm</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4f0ac76ceb7c0db6ae57ca02583051acaa065425</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove k8spin and kubesail</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7a10d5cfb7c097cef9faaa816b36b4bad1e70b08</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e5c42bcd62761eb21a1ab1abc45b75c7db24501a</link><description><![CDATA[<a href="https://panelbear.com/">https://panelbear.com/</a> - Blazingly fast and private, free tier includes 5,000 pageviews per month for unlimited websites<br>
+ ]]></description>
+</item>
+<item>
+	<title>Mention Panelbear free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5c1a901190b81bff2d6cee782ca221373078ea56</link><description><![CDATA[<a href="https://panelbear.com/">https://panelbear.com/</a> - The analytics suite for the modern web. Free: 5,000 pageviews per month for unlimited websites<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Localazy</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b990686da27a6218f8487f6a6d254bf3a1dfc0ee</link><description><![CDATA[<a href="https://localazy.com">https://localazy.com</a> - Free for unlimited strings, unlimited contributors<br>
  ]]></description>
@@ -45,22 +63,6 @@
 <item>
 	<title>Added Bip</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8c8b1c8307c5b40711db554b84541ac3d076097e</link><description><![CDATA[<a href="https://bip.sh">https://bip.sh</a> - Bip provides zero downtime deployment, a global CDN, SSL, and more for static websites. Free plan with 100GB/month bandwidth.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9792cebc56333857fd531df3187ac80c70891cd3</link><description><![CDATA[<a href="https://amixr.io/">https://amixr.io/</a> - Developer-friendly alerting and on-call management with brilliant Slack Integration, API and Terraform. Free phone call, SMS, Telegram, Slack and E-Mail packages.<br>
- ]]></description>
-</item>
-<item>
-	<title>Free temporary and disposable phone numbers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/21b4e871bad381eabf794ba84d58f00c20a4b146</link><description><![CDATA[<a href="https://smsreceivefree.com/">https://smsreceivefree.com/</a> - Provides free temporary and disposable phone numbers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update some PaaS description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b9d9de19db5bc2c200297b22a1ea0c92aecc0d05</link><description><![CDATA[<a href="https://glitch.com/">https://glitch.com/</a> - Free public/private hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.<br>
-<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for remote development. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
  ]]></description>
 </item>
 
