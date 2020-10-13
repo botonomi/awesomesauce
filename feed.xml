@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Typos</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f7b9fd4cd38b6b0410829a56d052a892594d2cc1</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Sandstorm</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f0ac76ceb7c0db6ae57ca02583051acaa065425</link><description><![CDATA[ ]]></description>
 </item>
@@ -59,11 +64,6 @@
 <item>
 	<title>hotjar was mentioned two times (in analytics and in session recording).</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/00f520948ba4ae243e5920b19e6283c9d7a4426e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Bip</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c8b1c8307c5b40711db554b84541ac3d076097e</link><description><![CDATA[<a href="https://bip.sh">https://bip.sh</a> - Bip provides zero downtime deployment, a global CDN, SSL, and more for static websites. Free plan with 100GB/month bandwidth.<br>
- ]]></description>
 </item>
 
 </channel>
