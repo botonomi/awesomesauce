@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update DJ Checkup description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/11add3220483bbec2f36a78d171ee2a23a87c3ed</link><description><![CDATA[<a href="https://djcheckup.com">https://djcheckup.com</a> - — Scan your Django site for security flaws with this free, automated, checkup tool. Forked from the Pony Checkup site.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DJ Checkup</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/90d18e4a814310ed9d72fd0e1a9299feb69cbdd7</link><description><![CDATA[<a href="https://djcheckup.com">https://djcheckup.com</a> - — Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Typos</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f7b9fd4cd38b6b0410829a56d052a892594d2cc1</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.<br>
  ]]></description>
@@ -55,15 +65,6 @@
 	<title>Add reactflow</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bfa9f0623f0b611f6ba1c37a5645af289d1e804a</link><description><![CDATA[<a href="https://www.reactflow.com/">https://www.reactflow.com/</a> - Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking<br>
  ]]></description>
-</item>
-<item>
-	<title>howuku belongs to session recording category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/81790ffd6607f0552774ab1300727ad6dfb3e2fd</link><description><![CDATA[<a href="https://howuku.com">https://howuku.com</a> - Track user interaction, engagement, and event. Free for up to 5,000 visits/month<br>
- ]]></description>
-</item>
-<item>
-	<title>hotjar was mentioned two times (in analytics and in session recording).</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/00f520948ba4ae243e5920b19e6283c9d7a4426e</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
