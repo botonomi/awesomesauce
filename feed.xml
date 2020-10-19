@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added EverSQL to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/04c789209e0f9af33016f6ab82a08341302c9340</link><description><![CDATA[<a href="https://www.eversql.com/">https://www.eversql.com/</a> - EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries, auto-magically.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update DJ Checkup description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/11add3220483bbec2f36a78d171ee2a23a87c3ed</link><description><![CDATA[<a href="https://djcheckup.com">https://djcheckup.com</a> - — Scan your Django site for security flaws with this free, automated, checkup tool. Forked from the Pony Checkup site.<br>
  ]]></description>
@@ -54,16 +59,6 @@
 <item>
 	<title>add pingmeter</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ff2273a671f9d6b3ccb7392dff38fd5903dc14a7</link><description><![CDATA[<a href="https://pingmeter.com/">https://pingmeter.com/</a> - 5 uptime monitors with 10 minutes interval. monitor SSH, HTTP, HTTPS, and any custom TCP ports.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add hitsteps</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9980275c56238a3ea3fa2705f4107a1dd02155fd</link><description><![CDATA[<a href="https://hitsteps.com/">https://hitsteps.com/</a> - 2,000 pageviews per month for 1 website<br>
- ]]></description>
-</item>
-<item>
-	<title>Add reactflow</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bfa9f0623f0b611f6ba1c37a5645af289d1e804a</link><description><![CDATA[<a href="https://www.reactflow.com/">https://www.reactflow.com/</a> - Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking<br>
  ]]></description>
 </item>
 
