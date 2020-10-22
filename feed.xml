@@ -4,6 +4,37 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Sort CMS section alphabetically</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6be0c0b68cd08349db1504902fa800cc2dc39cd3</link><description><![CDATA[<a href="https://www.cosmicjs.com/">https://www.cosmicjs.com/</a> - Headless CMS and API toolkit. Free personal plans for developers.<br>
+<a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
+<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
+<a href="https://www.kontent.ai">https://www.kontent.ai</a> - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Codefactor to Code Quality section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e80597c1153c1a3ef8100302ac6ef8b770c87d90</link><description><![CDATA[<a href="https://www.codefactor.io">https://www.codefactor.io</a> - Automated Code Review for Git. Free version includes unlimited users, unlimited public repositories and 1 private repo.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Crystallize to CMS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fb1592995a50a24395620b9ce1fcee16a3c0be51</link><description><![CDATA[<a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Lowercase file ending</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e5c0c2934b9507c5793fec52d67f195fa9c9f5c7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Revert rename of README.MD</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2201e4cc73450a57727c33bcfc664f9c9f485509</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Cloudmersive to API Section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5079be2b4c43de579b861481620c5202daffc0ad</link><description><![CDATA[<a href="https://cloudmersive.com/">https://cloudmersive.com/</a> - Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removed extra line added in prior commit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6063e09b0c4e0677f6f1fc0a9ee2fd2362564620</link><description><![CDATA[ ]]></description>
 </item>
@@ -21,40 +52,6 @@
 	<title>Added Nuclino</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/de316a2a8ace14989bd426104cb55374005e8574</link><description><![CDATA[<a href="https://www.nuclino.com">https://www.nuclino.com</a> - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, 5GB total storage.<br>
  ]]></description>
-</item>
-<item>
-	<title>Added tree schema, the human-friendly data catalog.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3fd3865bf128a01b84b9a4d15505083192ed1baf</link><description><![CDATA[<a href="#metadata-management-and-data-catalogs">#metadata-management-and-data-catalogs</a> - and Data Catalogs](#metadata-management-and-data-catalogs)<br>
-<a href="https://treeschema.com/">https://treeschema.com/</a> - — Data catalog with APIs to manage data lineage as code. Free for teams of up to 5 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added EverSQL to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/04c789209e0f9af33016f6ab82a08341302c9340</link><description><![CDATA[<a href="https://www.eversql.com/">https://www.eversql.com/</a> - EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries, auto-magically.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update DJ Checkup description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/11add3220483bbec2f36a78d171ee2a23a87c3ed</link><description><![CDATA[<a href="https://djcheckup.com">https://djcheckup.com</a> - — Scan your Django site for security flaws with this free, automated, checkup tool. Forked from the Pony Checkup site.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DJ Checkup</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/90d18e4a814310ed9d72fd0e1a9299feb69cbdd7</link><description><![CDATA[<a href="https://djcheckup.com">https://djcheckup.com</a> - — Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.<br>
- ]]></description>
-</item>
-<item>
-	<title>Typos</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f7b9fd4cd38b6b0410829a56d052a892594d2cc1</link><description><![CDATA[<a href="http://eva.pingutil.com/">http://eva.pingutil.com/</a> - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Sandstorm</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4f0ac76ceb7c0db6ae57ca02583051acaa065425</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove k8spin and kubesail</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7a10d5cfb7c097cef9faaa816b36b4bad1e70b08</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
