@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added 3Cols to Tools for Teams and Collaboration section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3ef3efc81cf3a900a5850124ae9e8e95946e1148</link><description><![CDATA[<a href="https://3cols.com/">https://3cols.com/</a> - A free cloud based code snippet manager for personal and collaborative code.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Sort CMS section alphabetically</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6be0c0b68cd08349db1504902fa800cc2dc39cd3</link><description><![CDATA[<a href="https://www.cosmicjs.com/">https://www.cosmicjs.com/</a> - Headless CMS and API toolkit. Free personal plans for developers.<br>
 <a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
@@ -46,11 +51,6 @@
 <item>
 	<title>Added vabotu</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c0c10faa7d1b14a1ab1033a3fe405b1da6c52e7c</link><description><![CDATA[<a href="https://vabotu.com/">https://vabotu.com/</a> - A collaborative tool for project management. Free and other plans are avaiable. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Nuclino</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/de316a2a8ace14989bd426104cb55374005e8574</link><description><![CDATA[<a href="https://www.nuclino.com">https://www.nuclino.com</a> - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, 5GB total storage.<br>
  ]]></description>
 </item>
 
