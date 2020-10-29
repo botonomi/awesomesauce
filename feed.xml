@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removed fast.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/937e04acae7a5178d1fc8d1150e9cce7c041cc32</link><description><![CDATA[<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added 3Cols to Tools for Teams and Collaboration section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3ef3efc81cf3a900a5850124ae9e8e95946e1148</link><description><![CDATA[<a href="https://3cols.com/">https://3cols.com/</a> - A free cloud based code snippet manager for personal and collaborative code.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Moved treeschema to existing category</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/65c644a3e065134f96f86a3027fef855b1449b7e</link><description><![CDATA[<a href="https://treeschema.com/">https://treeschema.com/</a> - — Data catalog and metadata management with APIs to manage data lineage as code. Free for teams of up to 5 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added vabotu</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c0c10faa7d1b14a1ab1033a3fe405b1da6c52e7c</link><description><![CDATA[<a href="https://vabotu.com/">https://vabotu.com/</a> - A collaborative tool for project management. Free and other plans are avaiable. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.<br>
  ]]></description>
 </item>
 
