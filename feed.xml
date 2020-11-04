@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removed Dployr</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7045800d9d19072f20f407fbab2dddd3d88c699c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>added lambda store</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b0aa61a4dc8856bc86fb49e67eb15e26b0359379</link><description><![CDATA[<a href="https://lambda.store/">https://lambda.store/</a> - Serverless Redis with free tier up to 5000 requests per day and 256MB max database size<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removed fast.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/937e04acae7a5178d1fc8d1150e9cce7c041cc32</link><description><![CDATA[<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
  ]]></description>
@@ -42,15 +51,6 @@
 <item>
 	<title>Added Cloudmersive to API Section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5079be2b4c43de579b861481620c5202daffc0ad</link><description><![CDATA[<a href="https://cloudmersive.com/">https://cloudmersive.com/</a> - Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed extra line added in prior commit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6063e09b0c4e0677f6f1fc0a9ee2fd2362564620</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Moved treeschema to existing category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65c644a3e065134f96f86a3027fef855b1449b7e</link><description><![CDATA[<a href="https://treeschema.com/">https://treeschema.com/</a> - — Data catalog and metadata management with APIs to manage data lineage as code. Free for teams of up to 5 users.<br>
  ]]></description>
 </item>
 
