@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding simplebackups.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a163d6859bdc806a42c8229bb22bded47e0f253c</link><description><![CDATA[<a href="https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...">https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...</a> - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...). Provides free plan for 1 backup.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removed Dployr</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7045800d9d19072f20f407fbab2dddd3d88c699c</link><description><![CDATA[ ]]></description>
 </item>
@@ -47,11 +52,6 @@
 <item>
 	<title>Revert rename of README.MD</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2201e4cc73450a57727c33bcfc664f9c9f485509</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Cloudmersive to API Section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5079be2b4c43de579b861481620c5202daffc0ad</link><description><![CDATA[<a href="https://cloudmersive.com/">https://cloudmersive.com/</a> - Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.<br>
- ]]></description>
 </item>
 
 </channel>
