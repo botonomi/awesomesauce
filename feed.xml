@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Grapedrop to Design and UI section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e11ae75d56e0cee9ab856293c9bf02db4995be59</link><description><![CDATA[<a href="https://grapedrop.com/">https://grapedrop.com/</a> - Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added GrapesJS to Design and UI section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0243e6b267c02aa06a91b1cb2dd894ab60d633c5</link><description><![CDATA[<a href="https://grapesjs.com/) — Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source">https://grapesjs.com/) — Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source</a> - Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding simplebackups.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a163d6859bdc806a42c8229bb22bded47e0f253c</link><description><![CDATA[<a href="https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...">https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...</a> - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...). Provides free plan for 1 backup.<br>
  ]]></description>
@@ -44,14 +54,6 @@
 	<title>Added Crystallize to CMS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fb1592995a50a24395620b9ce1fcee16a3c0be51</link><description><![CDATA[<a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
  ]]></description>
-</item>
-<item>
-	<title>Lowercase file ending</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e5c0c2934b9507c5793fec52d67f195fa9c9f5c7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Revert rename of README.MD</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2201e4cc73450a57727c33bcfc664f9c9f485509</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
