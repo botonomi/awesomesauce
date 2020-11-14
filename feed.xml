@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f06d768bc1a58dcc67f8547c875f2b01ad28864b</link><description><![CDATA[<a href="https://mailsac.com) - Free API and for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit">https://mailsac.com) - Free API and for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit</a> - Free API and for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adds mailsac.com free tier for API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/91d87daa9dc7d9f6d92e50359872b5f11afa8ef9</link><description><![CDATA[<a href="https://mailsac.com) - Free API for temporary email testing, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit">https://mailsac.com) - Free API for temporary email testing, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit</a> - Free API for temporary email testing, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Grapedrop to Design and UI section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e11ae75d56e0cee9ab856293c9bf02db4995be59</link><description><![CDATA[<a href="https://grapedrop.com/">https://grapedrop.com/</a> - Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.<br>
  ]]></description>
@@ -43,16 +53,6 @@
 <a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
 <a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
 <a href="https://www.kontent.ai">https://www.kontent.ai</a> - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Codefactor to Code Quality section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e80597c1153c1a3ef8100302ac6ef8b770c87d90</link><description><![CDATA[<a href="https://www.codefactor.io">https://www.codefactor.io</a> - Automated Code Review for Git. Free version includes unlimited users, unlimited public repositories and 1 private repo.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Crystallize to CMS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fb1592995a50a24395620b9ce1fcee16a3c0be51</link><description><![CDATA[<a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
  ]]></description>
 </item>
 
