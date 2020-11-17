@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fixes minor typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7dd9143f39998f2510668953034ed455edacc9b</link><description><![CDATA[<a href="https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit">https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit</a> - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/69b444aa9c29dc74bdb01825d47bb7f48c6ddc02</link><description><![CDATA[<a href="https://astra.datastax.com/register">https://astra.datastax.com/register</a> - Cloud Native Cassandra as a Service with 5GB free tier<br>
  ]]></description>
@@ -50,14 +55,6 @@
 <item>
 	<title>Added 3Cols to Tools for Teams and Collaboration section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3ef3efc81cf3a900a5850124ae9e8e95946e1148</link><description><![CDATA[<a href="https://3cols.com/">https://3cols.com/</a> - A free cloud based code snippet manager for personal and collaborative code.<br>
- ]]></description>
-</item>
-<item>
-	<title>Sort CMS section alphabetically</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6be0c0b68cd08349db1504902fa800cc2dc39cd3</link><description><![CDATA[<a href="https://www.cosmicjs.com/">https://www.cosmicjs.com/</a> - Headless CMS and API toolkit. Free personal plans for developers.<br>
-<a href="https://crystallize.com">https://crystallize.com</a> - Headless PIM with ecommerce support. Built-in GraphQL API. Free version includes unlimited users, 1000 catalogue items, 5 GB/month bandwidth and 25k/month API calls.<br>
-<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
-<a href="https://www.kontent.ai">https://www.kontent.ai</a> - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.<br>
  ]]></description>
 </item>
 
