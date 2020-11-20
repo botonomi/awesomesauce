@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removing dead link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3cd11b4022f334fd57c78370efe173d69df1b6fb</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Adds Collect2.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1a2b8398dc836f51fdc5f0bb260860de0efd068d</link><description><![CDATA[<a href="https://collect2.com">https://collect2.com</a> - Create an API endpoint to test, automate, and connect webhooks. Free plan allows for two datasets, 2000 records, 1 forwarder, and 1 alert.<br>
  ]]></description>
