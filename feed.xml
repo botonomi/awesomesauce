@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fc6e376f25b81bb411ef2dd26298dc44d4c140d7</link><description><![CDATA[<a href="https://fauna.com/">https://fauna.com/</a> - Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removing dead link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3cd11b4022f334fd57c78370efe173d69df1b6fb</link><description><![CDATA[ ]]></description>
 </item>
@@ -49,11 +54,6 @@
 <item>
 	<title>Added GrapesJS to Design and UI section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0243e6b267c02aa06a91b1cb2dd894ab60d633c5</link><description><![CDATA[<a href="https://grapesjs.com/) — Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source">https://grapesjs.com/) — Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source</a> - Web builder framework which provides API to create your own editor to make beautiful HTML templates (open-source)<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding simplebackups.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a163d6859bdc806a42c8229bb22bded47e0f253c</link><description><![CDATA[<a href="https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...">https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...</a> - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...). Provides free plan for 1 backup.<br>
  ]]></description>
 </item>
 
