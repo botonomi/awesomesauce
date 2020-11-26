@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Scalr</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7ccf774fd08fbeaf23770800deeebafef407d19b</link><description><![CDATA[<a href="https://scalr.com/">https://scalr.com/</a> - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>QuickMocker free plan limitations</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8bb058c97eabde97a9922bfeb5f7bd48afe57114</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes) for response templating and more. Free account provides 1 random subdomain, 5 endpoints, 2 RegExp URL paths, 60 requests per day, 30 history records in requests log.<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Clean up AWS link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd2146fbdf26ea8e8cd4c46eef36eee066aadbd4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>fixes minor typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7dd9143f39998f2510668953034ed455edacc9b</link><description><![CDATA[<a href="https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit">https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit</a> - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)<br>
- ]]></description>
 </item>
 
 </channel>
