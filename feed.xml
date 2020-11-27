@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Shorter description of Knapsack Pro</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b55a558cabe54bd81fa541d79f2f112e07bce34a</link><description><![CDATA[<a href="https://knapsackpro.com">https://knapsackpro.com</a> - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Similar Words API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ba61ee140272c4a4dce09a32fe3c96d9a6c6a4c3</link><description><![CDATA[<a href="https://word-simi.herokuapp.com/">https://word-simi.herokuapp.com/</a> - API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Knapsack Pro to testing tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a2a760c7805a01632a1d211c697144279be65b25</link><description><![CDATA[<a href="https://knapsackpro.com/?utm_source=github&utm_medium=awesomelist&utm_campaign=free-for-dev) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest">https://knapsackpro.com/?utm_source=github&utm_medium=awesomelist&utm_campaign=free-for-dev) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest</a> - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest), native API integration. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Scalr</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7ccf774fd08fbeaf23770800deeebafef407d19b</link><description><![CDATA[<a href="https://scalr.com/">https://scalr.com/</a> - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.<br>
  ]]></description>
@@ -41,20 +56,6 @@
 <item>
 	<title>Removing dead link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3cd11b4022f334fd57c78370efe173d69df1b6fb</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Adds Collect2.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1a2b8398dc836f51fdc5f0bb260860de0efd068d</link><description><![CDATA[<a href="https://collect2.com">https://collect2.com</a> - Create an API endpoint to test, automate, and connect webhooks. Free plan allows for two datasets, 2000 records, 1 forwarder, and 1 alert.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added exceptionless</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/48ea3fa77a35fbcb461e764708dbb9f8c8b471dc</link><description><![CDATA[<a href="https://exceptionless.com">https://exceptionless.com</a> - Real-time error, feature, log reporting and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Clean up AWS link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dd2146fbdf26ea8e8cd4c46eef36eee066aadbd4</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
