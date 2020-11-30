@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>wording</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/15eea9c515fec8773fb6ff81659fdb44084c9395</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimited.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Shorter description of Knapsack Pro</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b55a558cabe54bd81fa541d79f2f112e07bce34a</link><description><![CDATA[<a href="https://knapsackpro.com">https://knapsackpro.com</a> - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.<br>
  ]]></description>
@@ -52,10 +57,6 @@
 	<title>Update Readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b9264003fb467842597cb216fb28d409bf82cb90</link><description><![CDATA[<a href="https://snapshooter.io/">https://snapshooter.io/</a> - Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage.<br>
  ]]></description>
-</item>
-<item>
-	<title>Removing dead link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3cd11b4022f334fd57c78370efe173d69df1b6fb</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
