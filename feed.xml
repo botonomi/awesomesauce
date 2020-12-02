@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added new DNS servers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bebefc0aadd5e5b858ee180185c9750a368b04c5</link><description><![CDATA[<a href="https://www.hetzner.com/dns-console">https://www.hetzner.com/dns-console</a> - Free DNS hosting from Hetzner with API support<br>
+<a href="https://docs.glauca.digital/hexdns/">https://docs.glauca.digital/hexdns/</a> - Free DNS hosting for up to 3 domains and DNSSEC support<br>
+ ]]></description>
+</item>
+<item>
+	<title>Typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/de9367e71e08c35d833783f29b494a94b8dc6b18</link><description><![CDATA[<a href="https://www.loginradius.com/">https://www.loginradius.com/</a> - Managed User Authentication service for free. Email registration and 3 social providers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>wording</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15eea9c515fec8773fb6ff81659fdb44084c9395</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimited.<br>
  ]]></description>
@@ -41,21 +52,6 @@
 <item>
 	<title>Add restspace.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6d820e38664b334b9c7baee17ebc5ebb3b57af0c</link><description><![CDATA[<a href="https://restspace.io/">https://restspace.io/</a> - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fc6e376f25b81bb411ef2dd26298dc44d4c140d7</link><description><![CDATA[<a href="https://fauna.com/">https://fauna.com/</a> - Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB<br>
- ]]></description>
-</item>
-<item>
-	<title>Add details of SnapShooter free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65be0b16bfc58074c6363166f7650ebba89914c0</link><description><![CDATA[<a href="https://snapshooter.io/">https://snapshooter.io/</a> - Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Readme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b9264003fb467842597cb216fb28d409bf82cb90</link><description><![CDATA[<a href="https://snapshooter.io/">https://snapshooter.io/</a> - Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage.<br>
  ]]></description>
 </item>
 
