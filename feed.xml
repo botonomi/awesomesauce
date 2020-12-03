@@ -4,6 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added appfleet</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/35c7ceb8ddef344583c2799c6c820f27f7456223</link><description><![CDATA[<a href="https://appfleet.com/">https://appfleet.com/</a> - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. It offers a simple to use UI while automating all the complexity like smart routing, clustering, failover, monitoring and so on. It’s free for open source projects and all users automatically get $10 to host whatever they want.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Mockup Mark in Design and UI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cb936dad0118b170ac9fd603f7d2484ce5ffff2d</link><description><![CDATA[<a href="https://mockupmark.com/create/free">https://mockupmark.com/create/free</a> - Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add sensenet to the CMS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/74ce6fd0e1f57c3f41da5096f427ef450ed29cb0</link><description><![CDATA[<a href="https://sensenet.com">https://sensenet.com</a> - API-first headless CMS providing enterprise-grade solutions for businesses of all size. The Developer plan provides 3 users, 500 content items, 3 built-in roles, 25+5 content types, fully accessible REST API, document preview generation and Office Online editing.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed unavailable services :</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bc83e7a566d1cdfd03c04df424bece8841d55ec5</link><description><![CDATA[<a href="https://www.opswat.com/">https://www.opswat.com/</a> - Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history users.<br>
+<a href="https://readme.com/">https://readme.com/</a> - Beautiful documentation made easy, free for Open Source.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ef9a190fedf1bc5f907b8e8f5bea1a81bc1625fc</link><description><![CDATA[ ]]></description>
 </item>
@@ -26,31 +47,6 @@
 <item>
 	<title>Shorter description of Knapsack Pro</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b55a558cabe54bd81fa541d79f2f112e07bce34a</link><description><![CDATA[<a href="https://knapsackpro.com">https://knapsackpro.com</a> - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Similar Words API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ba61ee140272c4a4dce09a32fe3c96d9a6c6a4c3</link><description><![CDATA[<a href="https://word-simi.herokuapp.com/">https://word-simi.herokuapp.com/</a> - API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Knapsack Pro to testing tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a2a760c7805a01632a1d211c697144279be65b25</link><description><![CDATA[<a href="https://knapsackpro.com/?utm_source=github&utm_medium=awesomelist&utm_campaign=free-for-dev) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest">https://knapsackpro.com/?utm_source=github&utm_medium=awesomelist&utm_campaign=free-for-dev) - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest</a> - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Supported test runners in Ruby (RSpec, Minitest, Test::Unit, Cucumber, Spinach, Turnip), in JavaScript (Cypress.io, Jest), native API integration. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Scalr</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7ccf774fd08fbeaf23770800deeebafef407d19b</link><description><![CDATA[<a href="https://scalr.com/">https://scalr.com/</a> - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>QuickMocker free plan limitations</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8bb058c97eabde97a9922bfeb5f7bd48afe57114</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes) for response templating and more. Free account provides 1 random subdomain, 5 endpoints, 2 RegExp URL paths, 60 requests per day, 30 history records in requests log.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eab561eafad05fba267a368802a3e16ea00d61a7</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes) for response templating and more.<br>
  ]]></description>
 </item>
 
