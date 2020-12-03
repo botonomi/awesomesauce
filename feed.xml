@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ef9a190fedf1bc5f907b8e8f5bea1a81bc1625fc</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added new DNS servers</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bebefc0aadd5e5b858ee180185c9750a368b04c5</link><description><![CDATA[<a href="https://www.hetzner.com/dns-console">https://www.hetzner.com/dns-console</a> - Free DNS hosting from Hetzner with API support<br>
 <a href="https://docs.glauca.digital/hexdns/">https://docs.glauca.digital/hexdns/</a> - Free DNS hosting for up to 3 domains and DNSSEC support<br>
@@ -47,11 +51,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eab561eafad05fba267a368802a3e16ea00d61a7</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, dynamic values (shortcodes) for response templating and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add restspace.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6d820e38664b334b9c7baee17ebc5ebb3b57af0c</link><description><![CDATA[<a href="https://restspace.io/">https://restspace.io/</a> - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.<br>
  ]]></description>
 </item>
 
