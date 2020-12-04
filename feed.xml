@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Container Registry Service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6c52973716a1035ab15e33da0a4f32676757d7f2</link><description><![CDATA[<a href="https://container-registry.com/">https://container-registry.com/</a> - Service](https://container-registry.com/) - Harbor based Container Management Solution. Free tier offers 1 GB storage for private repositories.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added New Relic an observability platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0c794678fa336472ebff65742e9d4e2ee4daf110</link><description><![CDATA[<a href="https://www.newrelic.com">https://www.newrelic.com</a> - Observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. Free tier offers 100GB/month of free data ingest, 1 free full access user, and unlimited free basic users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added appfleet</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/35c7ceb8ddef344583c2799c6c820f27f7456223</link><description><![CDATA[<a href="https://appfleet.com/">https://appfleet.com/</a> - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. It offers a simple to use UI while automating all the complexity like smart routing, clustering, failover, monitoring and so on. It’s free for open source projects and all users automatically get $10 to host whatever they want.<br>
  ]]></description>
@@ -42,11 +52,6 @@
 <item>
 	<title>wording</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15eea9c515fec8773fb6ff81659fdb44084c9395</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimited.<br>
- ]]></description>
-</item>
-<item>
-	<title>Shorter description of Knapsack Pro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b55a558cabe54bd81fa541d79f2f112e07bce34a</link><description><![CDATA[<a href="https://knapsackpro.com">https://knapsackpro.com</a> - Speed up your tests with optimal test suite parallelisation on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes test files and free unlimited plan for Open Source projects.<br>
  ]]></description>
 </item>
 
