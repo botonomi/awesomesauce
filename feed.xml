@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Include Authress First 1000 API calls are free</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fc7f2ce083b2b57d98c509b1a117fc30a0eb1276</link><description><![CDATA[<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. First 1000 API calls are free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Authress free tier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/12820f0008f8fe06390ea27f36eae4d2ad9a21ba</link><description><![CDATA[<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Container Registry Service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6c52973716a1035ab15e33da0a4f32676757d7f2</link><description><![CDATA[<a href="https://container-registry.com/">https://container-registry.com/</a> - Service](https://container-registry.com/) - Harbor based Container Management Solution. Free tier offers 1 GB storage for private repositories.<br>
  ]]></description>
@@ -42,16 +52,6 @@
 	<title>Added new DNS servers</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bebefc0aadd5e5b858ee180185c9750a368b04c5</link><description><![CDATA[<a href="https://www.hetzner.com/dns-console">https://www.hetzner.com/dns-console</a> - Free DNS hosting from Hetzner with API support<br>
 <a href="https://docs.glauca.digital/hexdns/">https://docs.glauca.digital/hexdns/</a> - Free DNS hosting for up to 3 domains and DNSSEC support<br>
- ]]></description>
-</item>
-<item>
-	<title>Typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/de9367e71e08c35d833783f29b494a94b8dc6b18</link><description><![CDATA[<a href="https://www.loginradius.com/">https://www.loginradius.com/</a> - Managed User Authentication service for free. Email registration and 3 social providers.<br>
- ]]></description>
-</item>
-<item>
-	<title>wording</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/15eea9c515fec8773fb6ff81659fdb44084c9395</link><description><![CDATA[<a href="https://codesnip.com.br">https://codesnip.com.br</a> - Simple code snippets manager with categories, search and tags. free and unlimited.<br>
  ]]></description>
 </item>
 
