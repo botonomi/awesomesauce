@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added web.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4ef3176f843720415a10710a2dc2c11dcdc634c9</link><description><![CDATA[<a href="https://https://web.dev/measure/">https://https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Include Authress First 1000 API calls are free</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fc7f2ce083b2b57d98c509b1a117fc30a0eb1276</link><description><![CDATA[<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. First 1000 API calls are free.<br>
  ]]></description>
@@ -47,12 +52,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ef9a190fedf1bc5f907b8e8f5bea1a81bc1625fc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added new DNS servers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bebefc0aadd5e5b858ee180185c9750a368b04c5</link><description><![CDATA[<a href="https://www.hetzner.com/dns-console">https://www.hetzner.com/dns-console</a> - Free DNS hosting from Hetzner with API support<br>
-<a href="https://docs.glauca.digital/hexdns/">https://docs.glauca.digital/hexdns/</a> - Free DNS hosting for up to 3 domains and DNSSEC support<br>
- ]]></description>
 </item>
 
 </channel>
