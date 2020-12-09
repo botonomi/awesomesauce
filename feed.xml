@@ -4,6 +4,14 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remuving tadum</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/780d38256fafa41f32f49d26bb16c8251190c030</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>removing helpmonks</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/18d8d6e2aae145f73c7b4b2d627cb2c52df4395f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added web.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4ef3176f843720415a10710a2dc2c11dcdc634c9</link><description><![CDATA[<a href="https://https://web.dev/measure/">https://https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
  ]]></description>
@@ -42,16 +50,6 @@
 	<title>Add sensenet to the CMS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/74ce6fd0e1f57c3f41da5096f427ef450ed29cb0</link><description><![CDATA[<a href="https://sensenet.com">https://sensenet.com</a> - API-first headless CMS providing enterprise-grade solutions for businesses of all size. The Developer plan provides 3 users, 500 content items, 3 built-in roles, 25+5 content types, fully accessible REST API, document preview generation and Office Online editing.<br>
  ]]></description>
-</item>
-<item>
-	<title>Removed unavailable services :</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bc83e7a566d1cdfd03c04df424bece8841d55ec5</link><description><![CDATA[<a href="https://www.opswat.com/">https://www.opswat.com/</a> - Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history users.<br>
-<a href="https://readme.com/">https://readme.com/</a> - Beautiful documentation made easy, free for Open Source.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ef9a190fedf1bc5f907b8e8f5bea1a81bc1625fc</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
