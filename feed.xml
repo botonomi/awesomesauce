@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>link updated/fixed</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00415707fe04e8f4cc43667c4fd3d907ffb45912</link><description><![CDATA[<a href="https://web.dev/measure/">https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remuving tadum</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/780d38256fafa41f32f49d26bb16c8251190c030</link><description><![CDATA[ ]]></description>
 </item>
@@ -44,11 +49,6 @@
 <item>
 	<title>Added Mockup Mark in Design and UI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cb936dad0118b170ac9fd603f7d2484ce5ffff2d</link><description><![CDATA[<a href="https://mockupmark.com/create/free">https://mockupmark.com/create/free</a> - Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add sensenet to the CMS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/74ce6fd0e1f57c3f41da5096f427ef450ed29cb0</link><description><![CDATA[<a href="https://sensenet.com">https://sensenet.com</a> - API-first headless CMS providing enterprise-grade solutions for businesses of all size. The Developer plan provides 3 users, 500 content items, 3 built-in roles, 25+5 content types, fully accessible REST API, document preview generation and Office Online editing.<br>
  ]]></description>
 </item>
 
