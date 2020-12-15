@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Boxysvg in Design and UI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/48234be6d88765a06c59f4c944553c99c6483f27</link><description><![CDATA[<a href="https://boxy-svg.com/app">https://boxy-svg.com/app</a> - A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.<br>
+ ]]></description>
+</item>
+<item>
+	<title>sorted the code-search and browsing Alphabetically</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/04620821b56420de8c12315d00473c8872b0df26</link><description><![CDATA[<a href="https://namae.dev/">https://namae.dev/</a> - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Disease.sh</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9fc6c718ebb08f184934d557527282d71e2ee7dd</link><description><![CDATA[<a href="https://disease.sh/">https://disease.sh/</a> - A free API providing accurate data for building the Covid-19 related useful Apps.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added namae : https://namae.dev/</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/664e8d1d0e90c31430df74847a8c9619732f76ac</link><description><![CDATA[<a href="https://namae.dev/">https://namae.dev/</a> - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.<br>
+ ]]></description>
+</item>
+<item>
 	<title>link updated/fixed</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/00415707fe04e8f4cc43667c4fd3d907ffb45912</link><description><![CDATA[<a href="https://web.dev/measure/">https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
  ]]></description>
@@ -29,26 +49,6 @@
 <item>
 	<title>Add Authress free tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/12820f0008f8fe06390ea27f36eae4d2ad9a21ba</link><description><![CDATA[<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Container Registry Service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6c52973716a1035ab15e33da0a4f32676757d7f2</link><description><![CDATA[<a href="https://container-registry.com/">https://container-registry.com/</a> - Service](https://container-registry.com/) - Harbor based Container Management Solution. Free tier offers 1 GB storage for private repositories.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added New Relic an observability platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0c794678fa336472ebff65742e9d4e2ee4daf110</link><description><![CDATA[<a href="https://www.newrelic.com">https://www.newrelic.com</a> - Observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. Free tier offers 100GB/month of free data ingest, 1 free full access user, and unlimited free basic users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added appfleet</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/35c7ceb8ddef344583c2799c6c820f27f7456223</link><description><![CDATA[<a href="https://appfleet.com/">https://appfleet.com/</a> - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. It offers a simple to use UI while automating all the complexity like smart routing, clustering, failover, monitoring and so on. It’s free for open source projects and all users automatically get $10 to host whatever they want.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Mockup Mark in Design and UI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cb936dad0118b170ac9fd603f7d2484ce5ffff2d</link><description><![CDATA[<a href="https://mockupmark.com/create/free">https://mockupmark.com/create/free</a> - Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.<br>
  ]]></description>
 </item>
 
