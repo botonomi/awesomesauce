@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ba76865c02c88134f3806d0f7b51302565ab9c21</link><description><![CDATA[<a href="https://openapidesigner.com/">https://openapidesigner.com/</a> - — Visually create Open API 3 definitions for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added DNS from F5</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/64c723b4acbdb451b7215df61c95b7de0eb5bccb</link><description><![CDATA[<a href="https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service">https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service</a> - Free Anycast DNS hosting for primary zones. And free for secondary zones up to 1 domain and 3 million requests per month.<br>
  ]]></description>
@@ -44,16 +49,6 @@
 <item>
 	<title>Added web.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4ef3176f843720415a10710a2dc2c11dcdc634c9</link><description><![CDATA[<a href="https://https://web.dev/measure/">https://https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
- ]]></description>
-</item>
-<item>
-	<title>Include Authress First 1000 API calls are free</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fc7f2ce083b2b57d98c509b1a117fc30a0eb1276</link><description><![CDATA[<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. First 1000 API calls are free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Authress free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/12820f0008f8fe06390ea27f36eae4d2ad9a21ba</link><description><![CDATA[<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more.<br>
  ]]></description>
 </item>
 
