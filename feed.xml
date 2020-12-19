@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove heatlyanalytics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54914470b95fc2878cb1dc6038bb3d4929310c0e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ba76865c02c88134f3806d0f7b51302565ab9c21</link><description><![CDATA[<a href="https://openapidesigner.com/">https://openapidesigner.com/</a> - — Visually create Open API 3 definitions for free.<br>
  ]]></description>
@@ -45,11 +49,6 @@
 <item>
 	<title>removing helpmonks</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/18d8d6e2aae145f73c7b4b2d627cb2c52df4395f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added web.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4ef3176f843720415a10710a2dc2c11dcdc634c9</link><description><![CDATA[<a href="https://https://web.dev/measure/">https://https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
- ]]></description>
 </item>
 
 </channel>
