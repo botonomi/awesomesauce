@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updates to QuickMocker free features and quotas</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/022f473170b58fabe8f67eba6c58d6b911955d12</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove heatlyanalytics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/54914470b95fc2878cb1dc6038bb3d4929310c0e</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,10 +50,6 @@
 <item>
 	<title>remuving tadum</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/780d38256fafa41f32f49d26bb16c8251190c030</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>removing helpmonks</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/18d8d6e2aae145f73c7b4b2d627cb2c52df4395f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
