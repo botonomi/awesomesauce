@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Slab</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a9799f7a0ea229ca808f0d1914fbfac39e6c96bc</link><description><![CDATA[<a href="https://slab.com/">https://slab.com/</a> - A modern knowledge management service for teams. Free for up to 10 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added new services IP Geo Loaction and CurrencyFreaks</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8b2cc7f24a4d65ec78a129f333cc7ff57a53d16b</link><description><![CDATA[<a href="https://ipgeolocation.io/">https://ipgeolocation.io/</a> - — Free DEVELOPER plan available with 30K requests/month.<br>
 <a href="https://currencyfreaks.com/">https://currencyfreaks.com/</a> - Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.<br>
@@ -46,11 +51,6 @@
 <item>
 	<title>Added namae : https://namae.dev/</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/664e8d1d0e90c31430df74847a8c9619732f76ac</link><description><![CDATA[<a href="https://namae.dev/">https://namae.dev/</a> - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.<br>
- ]]></description>
-</item>
-<item>
-	<title>link updated/fixed</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/00415707fe04e8f4cc43667c4fd3d907ffb45912</link><description><![CDATA[<a href="https://web.dev/measure/">https://web.dev/measure/</a> - This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.<br>
  ]]></description>
 </item>
 
