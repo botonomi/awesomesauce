@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Protectumus Website Security Scanner</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a4fb5d2cbaa975ea396b9158fc8c57ccada20ed3</link><description><![CDATA[<a href="https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF">https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF</a> - Free website security check, site antivirus and server firewall (WAF). Email and SMS notifications for registered users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Slab</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9799f7a0ea229ca808f0d1914fbfac39e6c96bc</link><description><![CDATA[<a href="https://slab.com/">https://slab.com/</a> - A modern knowledge management service for teams. Free for up to 10 users.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Added Disease.sh</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9fc6c718ebb08f184934d557527282d71e2ee7dd</link><description><![CDATA[<a href="https://disease.sh/">https://disease.sh/</a> - A free API providing accurate data for building the Covid-19 related useful Apps.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added namae : https://namae.dev/</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/664e8d1d0e90c31430df74847a8c9619732f76ac</link><description><![CDATA[<a href="https://namae.dev/">https://namae.dev/</a> - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.<br>
  ]]></description>
 </item>
 
