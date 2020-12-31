@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added information about BotFront</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ba29237276011c75d6b7834af3b4b77069590eba</link><description><![CDATA[<a href="https://botfront.net/">https://botfront.net/</a> - Free CDN and DDoS protection for one domain and three subdomains<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added BotFront</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d97ca21a07c40c0e0c56f3741c3c90d2861251ee</link><description><![CDATA[<a href="https://botfront.net/#pricing">https://botfront.net/#pricing</a> - Free CDN and DDoS protection<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Protectumus Website Security Scanner</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a4fb5d2cbaa975ea396b9158fc8c57ccada20ed3</link><description><![CDATA[<a href="https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF">https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF</a> - Free website security check, site antivirus and server firewall (WAF). Email and SMS notifications for registered users.<br>
  ]]></description>
@@ -41,16 +51,6 @@
 <item>
 	<title>Added Boxysvg in Design and UI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/48234be6d88765a06c59f4c944553c99c6483f27</link><description><![CDATA[<a href="https://boxy-svg.com/app">https://boxy-svg.com/app</a> - A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.<br>
- ]]></description>
-</item>
-<item>
-	<title>sorted the code-search and browsing Alphabetically</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/04620821b56420de8c12315d00473c8872b0df26</link><description><![CDATA[<a href="https://namae.dev/">https://namae.dev/</a> - Search across various websites like github,gitlab,heroku,netlify and many more for availabilty of your project name.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Disease.sh</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9fc6c718ebb08f184934d557527282d71e2ee7dd</link><description><![CDATA[<a href="https://disease.sh/">https://disease.sh/</a> - A free API providing accurate data for building the Covid-19 related useful Apps.<br>
  ]]></description>
 </item>
 
