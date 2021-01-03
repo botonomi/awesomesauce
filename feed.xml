@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>000webhost has ads on each pages</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dd35d607ee9109c991942fc92fbe5d01ad3b269d</link><description><![CDATA[<a href="https://www.000webhost.com/">https://www.000webhost.com/</a> - Zero cost website hosting with Apache, PHP, MySQL, cPanel with ads on the bottom of each pages!<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added information about BotFront</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ba29237276011c75d6b7834af3b4b77069590eba</link><description><![CDATA[<a href="https://botfront.net/">https://botfront.net/</a> - Free CDN and DDoS protection for one domain and three subdomains<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Added DNS from F5</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/64c723b4acbdb451b7215df61c95b7de0eb5bccb</link><description><![CDATA[<a href="https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service">https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service</a> - Free Anycast DNS hosting for primary zones. And free for secondary zones up to 1 domain and 3 million requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Boxysvg in Design and UI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/48234be6d88765a06c59f4c944553c99c6483f27</link><description><![CDATA[<a href="https://boxy-svg.com/app">https://boxy-svg.com/app</a> - A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.<br>
  ]]></description>
 </item>
 
