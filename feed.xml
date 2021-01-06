@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding Prepros.io to the IDE and Code Editing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/aeb487d5f46ac25bec4a015b7fbfbc10389e2922</link><description><![CDATA[<a href="https://prepros.io/">https://prepros.io/</a> - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript and TypeScript out of the box, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding divio to the the PaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c048a789ccb3f405e950e2f06d6900b261ed3eba</link><description><![CDATA[<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects.<br>
  ]]></description>
@@ -47,11 +52,6 @@
 <item>
 	<title>Remove heatlyanalytics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/54914470b95fc2878cb1dc6038bb3d4929310c0e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ba76865c02c88134f3806d0f7b51302565ab9c21</link><description><![CDATA[<a href="https://openapidesigner.com/">https://openapidesigner.com/</a> - — Visually create Open API 3 definitions for free.<br>
- ]]></description>
 </item>
 
 </channel>
