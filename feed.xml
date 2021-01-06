@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding divio to the the PaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c048a789ccb3f405e950e2f06d6900b261ed3eba</link><description><![CDATA[<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>000webhost has ads on each pages</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd35d607ee9109c991942fc92fbe5d01ad3b269d</link><description><![CDATA[<a href="https://www.000webhost.com/">https://www.000webhost.com/</a> - Zero cost website hosting with Apache, PHP, MySQL, cPanel with ads on the bottom of each pages!<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ba76865c02c88134f3806d0f7b51302565ab9c21</link><description><![CDATA[<a href="https://openapidesigner.com/">https://openapidesigner.com/</a> - — Visually create Open API 3 definitions for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added DNS from F5</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/64c723b4acbdb451b7215df61c95b7de0eb5bccb</link><description><![CDATA[<a href="https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service">https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service</a> - Free Anycast DNS hosting for primary zones. And free for secondary zones up to 1 domain and 3 million requests per month.<br>
  ]]></description>
 </item>
 
