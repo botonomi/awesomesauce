@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ab71bbf660ce2f8294609f90f54100dd88f364c0</link><description><![CDATA[<a href="https://ide.cs50.io/">https://ide.cs50.io/</a> - A free IDE powered by AWS Cloud9 by Harvard University.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updating Freedb</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/734f80d5678bbb9f6b2fcb1d6c86940486197a36</link><description><![CDATA[<a href="https://freedb.tech">https://freedb.tech</a> - Free MySQL cloud database with remote access with PhpMyAdmin available. Free tier allows a database up to 100Mb in Database Storage. **If the database exceeding 100Mb will be deleted without any warning.**<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding Freedb as a DBaaS list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dfa5a4ff373227c8d891e3a2e3111d0ea5666582</link><description><![CDATA[<a href="https://freedb.tech">https://freedb.tech</a> - Free MySQL cloud database with remote access up to 100Mb in Database Storage with PhpMyAdmin available and unlimited simultaneous connections.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding Prepros.io to the IDE and Code Editing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aeb487d5f46ac25bec4a015b7fbfbc10389e2922</link><description><![CDATA[<a href="https://prepros.io/">https://prepros.io/</a> - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript and TypeScript out of the box, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.<br>
  ]]></description>
@@ -43,15 +58,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/8b2cc7f24a4d65ec78a129f333cc7ff57a53d16b</link><description><![CDATA[<a href="https://ipgeolocation.io/">https://ipgeolocation.io/</a> - — Free DEVELOPER plan available with 30K requests/month.<br>
 <a href="https://currencyfreaks.com/">https://currencyfreaks.com/</a> - Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Updates to QuickMocker free features and quotas</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/022f473170b58fabe8f67eba6c58d6b911955d12</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove heatlyanalytics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54914470b95fc2878cb1dc6038bb3d4929310c0e</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
