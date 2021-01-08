@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Form2Channel.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/19db4289336ac6d186924c4590b189da068fe80d</link><description><![CDATA[<a href="https://form2channel.com">https://form2channel.com</a> - Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ab71bbf660ce2f8294609f90f54100dd88f364c0</link><description><![CDATA[<a href="https://ide.cs50.io/">https://ide.cs50.io/</a> - A free IDE powered by AWS Cloud9 by Harvard University.<br>
  ]]></description>
@@ -51,12 +56,6 @@
 <item>
 	<title>Added Slab</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9799f7a0ea229ca808f0d1914fbfac39e6c96bc</link><description><![CDATA[<a href="https://slab.com/">https://slab.com/</a> - A modern knowledge management service for teams. Free for up to 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>added new services IP Geo Loaction and CurrencyFreaks</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8b2cc7f24a4d65ec78a129f333cc7ff57a53d16b</link><description><![CDATA[<a href="https://ipgeolocation.io/">https://ipgeolocation.io/</a> - — Free DEVELOPER plan available with 30K requests/month.<br>
-<a href="https://currencyfreaks.com/">https://currencyfreaks.com/</a> - Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.<br>
  ]]></description>
 </item>
 
