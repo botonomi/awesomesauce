@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>HostingTocDo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3595a16cd23bd3e855bd7080e8ab73212cfde16f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>gave gitlab pages a more discriptive name</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ba657557b29e9337d6bac2c1110f5d0ccc6b7309</link><description><![CDATA[<a href="https://about.gitlab.com/product/pages/">https://about.gitlab.com/product/pages/</a> - — Hosting static site directly from GitLab repository<br>
  ]]></description>
@@ -51,11 +55,6 @@
 <item>
 	<title>Added BotFront</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d97ca21a07c40c0e0c56f3741c3c90d2861251ee</link><description><![CDATA[<a href="https://botfront.net/#pricing">https://botfront.net/#pricing</a> - Free CDN and DDoS protection<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Protectumus Website Security Scanner</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a4fb5d2cbaa975ea396b9158fc8c57ccada20ed3</link><description><![CDATA[<a href="https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF">https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF</a> - Free website security check, site antivirus and server firewall (WAF). Email and SMS notifications for registered users.<br>
  ]]></description>
 </item>
 
