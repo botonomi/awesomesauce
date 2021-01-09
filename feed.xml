@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>gave gitlab pages a more discriptive name</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ba657557b29e9337d6bac2c1110f5d0ccc6b7309</link><description><![CDATA[<a href="https://about.gitlab.com/product/pages/">https://about.gitlab.com/product/pages/</a> - — Hosting static site directly from GitLab repository<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Form2Channel.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/19db4289336ac6d186924c4590b189da068fe80d</link><description><![CDATA[<a href="https://form2channel.com">https://form2channel.com</a> - Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Added Protectumus Website Security Scanner</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a4fb5d2cbaa975ea396b9158fc8c57ccada20ed3</link><description><![CDATA[<a href="https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF">https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF</a> - Free website security check, site antivirus and server firewall (WAF). Email and SMS notifications for registered users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Slab</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a9799f7a0ea229ca808f0d1914fbfac39e6c96bc</link><description><![CDATA[<a href="https://slab.com/">https://slab.com/</a> - A modern knowledge management service for teams. Free for up to 10 users.<br>
  ]]></description>
 </item>
 
