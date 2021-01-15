@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added testtls.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cfac94b89c05b4a0568808be7143557c37c283d7</link><description><![CDATA[<a href="https://testtls.com">https://testtls.com</a> - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added unixtime API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9a322433c78c6c3ff3b9b098dab0e5d7b714e09f</link><description><![CDATA[<a href="https://unixtime.co.za">https://unixtime.co.za</a> - Free API to convert Unixtime to DateTime and vice versa.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Adding Freedb as a DBaaS list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dfa5a4ff373227c8d891e3a2e3111d0ea5666582</link><description><![CDATA[<a href="https://freedb.tech">https://freedb.tech</a> - Free MySQL cloud database with remote access up to 100Mb in Database Storage with PhpMyAdmin available and unlimited simultaneous connections.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Prepros.io to the IDE and Code Editing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aeb487d5f46ac25bec4a015b7fbfbc10389e2922</link><description><![CDATA[<a href="https://prepros.io/">https://prepros.io/</a> - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript and TypeScript out of the box, reloads your browsers and makes it really easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.<br>
  ]]></description>
 </item>
 
