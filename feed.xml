@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Formspree no longer requires exposing your email</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2ae3036efd1a56093dfcd184fb4c08004a7e2a77</link><description><![CDATA[<a href="https://formspree.io/">https://formspree.io/</a> - Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/537be2f524c7ff43213151978c90f40f4dd9740b</link><description><![CDATA[<a href="https://erratic.host">https://erratic.host</a> - — 1.5 GB storage, unlimited bandwidth, PHP 8, DNS Manager, cPanel, Software Installer, E-Mail Accounts. Run your own website without any questions<br>
  ]]></description>
@@ -46,16 +51,6 @@
 <item>
 	<title>HostingTocDo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3595a16cd23bd3e855bd7080e8ab73212cfde16f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dd5303f12d0752d7c12d837ed3cb4a4acca4ca0a</link><description><![CDATA[<a href="https://bip.sh">https://bip.sh</a> - Bip provides zero downtime deployment, a global CDN, SSL, and more for static websites. Free plan only for 7 days.<br>
- ]]></description>
-</item>
-<item>
-	<title>Bip only offer  free 7 days trial</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/40753b79b6412bdc2dca51f01b8aed6749063701</link><description><![CDATA[<a href="https://bip.sh">https://bip.sh</a> - Bip provides zero downtime deployment, a global CDN, SSL, and more for static websites. Free plan only for 7days.<br>
- ]]></description>
 </item>
 
 </channel>
