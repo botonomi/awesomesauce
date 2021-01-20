@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Web3forms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b3dc90516a5e2a0aa1065de04636255d5a13a912</link><description><![CDATA[<a href="https://web3forms.com">https://web3forms.com</a> - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Formspree no longer requires exposing your email</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2ae3036efd1a56093dfcd184fb4c08004a7e2a77</link><description><![CDATA[<a href="https://formspree.io/">https://formspree.io/</a> - Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.<br>
  ]]></description>
@@ -47,10 +52,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/1e06161f0146529776de4410acf4594898bd2d59</link><description><![CDATA[<a href="https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc">https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc</a> - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc)<br>
 <a href="https://mailbluster.com/) – Email marketing solution (with a free plan of Unlimited subscribers & 62k emails at $0/month">https://mailbluster.com/) – Email marketing solution (with a free plan of Unlimited subscribers & 62k emails at $0/month</a> - Email marketing solution (with a free plan of Unlimited subscribers & 62k emails at $0/month).<br>
  ]]></description>
-</item>
-<item>
-	<title>HostingTocDo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3595a16cd23bd3e855bd7080e8ab73212cfde16f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
