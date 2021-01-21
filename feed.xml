@@ -4,6 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add Ubiq Security</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00bd79b7a020dd4946f44a096ab4993f072a92e4</link><description><![CDATA[<a href="https://ubiqsecurity.com/">https://ubiqsecurity.com/</a> - — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove raidboxes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/47f84a7086e4766ce12df272ee6233b985a4012b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove Web Support Revolution</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8117fee54bd6b312f5a8c27b3008e602fd2fec4c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Correct Localazy pricing information</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d12a7fa80a05d72f689613487a47952eede4026c</link><description><![CDATA[<a href="https://localazy.com">https://localazy.com</a> - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals<br>
  ]]></description>
@@ -35,21 +48,6 @@
 <item>
 	<title>FunREtro is now EasyRetro</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b6551704b28b70f751a91065baf5d34877f024a9</link><description><![CDATA[<a href="https://www.easyretro.io/">https://www.easyretro.io/</a> - Free simple and intuitive sprint retrospective tool<br>
- ]]></description>
-</item>
-<item>
-	<title>Added testtls.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cfac94b89c05b4a0568808be7143557c37c283d7</link><description><![CDATA[<a href="https://testtls.com">https://testtls.com</a> - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added unixtime API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9a322433c78c6c3ff3b9b098dab0e5d7b714e09f</link><description><![CDATA[<a href="https://unixtime.co.za">https://unixtime.co.za</a> - Free API to convert Unixtime to DateTime and vice versa.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "Add mailbluster"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f8da9d87898bd76273e39fcbbcc9343da45adc4e</link><description><![CDATA[<a href="https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc">https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc</a> - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).<br>
  ]]></description>
 </item>
 
