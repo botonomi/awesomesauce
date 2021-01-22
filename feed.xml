@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added CodeKeep</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/79ddc9d01cf90cfa8fe2a13f1112ac7c860d04f1</link><description><![CDATA[<a href="https://codekeep.io">https://codekeep.io</a> - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Ubiq Security</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/00bd79b7a020dd4946f44a096ab4993f072a92e4</link><description><![CDATA[<a href="https://ubiqsecurity.com/">https://ubiqsecurity.com/</a> - — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c92c3f457cabee842f9b7baed0b3c8624f642103</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>FunREtro is now EasyRetro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b6551704b28b70f751a91065baf5d34877f024a9</link><description><![CDATA[<a href="https://www.easyretro.io/">https://www.easyretro.io/</a> - Free simple and intuitive sprint retrospective tool<br>
- ]]></description>
 </item>
 
 </channel>
