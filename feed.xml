@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>docs: changes in gitlab ci free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f7918ab06b8bb52f5109821ba54daa6fbc28dd3a</link><description><![CDATA[<a href="https://about.gitlab.com/product/continuous-integration/">https://about.gitlab.com/product/continuous-integration/</a> - Create pipelines directly from Git repositories using GitLab's CI service. 400 mins/mo per top-level group<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add StackHawk</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dfd020c82a48ac721bf93d027b2adbd79fd3e72d</link><description><![CDATA[<a href="https://etf-data.com/">https://etf-data.com/</a> - API](https://etf-data.com/) - Quality European ETF, ETN and ETC data, updated daily. The API offers complete overview including sector, country, factor, dividend yield and valuations. Additionally basic information such as domicile, followed index, asset class, fee, currency, replication method, distribution type and frequency. 50 free API calls per day.<br>
 <a href="https://www.scraperapi.com/">https://www.scraperapi.com/</a> - — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.<br>
@@ -56,11 +61,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/537be2f524c7ff43213151978c90f40f4dd9740b</link><description><![CDATA[<a href="https://erratic.host">https://erratic.host</a> - — 1.5 GB storage, unlimited bandwidth, PHP 8, DNS Manager, cPanel, Software Installer, E-Mail Accounts. Run your own website without any questions<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated postale.io entry</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cfa3fe6d79b578271417f078a06e73f2374f748c</link><description><![CDATA[<a href="https://postale.io/) — Free domain email addresses for up to 2 users per domain, one domain (per account">https://postale.io/) — Free domain email addresses for up to 2 users per domain, one domain (per account</a> - Free domain email addresses for up to 2 users per domain, one domain (per account), POP3/IMAP enabled, no ads<br>
  ]]></description>
 </item>
 
