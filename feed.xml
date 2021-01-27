@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a197e9cf782d1f9f936f861c37b767d49cfde199</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added graph cms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/16be8b61a9b577e9814ac2065f1ce3716227a87c</link><description><![CDATA[<a href="https://graphcms.com/">https://graphcms.com/</a> - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Remove Web Support Revolution</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8117fee54bd6b312f5a8c27b3008e602fd2fec4c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Correct Localazy pricing information</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d12a7fa80a05d72f689613487a47952eede4026c</link><description><![CDATA[<a href="https://localazy.com">https://localazy.com</a> - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals<br>
- ]]></description>
 </item>
 
 </channel>
