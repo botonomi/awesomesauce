@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix grafana cloud description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/12da2e5d091b9d0710b6a7dd3db315e112681e2f</link><description><![CDATA[<a href="https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention">https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention</a> - - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Grafana Cloud Free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3e153735294797921ad69b5597d369abe04a2d0a</link><description><![CDATA[<a href="https://grafana.com/products/cloud/) - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention">https://grafana.com/products/cloud/) - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention</a> - - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a197e9cf782d1f9f936f861c37b767d49cfde199</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.<br>
  ]]></description>
@@ -48,14 +58,6 @@
 	<title>add Ubiq Security</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/00bd79b7a020dd4946f44a096ab4993f072a92e4</link><description><![CDATA[<a href="https://ubiqsecurity.com/">https://ubiqsecurity.com/</a> - — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove raidboxes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/47f84a7086e4766ce12df272ee6233b985a4012b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Web Support Revolution</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8117fee54bd6b312f5a8c27b3008e602fd2fec4c</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
