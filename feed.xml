@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/55cb9173a363cd714212eb903e8377588454ede4</link><description><![CDATA[<a href="https://zeet.co/">https://zeet.co/</a> - Zeet is the easiest and fastest way to deploy and scale your code. It supports both code from GitHub or any public Docker image. Only one project is free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove BotFront</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/096ca22841eea3943ce9417068c1864fef38015a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Molasses</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9cfc01fbae0c6f923f5433760fa47769ec37681c</link><description><![CDATA[<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
  ]]></description>
@@ -52,16 +61,6 @@
 <a href="https://graphcomment.com/">https://graphcomment.com/</a> - GraphComment is a comments platform that helps you build an active community from website’s audience.<br>
 <a href="https://form2channel.com">https://form2channel.com</a> - Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.<br>
 <a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
- ]]></description>
-</item>
-<item>
-	<title>Added CodeKeep</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/79ddc9d01cf90cfa8fe2a13f1112ac7c860d04f1</link><description><![CDATA[<a href="https://codekeep.io">https://codekeep.io</a> - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Ubiq Security</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/00bd79b7a020dd4946f44a096ab4993f072a92e4</link><description><![CDATA[<a href="https://ubiqsecurity.com/">https://ubiqsecurity.com/</a> - — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.<br>
  ]]></description>
 </item>
 
