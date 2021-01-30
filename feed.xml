@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add 24browser.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/38a802799705d99acbe2c9dba966559f64c7c76b</link><description><![CDATA[<a href="https://www.24browser.com">https://www.24browser.com</a> - Capture beautifully rendered website screenshots at scale with powerful API.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into FatGrizzly-patch-69</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d41116abbf22151dc111a7fde1ca0a59f1235417</link><description><![CDATA[<a href="https://ubiqsecurity.com/">https://ubiqsecurity.com/</a> - — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.<br>
 <a href="https://codekeep.io">https://codekeep.io</a> - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.<br>
@@ -70,11 +75,6 @@
 <item>
 	<title>Remove Postale.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c6f103baa559c66cb786150292610a5203117045</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>docs: changes in gitlab ci free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f7918ab06b8bb52f5109821ba54daa6fbc28dd3a</link><description><![CDATA[<a href="https://about.gitlab.com/product/continuous-integration/">https://about.gitlab.com/product/continuous-integration/</a> - Create pipelines directly from Git repositories using GitLab's CI service. 400 mins/mo per top-level group<br>
- ]]></description>
 </item>
 
 </channel>
