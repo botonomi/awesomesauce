@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cb001f49c631d6bceab50a7f83a956a4279d410e</link><description><![CDATA[<a href="https://form.taxi/">https://form.taxi/</a> - Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 24browser.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/38a802799705d99acbe2c9dba966559f64c7c76b</link><description><![CDATA[<a href="https://www.24browser.com">https://www.24browser.com</a> - Capture beautifully rendered website screenshots at scale with powerful API.<br>
  ]]></description>
@@ -71,10 +76,6 @@
 	<title>added graph cms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/16be8b61a9b577e9814ac2065f1ce3716227a87c</link><description><![CDATA[<a href="https://graphcms.com/">https://graphcms.com/</a> - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove Postale.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c6f103baa559c66cb786150292610a5203117045</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
