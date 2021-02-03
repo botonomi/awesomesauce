@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update description for indicative.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7c1f39d214945f81bde0f8a91c3692946fd751f6</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 50M events/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>remove event count</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3b3925b331457aa2583963adb9bcdc1561717a11</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add indicative.com under Analytics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/74e3fe1f7a516a183d3db50100e9efdadb03009d</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 50M events/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added one free email service provider</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fc8fa6087f94eee9144b21c46898239ae4b3853d</link><description><![CDATA[<a href="https://mailazy.com/">https://mailazy.com/</a> - 250 emails/day free<br>
  ]]></description>
@@ -60,21 +75,6 @@
 <item>
 	<title>Add Molasses</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9cfc01fbae0c6f923f5433760fa47769ec37681c</link><description><![CDATA[<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix grafana cloud description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/12da2e5d091b9d0710b6a7dd3db315e112681e2f</link><description><![CDATA[<a href="https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention">https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention</a> - - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Grafana Cloud Free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3e153735294797921ad69b5597d369abe04a2d0a</link><description><![CDATA[<a href="https://grafana.com/products/cloud/) - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention">https://grafana.com/products/cloud/) - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention</a> - - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a197e9cf782d1f9f936f861c37b767d49cfde199</link><description><![CDATA[<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.<br>
  ]]></description>
 </item>
 
