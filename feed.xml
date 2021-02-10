@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added temp-mail.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/500cafc8241ac6acd35e45dd08a0b6f6217bf9d2</link><description><![CDATA[<a href="https://temp-mail.io">https://temp-mail.io</a> - Free disposable temporary email service with multiple emails at once and forwarding<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0be5e940ebb4a57ce60331308dd8d7b5ccb3b8d5</link><description><![CDATA[<a href="https://bump.email/">https://bump.email/</a> - Free 10 Bump email addresses, 1 custom domain<br>
+ ]]></description>
+</item>
+<item>
 	<title>update description for indicative.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7c1f39d214945f81bde0f8a91c3692946fd751f6</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 50M events/month.<br>
  ]]></description>
@@ -66,15 +76,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/55cb9173a363cd714212eb903e8377588454ede4</link><description><![CDATA[<a href="https://zeet.co/">https://zeet.co/</a> - Zeet is the easiest and fastest way to deploy and scale your code. It supports both code from GitHub or any public Docker image. Only one project is free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove BotFront</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/096ca22841eea3943ce9417068c1864fef38015a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Molasses</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9cfc01fbae0c6f923f5433760fa47769ec37681c</link><description><![CDATA[<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
  ]]></description>
 </item>
 
