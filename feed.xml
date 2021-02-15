@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removing KintoHub</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e3cd78f76cdd1f7de41af27305890940e2fa9c4b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added cronhooks.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/933c8ed43ef008308e96d50d153603df42cd958f</link><description><![CDATA[<a href="https://cronhooks.io/">https://cronhooks.io/</a> - Schedule one time or recurring webhooks using api and web app. Free plan allows 1 webhook schedule.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added cronhooks.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fcf083ce1d16eba85489e7b33582efa5efa9cc00</link><description><![CDATA[<a href="https://cronhooks.io/">https://cronhooks.io/</a> - Schedule one time or recurring webhooks using api and web app. Free plan allows 1 webhook schedule<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added atomist.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c573561e5e664aad41c605fc8925c5375fbf087d</link><description><![CDATA[<a href="https://atomist.com/">https://atomist.com/</a> - A quicker and more convenient way to automate a variety of development tasks. Now in beta.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added temp-mail.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/500cafc8241ac6acd35e45dd08a0b6f6217bf9d2</link><description><![CDATA[<a href="https://temp-mail.io">https://temp-mail.io</a> - Free disposable temporary email service with multiple emails at once and forwarding<br>
  ]]></description>
@@ -36,46 +55,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cb001f49c631d6bceab50a7f83a956a4279d410e</link><description><![CDATA[<a href="https://form.taxi/">https://form.taxi/</a> - Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.<br>
- ]]></description>
-</item>
-<item>
-	<title>add 24browser.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38a802799705d99acbe2c9dba966559f64c7c76b</link><description><![CDATA[<a href="https://www.24browser.com">https://www.24browser.com</a> - Capture beautifully rendered website screenshots at scale with powerful API.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into FatGrizzly-patch-69</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d41116abbf22151dc111a7fde1ca0a59f1235417</link><description><![CDATA[<a href="https://ubiqsecurity.com/">https://ubiqsecurity.com/</a> - — Encrypt and decrypt data with 3 lines of code and automatic key management. Free for 1 application and up to 1,000,000 encryptions per month.<br>
-<a href="https://codekeep.io">https://codekeep.io</a> - Google Keep for Code Snippets. Organize,Discover and share code snippets, featuring a powerful code screenshot tool with preset templates and linking feature.<br>
-<a href="https://etf-data.com/">https://etf-data.com/</a> - API](https://etf-data.com/) - Quality European ETF, ETN and ETC data, updated daily. The API offers complete overview including sector, country, factor, dividend yield and valuations. Additionally basic information such as domicile, followed index, asset class, fee, currency, replication method, distribution type and frequency. 50 free API calls per day.<br>
-<a href="https://www.scraperapi.com/">https://www.scraperapi.com/</a> - — Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month.<br>
-<a href="https://unixtime.co.za">https://unixtime.co.za</a> - Free API to convert Unixtime to DateTime and vice versa.<br>
-<a href="https://www.stackhawk.com/">https://www.stackhawk.com/</a> - application scanning throughout your pipeline to find and fix security bugs before they hit production. Unlimited scans and environments for a single app.<br>
-<a href="https://testtls.com">https://testtls.com</a> - Test a SSL/TLS service for secure server configuration, certificates, chains etc. Not limited to HTTPS.<br>
-<a href="https://www.deta.sh">https://www.deta.sh</a> - Deploy unlimited number of Node.js and Python apps for free up to 50k requests/month. Includes free DBs, Auth and email.<br>
-<a href="https://theendlessweb.com/">https://theendlessweb.com/</a> - — 300 MB storage, Free SSL, PHP, MySQL, FTP, free sub-domains, E-Mail, DNS, beatiful panel UI. One of the best!<br>
-<a href="https://fosshost.org/">https://fosshost.org/</a> - Free open source hosting VPS, web, storage and mirror hosting<br>
-<a href="https://www.cloudamqp.com/">https://www.cloudamqp.com/</a> - RabbitMQ as a Service, up to 1M messages/month and 20 connections free<br>
-<a href="https://grapedrop.com/">https://grapedrop.com/</a> - Responsive, powerful, SEO optimized web page builder based on GrapesJS Framework. Free for first 5 pages, unlimited custom domains, all features and simple usage.<br>
-<a href="https://graphcomment.com/">https://graphcomment.com/</a> - GraphComment is a comments platform that helps you build an active community from website’s audience.<br>
-<a href="https://form2channel.com">https://form2channel.com</a> - Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.<br>
-<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers<br>
-<a href="https://about.gitlab.com/product/continuous-integration/">https://about.gitlab.com/product/continuous-integration/</a> - Create pipelines directly from Git repositories using GitLab's CI service. 400 mins/mo per top-level group<br>
-<a href="https://graphcms.com/">https://graphcms.com/</a> - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.<br>
-<a href="https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger">https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger</a> - Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.<br>
-<a href="https://grafana.com/products/cloud/) - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention">https://grafana.com/products/cloud/) - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention</a> - - Grafana Cloud. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)<br>
-<a href="https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention">https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention</a> - - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)<br>
-<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
-<a href="https://zeet.co/">https://zeet.co/</a> - Zeet is the easiest and fastest way to deploy and scale your code. It supports both code from GitHub or any public Docker image. Only one project is free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Erratic.Host</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/516d4981675bb5211709963ddd4901e1d3e66239</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/55cb9173a363cd714212eb903e8377588454ede4</link><description><![CDATA[<a href="https://zeet.co/">https://zeet.co/</a> - Zeet is the easiest and fastest way to deploy and scale your code. It supports both code from GitHub or any public Docker image. Only one project is free.<br>
  ]]></description>
 </item>
 
