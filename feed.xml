@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add newline back</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2a23bc0c6ddec0ae6818150e9f9425193ac09a1c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add Ably to list of messaging services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8d0eeb9bbf20acf88ad8d083b614903a67bb679b</link><description><![CDATA[<a href="https://www.ably.com/">https://www.ably.com/</a> - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removing KintoHub</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e3cd78f76cdd1f7de41af27305890940e2fa9c4b</link><description><![CDATA[ ]]></description>
 </item>
@@ -50,11 +59,6 @@
 <item>
 	<title>added one free email service provider</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fc8fa6087f94eee9144b21c46898239ae4b3853d</link><description><![CDATA[<a href="https://mailazy.com/">https://mailazy.com/</a> - 250 emails/day free<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cb001f49c631d6bceab50a7f83a956a4279d410e</link><description><![CDATA[<a href="https://form.taxi/">https://form.taxi/</a> - Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.<br>
  ]]></description>
 </item>
 
