@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add notice to forwardemail.net</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/18e563ac31befb1d39b058404ed079c4621c4da2</link><description><![CDATA[<a href="https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam">https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)<br>
+ ]]></description>
+</item>
+<item>
 	<title>add newline back</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2a23bc0c6ddec0ae6818150e9f9425193ac09a1c</link><description><![CDATA[ ]]></description>
 </item>
@@ -54,11 +59,6 @@
 <item>
 	<title>add indicative.com under Analytics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/74e3fe1f7a516a183d3db50100e9efdadb03009d</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 50M events/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>added one free email service provider</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fc8fa6087f94eee9144b21c46898239ae4b3853d</link><description><![CDATA[<a href="https://mailazy.com/">https://mailazy.com/</a> - 250 emails/day free<br>
  ]]></description>
 </item>
 
