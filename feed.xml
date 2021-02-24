@@ -4,52 +4,8 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
-	<title>restored Kitemaker.co</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f41a5a310fcde6fe4ec002abe1367b05cb5a4abc</link><description><![CDATA[<a href="https://kitemaker.co">https://kitemaker.co</a> - Collaborate through all phases of the product development process and keep track of work across Slack, Discord, Figma, and Github. Unlimited users, unlimited spaces. Free plan up to 250 work items.<br>
- ]]></description>
-</item>
-<item>
-	<title>added PubNub as-a-Service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/042a8ede7e61db943c944871888f26298ad195fe</link><description><![CDATA[<a href="https://www.pubnub.com/">https://www.pubnub.com/</a> - Swift, Kotlin and React messaging at 1 million transactions each month. Transactions may contain multiple messages.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Kitemaker.co</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/811c522bb78cac30e9982ab7a865c26a05b7b1f0</link><description><![CDATA[<a href="https://kitemaker.co">https://kitemaker.co</a> - Collaborate through all phases of the product development process and keep track of work across Slack, Discord, Figma, and Github. Unlimited users, unlimited spaces. Free plan up to 250 work items.<br>
- ]]></description>
-</item>
-<item>
 	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a41b1e3e14c198a35921e5088a0fe080cb42f436</link><description><![CDATA[<a href="https://glitchtip.com/">https://glitchtip.com/</a> - Simple, open source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Loadmill to Testing section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e19d5a50f642478b2d190f96c48783afab5d2199</link><description><![CDATA[<a href="https://www.loadmill.com/">https://www.loadmill.com/</a> - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add GlitchTip to Crash & Exception Handling</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0f0e29fbe2d2a4ca0c3adefdf0fa343a65d02793</link><description><![CDATA[<a href="https://glitchtip.com/">https://glitchtip.com/</a> - Simple, open source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Roboflow</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7f20f40dd87246f831fb2cef7bbc838a29cd42fd</link><description><![CDATA[<a href="https://roboflow.com">https://roboflow.com</a> - create and deploy a custom computer vision model with no prior machine learning experience required. Free tier includes up to 1,000 free source images.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add notice to forwardemail.net</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/18e563ac31befb1d39b058404ed079c4621c4da2</link><description><![CDATA[<a href="https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam">https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)<br>
- ]]></description>
-</item>
-<item>
-	<title>add newline back</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2a23bc0c6ddec0ae6818150e9f9425193ac09a1c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Ably to list of messaging services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8d0eeb9bbf20acf88ad8d083b614903a67bb679b</link><description><![CDATA[<a href="https://www.ably.com/">https://www.ably.com/</a> - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.<br>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9fde7d3741c8cd2e8609f3679237b4a150e10539</link><description><![CDATA[<a href="https://ploi.io/">https://ploi.io/</a> - Server management tool to easily manage and deploy your servers & sites. Free for 1 server.<br>
  ]]></description>
 </item>
 
