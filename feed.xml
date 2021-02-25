@@ -4,6 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix blank lines</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54223c4721928d1413aac38638e4c7c142b9ca52</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove bintray as it is being deprecated</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1d9fda290bddbe66e8bb4f47639fe592c7b9face</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add BorgBase.com 10 GB free backup space</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ecfa0a49b496c9923ab20974fa32229241bb9fe5</link><description><![CDATA[<a href="https://www.borgbase.com/">https://www.borgbase.com/</a> - Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and 2 repositories.<br>
+ ]]></description>
+</item>
+<item>
+	<title>lambda.store is now Upstash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a0cd76eae70d64453f36590eb949f63213ad8da8</link><description><![CDATA[<a href="https://upstash.com/">https://upstash.com/</a> - Serverless Redis with free tier up to 10,000 requests per day, 256MB max database size, and 20 concurrent connections<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove Tachikoma</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8504bd747311f278abe3ec4e4383892169c02b74</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Adding RevenueCat to payments and billing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/292d3781bf37dec17def720efb4e4f00da7786fb</link><description><![CDATA[<a href="https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android">https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android</a> - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.<br>
  ]]></description>
@@ -25,36 +47,6 @@
 <item>
 	<title>Add Hook Relay</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/58510c5953bd5326299569203851051fffdb6d63</link><description><![CDATA[<a href="https://www.hookrelay.dev/">https://www.hookrelay.dev/</a> - - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Honeybadger's offer</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/032ac0a2985d55cfef475cc7ce5bfaa4a7753bf6</link><description><![CDATA[<a href="https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month">https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month</a> - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add MeisterTask</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fffeb77a70040dffdc5bdc5542d6307b692e3805</link><description><![CDATA[<a href="https://www.meistertask.com/">https://www.meistertask.com/</a> - Online task management for teams. Free up to 3 projects, unlimited project members.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Braid</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/66f9d0cb1bea01f64a42fc43473d264716cc44e1</link><description><![CDATA[<a href="https://www.braidchat.com/">https://www.braidchat.com/</a> - Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also it provide self-hostable open-source version.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Zulip</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2799d2e7a3b5da97860b3b69c6e32b54a2a95dd9</link><description><![CDATA[<a href="https://zulip.com/">https://zulip.com/</a> - Real-time chat with unique email-like threading model. Free plan includes 10,000 messages of search history and File storage up to 5 GB. also it provides self-hostable open-source version.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Heptapod to Source Code Repos</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/064f9172f83fa497d88ed1b8203aa5a5c1b20ad9</link><description><![CDATA[<a href="https://foss.heptapod.net/">https://foss.heptapod.net/</a> - Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial<br>
- ]]></description>
-</item>
-<item>
-	<title>Add teamwork.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/518636108b2ff88fe42a84de165240f763ec7007</link><description><![CDATA[<a href="https://teamwork.com/">https://teamwork.com/</a> - Project management & Team Chat. Free for 5 users and 2 projects. Premium plans available.<br>
  ]]></description>
 </item>
 
