@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Hostman.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7a09ab7a4dbc8bc08465c5321ff5e2e3979f7709</link><description><![CDATA[<a href="https://hostman.com">https://hostman.com</a> - Deploy up to 3 static sites from your GitHub repository for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added TinyMCE</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b8fe89e9794dd5867ca7f66c2b0678dab8b2a0db</link><description><![CDATA[<a href="https://www.tiny.cloud">https://www.tiny.cloud</a> - rich text editing API. Core features free for unlimited usage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add webhook.site</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/351f298ae8c242d51a78c5389a0f36ec7fc6f603</link><description><![CDATA[<a href="https://efemarai.com">https://efemarai.com</a> - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.<br>
 <a href="https://newsapi.org">https://newsapi.org</a> - — Search news on the web with code, get JSON results. Developers get 3,000 queries free each month.<br>
@@ -36,20 +46,6 @@
 <item>
 	<title>Adding RevenueCat to payments and billing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/292d3781bf37dec17def720efb4e4f00da7786fb</link><description><![CDATA[<a href="https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android">https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android</a> - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Kreya</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca11329e18e0bfa47e043c2f681e6dcd576bbbaf</link><description><![CDATA[<a href="https://kreya.app">https://kreya.app</a> - Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Whales from the Docker-related list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6038060ccdb981d4b42150f3f2cbcf56208beb82</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add limits of Hook Relay's free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bf0bd2263402c0281c9a44d4e68093cf6601cb8e</link><description><![CDATA[<a href="https://www.hookrelay.dev/">https://www.hookrelay.dev/</a> - - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.<br>
  ]]></description>
 </item>
 
