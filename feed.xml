@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Netlify Description Ambiguity Corrected</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/78cdef652b64bf8fdc14b64d0156125659c92ea1</link><description><![CDATA[<a href="https://www.netlify.com/">https://www.netlify.com/</a> - Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Hostman.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7a09ab7a4dbc8bc08465c5321ff5e2e3979f7709</link><description><![CDATA[<a href="https://hostman.com">https://hostman.com</a> - Deploy up to 3 static sites from your GitHub repository for free.<br>
  ]]></description>
