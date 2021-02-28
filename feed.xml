@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Contentful</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0f525ed71a49daa50e503b776afcbb1e3f16ec55</link><description><![CDATA[<a href="https://www.contentful.com/">https://www.contentful.com/</a> - Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes 5 users, 25K records, 48 Content Types, 2 locales.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/19aef3082fccd29655f756cef27bbed22e8dfbad</link><description><![CDATA[<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
  ]]></description>
@@ -42,16 +47,8 @@
  ]]></description>
 </item>
 <item>
-	<title>add webhook.site</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/351f298ae8c242d51a78c5389a0f36ec7fc6f603</link><description><![CDATA[<a href="https://efemarai.com">https://efemarai.com</a> - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.<br>
-<a href="https://newsapi.org">https://newsapi.org</a> - — Search news on the web with code, get JSON results. Developers get 3,000 queries free each month.<br>
-<a href="https://applitools.com/) — Smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack">https://applitools.com/) — Smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack</a> - Smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.<br>
-<a href="https://webhook.site">https://webhook.site</a> - Verify webhooks, outbound HTTP requests, or emails with a custom URL. Temporary URL and email address is always free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix blank lines</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54223c4721928d1413aac38638e4c7c142b9ca52</link><description><![CDATA[ ]]></description>
+	<title>remove myfakeapi</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/345a4ed42fa7677d68238c3da25164959d7bdc3f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
