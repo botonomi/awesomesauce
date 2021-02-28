@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/09a9cbfdd0e764870a2a46e05f7c9f2e2aeef12f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a46e524c31402bede9a01ee7fae4944005a4fd2e</link><description><![CDATA[<a href="https://www.xirsys.com">https://www.xirsys.com</a> - Global network of STUN / TURN servers with a generous free tier.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added connectycube.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/370bc1bc9fecb435592fcc8f0dd0008ff72b09f6</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.<br>
+<a href="https://connectycube.com">https://connectycube.com</a> - APIs for realtime messaging, voice & video calling, push notifications, files storage and users management. Free for apps up to 20K MAU.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Qovery</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a231d0ccd1f9bdb4276bf44f97ffe1a84eee06bf</link><description><![CDATA[<a href="https://www.qovery.com">https://www.qovery.com</a> - Qovery is the simplest way to deploy your full-stack apps on AWS, GCP and Azure. It is free web hosting for developers with Database, SSL, a global CDN, and auto deploys from Git.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Contentful</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0f525ed71a49daa50e503b776afcbb1e3f16ec55</link><description><![CDATA[<a href="https://www.contentful.com/">https://www.contentful.com/</a> - Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes 5 users, 25K records, 48 Content Types, 2 locales.<br>
  ]]></description>
@@ -25,30 +45,6 @@
 <item>
 	<title>Removed alibaba, because it's "free trial" is false advertisement</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9365ce5315ce9bca97115af8a96c11205b8a1b08</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Netlify Description Ambiguity Corrected</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/78cdef652b64bf8fdc14b64d0156125659c92ea1</link><description><![CDATA[<a href="https://www.netlify.com/">https://www.netlify.com/</a> - Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Plasmic</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/562f8c4703917d49a5a4ef0ca536418cd2021d38</link><description><![CDATA[<a href="https://www.plasmic.app/">https://www.plasmic.app/</a> - A fast, easy to use, powerful web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Hostman.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7a09ab7a4dbc8bc08465c5321ff5e2e3979f7709</link><description><![CDATA[<a href="https://hostman.com">https://hostman.com</a> - Deploy up to 3 static sites from your GitHub repository for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added TinyMCE</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b8fe89e9794dd5867ca7f66c2b0678dab8b2a0db</link><description><![CDATA[<a href="https://www.tiny.cloud">https://www.tiny.cloud</a> - rich text editing API. Core features free for unlimited usage.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove myfakeapi</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/345a4ed42fa7677d68238c3da25164959d7bdc3f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
