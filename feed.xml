@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Discord description changes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9f7ca33ced1f8c4150080d684bf43c03dc33e33c</link><description><![CDATA[<a href="https://discordapp.com/">https://discordapp.com/</a> - Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added & Updated content .</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0b0d1202b2f1ca99c0bc1c9f5dbc976ccf6a43d6</link><description><![CDATA[<a href="https://products.office.com/microsoft-teams/free">https://products.office.com/microsoft-teams/free</a> - — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 50k users.<br>
 <a href="https://drv.tw">https://drv.tw</a> - Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.<br>
@@ -47,11 +52,6 @@
 <item>
 	<title>Update Contentful</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0f525ed71a49daa50e503b776afcbb1e3f16ec55</link><description><![CDATA[<a href="https://www.contentful.com/">https://www.contentful.com/</a> - Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes 5 users, 25K records, 48 Content Types, 2 locales.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/19aef3082fccd29655f756cef27bbed22e8dfbad</link><description><![CDATA[<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
  ]]></description>
 </item>
 
