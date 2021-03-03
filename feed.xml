@@ -4,6 +4,24 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f3c10e65e00f63eccb370829eedcfdb2b411128</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add encore.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9256cab22f68faec3c347f0eac082498cb3d266f</link><description><![CDATA[<a href="https://encore.dev/">https://encore.dev/</a> - Backend framework using static analysis to provide automatic infrastructure, boilerplate free code, and more. Includes free cloud hosting for hobby projects.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added and Fixed content.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3918c6fe2207a1d288d99ca9be76b82d95cb89d5</link><description><![CDATA[<a href="https://products.office.com/microsoft-teams/free">https://products.office.com/microsoft-teams/free</a> - — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 500k users.<br>
+<a href="https://esper.io">https://esper.io</a> - MDM and MAM for Android Devices with DevOps. 100 devices free with 1 user license and 25 MB Application Storage.<br>
+<a href="https://openode.io">https://openode.io</a> - Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository.<br>
+<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.<br>
+<a href="https://developers.redhat.com">https://developers.redhat.com</a> - Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Discord description changes</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9f7ca33ced1f8c4150080d684bf43c03dc33e33c</link><description><![CDATA[<a href="https://discordapp.com/">https://discordapp.com/</a> - Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.<br>
  ]]></description>
@@ -12,6 +30,13 @@
 	<title>Added & Updated content .</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0b0d1202b2f1ca99c0bc1c9f5dbc976ccf6a43d6</link><description><![CDATA[<a href="https://products.office.com/microsoft-teams/free">https://products.office.com/microsoft-teams/free</a> - — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 50k users.<br>
 <a href="https://drv.tw">https://drv.tw</a> - Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add 20i</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cfe700a9dc3612a5df5ebaf2c2c6a01295a5e382</link><description><![CDATA[<a href="https://www.20i.com/">https://www.20i.com/</a> - Free global CDN with no restrictions and 1 Tbps+ DDoS protection available on all web hosting, including free hosting.<br>
+<a href="https://www.20i.com/">https://www.20i.com/</a> - Free web hosting with no ads, on the same platform as paid plans. Includes a free CDN, 100 email addresses, SSL and over 80 one-click installs.<br>
+<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
  ]]></description>
 </item>
 <item>
@@ -27,31 +52,6 @@
 <item>
 	<title>Add CloudMailin.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/baa0b270d1efcb982ab52cec4cab4cda6770ebd6</link><description><![CDATA[<a href="https://www.cloudmailin.com/">https://www.cloudmailin.com/</a> - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/09a9cbfdd0e764870a2a46e05f7c9f2e2aeef12f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a46e524c31402bede9a01ee7fae4944005a4fd2e</link><description><![CDATA[<a href="https://www.xirsys.com">https://www.xirsys.com</a> - Global network of STUN / TURN servers with a generous free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>added connectycube.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/370bc1bc9fecb435592fcc8f0dd0008ff72b09f6</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.<br>
-<a href="https://connectycube.com">https://connectycube.com</a> - APIs for realtime messaging, voice & video calling, push notifications, files storage and users management. Free for apps up to 20K MAU.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Qovery</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a231d0ccd1f9bdb4276bf44f97ffe1a84eee06bf</link><description><![CDATA[<a href="https://www.qovery.com">https://www.qovery.com</a> - Qovery is the simplest way to deploy your full-stack apps on AWS, GCP and Azure. It is free web hosting for developers with Database, SSL, a global CDN, and auto deploys from Git.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Contentful</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0f525ed71a49daa50e503b776afcbb1e3f16ec55</link><description><![CDATA[<a href="https://www.contentful.com/">https://www.contentful.com/</a> - Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes 5 users, 25K records, 48 Content Types, 2 locales.<br>
  ]]></description>
 </item>
 
