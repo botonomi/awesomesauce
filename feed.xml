@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Description changes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/861b47ac09381ed7dae86eac077e0bcff87425d2</link><description><![CDATA[<a href="https://getjsonip.com">https://getjsonip.com</a> - — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add GitGud & JSON IP</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d63bb1eb9b5df3245abb9ececce105ad2c6ee679</link><description><![CDATA[<a href="https://gitgud.io">https://gitgud.io</a> - Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.<br>
+<a href="https://getjsonip.com">https://getjsonip.com</a> - — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f3c10e65e00f63eccb370829eedcfdb2b411128</link><description><![CDATA[ ]]></description>
 </item>
