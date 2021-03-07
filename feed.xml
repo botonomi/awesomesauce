@@ -4,6 +4,31 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add 0hi.me website</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/070a65319733b69b3469c456a6b53be4cba4820a</link><description><![CDATA[<a href="https://0hi.me/">https://0hi.me/</a> - Free PHP & MySQL Web Hosting for your small project. SSL/TLS and CDN also available for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bcb4eabc9187aa0b1f321fe0b655ed5b1e77878e</link><description><![CDATA[<a href="https://d.android.com/studio">https://d.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE, free for everyone and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Android Studio</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eed605a2231a8bc09e2e02e610530a860c5ecc97</link><description><![CDATA[<a href="https://d.android.com/studio">https://d.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!<br>
+ ]]></description>
+</item>
+<item>
+	<title>Description Changes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9acbfc59e6c221ac1b834a714167df145a38e3fc</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based Android Phone/Tablets emulators and iPhone/iPad simulators directly in your browser. Free tier includes 1 concurrent session with 100 minutes usage per month. No limit on app size.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add appetize.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0d5f48b880c1cf91cb95c0cca86ab69f7fedbd54</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based service. Free tier includes 1 concurrent session with 100 minutes usage per month. No app size limit.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Description changes</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/861b47ac09381ed7dae86eac077e0bcff87425d2</link><description><![CDATA[<a href="https://getjsonip.com">https://getjsonip.com</a> - — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.<br>
  ]]></description>
@@ -35,34 +60,6 @@
 <item>
 	<title>Discord description changes</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9f7ca33ced1f8c4150080d684bf43c03dc33e33c</link><description><![CDATA[<a href="https://discordapp.com/">https://discordapp.com/</a> - Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added & Updated content .</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0b0d1202b2f1ca99c0bc1c9f5dbc976ccf6a43d6</link><description><![CDATA[<a href="https://products.office.com/microsoft-teams/free">https://products.office.com/microsoft-teams/free</a> - — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 50k users.<br>
-<a href="https://drv.tw">https://drv.tw</a> - Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add 20i</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cfe700a9dc3612a5df5ebaf2c2c6a01295a5e382</link><description><![CDATA[<a href="https://www.20i.com/">https://www.20i.com/</a> - Free global CDN with no restrictions and 1 Tbps+ DDoS protection available on all web hosting, including free hosting.<br>
-<a href="https://www.20i.com/">https://www.20i.com/</a> - Free web hosting with no ads, on the same platform as paid plans. Includes a free CDN, 100 email addresses, SSL and over 80 one-click installs.<br>
-<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated description for Authy</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0742940a374766ea3bc1a87b2ea9226be816ae21</link><description><![CDATA[<a href="https://authy.com) - Two-factor authentication (2FA">https://authy.com) - Two-factor authentication (2FA</a> - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added "Authy" 2FA to list.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ac1c98cfc282aead426c6b3ce167667244469e30</link><description><![CDATA[<a href="https://authy.com) - Two-factor authentication (2FA">https://authy.com) - Two-factor authentication (2FA</a> - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CloudMailin.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/baa0b270d1efcb982ab52cec4cab4cda6770ebd6</link><description><![CDATA[<a href="https://www.cloudmailin.com/">https://www.cloudmailin.com/</a> - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month<br>
  ]]></description>
 </item>
 
