@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Number of people should be more accurate 😀</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/87b56a413a0434b3913a9b64997eb9a7cf36866a</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 900+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add SoloLearn</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8dceb2920a6cd118d1a17f05fb52983414268a05</link><description><![CDATA[<a href="https://code.sololearn.com">https://code.sololearn.com</a> - A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration required for running code but required when you need to save code on their platform. Also offers free courses for begginers and intermediate level coders.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Microsoft Dev Program</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9c9f97a2037f18a8aebada4e4b9ac41df77fb66a</link><description><![CDATA[<a href="https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms">https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms</a> - Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove Office</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f947b4f6f8d7fcb49646e87692e69e45f208d227</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add 0hi.me website</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/070a65319733b69b3469c456a6b53be4cba4820a</link><description><![CDATA[<a href="https://0hi.me/">https://0hi.me/</a> - Free PHP & MySQL Web Hosting for your small project. SSL/TLS and CDN also available for free.<br>
  ]]></description>
@@ -42,25 +61,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f3c10e65e00f63eccb370829eedcfdb2b411128</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add encore.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9256cab22f68faec3c347f0eac082498cb3d266f</link><description><![CDATA[<a href="https://encore.dev/">https://encore.dev/</a> - Backend framework using static analysis to provide automatic infrastructure, boilerplate free code, and more. Includes free cloud hosting for hobby projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added and Fixed content.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3918c6fe2207a1d288d99ca9be76b82d95cb89d5</link><description><![CDATA[<a href="https://products.office.com/microsoft-teams/free">https://products.office.com/microsoft-teams/free</a> - — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 500k users.<br>
-<a href="https://esper.io">https://esper.io</a> - MDM and MAM for Android Devices with DevOps. 100 devices free with 1 user license and 25 MB Application Storage.<br>
-<a href="https://openode.io">https://openode.io</a> - Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository.<br>
-<a href="https://github.com/tvvocold/FOSS-for-Dev">https://github.com/tvvocold/FOSS-for-Dev</a> - FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.<br>
-<a href="https://developers.redhat.com">https://developers.redhat.com</a> - Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.<br>
- ]]></description>
-</item>
-<item>
-	<title>Discord description changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9f7ca33ced1f8c4150080d684bf43c03dc33e33c</link><description><![CDATA[<a href="https://discordapp.com/">https://discordapp.com/</a> - Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.<br>
- ]]></description>
 </item>
 
 </channel>
