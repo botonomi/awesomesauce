@@ -4,6 +4,30 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add CurlHub.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2df1ffa2f435c0226d1ffd3a3c0c166093f4f780</link><description><![CDATA[<a href="https://curlhub.io">https://curlhub.io</a> - Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Oracle Cloud connection speed</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3a8417dc3cf8878b7072590bc9005f452eecee9e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update available bandwidth per month</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/44732b864ccb07f93bb12ca5b3cd40d75170553e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Qualtrics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/272b0c7309371f709cdf25246e1c56fb1bf8ef26</link><description><![CDATA[<a href="https://qualtrics.com/free-account">https://qualtrics.com/free-account</a> - — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey, 100 responses/survey & 8 response types.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update description of Mendix & Protectumus</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cb6c99c585be729dcc727db86f0e00e13f0937e1</link><description><![CDATA[<a href="https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF">https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF</a> - Free website security check, site antivirus and server firewall (WAF) for PHP. Email notifications for registered users in free tier.<br>
+<a href="https://www.mendix.com/">https://www.mendix.com/</a> - Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting unlimited users, 0.5 GB storage and 1 GB RAM per app. Also Studio and Studio Pro IDEs are allowed in free tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Number of people should be more accurate 😀</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/87b56a413a0434b3913a9b64997eb9a7cf36866a</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 900+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
  ]]></description>
@@ -46,21 +70,6 @@
 	<title>Add appetize.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0d5f48b880c1cf91cb95c0cca86ab69f7fedbd54</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based service. Free tier includes 1 concurrent session with 100 minutes usage per month. No app size limit.<br>
  ]]></description>
-</item>
-<item>
-	<title>Description changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/861b47ac09381ed7dae86eac077e0bcff87425d2</link><description><![CDATA[<a href="https://getjsonip.com">https://getjsonip.com</a> - — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add GitGud & JSON IP</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d63bb1eb9b5df3245abb9ececce105ad2c6ee679</link><description><![CDATA[<a href="https://gitgud.io">https://gitgud.io</a> - Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.<br>
-<a href="https://getjsonip.com">https://getjsonip.com</a> - — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6f3c10e65e00f63eccb370829eedcfdb2b411128</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
