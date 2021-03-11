@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove *filly*.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bc3ebd4f6b453fd4b3663f3bfe444d061ba2db40</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>add free subdomain desc to freedns.afraid.org</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fd35ab44e95adab612c4eb1c1f113b4e41b65cb8</link><description><![CDATA[<a href="https://freedns.afraid.org/domain/registry/">https://freedns.afraid.org/domain/registry/</a> - Free DNS hosting. Also provide free subdomain based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from "Subdomains" menu after signing up.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add hookbin.com webhook/http inspection service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/da74b0a177f2d852f776078d5d4c520bee47fad9</link><description><![CDATA[<a href="https://hookbin.com/) - Create unique (public or private">https://hookbin.com/) - Create unique (public or private</a> - Create unique (public or private) endpoints to collect, parse, and inspect HTTP requests. Inspect headers, body, query strings, cookies, uploaded files, etc. Useful for testing/inspecting webhook. Similar to RequestBin, and Webhook.site.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add CurlHub.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2df1ffa2f435c0226d1ffd3a3c0c166093f4f780</link><description><![CDATA[<a href="https://curlhub.io">https://curlhub.io</a> - Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month.<br>
  ]]></description>
@@ -45,31 +59,6 @@
 <item>
 	<title>Remove Office</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f947b4f6f8d7fcb49646e87692e69e45f208d227</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add 0hi.me website</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/070a65319733b69b3469c456a6b53be4cba4820a</link><description><![CDATA[<a href="https://0hi.me/">https://0hi.me/</a> - Free PHP & MySQL Web Hosting for your small project. SSL/TLS and CDN also available for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bcb4eabc9187aa0b1f321fe0b655ed5b1e77878e</link><description><![CDATA[<a href="https://d.android.com/studio">https://d.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE, free for everyone and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Android Studio</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eed605a2231a8bc09e2e02e610530a860c5ecc97</link><description><![CDATA[<a href="https://d.android.com/studio">https://d.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!<br>
- ]]></description>
-</item>
-<item>
-	<title>Description Changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9acbfc59e6c221ac1b834a714167df145a38e3fc</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based Android Phone/Tablets emulators and iPhone/iPad simulators directly in your browser. Free tier includes 1 concurrent session with 100 minutes usage per month. No limit on app size.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add appetize.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0d5f48b880c1cf91cb95c0cca86ab69f7fedbd54</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based service. Free tier includes 1 concurrent session with 100 minutes usage per month. No app size limit.<br>
- ]]></description>
 </item>
 
 </channel>
