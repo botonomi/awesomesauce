@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Splunk</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27611bd027d46fb3c81f79e719f07ec2b032c8c4</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Remove *filly*.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc3ebd4f6b453fd4b3663f3bfe444d061ba2db40</link><description><![CDATA[ ]]></description>
 </item>
@@ -55,10 +59,6 @@
 	<title>Add Microsoft Dev Program</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9c9f97a2037f18a8aebada4e4b9ac41df77fb66a</link><description><![CDATA[<a href="https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms">https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms</a> - Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove Office</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f947b4f6f8d7fcb49646e87692e69e45f208d227</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
