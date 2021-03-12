@@ -4,8 +4,44 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add imagekit.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/46df9b27e03bc55882aa5656434c54650639a0d9</link><description><![CDATA[<a href="https://imagekit.io">https://imagekit.io</a> - Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. Free plan includes up to 20GB bandwidth per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Slight description changes.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9f6006dec186969915f97ccb996d3aef21ab2559</link><description><![CDATA[<a href="https://continuousphp.com/">https://continuousphp.com/</a> - — continuousphp is the first and only PHP-centric Platform to build, package, test and deploy applications in the same workflow. Free for Community Projects i.e. OSS/Public/Educational projects.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed entry from "Storage and Media Processing"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fca5feb641d6faf24a7ee3bc832570698c1e699e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Moved to existing categories</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c3d0f2bb983cc197933f46061fb5277bc33e7118</link><description><![CDATA[<a href="https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans">https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans</a> - - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.<br>
+<a href="https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans">https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans</a> - - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added new category File Converters and Conversion Tools service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6a4906ec377656a764e34f265ac51ac874459db7</link><description><![CDATA[<a href="#file-converters">#file-converters</a> - <br>
+<a href="https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans">https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans</a> - - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Continous PHP</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/98f1866486f6bd081dfb2ddb8fc23ca621a202fa</link><description><![CDATA[<a href="https://continuousphp.com/">https://continuousphp.com/</a> - — continuousphp is the first and only PHP-centric Platform to build, package, test and deploy applications in the same workflow. Free for Community Projects i.e. OSS, Public & Educational projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Splunk</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/27611bd027d46fb3c81f79e719f07ec2b032c8c4</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Tableau Analytics for Devs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2422476674beb76f33e8934bfdb8be86566fc6de</link><description><![CDATA[<a href="https://www.tableau.com/developer">https://www.tableau.com/developer</a> - Program](https://www.tableau.com/developer) — Innovate, create, and make Tableau work perfectly for your organization. Free developer program gives a personal development sandbox license for Tableau Online. The version is the latest pre-release version so Data Devs can test each & every feature of this superb platform.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Remove *filly*.</title>
@@ -19,45 +55,6 @@
 <item>
 	<title>add hookbin.com webhook/http inspection service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/da74b0a177f2d852f776078d5d4c520bee47fad9</link><description><![CDATA[<a href="https://hookbin.com/) - Create unique (public or private">https://hookbin.com/) - Create unique (public or private</a> - Create unique (public or private) endpoints to collect, parse, and inspect HTTP requests. Inspect headers, body, query strings, cookies, uploaded files, etc. Useful for testing/inspecting webhook. Similar to RequestBin, and Webhook.site.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CurlHub.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2df1ffa2f435c0226d1ffd3a3c0c166093f4f780</link><description><![CDATA[<a href="https://curlhub.io">https://curlhub.io</a> - Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Oracle Cloud connection speed</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3a8417dc3cf8878b7072590bc9005f452eecee9e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update available bandwidth per month</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/44732b864ccb07f93bb12ca5b3cd40d75170553e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Qualtrics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/272b0c7309371f709cdf25246e1c56fb1bf8ef26</link><description><![CDATA[<a href="https://qualtrics.com/free-account">https://qualtrics.com/free-account</a> - — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey, 100 responses/survey & 8 response types.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update description of Mendix & Protectumus</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cb6c99c585be729dcc727db86f0e00e13f0937e1</link><description><![CDATA[<a href="https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF">https://protectumus.com) - Free website security check, site antivirus and server firewall (WAF</a> - Free website security check, site antivirus and server firewall (WAF) for PHP. Email notifications for registered users in free tier.<br>
-<a href="https://www.mendix.com/">https://www.mendix.com/</a> - Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting unlimited users, 0.5 GB storage and 1 GB RAM per app. Also Studio and Studio Pro IDEs are allowed in free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Number of people should be more accurate 😀</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/87b56a413a0434b3913a9b64997eb9a7cf36866a</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 900+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add SoloLearn</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8dceb2920a6cd118d1a17f05fb52983414268a05</link><description><![CDATA[<a href="https://code.sololearn.com">https://code.sololearn.com</a> - A cloud programming playground well-suited for running code snippets. Supports various programming languages. No registration required for running code but required when you need to save code on their platform. Also offers free courses for begginers and intermediate level coders.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Microsoft Dev Program</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9c9f97a2037f18a8aebada4e4b9ac41df77fb66a</link><description><![CDATA[<a href="https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms">https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms</a> - Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).<br>
  ]]></description>
 </item>
 
