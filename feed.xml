@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Penpot</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/57c8a4f8f6df676eae7ac139c71b618d20553f18</link><description><![CDATA[<a href="https://penpot.app">https://penpot.app</a> - Web based, open source design and prototyping tool. Supports SVG. Completely free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added links in GitLab sub-points</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/19b5550e2dd7b286389f39ef1792fb10f3191aee</link><description><![CDATA[<a href="https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos">https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
 <a href="https://about.gitlab.com/product/pages">https://about.gitlab.com/product/pages</a> - with [GitLab Pages](https://about.gitlab.com/product/pages).<br>
