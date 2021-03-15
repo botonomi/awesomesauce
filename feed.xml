@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c8e484d6f342112fb9697a5e9137b854b768b2b8</link><description><![CDATA[<a href="https://apitemplate.io">https://apitemplate.io</a> - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required. Free plan comes with 50 images/month and 3 templates.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added CatchJS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ef30c13ee44357ca21642d511d71f8cee63e0a01</link><description><![CDATA[<a href="https://catchjs.com/">https://catchjs.com/</a> - JavaScript error tracking with screenshots and click trails. Free for open source projects.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Webshrinker</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d79119c6af3f09369ec2bf196306c1f5fe93467</link><description><![CDATA[<a href="https://webshrinker.com">https://webshrinker.com</a> - Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added APITemplate.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/46e7842ac466be0760ce9a36a17a5d1b23c09901</link><description><![CDATA[<a href="https://apitemplate.io">https://apitemplate.io</a> - Auto-generate social images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Penpot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/57c8a4f8f6df676eae7ac139c71b618d20553f18</link><description><![CDATA[<a href="https://penpot.app">https://penpot.app</a> - Web based, open source design and prototyping tool. Supports SVG. Completely free.<br>
  ]]></description>
@@ -45,32 +65,6 @@
 <item>
 	<title>Removed entry from "Storage and Media Processing"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fca5feb641d6faf24a7ee3bc832570698c1e699e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Moved to existing categories</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c3d0f2bb983cc197933f46061fb5277bc33e7118</link><description><![CDATA[<a href="https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans">https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans</a> - - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.<br>
-<a href="https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans">https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans</a> - - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added new category File Converters and Conversion Tools service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6a4906ec377656a764e34f265ac51ac874459db7</link><description><![CDATA[<a href="#file-converters">#file-converters</a> - <br>
-<a href="https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans">https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans</a> - - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Continous PHP</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/98f1866486f6bd081dfb2ddb8fc23ca621a202fa</link><description><![CDATA[<a href="https://continuousphp.com/">https://continuousphp.com/</a> - — continuousphp is the first and only PHP-centric Platform to build, package, test and deploy applications in the same workflow. Free for Community Projects i.e. OSS, Public & Educational projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Splunk</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/27611bd027d46fb3c81f79e719f07ec2b032c8c4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Tableau Analytics for Devs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2422476674beb76f33e8934bfdb8be86566fc6de</link><description><![CDATA[<a href="https://www.tableau.com/developer">https://www.tableau.com/developer</a> - Program](https://www.tableau.com/developer) — Innovate, create, and make Tableau work perfectly for your organization. Free developer program gives a personal development sandbox license for Tableau Online. The version is the latest pre-release version so Data Devs can test each & every feature of this superb platform.<br>
- ]]></description>
 </item>
 
 </channel>
