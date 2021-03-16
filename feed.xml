@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update 'Forms' section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bd6953161510c0a46cb072ab063b58a12861aec6</link><description><![CDATA[<a href="https://formspark.io/">https://formspark.io/</a> - Form to Email service, free plan allows unlimited forms, 250 submissions per month, support by Customer assistance team.<br>
+<a href="https://getform.io/">https://getform.io/</a> - Form backend platform for designers and developers, 1 form, 50 submissions, Single file upload, 100MB file storage.<br>
+<a href="https://pageclip.co/">https://pageclip.co/</a> - Free plan allows one site, one form, 1,000 submissions per month.<br>
+<a href="https://smartforms.dev/">https://smartforms.dev/</a> - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.<br>
+<a href="https://www.zoho.com/forms/">https://www.zoho.com/forms/</a> - - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs. Free plan allows 3 forms, 500 submissions/month, 200 MB File storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c8e484d6f342112fb9697a5e9137b854b768b2b8</link><description><![CDATA[<a href="https://apitemplate.io">https://apitemplate.io</a> - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required. Free plan comes with 50 images/month and 3 templates.<br>
  ]]></description>
@@ -56,15 +65,6 @@
 	<title>Add imagekit.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/46df9b27e03bc55882aa5656434c54650639a0d9</link><description><![CDATA[<a href="https://imagekit.io">https://imagekit.io</a> - Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. Free plan includes up to 20GB bandwidth per month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Slight description changes.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9f6006dec186969915f97ccb996d3aef21ab2559</link><description><![CDATA[<a href="https://continuousphp.com/">https://continuousphp.com/</a> - — continuousphp is the first and only PHP-centric Platform to build, package, test and deploy applications in the same workflow. Free for Community Projects i.e. OSS/Public/Educational projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed entry from "Storage and Media Processing"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fca5feb641d6faf24a7ee3bc832570698c1e699e</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
