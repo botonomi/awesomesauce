@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added 2 services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/62d50f6dd97d68048e800456432dce2ea249232a</link><description><![CDATA[<a href="https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp">https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp</a> - Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.<br>
+<a href="https://developer.servicenow.com/">https://developer.servicenow.com/</a> - Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Salesforce Developer Program</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/beaf81250d484edd148d95318acfd6157e19a4a9</link><description><![CDATA[<a href="https://developer.salesforce.com/signup">https://developer.salesforce.com/signup</a> - Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added SUSE Dev Program</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c21c1e1c99f1014214d3a6bbc6d34ccebb4e8700</link><description><![CDATA[<a href="https://developer.suse.com">https://developer.suse.com</a> - Program](https://developer.suse.com) — Experience cloud native productivity for free. Get hands-on with the SUSE Cloud Application Platform with your own Developer Sandbox. 1 Free Application. Free subdomain provided along with API for CLI. Storage & Memory Quota of 1 GB.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Yammer no longer offers Free Plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2128437604cd42e709a8042c13b5dbf1bb9eb362</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add LayerCI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1393b668b92670102435d928d698d2bee6cd1ae4</link><description><![CDATA[<a href="https://layerci.com">https://layerci.com</a> - CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .<br>
  ]]></description>
@@ -46,30 +66,6 @@
 	<title>Added Penpot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/57c8a4f8f6df676eae7ac139c71b618d20553f18</link><description><![CDATA[<a href="https://penpot.app">https://penpot.app</a> - Web based, open source design and prototyping tool. Supports SVG. Completely free.<br>
  ]]></description>
-</item>
-<item>
-	<title>Added links in GitLab sub-points</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/19b5550e2dd7b286389f39ef1792fb10f3191aee</link><description><![CDATA[<a href="https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos">https://about.gitlab.com/product/continuous-integration) (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
-<a href="https://about.gitlab.com/product/pages">https://about.gitlab.com/product/pages</a> - with [GitLab Pages](https://about.gitlab.com/product/pages).<br>
- ]]></description>
-</item>
-<item>
-	<title>Added AppFlux</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/74c50cd242f71d53fd59af1b59e5cb5433b204a8</link><description><![CDATA[<a href="https://appflux.io">https://appflux.io</a> - Project Management tool with Log Management & Issues. Take your team onboard & forget management through emails.<br>
- ]]></description>
-</item>
-<item>
-	<title>Optimise GitHub & GitLab entries</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1df0ba2d95c739e511546c81fab8b2f59b39f773</link><description><![CDATA[<a href="https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here">https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here</a> - Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :<br>
-<a href="https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free">https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free</a> - Public Repos, 2000 min/month for private repos free)<br>
-<a href="https://pages.github.com) (Free for Public Repos">https://pages.github.com) (Free for Public Repos</a> - Hosting](https://pages.github.com) (Free for Public Repos)<br>
-<a href="https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos">https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos</a> - & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)<br>
-<a href="https://about.gitlab.com/">https://about.gitlab.com/</a> - Unlimited public and private Git repos with unlimited collaborators. Also offers the following features :<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed extra GitLab entries</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c4952647a6920db86e135c71467fbd00542a4666</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
