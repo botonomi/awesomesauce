@@ -5,6 +5,17 @@
 <link></link>
 <item>
 	<title>Added 2 services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ba3d32fd8ab2eeb72505d67ad17c6e469506401e</link><description><![CDATA[<a href="https://kritika.io/">https://kritika.io/</a> - Static Code Analysis for Perl with integration for GitHub. Free for unlimited public repositories.<br>
+<a href="https://vaadin.com">https://vaadin.com</a> - Build scalable UIs in Java or TypeScript, and use the integrated tooling, components and design system to iterate faster, design better and simplify the development process. Unlimited Projects with 5 years free maintenance.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Pinata IPFS Service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/678e8c55ee7176cc61e82677bcc3b1258e87fd60</link><description><![CDATA[<a href="https://pinata.cloud">https://pinata.cloud</a> - — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface combined with our IPFS API makes Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free along with access to API.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added 2 services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/62d50f6dd97d68048e800456432dce2ea249232a</link><description><![CDATA[<a href="https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp">https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp</a> - Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.<br>
 <a href="https://developer.servicenow.com/">https://developer.servicenow.com/</a> - Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.<br>
  ]]></description>
@@ -60,11 +71,6 @@
 <item>
 	<title>Added APITemplate.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/46e7842ac466be0760ce9a36a17a5d1b23c09901</link><description><![CDATA[<a href="https://apitemplate.io">https://apitemplate.io</a> - Auto-generate social images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Penpot</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/57c8a4f8f6df676eae7ac139c71b618d20553f18</link><description><![CDATA[<a href="https://penpot.app">https://penpot.app</a> - Web based, open source design and prototyping tool. Supports SVG. Completely free.<br>
  ]]></description>
 </item>
 
