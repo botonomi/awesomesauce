@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add StackBy</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/de21fcd380f326f4beea8376947287d03e2482ed</link><description><![CDATA[<a href="https://stackby.com/">https://stackby.com/</a> - One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Bird Eats Bug</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1f56f83392e0b2f338157bcfdcd99bc94835ab7d</link><description><![CDATA[<a href="https://www.birdeatsbug.com/) — Report bugs faster (and better">https://www.birdeatsbug.com/) — Report bugs faster (and better</a> - Bug](https://www.birdeatsbug.com/) — Report bugs faster (and better). Record your screen with Bird browser extension, it will auto-capture technical data that engineers need to debug. Free tier suitable for small teams.<br>
  ]]></description>
@@ -252,20 +257,6 @@
 <item>
 	<title>Add LayerCI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1393b668b92670102435d928d698d2bee6cd1ae4</link><description><![CDATA[<a href="https://layerci.com">https://layerci.com</a> - CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .<br>
- ]]></description>
-</item>
-<item>
-	<title>Update 'Forms' section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bd6953161510c0a46cb072ab063b58a12861aec6</link><description><![CDATA[<a href="https://formspark.io/">https://formspark.io/</a> - Form to Email service, free plan allows unlimited forms, 250 submissions per month, support by Customer assistance team.<br>
-<a href="https://getform.io/">https://getform.io/</a> - Form backend platform for designers and developers, 1 form, 50 submissions, Single file upload, 100MB file storage.<br>
-<a href="https://pageclip.co/">https://pageclip.co/</a> - Free plan allows one site, one form, 1,000 submissions per month.<br>
-<a href="https://smartforms.dev/">https://smartforms.dev/</a> - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.<br>
-<a href="https://www.zoho.com/forms/">https://www.zoho.com/forms/</a> - - with 40+ field types, customizable themes, situation-specific templates, and a simple user interface, helps you create beautiful, functional forms for all your needs. Free plan allows 3 forms, 500 submissions/month, 200 MB File storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Sider</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7f0220b97139cd12639852345ab16c10676d43d</link><description><![CDATA[<a href="https://sider.review">https://sider.review</a> - Code review platform for many languages. Supports integration with GitHub. Free for public repositories with unlimited users.<br>
  ]]></description>
 </item>
 
