@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added free IP geolocation API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1943ad7fdbceec9c7b3b4c56d707d4f6f412b19c</link><description><![CDATA[<a href="https://www.abstractapi.com/ip-geolocation-api">https://www.abstractapi.com/ip-geolocation-api</a> - API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 200,000 requests per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Nami ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ce231348679772b53f942f2d6d892ecd67df6186</link><description><![CDATA[<a href="https://www.namiml.com/">https://www.namiml.com/</a> - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Mergify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fe2435559f970f63f0edd35fc1b454626475201e</link><description><![CDATA[<a href="https://mergify.io">https://mergify.io</a> - workflow automation and merge queue for GitHub — Free for public GitHub repositories<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add StackBy</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/de21fcd380f326f4beea8376947287d03e2482ed</link><description><![CDATA[<a href="https://stackby.com/">https://stackby.com/</a> - One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.<br>
  ]]></description>
@@ -238,25 +253,6 @@
 	<title>Added 2 services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/62d50f6dd97d68048e800456432dce2ea249232a</link><description><![CDATA[<a href="https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp">https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp</a> - Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.<br>
 <a href="https://developer.servicenow.com/">https://developer.servicenow.com/</a> - Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Salesforce Developer Program</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/beaf81250d484edd148d95318acfd6157e19a4a9</link><description><![CDATA[<a href="https://developer.salesforce.com/signup">https://developer.salesforce.com/signup</a> - Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added SUSE Dev Program</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c21c1e1c99f1014214d3a6bbc6d34ccebb4e8700</link><description><![CDATA[<a href="https://developer.suse.com">https://developer.suse.com</a> - Program](https://developer.suse.com) — Experience cloud native productivity for free. Get hands-on with the SUSE Cloud Application Platform with your own Developer Sandbox. 1 Free Application. Free subdomain provided along with API for CLI. Storage & Memory Quota of 1 GB.<br>
- ]]></description>
-</item>
-<item>
-	<title>Yammer no longer offers Free Plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2128437604cd42e709a8042c13b5dbf1bb9eb362</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add LayerCI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1393b668b92670102435d928d698d2bee6cd1ae4</link><description><![CDATA[<a href="https://layerci.com">https://layerci.com</a> - CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .<br>
  ]]></description>
 </item>
 
