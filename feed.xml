@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add DeepAR service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a6f7e1bc2e715d51dd158315edc778619589d138</link><description><![CDATA[<a href="https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU">https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU</a> - Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add automate.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/60c7505231f01e094f3300fb9ddef127e9d70b2c</link><description><![CDATA[<a href="https://automate.io">https://automate.io</a> - Simple and complex automation workflow tool with over 200+ app integrations. 300 monthly actions and 5 bots are free<br>
+ ]]></description>
+</item>
+<item>
+	<title>Correct SnapShooters link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/800bd32ff352e7e115bcba23e18c1c7e51f3d0af</link><description><![CDATA[<a href="https://snapshooter.com/">https://snapshooter.com/</a> - Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added 2 services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1c4dcad69240a472ca5eb616c4f8134771558dd4</link><description><![CDATA[<a href="https://rocketgit.com">https://rocketgit.com</a> - Repository Hosting based on Git. Unlimited Public & Private repositories.<br>
 <a href="https://similarweb.com">https://similarweb.com</a> - — Analytics for Web & Mobile Apps. Free Plan offers 5 results per metric, 1 month of mobile app data & 3 months of website data.<br>
@@ -57,23 +72,6 @@
 	<title>s</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/05e3543c8e4cbe10b7e99817824a664c2334163e</link><description><![CDATA[<a href="https://clicky.com">https://clicky.com</a> - Website Analytics Platform. Free Plan for 1 website with 3000 views analytics.<br>
 <a href="https://blynk.io">https://blynk.io</a> - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices,Free Cloud & data storage. Mobile Apps also available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add StackBy</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/de21fcd380f326f4beea8376947287d03e2482ed</link><description><![CDATA[<a href="https://stackby.com/">https://stackby.com/</a> - One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Bird Eats Bug</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1f56f83392e0b2f338157bcfdcd99bc94835ab7d</link><description><![CDATA[<a href="https://www.birdeatsbug.com/) — Report bugs faster (and better">https://www.birdeatsbug.com/) — Report bugs faster (and better</a> - Bug](https://www.birdeatsbug.com/) — Report bugs faster (and better). Record your screen with Bird browser extension, it will auto-capture technical data that engineers need to debug. Free tier suitable for small teams.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 3 new services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c0d427a40d5ab4a6890281d8b7cc95dfd172de83</link><description><![CDATA[<a href="https://zube.io">https://zube.io</a> - Project management with free plan for 4 Projects & 4 users. GitHub integration available.<br>
-<a href="https://codeblocks.org">https://codeblocks.org</a> - Free Fortran & C/C++ IDE. Open Source and runs on Windows,macOS & Linux.<br>
-<a href="https://elementor.com">https://elementor.com</a> - WordPress website builder. Free plan available with 40+ Basic Widgets.<br>
  ]]></description>
 </item>
 
