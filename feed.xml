@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix formatting & added Branch.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9a02b6e880295b4fd4a734ca0de83829b85a6948</link><description><![CDATA[<a href="https://miradore.com">https://miradore.com</a> - Device Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.<br>
+<a href="https://branch.io">https://branch.io</a> - Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add DeepAR service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a6f7e1bc2e715d51dd158315edc778619589d138</link><description><![CDATA[<a href="https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU">https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU</a> - Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces<br>
  ]]></description>
@@ -11,6 +17,12 @@
 <item>
 	<title>Add automate.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/60c7505231f01e094f3300fb9ddef127e9d70b2c</link><description><![CDATA[<a href="https://automate.io">https://automate.io</a> - Simple and complex automation workflow tool with over 200+ app integrations. 300 monthly actions and 5 bots are free<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added 2 services.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7c1d2bc018f9565efec0dca1e69a51589732255a</link><description><![CDATA[<a href="https://miradore.com">https://miradore.com</a> - Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.<br>
+<a href="https://bluej.org">https://bluej.org</a> - A free Java Development Environment designed for beginners, used by millions worldwide. Powered by Oracle & simple GUI to help beginners.<br>
  ]]></description>
 </item>
 <item>
@@ -56,22 +68,6 @@
 <item>
 	<title>Add Mergify</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fe2435559f970f63f0edd35fc1b454626475201e</link><description><![CDATA[<a href="https://mergify.io">https://mergify.io</a> - workflow automation and merge queue for GitHub — Free for public GitHub repositories<br>
- ]]></description>
-</item>
-<item>
-	<title>This reverts commit 52e42b211e3f076dc58d8ce0a54afd46fbdf7d53.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/43745be3ca644d3713922668d12d0c16c1fd9fe3</link><description><![CDATA[<a href="https://clicky.com">https://clicky.com</a> - Website Analytics Platform. Free Plan for 1 website with 3000 views analytics.<br>
-<a href="https://blynk.io">https://blynk.io</a> - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices,Free Cloud & data storage. Mobile Apps also available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "s"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/52e42b211e3f076dc58d8ce0a54afd46fbdf7d53</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>s</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/05e3543c8e4cbe10b7e99817824a664c2334163e</link><description><![CDATA[<a href="https://clicky.com">https://clicky.com</a> - Website Analytics Platform. Free Plan for 1 website with 3000 views analytics.<br>
-<a href="https://blynk.io">https://blynk.io</a> - A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices,Free Cloud & data storage. Mobile Apps also available.<br>
  ]]></description>
 </item>
 
