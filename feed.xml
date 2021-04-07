@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Stamen Maps to Data Visualization on Maps</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9e6a6c5f506990124120172ec6e751ff03176187</link><description><![CDATA[<a href="http://maps.stamen.com/">http://maps.stamen.com/</a> - Free map tiles and tile hosting.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3ab9c350816a785370086b35fc8f4a2fc6eb6968</link><description><![CDATA[<a href="https://freecurrencyapi.net/">https://freecurrencyapi.net/</a> - Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 	<title>Added PowerBI & Codegiant</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7ad837179776fccd18b93ce4754417b467faa4be</link><description><![CDATA[<a href="https://codegiant.io">https://codegiant.io</a> - Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.<br>
 <a href="https://powerbi.com">https://powerbi.com</a> - — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added free IP geolocation API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1943ad7fdbceec9c7b3b4c56d707d4f6f412b19c</link><description><![CDATA[<a href="https://www.abstractapi.com/ip-geolocation-api">https://www.abstractapi.com/ip-geolocation-api</a> - API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 200,000 requests per month.<br>
  ]]></description>
 </item>
 
