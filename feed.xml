@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove apimetrics.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a1a1eac7e1e28c79482424f0ad5b4dab8bc7fe2b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Stamen Maps to Data Visualization on Maps</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9e6a6c5f506990124120172ec6e751ff03176187</link><description><![CDATA[<a href="http://maps.stamen.com/">http://maps.stamen.com/</a> - Free map tiles and tile hosting.<br>
  ]]></description>
