@@ -4,6 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove unreachable site</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/40d8097a7aa83961076c91048d2d9b37ca5264ac</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove ghostinspector</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d04b807f9f1b552653eb2717ea809fc3628357e1</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8fec4f3a819ac4b983386b75d55e8eaffd00b551</link><description><![CDATA[<a href="https://robocorp.com">https://robocorp.com</a> - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automations for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove apimetrics.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a1a1eac7e1e28c79482424f0ad5b4dab8bc7fe2b</link><description><![CDATA[ ]]></description>
 </item>
@@ -36,35 +49,6 @@
 <item>
 	<title>Add automate.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/60c7505231f01e094f3300fb9ddef127e9d70b2c</link><description><![CDATA[<a href="https://automate.io">https://automate.io</a> - Simple and complex automation workflow tool with over 200+ app integrations. 300 monthly actions and 5 bots are free<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 2 services.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7c1d2bc018f9565efec0dca1e69a51589732255a</link><description><![CDATA[<a href="https://miradore.com">https://miradore.com</a> - Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.<br>
-<a href="https://bluej.org">https://bluej.org</a> - A free Java Development Environment designed for beginners, used by millions worldwide. Powered by Oracle & simple GUI to help beginners.<br>
- ]]></description>
-</item>
-<item>
-	<title>Correct SnapShooters link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/800bd32ff352e7e115bcba23e18c1c7e51f3d0af</link><description><![CDATA[<a href="https://snapshooter.com/">https://snapshooter.com/</a> - Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 2 services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1c4dcad69240a472ca5eb616c4f8134771558dd4</link><description><![CDATA[<a href="https://rocketgit.com">https://rocketgit.com</a> - Repository Hosting based on Git. Unlimited Public & Private repositories.<br>
-<a href="https://similarweb.com">https://similarweb.com</a> - — Analytics for Web & Mobile Apps. Free Plan offers 5 results per metric, 1 month of mobile app data & 3 months of website data.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 2 Services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8cfbdc81c15bc272ef60f5cee4f6c3c3ed054346</link><description><![CDATA[<a href="https://www.manageengine.com/cloud-log-management">https://www.manageengine.com/cloud-log-management</a> - Cloud](https://www.manageengine.com/cloud-log-management) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 1 Month retention.<br>
-<a href="https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.">https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.</a> - — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.). Free plan offers :<br>
- ]]></description>
-</item>
-<item>
-	<title>Added PowerBI & Codegiant</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7ad837179776fccd18b93ce4754417b467faa4be</link><description><![CDATA[<a href="https://codegiant.io">https://codegiant.io</a> - Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.<br>
-<a href="https://powerbi.com">https://powerbi.com</a> - — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.<br>
  ]]></description>
 </item>
 
