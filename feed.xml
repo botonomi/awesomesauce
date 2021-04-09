@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adding treescale.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d2493c9c718ac904491a89f9a473523bf2bee8f9</link><description><![CDATA[<a href="https://treescale.com/">https://treescale.com/</a> - Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove unreachable site</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/40d8097a7aa83961076c91048d2d9b37ca5264ac</link><description><![CDATA[ ]]></description>
 </item>
@@ -39,16 +44,6 @@
 	<title>Fix formatting & added Branch.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9a02b6e880295b4fd4a734ca0de83829b85a6948</link><description><![CDATA[<a href="https://miradore.com">https://miradore.com</a> - Device Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.<br>
 <a href="https://branch.io">https://branch.io</a> - Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DeepAR service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a6f7e1bc2e715d51dd158315edc778619589d138</link><description><![CDATA[<a href="https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU">https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU</a> - Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces<br>
- ]]></description>
-</item>
-<item>
-	<title>Add automate.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/60c7505231f01e094f3300fb9ddef127e9d70b2c</link><description><![CDATA[<a href="https://automate.io">https://automate.io</a> - Simple and complex automation workflow tool with over 200+ app integrations. 300 monthly actions and 5 bots are free<br>
  ]]></description>
 </item>
 
