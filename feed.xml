@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>alphabetical order</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/98cf740e2a0fe6b0f7eb724292ec1f0b0313af39</link><description><![CDATA[<a href="https://www.lazarus-ide.org/">https://www.lazarus-ide.org/</a> - Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Lazarus IDE</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ddbfc56cde99ffda2e4f6ffa4f720f17440f129c</link><description><![CDATA[<a href="https://www.lazarus-ide.org/">https://www.lazarus-ide.org/</a> - Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.<br>
+ ]]></description>
+</item>
+<item>
 	<title>adding treescale.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2493c9c718ac904491a89f9a473523bf2bee8f9</link><description><![CDATA[<a href="https://treescale.com/">https://treescale.com/</a> - Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.<br>
  ]]></description>
@@ -38,12 +48,6 @@
 <item>
 	<title>Add Koyeb</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aa9cd3c249bd1a30fa05523aa8874b9d98338dec</link><description><![CDATA[<a href="https://www.koyeb.com">https://www.koyeb.com</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix formatting & added Branch.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9a02b6e880295b4fd4a734ca0de83829b85a6948</link><description><![CDATA[<a href="https://miradore.com">https://miradore.com</a> - Device Management service. Stay up-to-date with your device fleet and secure an unlimited number of devices for free. Free plan offers basic features.<br>
-<a href="https://branch.io">https://branch.io</a> - Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.<br>
  ]]></description>
 </item>
 
