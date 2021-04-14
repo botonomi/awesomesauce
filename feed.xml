@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f7af2f69bc82dded16f44468d7312bec23a44600</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add more information</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/386866a2389c9bfd64a246a1a9fe0b68ed526c3f</link><description><![CDATA[<a href="https://datelist.io">https://datelist.io</a> - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar<br>
  ]]></description>
@@ -305,11 +309,6 @@
 <item>
 	<title>Remove ghostinspector</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d04b807f9f1b552653eb2717ea809fc3628357e1</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8fec4f3a819ac4b983386b75d55e8eaffd00b551</link><description><![CDATA[<a href="https://robocorp.com">https://robocorp.com</a> - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automations for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB.<br>
- ]]></description>
 </item>
 
 </channel>
