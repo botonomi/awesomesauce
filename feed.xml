@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove zentao.jp,just zdoo.co left</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/28b4b685e63d115b247144e4b75808a177b3d020</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>[PROJECT MANAGEMENT] Added freedcamp.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7883959ffc01df17e66b50ad65b2325d886de1f4</link><description><![CDATA[<a href="https://freedcamp.com/">https://freedcamp.com/</a> - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users and files storage.<br>
  ]]></description>
@@ -11,6 +15,12 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f7af2f69bc82dded16f44468d7312bec23a44600</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add zdoo.co for Tools for Teams and Collaboration</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c17d32fba1b4e680e5bda7a538f48cb809985cba</link><description><![CDATA[<a href="https://www.zdoo.co">https://www.zdoo.co</a> - With CRM, OA, and Project management suites, zdoo is so powerful for team collaboration. Free cloud version with limited users and space offered, one-month free trial for premium versions.<br>
+<a href="https://www.zentao.jp">https://www.zentao.jp</a> - An application lifecycle management tool involves issue tracking, free Saas version available for basic plan. Premium versions on-premise is also offered.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Add more information</title>
@@ -306,10 +316,6 @@
 	<title>adding treescale.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2493c9c718ac904491a89f9a473523bf2bee8f9</link><description><![CDATA[<a href="https://treescale.com/">https://treescale.com/</a> - Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove unreachable site</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/40d8097a7aa83961076c91048d2d9b37ca5264ac</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
