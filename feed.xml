@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Clouflare Pages</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f721ec0c074f44e6a5d2632b7f96cdca1f676848</link><description><![CDATA[<a href="https://pages.cloudflare.com/) — Free web hosting (JAMstack platform">https://pages.cloudflare.com/) — Free web hosting (JAMstack platform</a> - — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Glitterly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2abb212a5f9a504182d108b3b99e2a03d1474a0</link><description><![CDATA[<a href="https://glitterly.app/">https://glitterly.app/</a> - Programatically generate dynamic images from base templates. Restful API and nocode integrations. Free tier comes with 50 images/month and 5 templates.<br>
  ]]></description>
@@ -305,16 +310,6 @@
 <a href="https://treescale.com/">https://treescale.com/</a> - Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.<br>
 <a href="https://www.lazarus-ide.org/">https://www.lazarus-ide.org/</a> - Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.<br>
 <a href="https://www.lazarus-ide.org/">https://www.lazarus-ide.org/</a> - Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.<br>
- ]]></description>
-</item>
-<item>
-	<title>alphabetical order</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/98cf740e2a0fe6b0f7eb724292ec1f0b0313af39</link><description><![CDATA[<a href="https://www.lazarus-ide.org/">https://www.lazarus-ide.org/</a> - Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Lazarus IDE</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ddbfc56cde99ffda2e4f6ffa4f720f17440f129c</link><description><![CDATA[<a href="https://www.lazarus-ide.org/">https://www.lazarus-ide.org/</a> - Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.<br>
  ]]></description>
 </item>
 
