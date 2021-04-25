@@ -4,6 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Typo: avaiable -> available</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5579d9e888acdf215fc0b06160eecc2d3a712006</link><description><![CDATA[<a href="https://vabotu.com/">https://vabotu.com/</a> - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.<br>
+<a href="https://wikifactory.com/">https://wikifactory.com/</a> - Product designing Service with Projects, VCS & Issues. Free plan offers unlimited projects & collaborators and 3GB storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added favicon</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e429cd8ac4fcbe724ea15156d034fa0b076ae98a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add files via upload</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/07f1ff220df3f0f3d4c0301882d5db08e0e1a7a8</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Delete Free_for_dev_logo-removebg-preview.png</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/77b204ab4a73ef1270f1a533441a86502b571549</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add files via upload</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3cd2e5267feab329172ffb75ff48c294ad9a26a0</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Fix Things</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0383e21852ae6a8f97401b75d3e37691e685f330</link><description><![CDATA[<a href="https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM">https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM</a> - Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always-free.<br>
 <a href="https://supabase.io">https://supabase.io</a> - The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.<br>
@@ -37,26 +59,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f7af2f69bc82dded16f44468d7312bec23a44600</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add zdoo.co for Tools for Teams and Collaboration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c17d32fba1b4e680e5bda7a538f48cb809985cba</link><description><![CDATA[<a href="https://www.zdoo.co">https://www.zdoo.co</a> - With CRM, OA, and Project management suites, zdoo is so powerful for team collaboration. Free cloud version with limited users and space offered, one-month free trial for premium versions.<br>
-<a href="https://www.zentao.jp">https://www.zentao.jp</a> - An application lifecycle management tool involves issue tracking, free Saas version available for basic plan. Premium versions on-premise is also offered.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add more information</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/386866a2389c9bfd64a246a1a9fe0b68ed526c3f</link><description><![CDATA[<a href="https://datelist.io">https://datelist.io</a> - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c47a2c840d14446e58cbe3161b24a033d09ace28</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4b791664a16b17c462fc0af4c15e5dae00f0d729</link><description><![CDATA[<a href="https://nextdns.io">https://nextdns.io</a> - DNS based firewall, 300K free queries monthly<br>
- ]]></description>
 </item>
 
 </channel>
