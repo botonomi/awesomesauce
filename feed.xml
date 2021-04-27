@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Format Express - update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/221d69e28cd5a4819de3ca595b5bf918f2acb50a</link><description><![CDATA[<a href="https://www.format-express.dev">https://www.format-express.dev</a> - - Instant online formatter for JSON / XML / SQL.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Amended description for Shake</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/30b2f12094bc9b1db55efda7b646d8ff6cc46762</link><description><![CDATA[<a href="https://www.shakebugs.com/">https://www.shakebugs.com/</a> - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.<br>
  ]]></description>
@@ -73,11 +78,6 @@
 	<title>Added Services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a0e63fdba4d0f4e17c9328a38fb00578fb1b8a85</link><description><![CDATA[<a href="https://streamdata.io/">https://streamdata.io/</a> - Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections.<br>
 <a href="https://supabase.io">https://supabase.io</a> - The Open Source Firebase Alternative to build backends. Free Plan offers the following :<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Clouflare Pages</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f721ec0c074f44e6a5d2632b7f96cdca1f676848</link><description><![CDATA[<a href="https://pages.cloudflare.com/) — Free web hosting (JAMstack platform">https://pages.cloudflare.com/) — Free web hosting (JAMstack platform</a> - — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.<br>
  ]]></description>
 </item>
 
