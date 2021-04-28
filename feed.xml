@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Mocki</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9fbd8e603a2791c85838c6ce2f382ff48d052334</link><description><![CDATA[<a href="https://mocki.io">https://mocki.io</a> - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Format Express - update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/221d69e28cd5a4819de3ca595b5bf918f2acb50a</link><description><![CDATA[<a href="https://www.format-express.dev">https://www.format-express.dev</a> - - Instant online formatter for JSON / XML / SQL.<br>
  ]]></description>
@@ -67,11 +72,6 @@
 <item>
 	<title>Add files via upload</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3cd2e5267feab329172ffb75ff48c294ad9a26a0</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0910d928c78a272ffcdf2798f585fed30b7d3673</link><description><![CDATA[<a href="https://www.uxtweak.com/">https://www.uxtweak.com/</a> - Record and watch how visitors use your web site or app. Free unlimited time for small projects<br>
- ]]></description>
 </item>
 
 </channel>
