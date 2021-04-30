@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add privacy management section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3f8ac0bfe77f04980748c04963cd58af9c3a88d5</link><description><![CDATA[<a href="#privacy-management">#privacy-management</a> - <br>
+<a href="https://www.bearer.sh/">https://www.bearer.sh/</a> - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.<br>
+<a href="https://www.osano.com/">https://www.osano.com/</a> - Consent management and compliance platform with everything from GDPR representation to cookie banners. Free tier offers basic features.<br>
+<a href="https://www.iubenda.com/">https://www.iubenda.com/</a> - Privacy and cookie policies along with consent management. Free tier offers limited privacy and cookie policy as well as cookie banners.<br>
+<a href="https://cookiefirst.com/">https://cookiefirst.com/</a> - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.<br>
+<a href="https://www.ketch.com/">https://www.ketch.com/</a> - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Mocki</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9fbd8e603a2791c85838c6ce2f382ff48d052334</link><description><![CDATA[<a href="https://mocki.io">https://mocki.io</a> - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup.<br>
  ]]></description>
@@ -64,14 +74,6 @@
 <item>
 	<title>Add files via upload</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07f1ff220df3f0f3d4c0301882d5db08e0e1a7a8</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Delete Free_for_dev_logo-removebg-preview.png</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/77b204ab4a73ef1270f1a533441a86502b571549</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add files via upload</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3cd2e5267feab329172ffb75ff48c294ad9a26a0</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
