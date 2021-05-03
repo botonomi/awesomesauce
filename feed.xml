@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove SenseiTool.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cfc7ea8c933d3a4e9014acd381b997f4c6393ce6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add privacy management section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3f8ac0bfe77f04980748c04963cd58af9c3a88d5</link><description><![CDATA[<a href="#privacy-management">#privacy-management</a> - <br>
 <a href="https://www.bearer.sh/">https://www.bearer.sh/</a> - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.<br>
@@ -66,14 +70,6 @@
 	<title>add saas.zentao.pm in Issue Tracking and Project Management</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b6fe86405d2bc756bebcc31288cbae9a0833b0b4</link><description><![CDATA[<a href="https://saas.zentao.pm/">https://saas.zentao.pm/</a> - An Application Lifecycle Management solution for Issue Tracking and Project Management, on-premise and open source version are available as well.<br>
  ]]></description>
-</item>
-<item>
-	<title>added favicon</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e429cd8ac4fcbe724ea15156d034fa0b076ae98a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add files via upload</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/07f1ff220df3f0f3d4c0301882d5db08e0e1a7a8</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
