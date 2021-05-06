@@ -4,8 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Moved Cloudflare Workers directly into existing Cloudflare listing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9851e94b6d24c921cea4f4fbff45b9810b418cef</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add analytics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df25dd123e70da1f61a6f65021607b2b1088caf3</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Rename workers.dev to Cloudflare Workers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/05d8d12f98c4e6f50f556200f389ab6ff43057a7</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Remove SenseiTool.com</title>
@@ -44,25 +54,6 @@
 <item>
 	<title>rm zarvis</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/391688b92286e457e9b30610bf03346dbf45590f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add saas.zentao.pm to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/862e15bf690edc2f71bf30b47581d1bb7d74bac9</link><description><![CDATA[<a href="https://duo.com/) — Two-factor authentication (2FA">https://duo.com/) — Two-factor authentication (2FA</a> - Two-factor authentication (2FA) for website or app. Free for 10 users, all authentication methods, unlimited, integrations, hardware tokens.<br>
-<a href="https://firebase.com">https://firebase.com</a> - Firebase helps you build and run successful apps. Offers a variety of services in the Free Spark Plan listed here :<br>
-<a href="https://www.acunote.com/">https://www.acunote.com/</a> - Free project management and SCRUM software for up to 5 team members<br>
-<a href="https://backlog.com">https://backlog.com</a> - Everything your team needs to release great projects in one platform. Free plan offers 1 Project with 10 users & 100MB storage.<br>
-<a href="https://wikifactory.com/">https://wikifactory.com/</a> - Product designing Service with Projects,VCS & Issues. Free plan offers unlimited projects & collaborators and 3GB storage.<br>
-<a href="https://databox.com">https://databox.com</a> - Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.<br>
-<a href="https://freedcamp.com/">https://freedcamp.com/</a> - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users and files storage.<br>
-<a href="https://glitterly.app/">https://glitterly.app/</a> - Programatically generate dynamic images from base templates. Restful API and nocode integrations. Free tier comes with 50 images/month and 5 templates.<br>
-<a href="https://pages.cloudflare.com/) — Free web hosting (JAMstack platform">https://pages.cloudflare.com/) — Free web hosting (JAMstack platform</a> - — Free web hosting (JAMstack platform) for frontend developers to collaborate and deploy websites. 1 build at a time, 500 builds/month, unlimited sites, unlimited requests, unlimited bandwidth.<br>
-<a href="https://streamdata.io/">https://streamdata.io/</a> - Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections.<br>
-<a href="https://supabase.io">https://supabase.io</a> - The Open Source Firebase Alternative to build backends. Free Plan offers the following :<br>
-<a href="https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM">https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM</a> - Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always-free.<br>
-<a href="https://supabase.io">https://supabase.io</a> - The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.<br>
-<a href="https://vabotu.com/">https://vabotu.com/</a> - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.<br>
-<a href="https://wikifactory.com/">https://wikifactory.com/</a> - Product designing Service with Projects, VCS & Issues. Free plan offers unlimited projects & collaborators and 3GB storage.<br>
- ]]></description>
 </item>
 
 </channel>
