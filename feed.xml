@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Railway.app in PaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6eb28d81e10736689ae48009fec1424605b6ca09</link><description><![CDATA[<a href="https://railway.app">https://railway.app</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Evironments / Project, 3 Live Deploys / Environment available for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Moved Cloudflare Workers directly into existing Cloudflare listing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9851e94b6d24c921cea4f4fbff45b9810b418cef</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
  ]]></description>
@@ -50,10 +55,6 @@
 	<title>Added new resource under Issue tracking</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c1ab3890373cc566ae3e69c8a4f0693d68a4d227</link><description><![CDATA[<a href="https://www.shakebugs.com/">https://www.shakebugs.com/</a> - In-app bug reporting and feedback tool for mobile apps. Free plan.<br>
  ]]></description>
-</item>
-<item>
-	<title>rm zarvis</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/391688b92286e457e9b30610bf03346dbf45590f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
