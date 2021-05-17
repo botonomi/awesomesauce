@@ -5,6 +5,16 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7f07898754036ac541d1fdce9db148071b38349</link><description><![CDATA[<a href="https://glitch.com/">https://glitch.com/</a> - Free public hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added SoftaCheck to Code Quality List</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3f1d83755c296b0fb07aa623b420ca4252360178</link><description><![CDATA[<a href="https://www.softacheck.com/">https://www.softacheck.com/</a> - An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0fecc382a3b63f7b3178d4d1ac93376d23325448</link><description><![CDATA[ ]]></description>
 </item>
 <item>
@@ -48,16 +58,6 @@
 <a href="https://www.iubenda.com/">https://www.iubenda.com/</a> - Privacy and cookie policies along with consent management. Free tier offers limited privacy and cookie policy as well as cookie banners.<br>
 <a href="https://cookiefirst.com/">https://cookiefirst.com/</a> - Cookie banners, auditing, and multi-language consent management solution. Free tier offers a one-time scan and a single banner.<br>
 <a href="https://www.ketch.com/">https://www.ketch.com/</a> - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Mocki</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9fbd8e603a2791c85838c6ce2f382ff48d052334</link><description><![CDATA[<a href="https://mocki.io">https://mocki.io</a> - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Format Express - update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/221d69e28cd5a4819de3ca595b5bf918f2acb50a</link><description><![CDATA[<a href="https://www.format-express.dev">https://www.format-express.dev</a> - - Instant online formatter for JSON / XML / SQL.<br>
  ]]></description>
 </item>
 
