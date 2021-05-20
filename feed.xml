@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add HeySpace and TimeCamp</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/72a72c05819e21c6e5ccd26b2c37df64e44183e6</link><description><![CDATA[<a href="https://hey.space">https://hey.space</a> - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.<br>
+<a href="https://www.timecamp.com/">https://www.timecamp.com/</a> - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Deta as a sponsor</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ff1ea311616ae375552e1b2427413d5e5c376c35</link><description><![CDATA[<a href="https://deta.sh/?ref=freedev">https://deta.sh/?ref=freedev</a> - a 100% free cloud provider from Germany 🇩🇪. Deta offers friendly & fast support on Slack & Discord as well.<br>
  ]]></description>
@@ -50,10 +56,6 @@
 	<title>Add OnlineOrNot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f9b34d5510f9e76ee727bd45a44ace3aaa802ea</link><description><![CDATA[<a href="https://onlineornot.com/">https://onlineornot.com/</a> - 10 uptime monitors with a 5 minute interval, 10 page speed monitors with a 12 hour interval. Free alerts via Slack and Email.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove SenseiTool.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cfc7ea8c933d3a4e9014acd381b997f4c6393ce6</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
