@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixed a spelling mistake</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3b0a13a07fc6cc8b1a0e7bc2ade70c04d794e8cc</link><description><![CDATA[<a href="https://shrtco.de/docs">https://shrtco.de/docs</a> - - Free URL Shortening API without authorization and no request limits.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add HeySpace and TimeCamp</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/72a72c05819e21c6e5ccd26b2c37df64e44183e6</link><description><![CDATA[<a href="https://hey.space">https://hey.space</a> - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.<br>
 <a href="https://www.timecamp.com/">https://www.timecamp.com/</a> - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.<br>
@@ -50,11 +55,6 @@
 <item>
 	<title>Rename workers.dev to Cloudflare Workers</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/05d8d12f98c4e6f50f556200f389ab6ff43057a7</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add OnlineOrNot</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f9b34d5510f9e76ee727bd45a44ace3aaa802ea</link><description><![CDATA[<a href="https://onlineornot.com/">https://onlineornot.com/</a> - 10 uptime monitors with a 5 minute interval, 10 page speed monitors with a 12 hour interval. Free alerts via Slack and Email.<br>
  ]]></description>
 </item>
 
