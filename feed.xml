@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Stormkit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f654b9838fd048addeb81bded8d203bdbd8b6319</link><description><![CDATA[<a href="https://stormkit.io/">https://stormkit.io/</a> - Integrate building, deploying and hosting seamlessly with your git flow of your JAMStack or Node.JS app. 50 GB bandwith and 10m requests for free per month including free SSL.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fixed a spelling mistake</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3b0a13a07fc6cc8b1a0e7bc2ade70c04d794e8cc</link><description><![CDATA[<a href="https://shrtco.de/docs">https://shrtco.de/docs</a> - - Free URL Shortening API without authorization and no request limits.<br>
  ]]></description>
@@ -46,15 +51,6 @@
 <item>
 	<title>Moved Cloudflare Workers directly into existing Cloudflare listing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9851e94b6d24c921cea4f4fbff45b9810b418cef</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
- ]]></description>
-</item>
-<item>
-	<title>add analytics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df25dd123e70da1f61a6f65021607b2b1088caf3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Rename workers.dev to Cloudflare Workers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/05d8d12f98c4e6f50f556200f389ab6ff43057a7</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
  ]]></description>
 </item>
 
