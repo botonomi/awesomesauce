@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added PingPong pro plan offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7d5a7cd1a79c8c2923b45bbfb125545be2b487fc</link><description><![CDATA[<a href="https://pingpong.one/">https://pingpong.one/</a> - Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add pingpong.one</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b179317245c2d02920c9f8cf4b7198cd62094d31</link><description><![CDATA[<a href="https://pingpong.one/">https://pingpong.one/</a> - Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Oracle Cloud Free Tier offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/594794360157ab6261f830db8f33f3187b8b668b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>docs(button): add a back-to-top button for each section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2f7cf929df164748087b1439f7b202653ef388a8</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
 <a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
@@ -84,21 +98,6 @@
 	<title>Add HeySpace and TimeCamp</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/72a72c05819e21c6e5ccd26b2c37df64e44183e6</link><description><![CDATA[<a href="https://hey.space">https://hey.space</a> - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.<br>
 <a href="https://www.timecamp.com/">https://www.timecamp.com/</a> - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Deta as a sponsor</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ff1ea311616ae375552e1b2427413d5e5c376c35</link><description><![CDATA[<a href="https://deta.sh/?ref=freedev">https://deta.sh/?ref=freedev</a> - a 100% free cloud provider from Germany 🇩🇪. Deta offers friendly & fast support on Slack & Discord as well.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7f07898754036ac541d1fdce9db148071b38349</link><description><![CDATA[<a href="https://glitch.com/">https://glitch.com/</a> - Free public hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added SoftaCheck to Code Quality List</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3f1d83755c296b0fb07aa623b420ca4252360178</link><description><![CDATA[<a href="https://www.softacheck.com/">https://www.softacheck.com/</a> - An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.<br>
  ]]></description>
 </item>
 
