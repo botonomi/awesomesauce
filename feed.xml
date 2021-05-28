@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update WebScraping.AI Monthly Limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b29fe6acb799065b56755ebb5ac0722b709ea2b</link><description><![CDATA[<a href="https://webscraping.ai">https://webscraping.ai</a> - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 2000 free API calls per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added PingPong pro plan offering</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d5a7cd1a79c8c2923b45bbfb125545be2b487fc</link><description><![CDATA[<a href="https://pingpong.one/">https://pingpong.one/</a> - Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.<br>
  ]]></description>
@@ -92,12 +97,6 @@
 <item>
 	<title>Fixed a spelling mistake</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3b0a13a07fc6cc8b1a0e7bc2ade70c04d794e8cc</link><description><![CDATA[<a href="https://shrtco.de/docs">https://shrtco.de/docs</a> - - Free URL Shortening API without authorization and no request limits.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add HeySpace and TimeCamp</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/72a72c05819e21c6e5ccd26b2c37df64e44183e6</link><description><![CDATA[<a href="https://hey.space">https://hey.space</a> - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.<br>
-<a href="https://www.timecamp.com/">https://www.timecamp.com/</a> - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.<br>
  ]]></description>
 </item>
 
