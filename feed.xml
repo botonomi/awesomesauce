@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Operous.dev to Security Tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/45f180bafaf74b4d0a9c961a099d55a78b284b21</link><description><![CDATA[<a href="https://operous.dev/">https://operous.dev/</a> - Cloud instance testing tool with a comprehensive and automated set of test-suites of best practices, performance, and security. Free tier offers 100 testing minutes, 10 Test Suites, and up to 5 instances to 1 user.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Mastershot video editor</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ec5ce13203f5434a67dd0ca4619330699bb61fe</link><description><![CDATA[<a href="https://mastershot.app">https://mastershot.app</a> - Completely free browser-based video editor. No watermark, up to 1080p export options.<br>
  ]]></description>
@@ -92,11 +97,6 @@
 <item>
 	<title>Revert "Add 20i"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d3cfd55aac8a4f4d6e464cdc9e7c1a2d24904289</link><description><![CDATA[<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs(Design and UI): add Ant Design Landing Page</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0b97c7580072f25d32bae232e326aae6c5fc9979</link><description><![CDATA[<a href="https://landing.ant.design/">https://landing.ant.design/</a> - Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.<br>
  ]]></description>
 </item>
 
