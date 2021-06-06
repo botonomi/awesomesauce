@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Move onto one line</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3c87992cae0d772d77e687452e30fc39ae38d247</link><description><![CDATA[<a href="https://codeberg.page/">https://codeberg.page/</a> - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Codeberg Pages and update description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d00b530e8e27e55d89b73626f2daa8cd4646d9e7</link><description><![CDATA[<a href="https://codeberg.org/">https://codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects.<br>
+<a href="https://codeberg.page/">https://codeberg.page/</a> - hosting with [Codeberg Pages](https://codeberg.page/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update redirected link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bc855601c97841043157a071177e15c615ca577b</link><description><![CDATA[<a href="https://devpal.co/base64-decode/">https://devpal.co/base64-decode/</a> - — Online free tool for decoding & encoding data.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Operous.dev to Security Tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/45f180bafaf74b4d0a9c961a099d55a78b284b21</link><description><![CDATA[<a href="https://operous.dev/">https://operous.dev/</a> - Cloud instance testing tool with a comprehensive and automated set of test-suites of best practices, performance, and security. Free tier offers 100 testing minutes, 10 Test Suites, and up to 5 instances to 1 user.<br>
  ]]></description>
@@ -41,63 +57,6 @@
 <item>
 	<title>Update Oracle Cloud Free Tier offering</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/594794360157ab6261f830db8f33f3187b8b668b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>docs(button): add a back-to-top button for each section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2f7cf929df164748087b1439f7b202653ef388a8</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "Add 20i"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d3cfd55aac8a4f4d6e464cdc9e7c1a2d24904289</link><description><![CDATA[<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
- ]]></description>
 </item>
 
 </channel>
