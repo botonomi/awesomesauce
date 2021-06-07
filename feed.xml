@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Scraper's Proxy</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2742c4212f69f4a30d109bb8386d089704a74d40</link><description><![CDATA[<a href="https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support">https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support</a> - — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Move onto one line</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3c87992cae0d772d77e687452e30fc39ae38d247</link><description><![CDATA[<a href="https://codeberg.page/">https://codeberg.page/</a> - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).<br>
  ]]></description>
@@ -53,10 +58,6 @@
 	<title>Add pingpong.one</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b179317245c2d02920c9f8cf4b7198cd62094d31</link><description><![CDATA[<a href="https://pingpong.one/">https://pingpong.one/</a> - Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update Oracle Cloud Free Tier offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/594794360157ab6261f830db8f33f3187b8b668b</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
