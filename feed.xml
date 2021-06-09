@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added 2 new services.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f3debbf567e0f0c20387e2a3ed5d391da79a23ee</link><description><![CDATA[<a href="https://www.ntaskmanager.com/">https://www.ntaskmanager.com/</a> - Project management software that enables your teams tn collaborate, plan, analyze and manage everyday tasks. Basic Plan free forever with 100 MB storage, 5 users/team. Unlimited workspaces, meetings,tasks, timesheets and issue tracking.<br>
+<a href="https://storj.io">https://storj.io</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 3 Projects, 50 GB storage per project/month , 50 GB bandwidth per project/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Scraper's Proxy</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2742c4212f69f4a30d109bb8386d089704a74d40</link><description><![CDATA[<a href="https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support">https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support</a> - — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support).<br>
  ]]></description>
@@ -47,16 +53,6 @@
 <item>
 	<title>Update WebScraping.AI Monthly Limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5b29fe6acb799065b56755ebb5ac0722b709ea2b</link><description><![CDATA[<a href="https://webscraping.ai">https://webscraping.ai</a> - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 2000 free API calls per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added PingPong pro plan offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d5a7cd1a79c8c2923b45bbfb125545be2b487fc</link><description><![CDATA[<a href="https://pingpong.one/">https://pingpong.one/</a> - Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add pingpong.one</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b179317245c2d02920c9f8cf4b7198cd62094d31</link><description><![CDATA[<a href="https://pingpong.one/">https://pingpong.one/</a> - Advanced status page platform with monitoring. Free tier includes one public customizable status page with SSL subdomain.<br>
  ]]></description>
 </item>
 
