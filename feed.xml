@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removed Netify based on review.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d559b90f00d301e0ea808498290542c08987fc65</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7c813529571ac59758a7ce9a74108403ede0417</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>WIP Filtering out Rebranded(or fake) cPanel Hosts</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/86724d4006713c859c3891150636390ef67da8c3</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Fixed typos. Added NPM to packagecloud.io and gave direct link to fre…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4340a9e6e4a0f0edb800c05ff6a6212c11cbf026</link><description><![CDATA[<a href="https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable">https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable</a> - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.<br>
+<a href="https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier">https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier</a> - Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).<br>
+<a href="https://www.netlify.com/">https://www.netlify.com/</a> - An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. Free tier available. Pro version free for Open Source teams.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added HarperDb</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eff655d2dacd64b2baed15b268e40662b04cd1c2</link><description><![CDATA[<a href="https://harperdb.io/">https://harperdb.io/</a> - Serverless cloud database, with dynamic schema based on JSON, 3000 IOPS with 1GB storage<br>
  ]]></description>
@@ -49,27 +68,6 @@
 	<title>Added 2 new services.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f3debbf567e0f0c20387e2a3ed5d391da79a23ee</link><description><![CDATA[<a href="https://www.ntaskmanager.com/">https://www.ntaskmanager.com/</a> - Project management software that enables your teams tn collaborate, plan, analyze and manage everyday tasks. Basic Plan free forever with 100 MB storage, 5 users/team. Unlimited workspaces, meetings,tasks, timesheets and issue tracking.<br>
 <a href="https://storj.io">https://storj.io</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 3 Projects, 50 GB storage per project/month , 50 GB bandwidth per project/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Scraper's Proxy</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2742c4212f69f4a30d109bb8386d089704a74d40</link><description><![CDATA[<a href="https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support">https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support</a> - — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support).<br>
- ]]></description>
-</item>
-<item>
-	<title>Move onto one line</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3c87992cae0d772d77e687452e30fc39ae38d247</link><description><![CDATA[<a href="https://codeberg.page/">https://codeberg.page/</a> - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Codeberg Pages and update description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d00b530e8e27e55d89b73626f2daa8cd4646d9e7</link><description><![CDATA[<a href="https://codeberg.org/">https://codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects.<br>
-<a href="https://codeberg.page/">https://codeberg.page/</a> - hosting with [Codeberg Pages](https://codeberg.page/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update redirected link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bc855601c97841043157a071177e15c615ca577b</link><description><![CDATA[<a href="https://devpal.co/base64-decode/">https://devpal.co/base64-decode/</a> - — Online free tool for decoding & encoding data.<br>
  ]]></description>
 </item>
 
