@@ -9,6 +9,37 @@
  ]]></description>
 </item>
 <item>
+	<title>Merged Artifactory and Pipelines.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e6f67b40fe0321752a257c70472e2b9127dc2b1a</link><description><![CDATA[<a href="https://jfrog.com/start-free/)] - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable">https://jfrog.com/start-free/)] - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable</a> - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated outdated information about Shippable.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/042481201bc9b206176eae7103121c2f8c7682f1</link><description><![CDATA[<a href="https://jfrog.com/start-free">https://jfrog.com/start-free</a> - (formerly Shippable)](https://jfrog.com/start-free) — The free tier offers 2,000 CI/CD minutes per month at no cost.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Reduced length.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dfcda2283027a4d142c90995382116c81b62a33d</link><description><![CDATA[<a href="https://jfrog.com/start-free/">https://jfrog.com/start-free/</a> - An artifact repository that supports package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added information about Artifactory.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8195063abc87430c5255eb2c326b82d85702e4e0</link><description><![CDATA[<a href="https://jfrog.com/start-free/)] - A universal artifact repository that supports all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.">https://jfrog.com/start-free/)] - A universal artifact repository that supports all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.</a> - A universal artifact repository that supports all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated informaton about Artifactory.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/68a2ea438d3aacd8d8553dae78e33cf978dbbebf</link><description><![CDATA[<a href="https://central.sonatype.org">https://central.sonatype.org</a> - The default artifact repository for Apache Maven, SBT and other build systems.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated information about Artifactory.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/49f09c470b0bf9706a3843ad6e0d9fc25fa0b55f</link><description><![CDATA[<a href="https://jfrog.com/start-free/)] - JFrog Artifactory offers a universal solution supporting all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.">https://jfrog.com/start-free/)] - JFrog Artifactory offers a universal solution supporting all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.</a> - JFrog Artifactory offers a universal solution supporting all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.)<br>
+<a href="https://central.sonatype.org">https://central.sonatype.org</a> - default artifact repository for Apache Maven, SBT and other build systems.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added two new services.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8125975dcbeb8e0b028b9e95086507e72e35ef82</link><description><![CDATA[<a href="https://gforge.com">https://gforge.com</a> - Project Management & Issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers first 5 users free & free for Open Source Projects.<br>
 <a href="https://paiza.cloud/en/">https://paiza.cloud/en/</a> - Develop Web apps in Browser without having the need to setup anything. Free Plan offers 1 server with 24 hours lifetime and 4 hours running time per day with 2 CPU cores, 2 GB RAM and 1 GB storage.<br>
@@ -39,21 +70,6 @@
 <item>
 	<title>Update redirected link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc855601c97841043157a071177e15c615ca577b</link><description><![CDATA[<a href="https://devpal.co/base64-decode/">https://devpal.co/base64-decode/</a> - — Online free tool for decoding & encoding data.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Operous.dev to Security Tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/45f180bafaf74b4d0a9c961a099d55a78b284b21</link><description><![CDATA[<a href="https://operous.dev/">https://operous.dev/</a> - Cloud instance testing tool with a comprehensive and automated set of test-suites of best practices, performance, and security. Free tier offers 100 testing minutes, 10 Test Suites, and up to 5 instances to 1 user.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Mastershot video editor</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9ec5ce13203f5434a67dd0ca4619330699bb61fe</link><description><![CDATA[<a href="https://mastershot.app">https://mastershot.app</a> - Completely free browser-based video editor. No watermark, up to 1080p export options.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Okteto Cloud Free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b066e2496342b62ea775f001f8b7b5d3f0ecae4c</link><description><![CDATA[<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 3Gi/pod with a maximum of 8Gi/namespace, 1CPU/pod with a maximum of 4CPUs/namespace and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
  ]]></description>
 </item>
 
