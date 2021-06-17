@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated with mailvalidator.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f12856351aab951b2e3d1dbd9b84f49e1e30d5c</link><description><![CDATA[<a href="https://mailvalidator.io/">https://mailvalidator.io/</a> - Verify 300 emails/month for free, real-time API with bulk processing available<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removed Netify based on review.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d559b90f00d301e0ea808498290542c08987fc65</link><description><![CDATA[ ]]></description>
 </item>
@@ -62,12 +67,6 @@
 	<title>Added two new services.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8125975dcbeb8e0b028b9e95086507e72e35ef82</link><description><![CDATA[<a href="https://gforge.com">https://gforge.com</a> - Project Management & Issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers first 5 users free & free for Open Source Projects.<br>
 <a href="https://paiza.cloud/en/">https://paiza.cloud/en/</a> - Develop Web apps in Browser without having the need to setup anything. Free Plan offers 1 server with 24 hours lifetime and 4 hours running time per day with 2 CPU cores, 2 GB RAM and 1 GB storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 2 new services.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f3debbf567e0f0c20387e2a3ed5d391da79a23ee</link><description><![CDATA[<a href="https://www.ntaskmanager.com/">https://www.ntaskmanager.com/</a> - Project management software that enables your teams tn collaborate, plan, analyze and manage everyday tasks. Basic Plan free forever with 100 MB storage, 5 users/team. Unlimited workspaces, meetings,tasks, timesheets and issue tracking.<br>
-<a href="https://storj.io">https://storj.io</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 3 Projects, 50 GB storage per project/month , 50 GB bandwidth per project/month.<br>
  ]]></description>
 </item>
 
