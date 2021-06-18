@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7b9379dd15a05e2fbc7a456c891cb1c987d10776</link><description><![CDATA[<a href="https://iploka.com/">https://iploka.com/</a> - IP to Geolocation API - Forever free plan for developers with 10k requests per month limit.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated with mailvalidator.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f12856351aab951b2e3d1dbd9b84f49e1e30d5c</link><description><![CDATA[<a href="https://mailvalidator.io/">https://mailvalidator.io/</a> - Verify 300 emails/month for free, real-time API with bulk processing available<br>
  ]]></description>
@@ -61,12 +66,6 @@
 	<title>Updated information about Artifactory.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/49f09c470b0bf9706a3843ad6e0d9fc25fa0b55f</link><description><![CDATA[<a href="https://jfrog.com/start-free/)] - JFrog Artifactory offers a universal solution supporting all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.">https://jfrog.com/start-free/)] - JFrog Artifactory offers a universal solution supporting all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.</a> - JFrog Artifactory offers a universal solution supporting all major package formats including Alpine, Maven, Gradle, Docker, Cargo, Conda, Conan, Debian, Go, Helm, Vagrant, YUM, P2, Ivy, NuGet, PHP, NPM, RubyGems, PyPI, Bower, CocoaPods, GitLFS, Opkg, SBT, and more. Free tier of JFrog Platform incudes Artifactory, XRay (a universal software composition analysis solution), and Pipelines (CI/CD, workflow, and tool orchestration tool.)<br>
 <a href="https://central.sonatype.org">https://central.sonatype.org</a> - default artifact repository for Apache Maven, SBT and other build systems.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added two new services.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8125975dcbeb8e0b028b9e95086507e72e35ef82</link><description><![CDATA[<a href="https://gforge.com">https://gforge.com</a> - Project Management & Issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers first 5 users free & free for Open Source Projects.<br>
-<a href="https://paiza.cloud/en/">https://paiza.cloud/en/</a> - Develop Web apps in Browser without having the need to setup anything. Free Plan offers 1 server with 24 hours lifetime and 4 hours running time per day with 2 CPU cores, 2 GB RAM and 1 GB storage.<br>
  ]]></description>
 </item>
 
