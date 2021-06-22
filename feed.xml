@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update GitDuck -> Duckly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d0e362a47cd85fb87f1361655acee1adaa4c3bb4</link><description><![CDATA[<a href="https://duckly.com/">https://duckly.com/</a> - Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update CDN information</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/55ae92d2fbd37004c1b8cb40de7017f1798b1e0c</link><description><![CDATA[<a href="https://cdnjs.com/">https://cdnjs.com/</a> - Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.<br>
 <a href="https://www.jsdelivr.com/">https://www.jsdelivr.com/</a> - A free, fast, and reliable CDN for open source. Supports npm, GitHub, WordPress, Deno, and more.<br>
@@ -56,17 +61,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7c813529571ac59758a7ce9a74108403ede0417</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>WIP Filtering out Rebranded(or fake) cPanel Hosts</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/86724d4006713c859c3891150636390ef67da8c3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Fixed typos. Added NPM to packagecloud.io and gave direct link to fre…</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4340a9e6e4a0f0edb800c05ff6a6212c11cbf026</link><description><![CDATA[<a href="https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable">https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable</a> - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Incudes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.<br>
-<a href="https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier">https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier</a> - Easy to use repository hosting for: Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).<br>
-<a href="https://www.netlify.com/">https://www.netlify.com/</a> - An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. Free tier available. Pro version free for Open Source teams.<br>
- ]]></description>
 </item>
 
 </channel>
