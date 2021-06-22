@@ -4,8 +4,39 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added fakermail.com for temporary emails</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4b8b98300481de7d926d68d7eef5e555183e0e32</link><description><![CDATA[<a href="https://fakermail.com/">https://fakermail.com/</a> - Free, temporary email for testing with last 100 email accounts stored.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Changed - for —</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/631172405bfe2a4d580ab675f50a01a858b014b6</link><description><![CDATA[<a href="https://nic.eu.org">https://nic.eu.org</a> - Free eu.org domain. Request is usually approved in 14 days.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added eu.org</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7c7c4ed1b383f293df1f3a0cdc028d2d78804487</link><description><![CDATA[<a href="https://nic.eu.org">https://nic.eu.org</a> - Free eu.org domain. Request is usually approved in 14 days.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7befd81f9f4b796c320ffa04c8858585e20c67ef</link><description><![CDATA[<a href="https://bookmarkos.com">https://bookmarkos.com</a> - Free all-on-one bookmark manager, tab manager, and task manager in a customizable online desktop with folder collaboration.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update GitDuck -> Duckly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d0e362a47cd85fb87f1361655acee1adaa4c3bb4</link><description><![CDATA[<a href="https://duckly.com/">https://duckly.com/</a> - Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Consolidated to a single category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/86da168b1e177578b271f72b02c462d3cc925203</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add Directus — Open-Source Data Platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eddb1b5c233d9f8c08a92e7eaf11f43db9b6c319</link><description><![CDATA[<a href="https://directus.io">https://directus.io</a> - Automatically generates a dynamic REST and GraphQL API for any SQL database.<br>
+<a href="https://directus.io">https://directus.io</a> - Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. No limitations or paywalls.<br>
+<a href="https://directus.io">https://directus.io</a> - — Directus as a service. An open-source data platform that automatically generates a dynamic REST and GraphQL API for pure SQL databases.<br>
  ]]></description>
 </item>
 <item>
@@ -33,34 +64,6 @@
 	<title>added Statically Screenshot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6dfff18e2b398337c4c8aa158e7313504bf3c3a6</link><description><![CDATA[<a href="https://statically.io/docs/using-screenshot/">https://statically.io/docs/using-screenshot/</a> - — A free screenshot API to convert web to image or PDF. Supports desktop and mobile view.<br>
  ]]></description>
-</item>
-<item>
-	<title>added thedev.id</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7785473797ff32a79da4b01166a6edbefbd82c6d</link><description><![CDATA[<a href="https://thedev.id">https://thedev.id</a> - A free domain for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>update a project domain: staticaly.com to statically.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/21a1baa3caa5edfb02334a79895eae16dae17d3f</link><description><![CDATA[<a href="https://statically.io/) — CDN for Git repos (GitHub, GitLab, Bitbucket">https://statically.io/) — CDN for Git repos (GitHub, GitLab, Bitbucket</a> - CDN for Git repos (GitHub, GitLab, Bitbucket), WordPress-related assets and images<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7b9379dd15a05e2fbc7a456c891cb1c987d10776</link><description><![CDATA[<a href="https://iploka.com/">https://iploka.com/</a> - IP to Geolocation API - Forever free plan for developers with 10k requests per month limit.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated with mailvalidator.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6f12856351aab951b2e3d1dbd9b84f49e1e30d5c</link><description><![CDATA[<a href="https://mailvalidator.io/">https://mailvalidator.io/</a> - Verify 300 emails/month for free, real-time API with bulk processing available<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed Netify based on review.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d559b90f00d301e0ea808498290542c08987fc65</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7c813529571ac59758a7ce9a74108403ede0417</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
