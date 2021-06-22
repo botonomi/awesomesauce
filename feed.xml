@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Deepnote</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/32d1b1c0ec14895c350bf4ce05a7e297615ad450</link><description><![CDATA[<a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added fakermail.com for temporary emails</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4b8b98300481de7d926d68d7eef5e555183e0e32</link><description><![CDATA[<a href="https://fakermail.com/">https://fakermail.com/</a> - Free, temporary email for testing with last 100 email accounts stored.<br>
  ]]></description>
@@ -54,16 +59,6 @@
 <item>
 	<title>Revert "added Statically Screenshot"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f62e8f5a88cafc236505efa4f5d4673d6ed05113</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>updated service description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/260863860b24db2b53c4d1362726bb656b424731</link><description><![CDATA[<a href="https://thedev.id">https://thedev.id</a> - A free thedev.id subdomain for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>added Statically Screenshot</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6dfff18e2b398337c4c8aa158e7313504bf3c3a6</link><description><![CDATA[<a href="https://statically.io/docs/using-screenshot/">https://statically.io/docs/using-screenshot/</a> - — A free screenshot API to convert web to image or PDF. Supports desktop and mobile view.<br>
- ]]></description>
 </item>
 
 </channel>
