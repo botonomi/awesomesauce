@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added the reqres</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ef7e73d3936adff7554722bb386052e6c29e2718</link><description><![CDATA[<a href="https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free">https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free</a> - Public Repos, 2000 min/month for private repos free)<br>
+<a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
+<a href="https://reqres.in">https://reqres.in</a> - A Free hosted REST-API ready to respond to your AJAX requests.<br>
+<a href="https://duckly.com/">https://duckly.com/</a> - Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams.<br>
+<a href="https://robocorp.com">https://robocorp.com</a> - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automations for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB.<br>
+<a href="https://www.softacheck.com/">https://www.softacheck.com/</a> - An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.<br>
+<a href="https://recaptchame.com/">https://recaptchame.com/</a> - free reCAPTCHA and hCAPTCHA backend service. No Server-Side coding needed. Works for static websites.<br>
+<a href="https://zoho.com/subscriptions">https://zoho.com/subscriptions</a> - Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored<br>
+<a href="https://www.shakebugs.com/">https://www.shakebugs.com/</a> - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.<br>
+<a href="https://smartmockups.com/">https://smartmockups.com/</a> - Create product mockups, 200 free mockups.<br>
+<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
+<a href="https://www.bearer.sh/">https://www.bearer.sh/</a> - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Deepnote</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/32d1b1c0ec14895c350bf4ce05a7e297615ad450</link><description><![CDATA[<a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
  ]]></description>
@@ -55,10 +71,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/fe1836646e9a749c2e4411c2f8540e280418aa6c</link><description><![CDATA[<a href="https://calendly.com">https://calendly.com</a> - Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.<br>
 <a href="https://flutterflow.io">https://flutterflow.io</a> - — Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. Free plan includes full access to UI Builder and Free templates.<br>
  ]]></description>
-</item>
-<item>
-	<title>Revert "added Statically Screenshot"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f62e8f5a88cafc236505efa4f5d4673d6ed05113</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
