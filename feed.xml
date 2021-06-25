@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Byet</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2941d527f66021c37fb3beab63f3cbead3dcae87</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added the reqres</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ef7e73d3936adff7554722bb386052e6c29e2718</link><description><![CDATA[<a href="https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free">https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free</a> - Public Repos, 2000 min/month for private repos free)<br>
 <a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
@@ -17,6 +21,11 @@
 <a href="https://smartmockups.com/">https://smartmockups.com/</a> - Create product mockups, 200 free mockups.<br>
 <a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
 <a href="https://www.bearer.sh/">https://www.bearer.sh/</a> - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Stream</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5d1710164d2a82b5937a88155c28cf682e6085d8</link><description><![CDATA[<a href="https://getstream.io/">https://getstream.io/</a> - Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks<br>
  ]]></description>
 </item>
 <item>
@@ -52,25 +61,6 @@
 <item>
 	<title>Consolidated to a single category</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/86da168b1e177578b271f72b02c462d3cc925203</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Directus — Open-Source Data Platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eddb1b5c233d9f8c08a92e7eaf11f43db9b6c319</link><description><![CDATA[<a href="https://directus.io">https://directus.io</a> - Automatically generates a dynamic REST and GraphQL API for any SQL database.<br>
-<a href="https://directus.io">https://directus.io</a> - Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. No limitations or paywalls.<br>
-<a href="https://directus.io">https://directus.io</a> - — Directus as a service. An open-source data platform that automatically generates a dynamic REST and GraphQL API for pure SQL databases.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update CDN information</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/55ae92d2fbd37004c1b8cb40de7017f1798b1e0c</link><description><![CDATA[<a href="https://cdnjs.com/">https://cdnjs.com/</a> - Simple. Fast. Reliable. Content delivery at its finest. cdnjs is a free and open-source CDN service trusted by over 11% of all websites, powered by Cloudflare.<br>
-<a href="https://www.jsdelivr.com/">https://www.jsdelivr.com/</a> - A free, fast, and reliable CDN for open source. Supports npm, GitHub, WordPress, Deno, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 2 new services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fe1836646e9a749c2e4411c2f8540e280418aa6c</link><description><![CDATA[<a href="https://calendly.com">https://calendly.com</a> - Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.<br>
-<a href="https://flutterflow.io">https://flutterflow.io</a> - — Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. Free plan includes full access to UI Builder and Free templates.<br>
- ]]></description>
 </item>
 
 </channel>
