@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding Forms backend provider - herotofu.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0ab792892a2746869bb67a62c37b70b0b1c3b8f7</link><description><![CDATA[<a href="https://herotofu.com/">https://herotofu.com/</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 50 submissions per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Byet</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2941d527f66021c37fb3beab63f3cbead3dcae87</link><description><![CDATA[ ]]></description>
 </item>
@@ -57,10 +62,6 @@
 	<title>Update GitDuck -> Duckly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d0e362a47cd85fb87f1361655acee1adaa4c3bb4</link><description><![CDATA[<a href="https://duckly.com/">https://duckly.com/</a> - Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams.<br>
  ]]></description>
-</item>
-<item>
-	<title>Consolidated to a single category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/86da168b1e177578b271f72b02c462d3cc925203</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
