@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Move Track Awesome List badge to Note section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8d4519b59db56a2445ff5b8abf2de963b726577c</link><description><![CDATA[<a href="https://www.trackawesomelist.com/ripienaar/free-for-dev">https://www.trackawesomelist.com/ripienaar/free-for-dev</a> - <br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Track Awesome List</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/443c78dfea9aa3a344d929d7de687ae383c851f0</link><description><![CDATA[<a href="https://www.trackawesomelist.com/ripienaar/free-for-dev">https://www.trackawesomelist.com/ripienaar/free-for-dev</a> - Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5b4c370e1a87f6c01a445def22bc51bb47e30907</link><description><![CDATA[<a href="https://railway.app">https://railway.app</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Environments / Project, 3 Live Deploys / Environment available for free.<br>
  ]]></description>
@@ -46,21 +56,6 @@
 <item>
 	<title>Added fakermail.com for temporary emails</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4b8b98300481de7d926d68d7eef5e555183e0e32</link><description><![CDATA[<a href="https://fakermail.com/">https://fakermail.com/</a> - Free, temporary email for testing with last 100 email accounts stored.<br>
- ]]></description>
-</item>
-<item>
-	<title>Changed - for —</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/631172405bfe2a4d580ab675f50a01a858b014b6</link><description><![CDATA[<a href="https://nic.eu.org">https://nic.eu.org</a> - Free eu.org domain. Request is usually approved in 14 days.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added eu.org</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7c7c4ed1b383f293df1f3a0cdc028d2d78804487</link><description><![CDATA[<a href="https://nic.eu.org">https://nic.eu.org</a> - Free eu.org domain. Request is usually approved in 14 days.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7befd81f9f4b796c320ffa04c8858585e20c67ef</link><description><![CDATA[<a href="https://bookmarkos.com">https://bookmarkos.com</a> - Free all-on-one bookmark manager, tab manager, and task manager in a customizable online desktop with folder collaboration.<br>
  ]]></description>
 </item>
 
