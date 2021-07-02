@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/12f2d2c4a1bc0ef87fcae1fdf134cfb90de9c47d</link><description><![CDATA[<a href="https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically">https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically</a> - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Microsoft Clarity</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0dceb695c65cff8c5e1b09912c949e1d367e0bd1</link><description><![CDATA[<a href="https://clarity.microsoft.com/">https://clarity.microsoft.com/</a> - - Session recording completely free with "no traffic limits", no project limits, and no sampling<br>
+ ]]></description>
+</item>
+<item>
 	<title>Move Track Awesome List badge to Note section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8d4519b59db56a2445ff5b8abf2de963b726577c</link><description><![CDATA[<a href="https://www.trackawesomelist.com/ripienaar/free-for-dev">https://www.trackawesomelist.com/ripienaar/free-for-dev</a> - <br>
  ]]></description>
@@ -51,11 +61,6 @@
 <item>
 	<title>Add Deepnote</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/32d1b1c0ec14895c350bf4ce05a7e297615ad450</link><description><![CDATA[<a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added fakermail.com for temporary emails</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4b8b98300481de7d926d68d7eef5e555183e0e32</link><description><![CDATA[<a href="https://fakermail.com/">https://fakermail.com/</a> - Free, temporary email for testing with last 100 email accounts stored.<br>
  ]]></description>
 </item>
 
