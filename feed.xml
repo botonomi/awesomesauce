@@ -4,6 +4,31 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Mailtie.com to E-mail section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a2daae9a715f9c3cd48f1086dcb7dd76893e04df</link><description><![CDATA[<a href="https://mailtie.com/">https://mailtie.com/</a> - Free Email Forwarding for Your Domain. No registration required. Free Forever.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Text Fix</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e4d0167b86f6565d463846137ae8bf78d6a6a22b</link><description><![CDATA[<a href="https://formsubmit.co/">https://formsubmit.co/</a> - Easy form endpoints for your HTML forms. Free Forever. No registration required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Formsubmit.co to Forms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f5192d00f46fc6a5ed77f3c459f1078ad04e7637</link><description><![CDATA[<a href="https://formsubmit.co/">https://formsubmit.co/</a> - Easy form endpoints for your HTML forms. Free Forever. No registration required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Repl.it --> Replit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8f53ccd32579d41fdcaf915af35f6204bf34f6a6</link><description><![CDATA[<a href="https://replit.com/">https://replit.com/</a> - A cloud coding environment for various program languages.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add KSoft.Si api</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2c9ef99a3c043f6ae6f2328a8d1516156466aafd</link><description><![CDATA[<a href="https://api.ksoft.si/">https://api.ksoft.si/</a> - Free lyrics api chiefly aimed for discord bots.Also provides an extensive library of images and user data<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/12f2d2c4a1bc0ef87fcae1fdf134cfb90de9c47d</link><description><![CDATA[<a href="https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically">https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically</a> - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).<br>
  ]]></description>
@@ -31,36 +56,6 @@
 <item>
 	<title>Adding Forms backend provider - herotofu.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0ab792892a2746869bb67a62c37b70b0b1c3b8f7</link><description><![CDATA[<a href="https://herotofu.com/">https://herotofu.com/</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 50 submissions per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Byet</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2941d527f66021c37fb3beab63f3cbead3dcae87</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added the reqres</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ef7e73d3936adff7554722bb386052e6c29e2718</link><description><![CDATA[<a href="https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free">https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free</a> - Public Repos, 2000 min/month for private repos free)<br>
-<a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
-<a href="https://reqres.in">https://reqres.in</a> - A Free hosted REST-API ready to respond to your AJAX requests.<br>
-<a href="https://duckly.com/">https://duckly.com/</a> - Talk and collaborate in real-time with your team. Pair programming with any IDE, terminal sharing, voice, video and screen sharing. Free for small teams.<br>
-<a href="https://robocorp.com">https://robocorp.com</a> - Open-source stack for powering Automation Ops. Try out Cloud features and implement simple automations for free. Robot work 240 min/month, 10 Assistant runs, Storage of 100 MB.<br>
-<a href="https://www.softacheck.com/">https://www.softacheck.com/</a> - An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.<br>
-<a href="https://recaptchame.com/">https://recaptchame.com/</a> - free reCAPTCHA and hCAPTCHA backend service. No Server-Side coding needed. Works for static websites.<br>
-<a href="https://zoho.com/subscriptions">https://zoho.com/subscriptions</a> - Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored<br>
-<a href="https://www.shakebugs.com/">https://www.shakebugs.com/</a> - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.<br>
-<a href="https://smartmockups.com/">https://smartmockups.com/</a> - Create product mockups, 200 free mockups.<br>
-<a href="https://updrafts.app">https://updrafts.app</a> - WYSIWYG web site builder for tailwindcss based designs. Free for non-commercial usage.<br>
-<a href="https://www.bearer.sh/">https://www.bearer.sh/</a> - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Stream</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5d1710164d2a82b5937a88155c28cf682e6085d8</link><description><![CDATA[<a href="https://getstream.io/">https://getstream.io/</a> - Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Deepnote</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/32d1b1c0ec14895c350bf4ce05a7e297615ad450</link><description><![CDATA[<a href="https://deepnote.com">https://deepnote.com</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.<br>
  ]]></description>
 </item>
 
