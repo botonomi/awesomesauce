@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/718d7591d2a37cb76b91b3f12b5f40ec9041508d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add Lightly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5ea908a1a8cb62259a4a58f5212592528b915e4d</link><description><![CDATA[<a href="https://www.lightly.ai/">https://www.lightly.ai/</a> - Improve your machine learning models by using the right data. Use datasets of up to 1'000 samples for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Mailtie.com to E-mail section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a2daae9a715f9c3cd48f1086dcb7dd76893e04df</link><description><![CDATA[<a href="https://mailtie.com/">https://mailtie.com/</a> - Free Email Forwarding for Your Domain. No registration required. Free Forever.<br>
  ]]></description>
@@ -46,16 +55,6 @@
 <item>
 	<title>Add Track Awesome List</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/443c78dfea9aa3a344d929d7de687ae383c851f0</link><description><![CDATA[<a href="https://www.trackawesomelist.com/ripienaar/free-for-dev">https://www.trackawesomelist.com/ripienaar/free-for-dev</a> - Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5b4c370e1a87f6c01a445def22bc51bb47e30907</link><description><![CDATA[<a href="https://railway.app">https://railway.app</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Environments / Project, 3 Live Deploys / Environment available for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Forms backend provider - herotofu.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ab792892a2746869bb67a62c37b70b0b1c3b8f7</link><description><![CDATA[<a href="https://herotofu.com/">https://herotofu.com/</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 50 submissions per month.<br>
  ]]></description>
 </item>
 
