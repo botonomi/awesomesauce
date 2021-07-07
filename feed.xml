@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Localeum</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/323015ab73b0f51d14a75b92b145fb3ce35844e7</link><description><![CDATA[<a href="https://localeum.com">https://localeum.com</a> - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added FlashDrive.io on Hosting section )</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b3d5a616f6b2771280f27a9a969bf5808f5f01c5</link><description><![CDATA[<a href="https://flashdrive.io">https://flashdrive.io</a> - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added FlashDrive.io (free tier available)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6d3cbeec8e0195dbfa9ef33ced8900f30f1dd783</link><description><![CDATA[<a href="https://flashdrive.io">https://flashdrive.io</a> - PaaS service similar to Heroku with a Developer-centric approach and all inclusive features. Dev Tier is free and perfect to host static assets and staging projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/718d7591d2a37cb76b91b3f12b5f40ec9041508d</link><description><![CDATA[ ]]></description>
 </item>
@@ -40,21 +55,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/12f2d2c4a1bc0ef87fcae1fdf134cfb90de9c47d</link><description><![CDATA[<a href="https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically">https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically</a> - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Microsoft Clarity</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0dceb695c65cff8c5e1b09912c949e1d367e0bd1</link><description><![CDATA[<a href="https://clarity.microsoft.com/">https://clarity.microsoft.com/</a> - - Session recording completely free with "no traffic limits", no project limits, and no sampling<br>
- ]]></description>
-</item>
-<item>
-	<title>Move Track Awesome List badge to Note section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8d4519b59db56a2445ff5b8abf2de963b726577c</link><description><![CDATA[<a href="https://www.trackawesomelist.com/ripienaar/free-for-dev">https://www.trackawesomelist.com/ripienaar/free-for-dev</a> - <br>
- ]]></description>
-</item>
-<item>
-	<title>Add Track Awesome List</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/443c78dfea9aa3a344d929d7de687ae383c851f0</link><description><![CDATA[<a href="https://www.trackawesomelist.com/ripienaar/free-for-dev">https://www.trackawesomelist.com/ripienaar/free-for-dev</a> - Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)<br>
  ]]></description>
 </item>
 
