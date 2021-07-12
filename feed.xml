@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add mocko.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3a5678c61db76cd8c85bee5b834c99aaa3e1bc54</link><description><![CDATA[<a href="https://mocko.dev/">https://mocko.dev/</a> - Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integrations tests.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dae9aac2418556fe792f7f60be79a2d0edbe9bb6</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit).<br>
  ]]></description>
@@ -50,16 +55,6 @@
 <item>
 	<title>Text Fix</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e4d0167b86f6565d463846137ae8bf78d6a6a22b</link><description><![CDATA[<a href="https://formsubmit.co/">https://formsubmit.co/</a> - Easy form endpoints for your HTML forms. Free Forever. No registration required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Formsubmit.co to Forms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f5192d00f46fc6a5ed77f3c459f1078ad04e7637</link><description><![CDATA[<a href="https://formsubmit.co/">https://formsubmit.co/</a> - Easy form endpoints for your HTML forms. Free Forever. No registration required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Repl.it --> Replit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8f53ccd32579d41fdcaf915af35f6204bf34f6a6</link><description><![CDATA[<a href="https://replit.com/">https://replit.com/</a> - A cloud coding environment for various program languages.<br>
  ]]></description>
 </item>
 
