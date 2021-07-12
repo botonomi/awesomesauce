@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add inboxkitten.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/84d5816d130feb0948f368f2996323fe8b63e579</link><description><![CDATA[<a href="https://inboxkitten.com/">https://inboxkitten.com/</a> - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add mocko.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3a5678c61db76cd8c85bee5b834c99aaa3e1bc54</link><description><![CDATA[<a href="https://mocko.dev/">https://mocko.dev/</a> - Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integrations tests.<br>
  ]]></description>
@@ -45,16 +50,6 @@
 <item>
 	<title>Add Lightly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5ea908a1a8cb62259a4a58f5212592528b915e4d</link><description><![CDATA[<a href="https://www.lightly.ai/">https://www.lightly.ai/</a> - Improve your machine learning models by using the right data. Use datasets of up to 1'000 samples for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Mailtie.com to E-mail section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a2daae9a715f9c3cd48f1086dcb7dd76893e04df</link><description><![CDATA[<a href="https://mailtie.com/">https://mailtie.com/</a> - Free Email Forwarding for Your Domain. No registration required. Free Forever.<br>
- ]]></description>
-</item>
-<item>
-	<title>Text Fix</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e4d0167b86f6565d463846137ae8bf78d6a6a22b</link><description><![CDATA[<a href="https://formsubmit.co/">https://formsubmit.co/</a> - Easy form endpoints for your HTML forms. Free Forever. No registration required.<br>
  ]]></description>
 </item>
 
