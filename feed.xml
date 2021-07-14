@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add EmailJS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/88288887d1e7882415bc98b665e505c6d91e7d7f</link><description><![CDATA[<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove adobe xd</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7957a8e74700b08b63b594b89d269221eec4c82</link><description><![CDATA[ ]]></description>
 </item>
@@ -50,11 +55,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/26b5288247e2b43f07469a07645a3c535c93a45b</link><description><![CDATA[<a href="https://mailazy.com/">https://mailazy.com/</a> - 500 emails/day free, 50,000 emails/month under the beta program!<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Localeum</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/323015ab73b0f51d14a75b92b145fb3ce35844e7</link><description><![CDATA[<a href="https://localeum.com">https://localeum.com</a> - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects<br>
  ]]></description>
 </item>
 
