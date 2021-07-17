@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>000WebHost should not be on this list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5e9df9dc2efd9ad178c70a826836c1d2aacdba6d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add EmailJS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/88288887d1e7882415bc98b665e505c6d91e7d7f</link><description><![CDATA[<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
  ]]></description>
@@ -50,11 +54,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fd3eaac41aa873cbb7965a550d686686bcecbd3e</link><description><![CDATA[<a href="https://mailazy.com/">https://mailazy.com/</a> - Mailazy is the only simple transactional email service you’ll need. 500 emails/day free forever.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/26b5288247e2b43f07469a07645a3c535c93a45b</link><description><![CDATA[<a href="https://mailazy.com/">https://mailazy.com/</a> - 500 emails/day free, 50,000 emails/month under the beta program!<br>
  ]]></description>
 </item>
 
