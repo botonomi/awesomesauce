@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Astra link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5f523e4bd1ffb443771bbe12811338a4ae6f82b5</link><description><![CDATA[<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [40GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Deleted unusable Travis Config.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4b717a1a99cfd4c6def31512a1e71f38da69de03</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7c4f9d42435983fbfd7c8ab3807457a590a048bc</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!<br>
  ]]></description>
@@ -11,6 +20,11 @@
 <item>
 	<title>000WebHost should not be on this list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5e9df9dc2efd9ad178c70a826836c1d2aacdba6d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add SerpApi search engine scraping API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/29849d44578e64f76e6f47e5bca87d9cc2d3f3d2</link><description><![CDATA[<a href="https://serpapi.com/">https://serpapi.com/</a> - Real-time search engine scraping API. Returns structured JSON results for Google, Youtube, Bing, Baidu, Walmart and many other engines. Free plan includes 100 successful API calls per month.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Add EmailJS</title>
@@ -34,21 +48,6 @@
 <item>
 	<title>added Unicorn Platform</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e00563108dcba5f430712dbf4ba69a93cfd86873</link><description><![CDATA[<a href="https://unicornplatform.com/">https://unicornplatform.com/</a> - - Effortless landing page builder with hosting. 1 website for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>add inboxkitten.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/84d5816d130feb0948f368f2996323fe8b63e579</link><description><![CDATA[<a href="https://inboxkitten.com/">https://inboxkitten.com/</a> - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add mocko.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3a5678c61db76cd8c85bee5b834c99aaa3e1bc54</link><description><![CDATA[<a href="https://mocko.dev/">https://mocko.dev/</a> - Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integrations tests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Submitting Scrumfast.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4dbeef81944c87e5b19a33217c06d18254f83ab2</link><description><![CDATA[<a href="https://www.scrumfast.com">https://www.scrumfast.com</a> - Free Scrum board with a very intuitive interface.<br>
  ]]></description>
 </item>
 
