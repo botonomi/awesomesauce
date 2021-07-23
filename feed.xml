@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Sort:</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/19da626c4ec9cdc0b6f58331cc49c0c2933bf0ed</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Mail.tm to e-mail section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1124ccb0250c5a53e125d0e4d538f5d354f49eab</link><description><![CDATA[<a href="https://mail.tm">https://mail.tm</a> - Disposable e-mail with user friendly interface. No registration needed.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updating free tier offer of HeroTofu</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/59def95ee325aa9047897059ed2fcb16af62fea4</link><description><![CDATA[<a href="https://herotofu.com/">https://herotofu.com/</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 100 submissions per month.<br>
  ]]></description>
@@ -39,16 +49,6 @@
 <item>
 	<title>remove adobe xd</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7957a8e74700b08b63b594b89d269221eec4c82</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Updating language as requested</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bfd705c36bc9c8a0cb8fdf608e405994886200f6</link><description><![CDATA[<a href="https://www.scrumfast.com">https://www.scrumfast.com</a> - Scrum board with a very intuitive interface, free up to 5 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove sponsor</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/985142934864915bdcdfb9f8a71f49a0955469cf</link><description><![CDATA[<a href="https://pages.github.com) (Free for Public Repos">https://pages.github.com) (Free for Public Repos</a> - Hosting](https://pages.github.com) (Free for Public Repos)<br>
- ]]></description>
 </item>
 
 </channel>
