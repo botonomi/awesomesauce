@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated new offering details of internxt</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dc2299053721367755b9550f17c8d906f776e984</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 2 GB for free, forever!<br>
+ ]]></description>
+</item>
+<item>
 	<title>Sort:</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/19da626c4ec9cdc0b6f58331cc49c0c2933bf0ed</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit).<br>
  ]]></description>
@@ -45,10 +50,6 @@
 	<title>Add EmailJS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/88288887d1e7882415bc98b665e505c6d91e7d7f</link><description><![CDATA[<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove adobe xd</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7957a8e74700b08b63b594b89d269221eec4c82</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
