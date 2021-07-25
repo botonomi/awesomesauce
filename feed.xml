@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove https://etf-data.com/  - no longer offer free access.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/40cfc38df99a6ea2984c0461d7edc678d7440c7c</link><description><![CDATA[<a href="https://efemarai.com">https://efemarai.com</a> - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>pp.ua free domain</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8fed43389813cf8f667ea12bced7d4a4636b86da</link><description><![CDATA[<a href="https://nic.ua/">https://nic.ua/</a> - Free pp.ua domain.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add CockroachDB</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9b6b0ab192d9e0ccd3d780b5e004b97c8ef49b9b</link><description><![CDATA[<a href="https://www.cockroachlabs.com/free-tier/">https://www.cockroachlabs.com/free-tier/</a> - Free CockroachDB up to 5GB and 1vCPU.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated new offering details of internxt</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dc2299053721367755b9550f17c8d906f776e984</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 2 GB for free, forever!<br>
  ]]></description>
@@ -35,20 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7c4f9d42435983fbfd7c8ab3807457a590a048bc</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!<br>
- ]]></description>
-</item>
-<item>
-	<title>000WebHost should not be on this list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5e9df9dc2efd9ad178c70a826836c1d2aacdba6d</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add SerpApi search engine scraping API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/29849d44578e64f76e6f47e5bca87d9cc2d3f3d2</link><description><![CDATA[<a href="https://serpapi.com/">https://serpapi.com/</a> - Real-time search engine scraping API. Returns structured JSON results for Google, Youtube, Bing, Baidu, Walmart and many other engines. Free plan includes 100 successful API calls per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add EmailJS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/88288887d1e7882415bc98b665e505c6d91e7d7f</link><description><![CDATA[<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
  ]]></description>
 </item>
 
