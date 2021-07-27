@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Deta limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dd7c0b6269b7508ade108b19e68791172616dfaf</link><description><![CDATA[<a href="https://www.deta.sh">https://www.deta.sh</a> - Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove freenom after reports of abuse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c7c075a64077ca31d2291057e2326929bf9d9858</link><description><![CDATA[<a href="https://efemarai.com">https://efemarai.com</a> - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.<br>
 <a href="https://nic.ua/">https://nic.ua/</a> - Free pp.ua domain.<br>
@@ -43,15 +48,6 @@
 	<title>Updating free tier offer of HeroTofu</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/59def95ee325aa9047897059ed2fcb16af62fea4</link><description><![CDATA[<a href="https://herotofu.com/">https://herotofu.com/</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 100 submissions per month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update Astra link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f523e4bd1ffb443771bbe12811338a4ae6f82b5</link><description><![CDATA[<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [40GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
- ]]></description>
-</item>
-<item>
-	<title>Deleted unusable Travis Config.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4b717a1a99cfd4c6def31512a1e71f38da69de03</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
