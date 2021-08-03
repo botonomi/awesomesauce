@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add GitLocalize</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ff717b56e380a8f4dffc7c9a384d5c3ad563dccc</link><description><![CDATA[<a href="https://gitlocalize.com">https://gitlocalize.com</a> - Free and unlimited for both private and public repositories<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a1edecb8cb8bc9fd55de9a62799ea24ec2e15b7e</link><description><![CDATA[<a href="https://geokeo.com">https://geokeo.com</a> - - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries<br>
  ]]></description>
