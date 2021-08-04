@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update description of Apify in README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c416d2ed201ab50f9747092f5ba3a4bec7eda559</link><description><![CDATA[<a href="https://www.apify.com/">https://www.apify.com/</a> - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add GitLocalize</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ff717b56e380a8f4dffc7c9a384d5c3ad563dccc</link><description><![CDATA[<a href="https://gitlocalize.com">https://gitlocalize.com</a> - Free and unlimited for both private and public repositories<br>
  ]]></description>
@@ -51,12 +56,6 @@
 <item>
 	<title>Update Deta limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd7c0b6269b7508ade108b19e68791172616dfaf</link><description><![CDATA[<a href="https://www.deta.sh">https://www.deta.sh</a> - Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove freenom after reports of abuse</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c7c075a64077ca31d2291057e2326929bf9d9858</link><description><![CDATA[<a href="https://efemarai.com">https://efemarai.com</a> - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.<br>
-<a href="https://nic.ua/">https://nic.ua/</a> - Free pp.ua domain.<br>
  ]]></description>
 </item>
 
