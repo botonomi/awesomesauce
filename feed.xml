@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Returned Zoho Assist to its original place</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/aa683f1f6fed0d9fe4caf6331b3e16f4935555c8</link><description><![CDATA[<a href="https://zoho.com/assist">https://zoho.com/assist</a> - Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.<br>
+<a href="https://guacamole.apache.org/">https://guacamole.apache.org/</a> - — Open source clientless remote desktop gateway<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add hygger</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/874c46121d83560e368dca84ae6281aeb746d85f</link><description><![CDATA[<a href="https://hygger.io">https://hygger.io</a> - Project management platform. Free plan offers unlimited users,projects & boards with 100 MB Storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add remote desktop tools section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/04e257b175709e60c7269e85866f390872bc54ac</link><description><![CDATA[<a href="#remote-desktop-tools">#remote-desktop-tools</a> - Tools](#remote-desktop-tools)<br>
+<a href="#remote-desktop-tools">#remote-desktop-tools</a> - Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Zoho Assist](#remote-desktop-tools).<br>
+<a href="https://zoho.com/assist">https://zoho.com/assist</a> - — Free for 1 remote technician & 5 unattended computers<br>
+<a href="https://getscreen.me">https://getscreen.me</a> - Free for 2 devices, no limits on the number and duration of sessions<br>
+<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update description of Apify in README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c416d2ed201ab50f9747092f5ba3a4bec7eda559</link><description><![CDATA[<a href="https://www.apify.com/">https://www.apify.com/</a> - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.<br>
  ]]></description>
@@ -41,21 +61,6 @@
 <item>
 	<title>Add vadoo.tv, video hosting and marketing tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aeb0802a4bdbcd7ec471e297fabf06225724fcc7</link><description><![CDATA[<a href="https://vadoo.tv/">https://vadoo.tv/</a> - Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides unlimited videos, 10 GB bandwidth/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Add siasky.net (Skynet)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/34ea3867aecf8fc3d8c053d14787158be89ef0e7</link><description><![CDATA[<a href="https://sia.tech/">https://sia.tech/</a> - An open protocol for hosting data and web applications on the decentralized web using [Sia](https://sia.tech/). Free tier provides storage upto 100GB.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Bridgecrew</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e5b8ae183e00031e0860807cb52f0839b739b2f1</link><description><![CDATA[<a href="https://github.com/bridgecrewio/checkov">https://github.com/bridgecrewio/checkov</a> - Infrastructure as code (IaC) security powered by the open source tool - [Checkov](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Deta limit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dd7c0b6269b7508ade108b19e68791172616dfaf</link><description><![CDATA[<a href="https://www.deta.sh">https://www.deta.sh</a> - Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.<br>
  ]]></description>
 </item>
 
