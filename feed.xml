@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Chpokify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1915a26a94f1b29129fc7088e388e9aab247ae61</link><description><![CDATA[<a href="https://chpokify.com/">https://chpokify.com/</a> - Teams based Planning Poker that saves time of sprint estimation. Free up to 5 users, free Jira integrations, unlimited video calls, unlimited teams, unlimited sessions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a39a15b8760ee70e44d8b6430d7334690dd6633d</link><description><![CDATA[<a href="https://hottempmail.com/">https://hottempmail.com/</a> - Unlimited free temp email or disposable temporary email addresses. Autoexpire in one days.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Returned Zoho Assist to its original place</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aa683f1f6fed0d9fe4caf6331b3e16f4935555c8</link><description><![CDATA[<a href="https://zoho.com/assist">https://zoho.com/assist</a> - Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.<br>
 <a href="https://guacamole.apache.org/">https://guacamole.apache.org/</a> - — Open source clientless remote desktop gateway<br>
@@ -51,16 +61,6 @@
 <item>
 	<title>Updated storage</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/84fae511c40ee2f85949ddf840f573db9d589fe4</link><description><![CDATA[<a href="https://vadoo.tv/">https://vadoo.tv/</a> - Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides upto 10 videos, 1 GB storage, 10 GB bandwidth/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixed the description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/59b4040a20f66d3860f64922e5d8ca33f871f030</link><description><![CDATA[<a href="https://vadoo.tv/">https://vadoo.tv/</a> - Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides upto 10 videos, 1 GB storage/month, 10 GB bandwidth/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Add vadoo.tv, video hosting and marketing tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aeb0802a4bdbcd7ec471e297fabf06225724fcc7</link><description><![CDATA[<a href="https://vadoo.tv/">https://vadoo.tv/</a> - Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides unlimited videos, 10 GB bandwidth/month<br>
  ]]></description>
 </item>
 
