@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add PlanetScale</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2e13c5d424799cc84b6578a5dca73e86315e0a76</link><description><![CDATA[<a href="https://planetscale.com/">https://planetscale.com/</a> - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 3 databases for free with 10GB storage, 100 Million rows read/mo per database, and 10 Million rows written/mo per database.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Chpokify</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1915a26a94f1b29129fc7088e388e9aab247ae61</link><description><![CDATA[<a href="https://chpokify.com/">https://chpokify.com/</a> - Teams based Planning Poker that saves time of sprint estimation. Free up to 5 users, free Jira integrations, unlimited video calls, unlimited teams, unlimited sessions.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ae2da2b3570b08211356e28856d6af13e907666b</link><description><![CDATA[<a href="https://www.macrometa.com/">https://www.macrometa.com/</a> - a noSQL database, Pub/Sub, event processing, and serverless edge computing platform for building geo-distributed and real-time applications.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated storage</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/84fae511c40ee2f85949ddf840f573db9d589fe4</link><description><![CDATA[<a href="https://vadoo.tv/">https://vadoo.tv/</a> - Video hosting and marketing made simple. Upload videos with a single click. Record, manage, share & more. Free tier provides upto 10 videos, 1 GB storage, 10 GB bandwidth/month<br>
  ]]></description>
 </item>
 
