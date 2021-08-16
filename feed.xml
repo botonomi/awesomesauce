@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix broken translation management entry in TOC</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b2c99f1ed89e24b3bc7c8ac337513c8eee850390</link><description><![CDATA[<a href="#translation-management">#translation-management</a> - <br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Texterify TMS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fe04f6fef0e18f761eaebf63226f852fa2da4edd</link><description><![CDATA[<a href="https://texterify.com/">https://texterify.com/</a> - Free for a single user<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add PlanetScale</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2e13c5d424799cc84b6578a5dca73e86315e0a76</link><description><![CDATA[<a href="https://planetscale.com/">https://planetscale.com/</a> - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 3 databases for free with 10GB storage, 100 Million rows read/mo per database, and 10 Million rows written/mo per database.<br>
  ]]></description>
@@ -51,16 +61,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a1edecb8cb8bc9fd55de9a62799ea24ec2e15b7e</link><description><![CDATA[<a href="https://geokeo.com">https://geokeo.com</a> - - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8bd83d93604f9f6cecb6d4fd8d0cef5fb77d5a11</link><description><![CDATA[<a href="https://www.macrometa.com/">https://www.macrometa.com/</a> - a noSQL database, Pub/Sub, event processing, and serverless edge computing platform for building geo-distributed and real-time applications. Free dev account gives access to 10,000 Operations/Day & 200MB Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ae2da2b3570b08211356e28856d6af13e907666b</link><description><![CDATA[<a href="https://www.macrometa.com/">https://www.macrometa.com/</a> - a noSQL database, Pub/Sub, event processing, and serverless edge computing platform for building geo-distributed and real-time applications.<br>
  ]]></description>
 </item>
 
