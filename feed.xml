@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added smalldev.tools - a handy tools for developer</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c50ff71242bd85edb77b862a8adf9cb7af030ffe</link><description><![CDATA[<a href="https://smalldev.tools/">https://smalldev.tools/</a> - A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix broken translation management entry in TOC</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b2c99f1ed89e24b3bc7c8ac337513c8eee850390</link><description><![CDATA[<a href="#translation-management">#translation-management</a> - <br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>Add GitLocalize</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ff717b56e380a8f4dffc7c9a384d5c3ad563dccc</link><description><![CDATA[<a href="https://gitlocalize.com">https://gitlocalize.com</a> - Free and unlimited for both private and public repositories<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a1edecb8cb8bc9fd55de9a62799ea24ec2e15b7e</link><description><![CDATA[<a href="https://geokeo.com">https://geokeo.com</a> - - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries<br>
  ]]></description>
 </item>
 
