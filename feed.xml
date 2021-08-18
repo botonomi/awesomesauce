@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added asayer.io - open-source session replay</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f02e666e04f1f414b10133857f8fa2b3280a9e0b</link><description><![CDATA[<a href="https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket">https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket</a> - Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket). Free 1k sessions/month with 14 days retention<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added smalldev.tools - a handy tools for developer</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c50ff71242bd85edb77b862a8adf9cb7af030ffe</link><description><![CDATA[<a href="https://smalldev.tools/">https://smalldev.tools/</a> - A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>Update description of Apify in README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c416d2ed201ab50f9747092f5ba3a4bec7eda559</link><description><![CDATA[<a href="https://www.apify.com/">https://www.apify.com/</a> - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add GitLocalize</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ff717b56e380a8f4dffc7c9a384d5c3ad563dccc</link><description><![CDATA[<a href="https://gitlocalize.com">https://gitlocalize.com</a> - Free and unlimited for both private and public repositories<br>
  ]]></description>
 </item>
 
