@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added 450 results limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/aca1047c95714e8463aa7e80f1d8da3115e46672</link><description><![CDATA[<a href="https://github.com/marketplace/testspace-com">https://github.com/marketplace/testspace-com</a> - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) accounts for 450 results per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added telegram, discordapp.com moved to discord.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/167a3eaf0d3c02ff61b635aa009181c8204649bf</link><description><![CDATA[<a href="https://discord.com/">https://discord.com/</a> - Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.<br>
+<a href="https://telegram.org/">https://telegram.org/</a> - Telegram is for everyone who wants fast and reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps and powerful file sharing options.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding testspace.com Test Management tool.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1667517f9038f928df8aa4dbf69d49513dbb666f</link><description><![CDATA[<a href="https://github.com/marketplace/testspace-com">https://github.com/marketplace/testspace-com</a> - Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. [Free for Open Source](https://github.com/marketplace/testspace-com).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added asayer.io - open-source session replay</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f02e666e04f1f414b10133857f8fa2b3280a9e0b</link><description><![CDATA[<a href="https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket">https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket</a> - Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket). Free 1k sessions/month with 14 days retention<br>
  ]]></description>
@@ -36,31 +52,6 @@
 <item>
 	<title>README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a39a15b8760ee70e44d8b6430d7334690dd6633d</link><description><![CDATA[<a href="https://hottempmail.com/">https://hottempmail.com/</a> - Unlimited free temp email or disposable temporary email addresses. Autoexpire in one days.<br>
- ]]></description>
-</item>
-<item>
-	<title>Returned Zoho Assist to its original place</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aa683f1f6fed0d9fe4caf6331b3e16f4935555c8</link><description><![CDATA[<a href="https://zoho.com/assist">https://zoho.com/assist</a> - Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.<br>
-<a href="https://guacamole.apache.org/">https://guacamole.apache.org/</a> - — Open source clientless remote desktop gateway<br>
- ]]></description>
-</item>
-<item>
-	<title>Add hygger</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/874c46121d83560e368dca84ae6281aeb746d85f</link><description><![CDATA[<a href="https://hygger.io">https://hygger.io</a> - Project management platform. Free plan offers unlimited users,projects & boards with 100 MB Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add remote desktop tools section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/04e257b175709e60c7269e85866f390872bc54ac</link><description><![CDATA[<a href="#remote-desktop-tools">#remote-desktop-tools</a> - Tools](#remote-desktop-tools)<br>
-<a href="#remote-desktop-tools">#remote-desktop-tools</a> - Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Zoho Assist](#remote-desktop-tools).<br>
-<a href="https://zoho.com/assist">https://zoho.com/assist</a> - — Free for 1 remote technician & 5 unattended computers<br>
-<a href="https://getscreen.me">https://getscreen.me</a> - Free for 2 devices, no limits on the number and duration of sessions<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Update description of Apify in README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c416d2ed201ab50f9747092f5ba3a4bec7eda559</link><description><![CDATA[<a href="https://www.apify.com/">https://www.apify.com/</a> - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.<br>
  ]]></description>
 </item>
 
