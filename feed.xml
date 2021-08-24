@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update link to point to product page</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1d5133dc639c651700f0d28b616873d4654a1c39</link><description><![CDATA[<a href="https://lean20.com/product/status/">https://lean20.com/product/status/</a> - Public status pages for incident reporting. 100% free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding Lean20 Status Pages to monitoring tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4c987f1392397699634992596a1efe0c79c952ae</link><description><![CDATA[<a href="https://lean20.com">https://lean20.com</a> - Public status pages for incident reporting. 100% free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>dropped Beta from Eva Beta</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ac8758fe7117bc49ffa215d42634c3b4a48f0a74</link><description><![CDATA[<a href="https://eva.pingutil.com">https://eva.pingutil.com</a> - Verify 5 million emails per day for free using REST API. No sign-ups required.<br>
  ]]></description>
@@ -56,11 +66,6 @@
 <item>
 	<title>Add PlanetScale</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2e13c5d424799cc84b6578a5dca73e86315e0a76</link><description><![CDATA[<a href="https://planetscale.com/">https://planetscale.com/</a> - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 3 databases for free with 10GB storage, 100 Million rows read/mo per database, and 10 Million rows written/mo per database.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Chpokify</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1915a26a94f1b29129fc7088e388e9aab247ae61</link><description><![CDATA[<a href="https://chpokify.com/">https://chpokify.com/</a> - Teams based Planning Poker that saves time of sprint estimation. Free up to 5 users, free Jira integrations, unlimited video calls, unlimited teams, unlimited sessions.<br>
  ]]></description>
 </item>
 
