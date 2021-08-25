@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Viezly - code review tool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e8864e5baf58b5fe3397a654140f39e804904e25</link><description><![CDATA[<a href="https://viezly.com/">https://viezly.com/</a> - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update link to point to product page</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1d5133dc639c651700f0d28b616873d4654a1c39</link><description><![CDATA[<a href="https://lean20.com/product/status/">https://lean20.com/product/status/</a> - Public status pages for incident reporting. 100% free.<br>
  ]]></description>
@@ -56,16 +61,6 @@
 <item>
 	<title>Fix broken translation management entry in TOC</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b2c99f1ed89e24b3bc7c8ac337513c8eee850390</link><description><![CDATA[<a href="#translation-management">#translation-management</a> - <br>
- ]]></description>
-</item>
-<item>
-	<title>Add Texterify TMS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fe04f6fef0e18f761eaebf63226f852fa2da4edd</link><description><![CDATA[<a href="https://texterify.com/">https://texterify.com/</a> - Free for a single user<br>
- ]]></description>
-</item>
-<item>
-	<title>Add PlanetScale</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2e13c5d424799cc84b6578a5dca73e86315e0a76</link><description><![CDATA[<a href="https://planetscale.com/">https://planetscale.com/</a> - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 3 databases for free with 10GB storage, 100 Million rows read/mo per database, and 10 Million rows written/mo per database.<br>
  ]]></description>
 </item>
 
