@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove graphenedb</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/94f82f45267ade352adf57cceb7b84a037360b07</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added Viezly - code review tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e8864e5baf58b5fe3397a654140f39e804904e25</link><description><![CDATA[<a href="https://viezly.com/">https://viezly.com/</a> - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.<br>
  ]]></description>
@@ -56,11 +60,6 @@
 <item>
 	<title>Added smalldev.tools - a handy tools for developer</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c50ff71242bd85edb77b862a8adf9cb7af030ffe</link><description><![CDATA[<a href="https://smalldev.tools/">https://smalldev.tools/</a> - A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix broken translation management entry in TOC</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b2c99f1ed89e24b3bc7c8ac337513c8eee850390</link><description><![CDATA[<a href="#translation-management">#translation-management</a> - <br>
  ]]></description>
 </item>
 
