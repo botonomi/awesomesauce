@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Geoapify to Data Visualizations on maps</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/587c7ae481216e33892ad3c4cc8ead823a32b6c0</link><description><![CDATA[<a href="https://www.geoapify.com/">https://www.geoapify.com/</a> - Vector and raster map tiles, geocoding, places, routing, isolines APIs. 3000 free requests / day.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove graphenedb</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/94f82f45267ade352adf57cceb7b84a037360b07</link><description><![CDATA[ ]]></description>
 </item>
@@ -55,11 +60,6 @@
 <item>
 	<title>Added asayer.io - open-source session replay</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f02e666e04f1f414b10133857f8fa2b3280a9e0b</link><description><![CDATA[<a href="https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket">https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket</a> - Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket). Free 1k sessions/month with 14 days retention<br>
- ]]></description>
-</item>
-<item>
-	<title>Added smalldev.tools - a handy tools for developer</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c50ff71242bd85edb77b862a8adf9cb7af030ffe</link><description><![CDATA[<a href="https://smalldev.tools/">https://smalldev.tools/</a> - A free tool for developers that allows you to Encode/Decode various formats, Minify HTML/CSS/Javascript, Beautify, Generate Fake/Testing real like dataset in JSON/CSV & multiple other formats and many more features. With a delightful interface.<br>
  ]]></description>
 </item>
 
