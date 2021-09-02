@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add GitDailies</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42292eba8f04e1f7b3c778c1d8053a36ff6cfe1a</link><description><![CDATA[<a href="https://gitdailies.com">https://gitdailies.com</a> - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, custom alert builder. Free tier has unlimited users, 3 repos, 3 alert configs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Geoapify to Data Visualizations on maps</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/587c7ae481216e33892ad3c4cc8ead823a32b6c0</link><description><![CDATA[<a href="https://www.geoapify.com/">https://www.geoapify.com/</a> - Vector and raster map tiles, geocoding, places, routing, isolines APIs. 3000 free requests / day.<br>
  ]]></description>
@@ -55,11 +60,6 @@
 <item>
 	<title>Adding testspace.com Test Management tool.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1667517f9038f928df8aa4dbf69d49513dbb666f</link><description><![CDATA[<a href="https://github.com/marketplace/testspace-com">https://github.com/marketplace/testspace-com</a> - Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. [Free for Open Source](https://github.com/marketplace/testspace-com).<br>
- ]]></description>
-</item>
-<item>
-	<title>Added asayer.io - open-source session replay</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f02e666e04f1f414b10133857f8fa2b3280a9e0b</link><description><![CDATA[<a href="https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket">https://asayer.io/pricing.html) — Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket</a> - Hosted version of openreplay, an open-source session replay (alternative to FullStory and LogRocket). Free 1k sessions/month with 14 days retention<br>
  ]]></description>
 </item>
 
