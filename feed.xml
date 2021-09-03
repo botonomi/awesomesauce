@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Flagsmith</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9e521cf6f45006594a4bf519af20624f7df27a23</link><description><![CDATA[<a href="https://www.molasses.app">https://www.molasses.app</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise<br>
+ ]]></description>
+</item>
+<item>
 	<title>update stackblitz description & add shortlink</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/53b42d23ac3960d8c399060c0b436ba1c4a2572a</link><description><![CDATA[<a href="https://node.new">https://node.new</a> - Online/Cloud Code IDE to create, edit, & deploy fullstack apps. Support any popular NodeJs based frontend & backend frameworks. Shortlink to create new project: [https://node.new](https://node.new).<br>
  ]]></description>
@@ -45,15 +50,6 @@
 <item>
 	<title>dropped Beta from Eva Beta</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ac8758fe7117bc49ffa215d42634c3b4a48f0a74</link><description><![CDATA[<a href="https://eva.pingutil.com">https://eva.pingutil.com</a> - Verify 5 million emails per day for free using REST API. No sign-ups required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 4 new entries under Email section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/deea21e61950f77c13ba6c22753d06b9e8acfb24</link><description><![CDATA[<a href="https://www.antideo.com">https://www.antideo.com</a> - 10 API requests per hour for email verification, IP and phone number validation in free tier. No Credit Cards required.<br>
-<a href="https://eva.pingutil.com">https://eva.pingutil.com</a> - — Verify 5 million emails per day for free using REST API. No sign-ups required.<br>
-<a href="https://quickemailverification.com">https://quickemailverification.com</a> - Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector and more.<br>
-<a href="https://hottempmail.com/">https://hottempmail.com/</a> - Unlimited free temp email or disposable temporary email addresses. Autoexpires in one day.<br>
-<a href="https://temp-mail.org">https://temp-mail.org</a> - Temporary, secure, anonymous, free, disposable email address with REST API for fetching 100 emails from its disposable mailbox per day for free.<br>
  ]]></description>
 </item>
 
