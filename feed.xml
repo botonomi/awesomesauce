@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Appfleet</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e243e613ed3af0b62a94b53eb91044b9b6199151</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Adding icon.horse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ed1c94bba294f1db304237a1155ad2bcec92369c</link><description><![CDATA[<a href="https://icon.horse">https://icon.horse</a> - – Get the highest resolution favicon for any website from our simple API.<br>
  ]]></description>
@@ -40,16 +44,6 @@
 <item>
 	<title>Added Viezly - code review tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e8864e5baf58b5fe3397a654140f39e804904e25</link><description><![CDATA[<a href="https://viezly.com/">https://viezly.com/</a> - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update link to point to product page</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1d5133dc639c651700f0d28b616873d4654a1c39</link><description><![CDATA[<a href="https://lean20.com/product/status/">https://lean20.com/product/status/</a> - Public status pages for incident reporting. 100% free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Lean20 Status Pages to monitoring tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c987f1392397699634992596a1efe0c79c952ae</link><description><![CDATA[<a href="https://lean20.com">https://lean20.com</a> - Public status pages for incident reporting. 100% free.<br>
  ]]></description>
 </item>
 
