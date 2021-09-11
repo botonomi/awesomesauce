@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add logflare.app</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/39e3265d95f6f678073da4a97745b46e6057dfb3</link><description><![CDATA[<a href="https://logflare.app/">https://logflare.app/</a> - Free for upto 12,960,000 enteries per app per month, 3 days retention<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add GraphCDN</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/86082ff3625f1f142e1b4d4c227b8db40bb5211c</link><description><![CDATA[<a href="https://graphcdn.io/">https://graphcdn.io/</a> - Scale, inspect & protect your GraphQL API. 5m requests per month for free.<br>
  ]]></description>
@@ -40,11 +45,6 @@
 <item>
 	<title>Added Flagsmith</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9e521cf6f45006594a4bf519af20624f7df27a23</link><description><![CDATA[<a href="https://www.molasses.app">https://www.molasses.app</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise<br>
- ]]></description>
-</item>
-<item>
-	<title>update stackblitz description & add shortlink</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/53b42d23ac3960d8c399060c0b436ba1c4a2572a</link><description><![CDATA[<a href="https://node.new">https://node.new</a> - Online/Cloud Code IDE to create, edit, & deploy fullstack apps. Support any popular NodeJs based frontend & backend frameworks. Shortlink to create new project: [https://node.new](https://node.new).<br>
  ]]></description>
 </item>
 
