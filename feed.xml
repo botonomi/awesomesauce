@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Economize.cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0483efc89dc3abd540e340f0fdbbc4b605f02bdf</link><description><![CDATA[<a href="https://economize.cloud">https://economize.cloud</a> - Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add logflare.app</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/39e3265d95f6f678073da4a97745b46e6057dfb3</link><description><![CDATA[<a href="https://logflare.app/">https://logflare.app/</a> - Free for upto 12,960,000 enteries per app per month, 3 days retention<br>
  ]]></description>
@@ -40,11 +45,6 @@
 <item>
 	<title>Adding icon.horse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ed1c94bba294f1db304237a1155ad2bcec92369c</link><description><![CDATA[<a href="https://icon.horse">https://icon.horse</a> - – Get the highest resolution favicon for any website from our simple API.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Flagsmith</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9e521cf6f45006594a4bf519af20624f7df27a23</link><description><![CDATA[<a href="https://www.molasses.app">https://www.molasses.app</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise<br>
  ]]></description>
 </item>
 
