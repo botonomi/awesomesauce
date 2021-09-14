@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Google free tier changes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f040450b678f50b686687d3234cc016d3b30be3b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Economize.cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0483efc89dc3abd540e340f0fdbbc4b605f02bdf</link><description><![CDATA[<a href="https://economize.cloud">https://economize.cloud</a> - Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.<br>
  ]]></description>
@@ -41,11 +45,6 @@
 <item>
 	<title>Remove Appfleet</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e243e613ed3af0b62a94b53eb91044b9b6199151</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Adding icon.horse</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ed1c94bba294f1db304237a1155ad2bcec92369c</link><description><![CDATA[<a href="https://icon.horse">https://icon.horse</a> - – Get the highest resolution favicon for any website from our simple API.<br>
- ]]></description>
 </item>
 
 </channel>
