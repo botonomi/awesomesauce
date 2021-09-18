@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add framer.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/261e939433365c3d7ed6a2dbaa41ba947237bc38</link><description><![CDATA[<a href="https://www.framer.com/">https://www.framer.com/</a> - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, up to 3 projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Google free tier changes</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f040450b678f50b686687d3234cc016d3b30be3b</link><description><![CDATA[ ]]></description>
 </item>
@@ -41,10 +46,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/0e8f5d2b14e901d560e056e134689b2401673dec</link><description><![CDATA[<a href="https://uploadcare.com/hub/developers/">https://uploadcare.com/hub/developers/</a> - Uploadcare provides media pipeline with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression. Limit free tier has 3000 uploads, 3 GB traffic and 3 GB storage.<br>
 <a href="https://degoo.com/) – AI based cloud storage with free up to 100 Gb, 5 devices, 500 Gb referral bonus (365 days account inactivity">https://degoo.com/) – AI based cloud storage with free up to 100 Gb, 5 devices, 500 Gb referral bonus (365 days account inactivity</a> - AI based cloud storage with free up to 100 Gb, 5 devices, 500 Gb referral bonus (365 days account inactivity).<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove Appfleet</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e243e613ed3af0b62a94b53eb91044b9b6199151</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
