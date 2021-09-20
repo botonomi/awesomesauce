@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>commit on addedMarkUp</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9dde9836e6c568823209787b52f487070daf29b4</link><description><![CDATA[<a href="https://www.markup.io/">https://www.markup.io/</a> - MarkUp lets you collect feedback directly on top of your websites, PDFs and images.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update meercode.io description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/63c9e7b645ecf04f9b8bb59e24add5fd770a56bd</link><description><![CDATA[<a href="https://meercode.io/">https://meercode.io/</a> - Meercode is the ultimate monitoring dashboard for your CI/CD builds. Free for open-source and 1 private repository.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add meercode.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5be33051f44c9eddda293374180f3697e8d9e7c6</link><description><![CDATA[<a href="https://meercode.io/">https://meercode.io/</a> - Meercode is the ultimate monitoring dashboard for your CI/CD builds.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add DynaPictures - added free plan limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cafc47ec8e0d7afbecd49c974862e53a001b07b9</link><description><![CDATA[<a href="https://dynapictures.com">https://dynapictures.com</a> - Design automation tool which lets you dynamically generate images over REST API. Change colors, texts, logos and images on the fly. Free plan includes 30 generated images per month and 3 image templates.<br>
  ]]></description>
@@ -48,20 +63,6 @@
 <item>
 	<title>Add framer.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/261e939433365c3d7ed6a2dbaa41ba947237bc38</link><description><![CDATA[<a href="https://www.framer.com/">https://www.framer.com/</a> - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, up to 3 projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Google free tier changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f040450b678f50b686687d3234cc016d3b30be3b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Economize.cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0483efc89dc3abd540e340f0fdbbc4b605f02bdf</link><description><![CDATA[<a href="https://economize.cloud">https://economize.cloud</a> - Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add logflare.app</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/39e3265d95f6f678073da4a97745b46e6057dfb3</link><description><![CDATA[<a href="https://logflare.app/">https://logflare.app/</a> - Free for upto 12,960,000 enteries per app per month, 3 days retention<br>
  ]]></description>
 </item>
 
