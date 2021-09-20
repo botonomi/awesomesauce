@@ -4,6 +4,23 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Change the description of Brainboard into oneliner</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/de4532de4074bb573b4d6f0514c2913ee84abb7b</link><description><![CDATA[<a href="https://www.brainboard.co">https://www.brainboard.co</a> - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Terraform.io into cloud management category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e9167ab4c5e9c5cd42913b71018b8ae53463337a</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add cloud management solutions sections and Brainboard</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/755e7e70a719693830b8421b9d35e95c9dda2b64</link><description><![CDATA[<a href="#cloud-management-solutions">#cloud-management-solutions</a> - solutions](#cloud-management-solutions)<br>
+<a href="https://www.brainboard.co">https://www.brainboard.co</a> - visually build and manage cloud infrastructures from end-to-end:<br>
+<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add integromat</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1869945c316b053a33b58d7df813e14eb3544091</link><description><![CDATA[<a href="https://www.integromat.com">https://www.integromat.com</a> - Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.<br>
  ]]></description>
@@ -40,11 +57,6 @@
 <item>
 	<title>Revert "add supportivekoala"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/09fccc5ae63083c20f65ac8f946e37d5a1f0de4c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add supportivekoala</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c63e17a1405fdaf621d8deffa60ae3def9cba242</link><description><![CDATA[<a href="http://supportivekoala.com/">http://supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
- ]]></description>
 </item>
 
 </channel>
