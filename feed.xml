@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Oracle cloud information</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2787e13e5547c36e2c1d10b870c847865f0ea791</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add neptune.ai</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f5edeee74fd4f232e9fa8b27afdfcd82dd123b85</link><description><![CDATA[<a href="https://neptune.ai/">https://neptune.ai/</a> - Log, store, display, organize, compare and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month<br>
  ]]></description>
@@ -58,11 +62,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/755e7e70a719693830b8421b9d35e95c9dda2b64</link><description><![CDATA[<a href="#cloud-management-solutions">#cloud-management-solutions</a> - solutions](#cloud-management-solutions)<br>
 <a href="https://www.brainboard.co">https://www.brainboard.co</a> - visually build and manage cloud infrastructures from end-to-end:<br>
 <a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Add integromat</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1869945c316b053a33b58d7df813e14eb3544091</link><description><![CDATA[<a href="https://www.integromat.com">https://www.integromat.com</a> - Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.<br>
  ]]></description>
 </item>
 
