@@ -4,6 +4,34 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>More info on Free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9e17bd0677919aedfb56aa1ee981ddbe3d2be9e0</link><description><![CDATA[<a href="https://backlight.dev/">https://backlight.dev/</a> - With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.Free plan allows up to 3 editors working on 1 design system with unlimited viewers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ea11f921c0be8f09bb206cf1f21c2ccef388a504</link><description><![CDATA[<a href="https://sawolabs.com/">https://sawolabs.com/</a> - Simplify login and improve user experience by integrating passwordless authentication in your app. 5000 free authentications per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Backlight</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a95fd536566bd7e5b33890b1b68b8e3c7fbf7468</link><description><![CDATA[<a href="https://backlight.dev/">https://backlight.dev/</a> - With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.<br>
+<a href="https://www.mockplus.com/idoc">https://www.mockplus.com/idoc</a> - - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes 3 users and 5 projects with all features available.<br>
+<a href="https://webcomponents.dev/">https://webcomponents.dev/</a> - Code components in isolation, visualize them in stories, test them and publish them on npm.<br>
+<a href="https://webcomponents.dev/">https://webcomponents.dev/</a> - In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add instatus.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/578c0d009025c9ddc3c8e0435aad8db91b054b2a</link><description><![CDATA[<a href="https://instatus.com">https://instatus.com</a> - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add sawolabs to the Security and PKI listing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42a0cf00ae4c5a857bf5b97c5f3074e1e36d4b45</link><description><![CDATA[<a href="https://sawolabs.com/">https://sawolabs.com/</a> - Simplify login and improve user experience by integrating passwordless authentication in your app. Circumvent your bounce rates by 30%.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Oracle cloud information</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2787e13e5547c36e2c1d10b870c847865f0ea791</link><description><![CDATA[ ]]></description>
 </item>
@@ -30,38 +58,6 @@
 <item>
 	<title>Add DynaPictures - added free plan limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cafc47ec8e0d7afbecd49c974862e53a001b07b9</link><description><![CDATA[<a href="https://dynapictures.com">https://dynapictures.com</a> - Design automation tool which lets you dynamically generate images over REST API. Change colors, texts, logos and images on the fly. Free plan includes 30 generated images per month and 3 image templates.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Themeselection</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e4c817c638267b21afbfd25acc261197b9546fca</link><description><![CDATA[<a href="https://themeselection.com/">https://themeselection.com/</a> - Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,<br>
- ]]></description>
-</item>
-<item>
-	<title>Change the description of Brainboard into oneliner</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/de4532de4074bb573b4d6f0514c2913ee84abb7b</link><description><![CDATA[<a href="https://www.brainboard.co">https://www.brainboard.co</a> - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Terraform.io into cloud management category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e9167ab4c5e9c5cd42913b71018b8ae53463337a</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added DynaPictures, REST API note</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c24a740f91ad6a0e417e6cabe1d0c8c78a29426b</link><description><![CDATA[<a href="https://dynapictures.com">https://dynapictures.com</a> - Design automation tool which lets you dynamically generate images over REST API. Change colors, texts, logos and images on the fly.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DynaPictures</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/99709234d7be99bdb91ea0c22d60d0ee83cb4945</link><description><![CDATA[<a href="https://dynapictures.com">https://dynapictures.com</a> - Design automation tool which lets you dynamically generate images from the template. Change colors, texts, logos and images on the fly.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add cloud management solutions sections and Brainboard</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/755e7e70a719693830b8421b9d35e95c9dda2b64</link><description><![CDATA[<a href="#cloud-management-solutions">#cloud-management-solutions</a> - solutions](#cloud-management-solutions)<br>
-<a href="https://www.brainboard.co">https://www.brainboard.co</a> - visually build and manage cloud infrastructures from end-to-end:<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
  ]]></description>
 </item>
 
