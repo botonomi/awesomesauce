@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Duply.co</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3802b9cc93ac8ec5496226ea2db7088ca799a797</link><description><![CDATA[<a href="https://duply.co">https://duply.co</a> - Create dynamic images from API & URL, design template once and reuse it. Free tier offers 70 images/month creation from API & URL and Up to 100 through Form.<br>
+ ]]></description>
+</item>
+<item>
 	<title>More info on Free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9e17bd0677919aedfb56aa1ee981ddbe3d2be9e0</link><description><![CDATA[<a href="https://backlight.dev/">https://backlight.dev/</a> - With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.Free plan allows up to 3 editors working on 1 design system with unlimited viewers.<br>
  ]]></description>
@@ -53,11 +58,6 @@
 <item>
 	<title>add meercode.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5be33051f44c9eddda293374180f3697e8d9e7c6</link><description><![CDATA[<a href="https://meercode.io/">https://meercode.io/</a> - Meercode is the ultimate monitoring dashboard for your CI/CD builds.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DynaPictures - added free plan limits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cafc47ec8e0d7afbecd49c974862e53a001b07b9</link><description><![CDATA[<a href="https://dynapictures.com">https://dynapictures.com</a> - Design automation tool which lets you dynamically generate images over REST API. Change colors, texts, logos and images on the fly. Free plan includes 30 generated images per month and 3 image templates.<br>
  ]]></description>
 </item>
 
