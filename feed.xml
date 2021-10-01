@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/581b0b589a931950bc06c8c9a323c6d37a5b4a86</link><description><![CDATA[<a href="https://syagent.com/">https://syagent.com/</a> - Non commercial free server monitoring service, alerts and metrics.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add js.org</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/59444d492d487c1972e4f99c3ffd1b4393e69bca</link><description><![CDATA[<a href="https://js.org">https://js.org</a> - Free js.org domains for GitHub Pages<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d4817b30fbcbdebdb1eb55d0430be1c86d14014f</link><description><![CDATA[<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data trasnfer per day.<br>
  ]]></description>
@@ -40,16 +50,6 @@
 <item>
 	<title>Remove F5: they only do 30-day trials now</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fe55bdb6ded08c29c4f4ad87116cdb6a85feaff3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Duply.co</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3802b9cc93ac8ec5496226ea2db7088ca799a797</link><description><![CDATA[<a href="https://duply.co">https://duply.co</a> - Create dynamic images from API & URL, design template once and reuse it. Free tier offers 70 images/month creation from API & URL and Up to 100 through Form.<br>
- ]]></description>
-</item>
-<item>
-	<title>More info on Free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9e17bd0677919aedfb56aa1ee981ddbe3d2be9e0</link><description><![CDATA[<a href="https://backlight.dev/">https://backlight.dev/</a> - With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.Free plan allows up to 3 editors working on 1 design system with unlimited viewers.<br>
- ]]></description>
 </item>
 
 </channel>
