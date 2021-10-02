@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add logtail.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0c5bbe095cb278f220f8f2c61c20c43448152c9b</link><description><![CDATA[<a href="https://logtail.com/">https://logtail.com/</a> - ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, 3 days retention.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/581b0b589a931950bc06c8c9a323c6d37a5b4a86</link><description><![CDATA[<a href="https://syagent.com/">https://syagent.com/</a> - Non commercial free server monitoring service, alerts and metrics.<br>
  ]]></description>
@@ -46,10 +51,6 @@
 	<title>Update Hasura's offering</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7e91c28858f80ae6a4e15ec8543799a5edcdc01</link><description><![CDATA[<a href="https://hasura.io/">https://hasura.io/</a> - Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove F5: they only do 30-day trials now</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fe55bdb6ded08c29c4f4ad87116cdb6a85feaff3</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
