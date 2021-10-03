@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c573663320540542d08b209d240df5a67ddb65f1</link><description><![CDATA[<a href="https://dkimvalidator.com/">https://dkimvalidator.com/</a> - Test if email's dns/spf/dkim/dmarc settings are correct, free service by roundsphere.com<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove Okteto Cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ab1b66d8316c68e2fc52d0f3db9b835abe56eaae</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update Railway</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a4261f4d6959abf6d4b3c23efedc5bdf4a1d4281</link><description><![CDATA[<a href="https://railway.app">https://railway.app</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 1GB Disk, 512 MB RAM, limited to $5 of usage monthly available for free.<br>
  ]]></description>
@@ -42,15 +51,6 @@
 	<title>Add Neo4j Aura: Graph DBMS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9b7eb64625459d700551bfb9efd56780025d0977</link><description><![CDATA[<a href="https://neo4j.com/cloud/aura/) — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships">https://neo4j.com/cloud/aura/) — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships</a> - — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).<br>
  ]]></description>
-</item>
-<item>
-	<title>Add TigerGraph Cloud: Graph DBMS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/11400581e50b51f4ea161a68a51dee334888b95e</link><description><![CDATA[<a href="https://www.tigergraph.com/cloud/) — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. 1 TG.Free instance on AWS (4 vCPU, 7.5 GB memory, 50 GB disk) or on GCP(2 vCPU, 8 GB memory, 128 GB disk">https://www.tigergraph.com/cloud/) — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. 1 TG.Free instance on AWS (4 vCPU, 7.5 GB memory, 50 GB disk) or on GCP(2 vCPU, 8 GB memory, 128 GB disk</a> - — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. 1 TG.Free instance on AWS (4 vCPU, 7.5 GB memory, 50 GB disk) or on GCP(2 vCPU, 8 GB memory, 128 GB disk). Free instance sleeps after 1 hour of inactivity.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove blockspring.com: no free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bbbd83ba40dcab2904c399dda1f7744e088e7ddb</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
