@@ -5,6 +5,18 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/58364f2e730625ae8e1603aaecacb388e6ce0cff</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bab74ecbdcfef9bc82d76f730c237bed92425d37</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1c0d37ddffa15b3d015b8c318d79787ac15333c8</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c573663320540542d08b209d240df5a67ddb65f1</link><description><![CDATA[<a href="https://dkimvalidator.com/">https://dkimvalidator.com/</a> - Test if email's dns/spf/dkim/dmarc settings are correct, free service by roundsphere.com<br>
  ]]></description>
 </item>
@@ -30,26 +42,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/581b0b589a931950bc06c8c9a323c6d37a5b4a86</link><description><![CDATA[<a href="https://syagent.com/">https://syagent.com/</a> - Non commercial free server monitoring service, alerts and metrics.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add js.org</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/59444d492d487c1972e4f99c3ffd1b4393e69bca</link><description><![CDATA[<a href="https://js.org">https://js.org</a> - Free js.org domains for GitHub Pages<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d4817b30fbcbdebdb1eb55d0430be1c86d14014f</link><description><![CDATA[<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data trasnfer per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Dgraph Cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/74eb78da65450359792602f8a6613ae7c34bf2e4</link><description><![CDATA[<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data trasnfer per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Neo4j Aura: Graph DBMS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9b7eb64625459d700551bfb9efd56780025d0977</link><description><![CDATA[<a href="https://neo4j.com/cloud/aura/) — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships">https://neo4j.com/cloud/aura/) — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships</a> - — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).<br>
  ]]></description>
 </item>
 
