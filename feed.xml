@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Railway</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a4261f4d6959abf6d4b3c23efedc5bdf4a1d4281</link><description><![CDATA[<a href="https://railway.app">https://railway.app</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 1GB Disk, 512 MB RAM, limited to $5 of usage monthly available for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add huggingface</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7ab74e390b4b8e453507229abb7cf9a418ee951c</link><description><![CDATA[<a href="https://huggingface.co">https://huggingface.co</a> - Build, train and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add logtail.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0c5bbe095cb278f220f8f2c61c20c43448152c9b</link><description><![CDATA[<a href="https://logtail.com/">https://logtail.com/</a> - ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, 3 days retention.<br>
  ]]></description>
@@ -41,16 +51,6 @@
 <item>
 	<title>Remove blockspring.com: no free tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bbbd83ba40dcab2904c399dda1f7744e088e7ddb</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>hasura.io: add free limits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/93d966af164b61cdea082fbe21498e1a2713dc1d</link><description><![CDATA[<a href="https://hasura.io/">https://hasura.io/</a> - Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads. Free for 1GB/month of data pass-through.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Hasura's offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7e91c28858f80ae6a4e15ec8543799a5edcdc01</link><description><![CDATA[<a href="https://hasura.io/">https://hasura.io/</a> - Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads.<br>
- ]]></description>
 </item>
 
 </channel>
