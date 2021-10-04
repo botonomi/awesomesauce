@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add CraftMyPDF</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/890b2db4d8a4d33acef41b419a803b89dd5dcf45</link><description><![CDATA[<a href="https://craftmypdf.com">https://craftmypdf.com</a> - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add counter.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e89478896b5cd010845bc1d15360beb864858ad8</link><description><![CDATA[<a href="https://counter.dev">https://counter.dev</a> - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/58364f2e730625ae8e1603aaecacb388e6ce0cff</link><description><![CDATA[ ]]></description>
 </item>
@@ -37,11 +47,6 @@
 <item>
 	<title>Add logtail.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0c5bbe095cb278f220f8f2c61c20c43448152c9b</link><description><![CDATA[<a href="https://logtail.com/">https://logtail.com/</a> - ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, 3 days retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/581b0b589a931950bc06c8c9a323c6d37a5b4a86</link><description><![CDATA[<a href="https://syagent.com/">https://syagent.com/</a> - Non commercial free server monitoring service, alerts and metrics.<br>
  ]]></description>
 </item>
 
