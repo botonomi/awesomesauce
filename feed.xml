@@ -4,6 +4,41 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added ipaddress.sh</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b7c957145d824f3835cf6daa93541da64a92c7c9</link><description><![CDATA[<a href="https://about.ipaddress.sh/">https://about.ipaddress.sh/</a> - Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add ray.so</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4221c59b12ef9f94d152117e2c14731f3d14f8e0</link><description><![CDATA[<a href="https://ray.so/">https://ray.so/</a> - Create beautiful images of your code snippets.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add mocky - simple http response mock generator</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/271bad8161520a38fb9a89b52fd9c251ef7fddf7</link><description><![CDATA[<a href="https://github.com/julien-lafont/Mocky">https://github.com/julien-lafont/Mocky</a> - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source](https://github.com/julien-lafont/Mocky).<br>
+ ]]></description>
+</item>
+<item>
+	<title>add quicktype.io - typesafe code generator</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a6a83f469ac181ae3189a6d8929c0bb1850407ae</link><description><![CDATA[<a href="https://quicktype.io/">https://quicktype.io/</a> - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.<br>
+ ]]></description>
+</item>
+<item>
+	<title>fix localtunnel typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8f9cca84bb879434f9f1b3c24e4cc1ba08015f6d</link><description><![CDATA[<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Easily share a web service on your local development machine to a public internet URL without messing with DNS and firewall settings. Similar to Ngrok. In addition to the free hosted version, it is also [open source](https://github.com/localtunnel/localtunnel).<br>
+ ]]></description>
+</item>
+<item>
+	<title>add localtunnel - publicly expose local web server</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c16a6728f5a3512935e52c2e62bd7ef108caee2b</link><description><![CDATA[<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Easily share a web service on your local development machine to a public internet URL without messing with DNS and firewall settings. Similar to Ngrok. In addition to the free hosted version, it is also [open source](https://github.com/localtunnel/localtunnel).<br>
+ ]]></description>
+</item>
+<item>
+	<title>add carbon.now.sh - share code snippet as image</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/db6e20ab17718930a83354489d5110f07bb48a52</link><description><![CDATA[<a href="https://carbon.now.sh">https://carbon.now.sh</a> - create and share code snippet in an aesthetic screenshot-like image format. Usually used to aesthetically share/show-off code snippet on Twitter or blog posts.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update: Rebranding AO->Statvoo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f3487fe5b8e209ff87eefcba928da54627db9f5</link><description><![CDATA[<a href="https://analytics.statvoo.com/">https://analytics.statvoo.com/</a> - — Forever FREE Customer Analytics for ALL your websites, with Unlimited Events per month<br>
  ]]></description>
@@ -22,32 +57,6 @@
 	<title>Add CraftMyPDF</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/890b2db4d8a4d33acef41b419a803b89dd5dcf45</link><description><![CDATA[<a href="https://craftmypdf.com">https://craftmypdf.com</a> - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.<br>
  ]]></description>
-</item>
-<item>
-	<title>Add counter.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e89478896b5cd010845bc1d15360beb864858ad8</link><description><![CDATA[<a href="https://counter.dev">https://counter.dev</a> - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/58364f2e730625ae8e1603aaecacb388e6ce0cff</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bab74ecbdcfef9bc82d76f730c237bed92425d37</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1c0d37ddffa15b3d015b8c318d79787ac15333c8</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c573663320540542d08b209d240df5a67ddb65f1</link><description><![CDATA[<a href="https://dkimvalidator.com/">https://dkimvalidator.com/</a> - Test if email's dns/spf/dkim/dmarc settings are correct, free service by roundsphere.com<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Okteto Cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ab1b66d8316c68e2fc52d0f3db9b835abe56eaae</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
