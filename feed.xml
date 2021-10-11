@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add freeflarum</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/66724fa95a5f65dd81bbf3cf758dd1820f227ee0</link><description><![CDATA[<a href="https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer">https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer</a> - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added ipaddress.sh</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b7c957145d824f3835cf6daa93541da64a92c7c9</link><description><![CDATA[<a href="https://about.ipaddress.sh/">https://about.ipaddress.sh/</a> - Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Add Tailscale</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a0a3912b63e0e7d321c3e6e3bdaa24e7a7783e29</link><description><![CDATA[<a href="https://tailscale.com/">https://tailscale.com/</a> - Zero config VPN. Installs on any device, manages firewall rules. Run on MacOS, iOS, Windows, Linux, and Android. Free plan for personal use with 20 devices.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CraftMyPDF</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/890b2db4d8a4d33acef41b419a803b89dd5dcf45</link><description><![CDATA[<a href="https://craftmypdf.com">https://craftmypdf.com</a> - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.<br>
  ]]></description>
 </item>
 
