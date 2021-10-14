@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c72d404e186555b1a3b00724b9b4f4b29b71b8d3</link><description><![CDATA[<a href="https://vatcheckapi.com">https://vatcheckapi.com</a> - Simple and free VAT number validation API. 500 free requests per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add napkin.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1e6bdcce8b597ffe61b4a5b8cb7a7ee7af2dd4af</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 1Gb of memory, a default timeout of 15 seconds and 1,000,000 free API calls/month.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>add quicktype.io - typesafe code generator</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a6a83f469ac181ae3189a6d8929c0bb1850407ae</link><description><![CDATA[<a href="https://quicktype.io/">https://quicktype.io/</a> - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix localtunnel typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8f9cca84bb879434f9f1b3c24e4cc1ba08015f6d</link><description><![CDATA[<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Easily share a web service on your local development machine to a public internet URL without messing with DNS and firewall settings. Similar to Ngrok. In addition to the free hosted version, it is also [open source](https://github.com/localtunnel/localtunnel).<br>
  ]]></description>
 </item>
 
