@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added hybiscus.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dd1ee4d6d1646db9204c71b0c589b7ede768ed41</link><description><![CDATA[<a href="https://hybiscus.dev/">https://hybiscus.dev/</a> - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c72d404e186555b1a3b00724b9b4f4b29b71b8d3</link><description><![CDATA[<a href="https://vatcheckapi.com">https://vatcheckapi.com</a> - Simple and free VAT number validation API. 500 free requests per month.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>add mocky - simple http response mock generator</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/271bad8161520a38fb9a89b52fd9c251ef7fddf7</link><description><![CDATA[<a href="https://github.com/julien-lafont/Mocky">https://github.com/julien-lafont/Mocky</a> - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source](https://github.com/julien-lafont/Mocky).<br>
- ]]></description>
-</item>
-<item>
-	<title>add quicktype.io - typesafe code generator</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a6a83f469ac181ae3189a6d8929c0bb1850407ae</link><description><![CDATA[<a href="https://quicktype.io/">https://quicktype.io/</a> - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.<br>
  ]]></description>
 </item>
 
