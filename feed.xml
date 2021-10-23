@@ -4,8 +4,39 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update tool URLs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2295b8a84b7f1facb24388e05e05a3c0aba15bc8</link><description><![CDATA[<a href="https://toggl.com/plan/">https://toggl.com/plan/</a> - Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge Toggl Track and Toggl Plan into one entry.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bbf1af8f5c23a98e6ab4db371be529a29daab32d</link><description><![CDATA[<a href="https://about.ipaddress.sh/">https://about.ipaddress.sh/</a> - Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).<br>
+<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data trasnfer per day.<br>
+<a href="https://plan.toggl.com/">https://plan.toggl.com/</a> - Provides 2 free productivity tools. [Toggl Track](https://track.toggl.com/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://plan.toggl.com/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.<br>
+<a href="https://counter.dev">https://counter.dev</a> - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added limitations for CockroachCloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/75865ce58000c29f8d5d6e8ae24c279f3dd7073c</link><description><![CDATA[<a href="https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta)">https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta)</a> - Free CockroachDB up to 5GB and 1vCPU (limited [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))<br>
+ ]]></description>
+</item>
+<item>
+	<title>Move platform9 to docker-related</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9eea40902a7d7f93bca73de9c47a46796eaed7c7</link><description><![CDATA[<a href="https://platform9.com/">https://platform9.com/</a> - Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added hybiscus.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd1ee4d6d1646db9204c71b0c589b7ede768ed41</link><description><![CDATA[<a href="https://hybiscus.dev/">https://hybiscus.dev/</a> - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added 2 collaboration tools (Fleep and Chanty), and 2 project managem…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ebba99f07cf389b28818eaaef42e1413a1372c99</link><description><![CDATA[<a href="https://fleep.io/">https://fleep.io/</a> - Fleep an alternative to Slack. It has a free plan for small teams with full message history, unlimited 1:1 conversations, 1 group conversation and 1 GB file storage.<br>
+<a href="https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10">https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10</a> - Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, 10 integrations and 20 GB storage per team.<br>
+<a href="https://track.toggl.com/">https://track.toggl.com/</a> - — Task management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more.<br>
+<a href="https://plan.toggl.com/">https://plan.toggl.com/</a> - — Task planning tool that has a free plan for solo developers with unlimited tasks, milestones and timelines.<br>
  ]]></description>
 </item>
 <item>
@@ -36,26 +67,6 @@
 <item>
 	<title>add combinatronics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7b4160ba9e10ef1fb829f35406948d4c9003ee16</link><description><![CDATA[<a href="https://combinatronics.com/ripienaar/free-for-dev/master/index.html">https://combinatronics.com/ripienaar/free-for-dev/master/index.html</a> - Convert your Github hosted assets (images, CSS, JS, etc.) into CDN assets. Can even render HTML files, for [example from this repo](https://combinatronics.com/ripienaar/free-for-dev/master/index.html). Similar to rawgit.com and raw.githack.com.<br>
- ]]></description>
-</item>
-<item>
-	<title>add freeflarum</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/66724fa95a5f65dd81bbf3cf758dd1820f227ee0</link><description><![CDATA[<a href="https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer">https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer</a> - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).<br>
- ]]></description>
-</item>
-<item>
-	<title>Added ipaddress.sh</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7c957145d824f3835cf6daa93541da64a92c7c9</link><description><![CDATA[<a href="https://about.ipaddress.sh/">https://about.ipaddress.sh/</a> - Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add ray.so</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4221c59b12ef9f94d152117e2c14731f3d14f8e0</link><description><![CDATA[<a href="https://ray.so/">https://ray.so/</a> - Create beautiful images of your code snippets.<br>
- ]]></description>
-</item>
-<item>
-	<title>add mocky - simple http response mock generator</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/271bad8161520a38fb9a89b52fd9c251ef7fddf7</link><description><![CDATA[<a href="https://github.com/julien-lafont/Mocky">https://github.com/julien-lafont/Mocky</a> - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source](https://github.com/julien-lafont/Mocky).<br>
  ]]></description>
 </item>
 
