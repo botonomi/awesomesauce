@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Parsio.io Email Parser</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4cbacb66f475b04b91293a1475dbb2fdfe595cb5</link><description><![CDATA[<a href="https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server">https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server</a> - Free email parser (Forward email, extract the data, send it to your server)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3670ab736415fc3510f2fd770dcdf47e0fa29e83</link><description><![CDATA[<a href="https://pofile.net/free-po-editor">https://pofile.net/free-po-editor</a> - editor](https://pofile.net/free-po-editor) — Free for everybody<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/47d4ec3019e8d3dfbd1d98a85843bb48a2ce29fd</link><description><![CDATA[<a href="https://numlookupapi.com">https://numlookupapi.com</a> - Free phone number validation API - 100k free requests / month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add vvv.space</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b4414d3fc7f8edb0bf9117c46b19d37ad1347c77</link><description><![CDATA[<a href="https://vvv.space/">https://vvv.space/</a> - Free links manager with private/public spaces, includes slack and google docs integration and chrome plugin.<br>
  ]]></description>
@@ -43,24 +58,6 @@
 <item>
 	<title>added hybiscus.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd1ee4d6d1646db9204c71b0c589b7ede768ed41</link><description><![CDATA[<a href="https://hybiscus.dev/">https://hybiscus.dev/</a> - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 2 collaboration tools (Fleep and Chanty), and 2 project managem…</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ebba99f07cf389b28818eaaef42e1413a1372c99</link><description><![CDATA[<a href="https://fleep.io/">https://fleep.io/</a> - Fleep an alternative to Slack. It has a free plan for small teams with full message history, unlimited 1:1 conversations, 1 group conversation and 1 GB file storage.<br>
-<a href="https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10">https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10</a> - Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, 10 integrations and 20 GB storage per team.<br>
-<a href="https://track.toggl.com/">https://track.toggl.com/</a> - — Task management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more.<br>
-<a href="https://plan.toggl.com/">https://plan.toggl.com/</a> - — Task planning tool that has a free plan for solo developers with unlimited tasks, milestones and timelines.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c72d404e186555b1a3b00724b9b4f4b29b71b8d3</link><description><![CDATA[<a href="https://vatcheckapi.com">https://vatcheckapi.com</a> - Simple and free VAT number validation API. 500 free requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add napkin.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1e6bdcce8b597ffe61b4a5b8cb7a7ee7af2dd4af</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 1Gb of memory, a default timeout of 15 seconds and 1,000,000 free API calls/month.<br>
  ]]></description>
 </item>
 
