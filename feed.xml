@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add ZenRows</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a1340285989b85562eda7a6b3521afee9c689c47</link><description><![CDATA[<a href="https://www.zenrows.com/">https://www.zenrows.com/</a> - Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. Free tier of 1000 API calls.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove netdepot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/97ace4994a128949bdc70439628291cb4ef7f9f6</link><description><![CDATA[ ]]></description>
 </item>
@@ -44,14 +49,6 @@
 <item>
 	<title>Update tool URLs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2295b8a84b7f1facb24388e05e05a3c0aba15bc8</link><description><![CDATA[<a href="https://toggl.com/plan/">https://toggl.com/plan/</a> - Provides 2 free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://toggl.com/plan/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge Toggl Track and Toggl Plan into one entry.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bbf1af8f5c23a98e6ab4db371be529a29daab32d</link><description><![CDATA[<a href="https://about.ipaddress.sh/">https://about.ipaddress.sh/</a> - Simple service to get public IP address in different [formats](https://about.ipaddress.sh/).<br>
-<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data trasnfer per day.<br>
-<a href="https://plan.toggl.com/">https://plan.toggl.com/</a> - Provides 2 free productivity tools. [Toggl Track](https://track.toggl.com/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed for freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting and more. And [Toggl Plan](https://plan.toggl.com/) for task planning that comes with a free plan for solo developers with unlimited tasks, milestones and timelines.<br>
-<a href="https://counter.dev">https://counter.dev</a> - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.<br>
  ]]></description>
 </item>
 
