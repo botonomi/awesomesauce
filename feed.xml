@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update a rebranded product</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/06a866e39083ce58523872da053bd41ee21e1b39</link><description><![CDATA[<a href="https://shortcut.com/">https://shortcut.com/</a> - Project management platform. Free for up to 10 users forever.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add MagicPattern</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a414e10b705f5805813e1a10a3bb005f0887b74c</link><description><![CDATA[<a href="https://www.magicpattern.design/tools">https://www.magicpattern.design/tools</a> - A collection of CSS & SVG background generators & tools for gradients, patterns, and blobs.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add blob generator and CSS gradient maker</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9558e1f14fccb6158aa8c3a8e7d64b4fb19824a1</link><description><![CDATA[<a href="https://www.magicpattern.design/tools/blob-generator">https://www.magicpattern.design/tools/blob-generator</a> - — Create random organic-shaped blobs with solid colors, linear/radial gradients, and pattern fills.<br>
+<a href="https://www.magicpattern.design/tools/gradient-generator">https://www.magicpattern.design/tools/gradient-generator</a> - Generator](https://www.magicpattern.design/tools/gradient-generator) — Create, save & share beautiful CSS linear, radial, and conic gradients for your backgrounds.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add netdata</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/95db010c4343ce095224650c6facf7af3d38ebfb</link><description><![CDATA[<a href="https://www.netdata.cloud/">https://www.netdata.cloud/</a> - Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!<br>
  ]]></description>
@@ -39,21 +55,6 @@
 <item>
 	<title>Add Flowdash</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/979936fe30fe530e725352c4d4ebff7030456df0</link><description><![CDATA[<a href="https://flowdash.com/">https://flowdash.com/</a> - Automate business workflows. Free tier for up to 3 users, 1000 tasks, and 3 workflows.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Parsio.io Email Parser</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4cbacb66f475b04b91293a1475dbb2fdfe595cb5</link><description><![CDATA[<a href="https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server">https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server</a> - Free email parser (Forward email, extract the data, send it to your server)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3670ab736415fc3510f2fd770dcdf47e0fa29e83</link><description><![CDATA[<a href="https://pofile.net/free-po-editor">https://pofile.net/free-po-editor</a> - editor](https://pofile.net/free-po-editor) — Free for everybody<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/47d4ec3019e8d3dfbd1d98a85843bb48a2ce29fd</link><description><![CDATA[<a href="https://numlookupapi.com">https://numlookupapi.com</a> - Free phone number validation API - 100k free requests / month.<br>
  ]]></description>
 </item>
 
