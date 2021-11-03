@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add netdata</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/95db010c4343ce095224650c6facf7af3d38ebfb</link><description><![CDATA[<a href="https://www.netdata.cloud/">https://www.netdata.cloud/</a> - Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Netdata.cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0ec2b4cbe0bc8dc705b320b37c535364f25b8f26</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>added meercode.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/69fbf2deda7aa4a305bb6a692102906fc4b9bf46</link><description><![CDATA[<a href="https://www.netdata.cloud/">https://www.netdata.cloud/</a> - Real-time performance monitoring, done right! Netdata is high-fidelity infrastructure monitoring and troubleshooting.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5969499d4c8fdec6798772768e2a83980ae361f6</link><description><![CDATA[<a href="https://hyperforms.app/">https://hyperforms.app/</a> - Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.<br>
  ]]></description>
@@ -41,15 +55,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/47d4ec3019e8d3dfbd1d98a85843bb48a2ce29fd</link><description><![CDATA[<a href="https://numlookupapi.com">https://numlookupapi.com</a> - Free phone number validation API - 100k free requests / month.<br>
  ]]></description>
-</item>
-<item>
-	<title>add vvv.space</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b4414d3fc7f8edb0bf9117c46b19d37ad1347c77</link><description><![CDATA[<a href="https://vvv.space/">https://vvv.space/</a> - Free links manager with private/public spaces, includes slack and google docs integration and chrome plugin.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove travis-ci</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/487cc6d5af89bf5ed23c950ae5a1c40165427d2b</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
