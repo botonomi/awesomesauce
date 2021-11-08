@@ -4,6 +4,23 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add IP Fast to APIs, Data and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4d27ea005daebab5076491021633880d010c2fae</link><description><![CDATA[<a href="https://ip-fast.com/">https://ip-fast.com/</a> - Find out your IP Address and related detailed information using the free, fastest and simple lookup tool.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added 3 sites on Storage and Media Processing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5c52c1618cf8b2a97cdfe1931c6411b4b54b6ee7</link><description><![CDATA[<a href="https://www.icedrive.net/">https://www.icedrive.net/</a> - Simple cloud storage service. 10 GB free storage<br>
+<a href="https://www.sync.com/">https://www.sync.com/</a> - End-to-End cloud storage service. 5 GB free storage<br>
+<a href="https://www.pcloud.com/">https://www.pcloud.com/</a> - Cloud storage service. Up to 10 GB free storage<br>
+ ]]></description>
+</item>
+<item>
+	<title>add binder</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4763a68549723f45be07dbff19d3251250612ddb</link><description><![CDATA[<a href="https://mybinder.org/">https://mybinder.org/</a> - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Make Selectel more clear</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/848ab08858ea9ed2ca084d59129511b89ff07cd9</link><description><![CDATA[<a href="https://selectel.com/services/dns/">https://selectel.com/services/dns/</a> - Free DNS hosting with unlimited records, anycast<br>
  ]]></description>
@@ -42,20 +59,6 @@
 	<title>added meercode.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/69fbf2deda7aa4a305bb6a692102906fc4b9bf46</link><description><![CDATA[<a href="https://www.netdata.cloud/">https://www.netdata.cloud/</a> - Real-time performance monitoring, done right! Netdata is high-fidelity infrastructure monitoring and troubleshooting.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5969499d4c8fdec6798772768e2a83980ae361f6</link><description><![CDATA[<a href="https://hyperforms.app/">https://hyperforms.app/</a> - Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add ZenRows</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a1340285989b85562eda7a6b3521afee9c689c47</link><description><![CDATA[<a href="https://www.zenrows.com/">https://www.zenrows.com/</a> - Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. Free tier of 1000 API calls.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove netdepot</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/97ace4994a128949bdc70439628291cb4ef7f9f6</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
