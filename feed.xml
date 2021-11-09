@@ -4,6 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update obsolete information</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0a3dbf3e9ed29228fc5f7c68e231de7ae864138b</link><description><![CDATA[<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month</a> - Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
+<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 1000 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
+<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d4d401d1b7e2f8b3866f948c09c8f1315078cb3c</link><description><![CDATA[<a href="https://www.datocms.com/">https://www.datocms.com/</a> - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.<br>
+<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month</a> - Fast, accurate, and free (up to 100k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
+<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
+<a href="https://www.heliohost.org">https://www.heliohost.org</a> - Community powered free hosting for everyone.<br>
+<a href="https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS">https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS</a> - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.<br>
+<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [40GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4c5f32f6ca6a334d8d447365d2f9246a3572127b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Revert "Remove commons.host,add Valine.js and so on."</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ae67e0c917557291254732722a3c4270899a3021</link><description><![CDATA[<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month</a> - Fast, accurate, and free (up to 100k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
 <a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
@@ -54,21 +75,6 @@
 <item>
 	<title>add binder</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4763a68549723f45be07dbff19d3251250612ddb</link><description><![CDATA[<a href="https://mybinder.org/">https://mybinder.org/</a> - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.<br>
- ]]></description>
-</item>
-<item>
-	<title>Make Selectel more clear</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/848ab08858ea9ed2ca084d59129511b89ff07cd9</link><description><![CDATA[<a href="https://selectel.com/services/dns/">https://selectel.com/services/dns/</a> - Free DNS hosting with unlimited records, anycast<br>
- ]]></description>
-</item>
-<item>
-	<title>Add PrefectCloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/98e30ed1dc8100b6865b1d72b0c5d0e7c4bd1c82</link><description><![CDATA[<a href="https://www.prefect.io/cloud/">https://www.prefect.io/cloud/</a> - A complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update a rebranded product</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/06a866e39083ce58523872da053bd41ee21e1b39</link><description><![CDATA[<a href="https://shortcut.com/">https://shortcut.com/</a> - Project management platform. Free for up to 10 users forever.<br>
  ]]></description>
 </item>
 
