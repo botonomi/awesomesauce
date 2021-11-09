@@ -4,8 +4,44 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Remove commons.host,add Valine.js and so on."</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ae67e0c917557291254732722a3c4270899a3021</link><description><![CDATA[<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month</a> - Fast, accurate, and free (up to 100k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
+<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
+<a href="https://www.heliohost.org">https://www.heliohost.org</a> - Community powered free hosting for everyone.<br>
+<a href="https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS">https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS</a> - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.<br>
+<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [40GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove heliohost.org</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e39dcb23786b8fe2c1a395fe41034fd43593be4b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dda7358c94e78a6bed9b1aac4e15608ecf3410b9</link><description><![CDATA[<a href="https://mybinder.org/">https://mybinder.org/</a> - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.<br>
+<a href="https://www.icedrive.net/">https://www.icedrive.net/</a> - Simple cloud storage service. 10 GB free storage<br>
+<a href="https://www.sync.com/">https://www.sync.com/</a> - End-to-End cloud storage service. 5 GB free storage<br>
+<a href="https://www.pcloud.com/">https://www.pcloud.com/</a> - Cloud storage service. Up to 10 GB free storage<br>
+<a href="https://ip-fast.com/">https://ip-fast.com/</a> - Find out your IP Address and related detailed information using the free, fastest and simple lookup tool.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DatoCMS as a CMS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f78e8132b768802f9852ca230f61fceb95f13e92</link><description><![CDATA[<a href="https://www.datocms.com/">https://www.datocms.com/</a> - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add IP Fast to APIs, Data and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4d27ea005daebab5076491021633880d010c2fae</link><description><![CDATA[<a href="https://ip-fast.com/">https://ip-fast.com/</a> - Find out your IP Address and related detailed information using the free, fastest and simple lookup tool.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update readme.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6da2d7a50ad219bd1ab10045ab3a2ce44cfb79e2</link><description><![CDATA[<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month</a> - Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
+<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 1000 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
+<a href="https://www.heliohost.org) — Community powered free hosting for everyone(Unable to register at this time">https://www.heliohost.org) — Community powered free hosting for everyone(Unable to register at this time</a> - Community powered free hosting for everyone(Unable to register at this time).<br>
+<a href="https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit">https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit</a> - Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit)<br>
+<a href="https://valine.js.org/">https://valine.js.org/</a> - a fast, simple & efficient Leancloud based no back end comment system.<br>
  ]]></description>
 </item>
 <item>
@@ -33,31 +69,6 @@
 <item>
 	<title>Update a rebranded product</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/06a866e39083ce58523872da053bd41ee21e1b39</link><description><![CDATA[<a href="https://shortcut.com/">https://shortcut.com/</a> - Project management platform. Free for up to 10 users forever.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add MagicPattern</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a414e10b705f5805813e1a10a3bb005f0887b74c</link><description><![CDATA[<a href="https://www.magicpattern.design/tools">https://www.magicpattern.design/tools</a> - A collection of CSS & SVG background generators & tools for gradients, patterns, and blobs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add blob generator and CSS gradient maker</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9558e1f14fccb6158aa8c3a8e7d64b4fb19824a1</link><description><![CDATA[<a href="https://www.magicpattern.design/tools/blob-generator">https://www.magicpattern.design/tools/blob-generator</a> - — Create random organic-shaped blobs with solid colors, linear/radial gradients, and pattern fills.<br>
-<a href="https://www.magicpattern.design/tools/gradient-generator">https://www.magicpattern.design/tools/gradient-generator</a> - Generator](https://www.magicpattern.design/tools/gradient-generator) — Create, save & share beautiful CSS linear, radial, and conic gradients for your backgrounds.<br>
- ]]></description>
-</item>
-<item>
-	<title>add netdata</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/95db010c4343ce095224650c6facf7af3d38ebfb</link><description><![CDATA[<a href="https://www.netdata.cloud/">https://www.netdata.cloud/</a> - Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!<br>
- ]]></description>
-</item>
-<item>
-	<title>add Netdata.cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ec2b4cbe0bc8dc705b320b37c535364f25b8f26</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>added meercode.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/69fbf2deda7aa4a305bb6a692102906fc4b9bf46</link><description><![CDATA[<a href="https://www.netdata.cloud/">https://www.netdata.cloud/</a> - Real-time performance monitoring, done right! Netdata is high-fidelity infrastructure monitoring and troubleshooting.<br>
  ]]></description>
 </item>
 
