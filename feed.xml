@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add bit.io DBaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e03aed346646cf3ee2b95b5df2dc05e26e112d68</link><description><![CDATA[<a href="https://bit.io">https://bit.io</a> - PostgreSQL managed database service. Unlimited repos, 10GB storage, 10M queried rows/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Codepng</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fba5b979d121e8236717d0d72d2c8424c67f144a</link><description><![CDATA[<a href="https://www.codepng.app">https://www.codepng.app</a> - Create awesome snapshots from your source code that you can share on social media.<br>
  ]]></description>
@@ -68,18 +73,6 @@
 <a href="https://www.heliohost.org) — Community powered free hosting for everyone(Unable to register at this time">https://www.heliohost.org) — Community powered free hosting for everyone(Unable to register at this time</a> - Community powered free hosting for everyone(Unable to register at this time).<br>
 <a href="https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit">https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit</a> - Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit)<br>
 <a href="https://valine.js.org/">https://valine.js.org/</a> - a fast, simple & efficient Leancloud based no back end comment system.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added 3 sites on Storage and Media Processing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5c52c1618cf8b2a97cdfe1931c6411b4b54b6ee7</link><description><![CDATA[<a href="https://www.icedrive.net/">https://www.icedrive.net/</a> - Simple cloud storage service. 10 GB free storage<br>
-<a href="https://www.sync.com/">https://www.sync.com/</a> - End-to-End cloud storage service. 5 GB free storage<br>
-<a href="https://www.pcloud.com/">https://www.pcloud.com/</a> - Cloud storage service. Up to 10 GB free storage<br>
- ]]></description>
-</item>
-<item>
-	<title>add binder</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4763a68549723f45be07dbff19d3251250612ddb</link><description><![CDATA[<a href="https://mybinder.org/">https://mybinder.org/</a> - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.<br>
  ]]></description>
 </item>
 
