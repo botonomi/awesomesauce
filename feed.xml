@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix maps.stamen.com name</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fd6608593a73b5860a2747870cae473b1a116c16</link><description><![CDATA[<a href="http://maps.stamen.com/">http://maps.stamen.com/</a> - Free map tiles and tile hosting.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add nsupdate.info</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27931abf445d808d55f8c1097f0b85177b812110</link><description><![CDATA[<a href="https://www.nsupdate.info/">https://www.nsupdate.info/</a> - Free and open-source Dynamic DNS service<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add bit.io DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e03aed346646cf3ee2b95b5df2dc05e26e112d68</link><description><![CDATA[<a href="https://bit.io">https://bit.io</a> - PostgreSQL managed database service. Unlimited repos, 10GB storage, 10M queried rows/month.<br>
  ]]></description>
@@ -64,15 +74,6 @@
 <item>
 	<title>Add IP Fast to APIs, Data and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4d27ea005daebab5076491021633880d010c2fae</link><description><![CDATA[<a href="https://ip-fast.com/">https://ip-fast.com/</a> - Find out your IP Address and related detailed information using the free, fastest and simple lookup tool.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update readme.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6da2d7a50ad219bd1ab10045ab3a2ce44cfb79e2</link><description><![CDATA[<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month</a> - Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
-<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 1000 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
-<a href="https://www.heliohost.org) — Community powered free hosting for everyone(Unable to register at this time">https://www.heliohost.org) — Community powered free hosting for everyone(Unable to register at this time</a> - Community powered free hosting for everyone(Unable to register at this time).<br>
-<a href="https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit">https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit</a> - Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)(using free $25/mo credit)<br>
-<a href="https://valine.js.org/">https://valine.js.org/</a> - a fast, simple & efficient Leancloud based no back end comment system.<br>
  ]]></description>
 </item>
 
