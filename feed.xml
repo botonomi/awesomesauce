@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/793770690c44240debd57876caef98d50bf457bb</link><description><![CDATA[<a href="https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email">https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email</a> - - Easy to use free Unlimited disposable temporary email addresses (temp email). Autoexpires even you can set it day.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update alwaysdata info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc48f16765b49c1b152844861903ba8c81bd1a3d</link><description><![CDATA[<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
  ]]></description>
@@ -61,20 +66,6 @@
 <item>
 	<title>Remove heliohost.org</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e39dcb23786b8fe2c1a395fe41034fd43593be4b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dda7358c94e78a6bed9b1aac4e15608ecf3410b9</link><description><![CDATA[<a href="https://mybinder.org/">https://mybinder.org/</a> - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.<br>
-<a href="https://www.icedrive.net/">https://www.icedrive.net/</a> - Simple cloud storage service. 10 GB free storage<br>
-<a href="https://www.sync.com/">https://www.sync.com/</a> - End-to-End cloud storage service. 5 GB free storage<br>
-<a href="https://www.pcloud.com/">https://www.pcloud.com/</a> - Cloud storage service. Up to 10 GB free storage<br>
-<a href="https://ip-fast.com/">https://ip-fast.com/</a> - Find out your IP Address and related detailed information using the free, fastest and simple lookup tool.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DatoCMS as a CMS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f78e8132b768802f9852ca230f61fceb95f13e92</link><description><![CDATA[<a href="https://www.datocms.com/">https://www.datocms.com/</a> - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.<br>
- ]]></description>
 </item>
 
 </channel>
