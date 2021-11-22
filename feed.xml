@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>deprecate shrinkray.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/59ad0b02a001cd94e876c30d5ef6a959c258b228</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/793770690c44240debd57876caef98d50bf457bb</link><description><![CDATA[<a href="https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email">https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email</a> - - Easy to use free Unlimited disposable temporary email addresses (temp email). Autoexpires even you can set it day.<br>
  ]]></description>
@@ -62,10 +66,6 @@
 <a href="https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS">https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS</a> - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.<br>
 <a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [40GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove heliohost.org</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e39dcb23786b8fe2c1a395fe41034fd43593be4b</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
