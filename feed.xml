@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update contributors count in the readme</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eb000671b878fc1103875572e40d4545328cc609</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 1000+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/73e70b212e92c39fac51778af8f940a45aaec930</link><description><![CDATA[<a href="https://frontaid.io/">https://frontaid.io/</a> - Headless CMS that stores JSON content directly in your own Git repository. No restrictions.<br>
 <a href="https://calendly.com">https://calendly.com</a> - Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.<br>
@@ -280,20 +285,6 @@
 <a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 1000 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
 <a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d4d401d1b7e2f8b3866f948c09c8f1315078cb3c</link><description><![CDATA[<a href="https://www.datocms.com/">https://www.datocms.com/</a> - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.<br>
-<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 100k/month</a> - Fast, accurate, and free (up to 100k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
-<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
-<a href="https://www.heliohost.org">https://www.heliohost.org</a> - Community powered free hosting for everyone.<br>
-<a href="https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS">https://commons.host/) - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS</a> - Static web hosting and CDN.100% free and open source software (FOSS). With a commercially sustainable software as a service (SaaS) to fund R&D.<br>
-<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [40GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c5f32f6ca6a334d8d447365d2f9246a3572127b</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
