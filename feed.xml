@@ -4,6 +4,37 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add lottiefiles.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/454b82885ec4490109ec79a5f3e166fe4aed5ab3</link><description><![CDATA[<a href="https://lottiefiles.com/">https://lottiefiles.com/</a> - The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add GoodData</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/26683d645bd6295e129bd487e059278a2937fc3f</link><description><![CDATA[<a href="https://www.gooddata.com/">https://www.gooddata.com/</a> - Data as a Service - Create interactive and insightful dashboards. Free tier comes with 5 workspaces and 100 MB/workspace.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'twicpics' of https://github.com/florentb/free-for-dev i…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f4942f1e70c42808f91649f203b47f1fc0fa6733</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
+<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add TwicPics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/86cd74e2cb73b6f9ae193b9e990b8eb27e560973</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix TwicPics tab</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1cf8d80928fc4423b0dd037def010ec6e78f4958</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add TwicPics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ac32e60a2f3f5bfa88b42f5188bb5ad84d9abab8</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update contributors count in the readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eb000671b878fc1103875572e40d4545328cc609</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 1000+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
  ]]></description>
@@ -257,33 +288,6 @@
 <item>
 	<title>update alwaysdata info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc48f16765b49c1b152844861903ba8c81bd1a3d</link><description><![CDATA[<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix maps.stamen.com name</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fd6608593a73b5860a2747870cae473b1a116c16</link><description><![CDATA[<a href="http://maps.stamen.com/">http://maps.stamen.com/</a> - Free map tiles and tile hosting.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add nsupdate.info</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/27931abf445d808d55f8c1097f0b85177b812110</link><description><![CDATA[<a href="https://www.nsupdate.info/">https://www.nsupdate.info/</a> - Free and open-source Dynamic DNS service<br>
- ]]></description>
-</item>
-<item>
-	<title>Add bit.io DBaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e03aed346646cf3ee2b95b5df2dc05e26e112d68</link><description><![CDATA[<a href="https://bit.io">https://bit.io</a> - PostgreSQL managed database service. Unlimited repos, 10GB storage, 10M queried rows/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Codepng</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fba5b979d121e8236717d0d72d2c8424c67f144a</link><description><![CDATA[<a href="https://www.codepng.app">https://www.codepng.app</a> - Create awesome snapshots from your source code that you can share on social media.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update obsolete information</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0a3dbf3e9ed29228fc5f7c68e231de7ae864138b</link><description><![CDATA[<a href="https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month">https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month</a> - Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.<br>
-<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 1000 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
-<a href="https://www.datastax.com/products/datastax-astra/pricing">https://www.datastax.com/products/datastax-astra/pricing</a> - Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)<br>
  ]]></description>
 </item>
 
