@@ -4,6 +4,29 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding new line under Design Inspiration heading</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c66b91033f0ccc22d5f27c4b3a14c08d116c672f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Creating a design inspiration section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/56fd08093fef87c648df9e1f25e8f812c057c9ff</link><description><![CDATA[<a href="#design-inspiration">#design-inspiration</a> - <br>
+<a href="https://www.awwwards.com/) - [Top websites] A showcases of all the best designed websites (voted on by designers">https://www.awwwards.com/) - [Top websites] A showcases of all the best designed websites (voted on by designers</a> - [Top websites] A showcases of all the best designed websites (voted on by designers).<br>
+<a href="https://www.behance.net/">https://www.behance.net/</a> - [Desing showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.<br>
+<a href="https://dribbble.com/">https://dribbble.com/</a> - [Design showcase] Unique design inspiration, generally not from real applications.<br>
+<a href="https://mobbin.design/">https://mobbin.design/</a> - [Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.<br>
+<a href="https://www.mobile-patterns.com/) - [Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android">https://www.mobile-patterns.com/) - [Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android</a> - - [Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.<br>
+<a href="https://screenlane.com/">https://screenlane.com/</a> - [Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.<br>
+<a href="https://scrnshts.club/">https://scrnshts.club/</a> - [Mobile screenshots] A hand-picked collection of the finest app store design screenshots.<br>
+<a href="https://uigarage.net/">https://uigarage.net/</a> - - [Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.<br>
+<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding coolors</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/30290266bb62f11ecb477846bb1bb2ddc68c4e67</link><description><![CDATA[<a href="https://coolors.co/">https://coolors.co/</a> - Color palette generator. Free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add lottiefiles.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/454b82885ec4490109ec79a5f3e166fe4aed5ab3</link><description><![CDATA[<a href="https://lottiefiles.com/">https://lottiefiles.com/</a> - The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.<br>
  ]]></description>
@@ -279,16 +302,6 @@
 <item>
 	<title>deprecate shrinkray.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/59ad0b02a001cd94e876c30d5ef6a959c258b228</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/793770690c44240debd57876caef98d50bf457bb</link><description><![CDATA[<a href="https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email">https://emailtemporanee.com/) - Easy to use free Unlimited disposable temporary email addresses (temp email</a> - - Easy to use free Unlimited disposable temporary email addresses (temp email). Autoexpires even you can set it day.<br>
- ]]></description>
-</item>
-<item>
-	<title>update alwaysdata info</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bc48f16765b49c1b152844861903ba8c81bd1a3d</link><description><![CDATA[<a href="https://www.alwaysdata.com/">https://www.alwaysdata.com/</a> - 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.<br>
- ]]></description>
 </item>
 
 </channel>
