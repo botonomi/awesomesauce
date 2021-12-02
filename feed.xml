@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Include new free web services and databases</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a27b30998a7a8e302b7d05aaccbba47a6472da52</link><description><![CDATA[<a href="https://render.com">https://render.com</a> - Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding new line under Design Inspiration heading</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c66b91033f0ccc22d5f27c4b3a14c08d116c672f</link><description><![CDATA[ ]]></description>
 </item>
@@ -298,10 +303,6 @@
 	<title>replaced FlashDrive.io by Qoddi.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b894238a92738a42f01d2830a3187ed05aa2a983</link><description><![CDATA[<a href="https://qoddi.com">https://qoddi.com</a> - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.<br>
  ]]></description>
-</item>
-<item>
-	<title>deprecate shrinkray.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/59ad0b02a001cd94e876c30d5ef6a959c258b228</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
