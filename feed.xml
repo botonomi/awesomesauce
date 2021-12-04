@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add /meet for Slack</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0cf20088e89d897fc4b014ae7ee99c2027985df8</link><description><![CDATA[<a href="https://meetslack.com">https://meetslack.com</a> - Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added LambdaTest and the list of testing tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/35e642614beb076eb748a91f4cdfc7a7e2261cc4</link><description><![CDATA[<a href="https://www.lambdatest.com/open-source-cross-browser-testing-tool">https://www.lambdatest.com/open-source-cross-browser-testing-tool</a> - Manual, visual, screenshot and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)<br>
  ]]></description>
@@ -65,11 +70,6 @@
 <item>
 	<title>Add TwicPics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ac32e60a2f3f5bfa88b42f5188bb5ad84d9abab8</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>update contributors count in the readme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eb000671b878fc1103875572e40d4545328cc609</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 1000+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
  ]]></description>
 </item>
 
