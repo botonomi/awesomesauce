@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bad1e1fc2ca3a988f91cbe143da25da0e063f295</link><description><![CDATA[<a href="https://squadcast.com">https://squadcast.com</a> - Squadcast is an end-to-end incident management software that's designed to help you promote SRE best practices. Free forever plan available for upto 10 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add /meet for Slack</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0cf20088e89d897fc4b014ae7ee99c2027985df8</link><description><![CDATA[<a href="https://meetslack.com">https://meetslack.com</a> - Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.<br>
  ]]></description>
@@ -65,11 +70,6 @@
 <item>
 	<title>Fix TwicPics tab</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1cf8d80928fc4423b0dd037def010ec6e78f4958</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add TwicPics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ac32e60a2f3f5bfa88b42f5188bb5ad84d9abab8</link><description><![CDATA[<a href="https://www.twicpics.com">https://www.twicpics.com</a> - Responsive images as a service. It provides an image CDN, a media processing API and frontend library to automate image optimization. The service is free up to 3GB trafic/month.<br>
  ]]></description>
 </item>
 
