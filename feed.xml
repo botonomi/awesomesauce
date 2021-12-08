@@ -4,6 +4,41 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove vattly.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b92eb0b9b5525d3919ceb7b5f52c4bb8d189ed43</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove nodequery.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/071077a81252a5b51bf21c08a8b719d16f22820d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove DataMaps.world</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f88fe45a1a0885a8062eebbcc6fbe26ed8d5e08c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove Kanrails</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9407435462c01f83c962cf1b5a961f6012edbf85</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove Appflux</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c4fe7d9c9401c912c92717569a9f43c96e5276bf</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>change hyphen to em-dash for consistent style.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f30a86b356b1a4925bc10dec0033bb9e402757bb</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
+ ]]></description>
+</item>
+<item>
+	<title>re-order cloudflare services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ea5df4a2cd8d14a694f34a3dcde8cd226ac524aa</link><description><![CDATA[<a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare">https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare</a> - — Create a tunnel from your server to a publically accessible, randomly-generated trycloudflare.com domain. No account required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Cloudflare Argo Tunnels to Quick Tunnels.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ca1e95fe6b92005b835126dcfdcb0cd97306288b</link><description><![CDATA[<a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare">https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare</a> - — Create a tunnel from your server to a publically accessible, randomly-generated trycloudflare.com domain. No account required.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2fb655540e7d68660665ef958d1c7be5e20e4496</link><description><![CDATA[<a href="https://bitbucket.org/">https://bitbucket.org/</a> - Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD<br>
 <a href="https://codeberg.page/">https://codeberg.page/</a> - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).<br>
@@ -54,54 +89,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bad1e1fc2ca3a988f91cbe143da25da0e063f295</link><description><![CDATA[<a href="https://squadcast.com">https://squadcast.com</a> - Squadcast is an end-to-end incident management software that's designed to help you promote SRE best practices. Free forever plan available for upto 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>add /meet for Slack</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0cf20088e89d897fc4b014ae7ee99c2027985df8</link><description><![CDATA[<a href="https://meetslack.com">https://meetslack.com</a> - Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added LambdaTest and the list of testing tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/35e642614beb076eb748a91f4cdfc7a7e2261cc4</link><description><![CDATA[<a href="https://www.lambdatest.com/open-source-cross-browser-testing-tool">https://www.lambdatest.com/open-source-cross-browser-testing-tool</a> - Manual, visual, screenshot and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)<br>
- ]]></description>
-</item>
-<item>
-	<title>Include new free web services and databases</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a27b30998a7a8e302b7d05aaccbba47a6472da52</link><description><![CDATA[<a href="https://render.com">https://render.com</a> - Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding new line under Design Inspiration heading</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c66b91033f0ccc22d5f27c4b3a14c08d116c672f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Creating a design inspiration section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/56fd08093fef87c648df9e1f25e8f812c057c9ff</link><description><![CDATA[<a href="#design-inspiration">#design-inspiration</a> - <br>
-<a href="https://www.awwwards.com/) - [Top websites] A showcases of all the best designed websites (voted on by designers">https://www.awwwards.com/) - [Top websites] A showcases of all the best designed websites (voted on by designers</a> - [Top websites] A showcases of all the best designed websites (voted on by designers).<br>
-<a href="https://www.behance.net/">https://www.behance.net/</a> - [Desing showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.<br>
-<a href="https://dribbble.com/">https://dribbble.com/</a> - [Design showcase] Unique design inspiration, generally not from real applications.<br>
-<a href="https://mobbin.design/">https://mobbin.design/</a> - [Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.<br>
-<a href="https://www.mobile-patterns.com/) - [Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android">https://www.mobile-patterns.com/) - [Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android</a> - - [Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.<br>
-<a href="https://screenlane.com/">https://screenlane.com/</a> - [Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.<br>
-<a href="https://scrnshts.club/">https://scrnshts.club/</a> - [Mobile screenshots] A hand-picked collection of the finest app store design screenshots.<br>
-<a href="https://uigarage.net/">https://uigarage.net/</a> - - [Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding coolors</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/30290266bb62f11ecb477846bb1bb2ddc68c4e67</link><description><![CDATA[<a href="https://coolors.co/">https://coolors.co/</a> - Color palette generator. Free.<br>
- ]]></description>
-</item>
-<item>
-	<title>add lottiefiles.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/454b82885ec4490109ec79a5f3e166fe4aed5ab3</link><description><![CDATA[<a href="https://lottiefiles.com/">https://lottiefiles.com/</a> - The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add GoodData</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/26683d645bd6295e129bd487e059278a2937fc3f</link><description><![CDATA[<a href="https://www.gooddata.com/">https://www.gooddata.com/</a> - Data as a Service - Create interactive and insightful dashboards. Free tier comes with 5 workspaces and 100 MB/workspace.<br>
  ]]></description>
 </item>
 
