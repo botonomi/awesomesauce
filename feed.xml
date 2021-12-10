@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add public-apis github repo to Apis section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df4511079d3647178104dc93bf008dc75a1a781c</link><description><![CDATA[<a href="https://github.com/public-apis/public-apis">https://github.com/public-apis/public-apis</a> - Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove vattly.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b92eb0b9b5525d3919ceb7b5f52c4bb8d189ed43</link><description><![CDATA[ ]]></description>
 </item>
@@ -84,11 +89,6 @@
 <a href="https://freedns.afraid.org">https://freedns.afraid.org</a> - Free subdomains powered by the community and free DNS hosting. Until 5 free DNS records.<br>
 <a href="https://education.github.com/pack">https://education.github.com/pack</a> - — Collection of free services for students. Registration required.<br>
 <a href="https://is-a.dev">https://is-a.dev</a> - Free `*.is-a.dev` subdomain for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bad1e1fc2ca3a988f91cbe143da25da0e063f295</link><description><![CDATA[<a href="https://squadcast.com">https://squadcast.com</a> - Squadcast is an end-to-end incident management software that's designed to help you promote SRE best practices. Free forever plan available for upto 10 users.<br>
  ]]></description>
 </item>
 
