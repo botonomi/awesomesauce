@@ -9,6 +9,37 @@
  ]]></description>
 </item>
 <item>
+	<title>Linked STUN to wikipedia definition.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5dce92a83652ade910394f31e08fd06ab2ce0fb1</link><description><![CDATA[<a href="https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs]">https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs]</a> - Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs])<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix tunnel anchor in TOC.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e3141db28b0c8bd8812e2b43679f0f9711fe167c</link><description><![CDATA[<a href="#tunneling-webrtc-web-socket-servers-and-other-routers">#tunneling-webrtc-web-socket-servers-and-other-routers</a> - Web Socket Servers and Other Routers](#tunneling-webrtc-web-socket-servers-and-other-routers)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Sort alphabetically Tunneling section, fix em-dash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/14ca73bb4a97600c4e6728a27559ab7d1ef52b0d</link><description><![CDATA[<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).<br>
+<a href="https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative">https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative</a> - — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
+<a href="stun:stun.l.google.com:19302">stun:stun.l.google.com:19302</a> - — [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)<br>
+<a href="stun:global.stun.twilio.com:3478?transport=udp">stun:global.stun.twilio.com:3478?transport=udp</a> - — [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp)<br>
+<a href="https://tailscale.com/">https://tailscale.com/</a> - Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 20 devices.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Edit descriptions of Localhost.run, localtunnel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/20b9f3bc31cf4ed3144c7a678ddf54d204f23283</link><description><![CDATA[<a href="https://localhost.run/">https://localhost.run/</a> - Expose locally running servers over a tunnel to a public URL.<br>
+<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Change Heading, reorganize STUN entries.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3c8b1b64787a80ae92cbe7d2e9995d2e26a8f431</link><description><![CDATA[<a href="stun:global.stun.twilio.com:3478?transport=udp">stun:global.stun.twilio.com:3478?transport=udp</a> - -- [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp)<br>
+<a href="stun:stun.l.google.com:19302">stun:stun.l.google.com:19302</a> - -- [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove vattly.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b92eb0b9b5525d3919ceb7b5f52c4bb8d189ed43</link><description><![CDATA[ ]]></description>
 </item>
@@ -27,69 +58,6 @@
 <item>
 	<title>Remove Appflux</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c4fe7d9c9401c912c92717569a9f43c96e5276bf</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>change hyphen to em-dash for consistent style.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f30a86b356b1a4925bc10dec0033bb9e402757bb</link><description><![CDATA[<a href="https://workers.cloudflare.com/">https://workers.cloudflare.com/</a> - — Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.<br>
- ]]></description>
-</item>
-<item>
-	<title>re-order cloudflare services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ea5df4a2cd8d14a694f34a3dcde8cd226ac524aa</link><description><![CDATA[<a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare">https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare</a> - — Create a tunnel from your server to a publically accessible, randomly-generated trycloudflare.com domain. No account required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Cloudflare Argo Tunnels to Quick Tunnels.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca1e95fe6b92005b835126dcfdcb0cd97306288b</link><description><![CDATA[<a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare">https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare</a> - — Create a tunnel from your server to a publically accessible, randomly-generated trycloudflare.com domain. No account required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2fb655540e7d68660665ef958d1c7be5e20e4496</link><description><![CDATA[<a href="https://bitbucket.org/">https://bitbucket.org/</a> - Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD<br>
-<a href="https://codeberg.page/">https://codeberg.page/</a> - Unlimited public and private Git repos for free and open-source projects. Static website hosting with [Codeberg Pages](https://codeberg.page/).<br>
-<a href="https://www.gitea.com/">https://www.gitea.com/</a> - Unlimited public and private Git repos<br>
-<a href="https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here">https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here</a> - Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :<br>
-<a href="https://www.deepcode.ai">https://www.deepcode.ai</a> - DeepCode finds bugs, security vulnerabilities, performance and API issues based on AI. DeepCode's speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, C/C++, JavaScript, Python, and TypeScript. Integrations with GitHub, BitBucket and GitLab. Free for open source and private repos, free up to 30 developers.<br>
-<a href="https://unpkg.com/">https://unpkg.com/</a> - CDN for everything on npm<br>
-<a href="https://glitch.com/">https://glitch.com/</a> - Free public hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.<br>
-<a href="https://www.heroku.com/">https://www.heroku.com/</a> - Host your apps in the cloud, free for single process apps<br>
-<a href="https://neocities.org">https://neocities.org</a> - Static, 1 GB free storage with 200 GB Bandwidth.<br>
-<a href="https://www.netlify.com/">https://www.netlify.com/</a> - Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.<br>
-<a href="https://sourceforge.net/">https://sourceforge.net/</a> - Find, Create and Publish Open Source software for free<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bb0284aa034a453b69851c8beb3a3d610965fc71</link><description><![CDATA[<a href="https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use">https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use</a> - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.<br>
-<a href="https://www.expensify.com/">https://www.expensify.com/</a> - Expense reporting, free personal reporting approval workflow<br>
-<a href="https://keen.io/">https://keen.io/</a> - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free<br>
-<a href="https://metrica.yandex.com/">https://metrica.yandex.com/</a> - Unlimited free analytics<br>
-<a href="https://mixpanel.com/">https://mixpanel.com/</a> - 100,000 monthly tracked users, unlimited data history and seats, US or EU data residency<br>
-<a href="https://cognalys.com/">https://cognalys.com/</a> - Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day<br>
-<a href="https://numverify.com/">https://numverify.com/</a> - Global phone number validation and lookup JSON API. 250 API requests/month<br>
-<a href="https://veriphone.io/">https://veriphone.io/</a> - Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month<br>
-<a href="https://currencyapi.net/">https://currencyapi.net/</a> - Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.<br>
-<a href="https://currencylayer.com/">https://currencylayer.com/</a> - Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free<br>
-<a href="https://www.fraudlabspro.com">https://www.fraudlabspro.com</a> - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.<br>
-<a href="https://mailpop.in">https://mailpop.in</a> - Get the most of your Stripe notifications with contextualized information.<br>
-<a href="https://www.namiml.com/">https://www.namiml.com/</a> - - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business.<br>
-<a href="https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android">https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android</a> - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.<br>
-<a href="https://vatlayer.com/">https://vatlayer.com/</a> - Instant VAT number validation and EU VAT rates API, free 100 API requests/month<br>
-<a href="https://freecurrencyapi.net/">https://freecurrencyapi.net/</a> - Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.<br>
-<a href="https://app.vagrantup.com">https://app.vagrantup.com</a> - - HashiCorp Vagrant Cloud. Vagrant box hosting.<br>
-<a href="https://www.vagrantbox.es/">https://www.vagrantbox.es/</a> - An alternative public box index<br>
-<a href="https://bearblog.dev/">https://bearblog.dev/</a> - Minimalist, and Markdown powered blog and website builder.<br>
-<a href="https://dev.to/">https://dev.to/</a> - Where programmers share ideas and help each other grow.<br>
-<a href="https://hashnode.com/">https://hashnode.com/</a> - Hassle-free Blogging Software for Developers!.<br>
-<a href="https://medium.com/">https://medium.com/</a> - Get smarter about what matters to you.<br>
-<a href="https://giscus.app/">https://giscus.app/</a> - A lightweight comments widget built arround GitHub Discussions.<br>
-<a href="https://gitalk.github.io/">https://gitalk.github.io/</a> - A little comments widget built on GitHub Issues.<br>
-<a href="https://js.org">https://js.org</a> - Free js.org subdomains for GitHub Pages for the JavaScript community.<br>
-<a href="https://nic.ua/">https://nic.ua/</a> - Free pp.ua subdomains.<br>
-<a href="https://freedns.afraid.org">https://freedns.afraid.org</a> - Free subdomains powered by the community and free DNS hosting. Until 5 free DNS records.<br>
-<a href="https://education.github.com/pack">https://education.github.com/pack</a> - — Collection of free services for students. Registration required.<br>
-<a href="https://is-a.dev">https://is-a.dev</a> - Free `*.is-a.dev` subdomain for developers.<br>
- ]]></description>
 </item>
 
 </channel>
