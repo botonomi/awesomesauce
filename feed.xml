@@ -5,6 +5,16 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7bd96149efa1eb469a6450658e843ebc140e45f</link><description><![CDATA[<a href="https://osdn.net/">https://osdn.net/</a> - OSDN.net is a free-of-charge service for open source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add mailmenot.io temp email service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f065855c01df4f94f2b46db91262954c0dfcb592</link><description><![CDATA[<a href="http://mailmenot.io">http://mailmenot.io</a> - Free disposable temporary email service with ability to add multiple email addresses<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/610efe093ceee3a114ab14e7b8a019a3559d455e</link><description><![CDATA[<a href="https://cronhooks.io/">https://cronhooks.io/</a> - Replace your cron jobs with webhooks. Invoke any webhook at a given date time or repeatedly using cron expressions. Free plan allows 1 webhook schedule.<br>
  ]]></description>
 </item>
@@ -43,14 +53,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/3c8b1b64787a80ae92cbe7d2e9995d2e26a8f431</link><description><![CDATA[<a href="stun:global.stun.twilio.com:3478?transport=udp">stun:global.stun.twilio.com:3478?transport=udp</a> - -- [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp)<br>
 <a href="stun:stun.l.google.com:19302">stun:stun.l.google.com:19302</a> - -- [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove vattly.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b92eb0b9b5525d3919ceb7b5f52c4bb8d189ed43</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove nodequery.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/071077a81252a5b51bf21c08a8b719d16f22820d</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
