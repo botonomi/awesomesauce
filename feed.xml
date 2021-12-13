@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/610efe093ceee3a114ab14e7b8a019a3559d455e</link><description><![CDATA[<a href="https://cronhooks.io/">https://cronhooks.io/</a> - Replace your cron jobs with webhooks. Invoke any webhook at a given date time or repeatedly using cron expressions. Free plan allows 1 webhook schedule.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add public-apis github repo to Apis section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df4511079d3647178104dc93bf008dc75a1a781c</link><description><![CDATA[<a href="https://github.com/public-apis/public-apis">https://github.com/public-apis/public-apis</a> - Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.<br>
  ]]></description>
@@ -46,18 +51,6 @@
 <item>
 	<title>Remove nodequery.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/071077a81252a5b51bf21c08a8b719d16f22820d</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove DataMaps.world</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f88fe45a1a0885a8062eebbcc6fbe26ed8d5e08c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Kanrails</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9407435462c01f83c962cf1b5a961f6012edbf85</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Appflux</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c4fe7d9c9401c912c92717569a9f43c96e5276bf</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
