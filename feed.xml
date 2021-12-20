@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Warrant to Security and PKI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/49d22c54cc9ad4d762eb1eba286c851673bceb96</link><description><![CDATA[<a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 5,000 API requests per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add `checklyhq.com` to Testing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a10b589240dd0a3fee00f5efa84301ad28b796ef</link><description><![CDATA[<a href="https://checklyhq.com">https://checklyhq.com</a> - Checkly is the API & E2E monitoring platform for the modern stack: programmable, flexible and loving JavaScript. Generous free tier for devs.<br>
  ]]></description>
