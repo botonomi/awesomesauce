@@ -4,6 +4,14 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding services. Sorting the "forms" category.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1869be18213c76b0e53fe08d983afd205cd08e4f</link><description><![CDATA[<a href="https://qualtrics.com/free-account">https://qualtrics.com/free-account</a> - — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey, 100 responses/survey & 8 response types.<br>
+<a href="https://stepform.io">https://stepform.io</a> - Quiz and Form Builder. Free plan has 5 forms, up to 3 steps per form, 50 responses per month.<br>
+<a href="https://webask.io">https://webask.io</a> - Survey and Form Builder. Free plan has 3 surveys per account, 100 responses per month, 10 elements per survey.<br>
+<a href="https://www.wufoo.com/">https://www.wufoo.com/</a> - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Warrant to Security and PKI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/49d22c54cc9ad4d762eb1eba286c851673bceb96</link><description><![CDATA[<a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 5,000 API requests per month.<br>
  ]]></description>
@@ -56,12 +64,6 @@
 	<title>Edit descriptions of Localhost.run, localtunnel</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/20b9f3bc31cf4ed3144c7a678ddf54d204f23283</link><description><![CDATA[<a href="https://localhost.run/">https://localhost.run/</a> - Expose locally running servers over a tunnel to a public URL.<br>
 <a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).<br>
- ]]></description>
-</item>
-<item>
-	<title>Change Heading, reorganize STUN entries.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3c8b1b64787a80ae92cbe7d2e9995d2e26a8f431</link><description><![CDATA[<a href="stun:global.stun.twilio.com:3478?transport=udp">stun:global.stun.twilio.com:3478?transport=udp</a> - -- [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp)<br>
-<a href="stun:stun.l.google.com:19302">stun:stun.l.google.com:19302</a> - -- [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)<br>
  ]]></description>
 </item>
 
