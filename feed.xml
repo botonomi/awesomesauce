@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0b79314e55c9bba5b63e671c7d1ea85e30650be8</link><description><![CDATA[<a href="https://www.gradientos.app">https://www.gradientos.app</a> - Makes choosing a gradient fast and easy.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove scraperapi.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0f7978abe6c9c78fca36727a264617b3f30af132</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Adding services. Sorting the "forms" category.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1869be18213c76b0e53fe08d983afd205cd08e4f</link><description><![CDATA[<a href="https://qualtrics.com/free-account">https://qualtrics.com/free-account</a> - — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey, 100 responses/survey & 8 response types.<br>
 <a href="https://stepform.io">https://stepform.io</a> - Quiz and Form Builder. Free plan has 5 forms, up to 3 steps per form, 50 responses per month.<br>
@@ -39,31 +48,6 @@
 <item>
 	<title>Add public-apis github repo to Apis section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df4511079d3647178104dc93bf008dc75a1a781c</link><description><![CDATA[<a href="https://github.com/public-apis/public-apis">https://github.com/public-apis/public-apis</a> - Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Linked STUN to wikipedia definition.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5dce92a83652ade910394f31e08fd06ab2ce0fb1</link><description><![CDATA[<a href="https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs]">https://en.wikipedia.org/wiki/STUN) — Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs]</a> - Session Traversal of User Datagram Protocol [UDP] Through Network Address Translators [NATs])<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix tunnel anchor in TOC.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e3141db28b0c8bd8812e2b43679f0f9711fe167c</link><description><![CDATA[<a href="#tunneling-webrtc-web-socket-servers-and-other-routers">#tunneling-webrtc-web-socket-servers-and-other-routers</a> - Web Socket Servers and Other Routers](#tunneling-webrtc-web-socket-servers-and-other-routers)<br>
- ]]></description>
-</item>
-<item>
-	<title>Sort alphabetically Tunneling section, fix em-dash</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/14ca73bb4a97600c4e6728a27559ab7d1ef52b0d</link><description><![CDATA[<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).<br>
-<a href="https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative">https://www.radmin-vpn.com/) — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative</a> - — Connect multiple computers together via a VPN enabling LAN-like networks. Unlimited peers. (Hamachi alternative)<br>
-<a href="stun:stun.l.google.com:19302">stun:stun.l.google.com:19302</a> - — [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302)<br>
-<a href="stun:global.stun.twilio.com:3478?transport=udp">stun:global.stun.twilio.com:3478?transport=udp</a> - — [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp)<br>
-<a href="https://tailscale.com/">https://tailscale.com/</a> - Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 20 devices.<br>
- ]]></description>
-</item>
-<item>
-	<title>Edit descriptions of Localhost.run, localtunnel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/20b9f3bc31cf4ed3144c7a678ddf54d204f23283</link><description><![CDATA[<a href="https://localhost.run/">https://localhost.run/</a> - Expose locally running servers over a tunnel to a public URL.<br>
-<a href="https://github.com/localtunnel/localtunnel">https://github.com/localtunnel/localtunnel</a> - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).<br>
  ]]></description>
 </item>
 
