@@ -5,6 +5,11 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c142095aa2c9b57bf21884a53a4fca5058577d4</link><description><![CDATA[<a href="https://heyform.net/">https://heyform.net/</a> - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0b79314e55c9bba5b63e671c7d1ea85e30650be8</link><description><![CDATA[<a href="https://www.gradientos.app">https://www.gradientos.app</a> - Makes choosing a gradient fast and easy.<br>
  ]]></description>
 </item>
@@ -43,11 +48,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/610efe093ceee3a114ab14e7b8a019a3559d455e</link><description><![CDATA[<a href="https://cronhooks.io/">https://cronhooks.io/</a> - Replace your cron jobs with webhooks. Invoke any webhook at a given date time or repeatedly using cron expressions. Free plan allows 1 webhook schedule.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add public-apis github repo to Apis section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df4511079d3647178104dc93bf008dc75a1a781c</link><description><![CDATA[<a href="https://github.com/public-apis/public-apis">https://github.com/public-apis/public-apis</a> - Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.<br>
  ]]></description>
 </item>
 
