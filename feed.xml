@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add HostedScan to Security and PKI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0744ac3eabde417d70ff12226da00ee3ede26c3d</link><description><![CDATA[<a href="https://hostedscan.com">https://hostedscan.com</a> - Online vulnerability scanner for web applications, servers, and networks. 10 free scans per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove ending whitespace</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f1af206c5933d5e6f4ca7c399d831c1522a5a9c1</link><description><![CDATA[<a href="https://www.gooddata.com/">https://www.gooddata.com/</a> - Data as a Service - Create interactive and insightful dashboards. Free tier comes with 5 workspaces and 100 MB/workspace.<br>
 <a href="https://meetslack.com">https://meetslack.com</a> - Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.<br>
@@ -45,11 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7bd96149efa1eb469a6450658e843ebc140e45f</link><description><![CDATA[<a href="https://osdn.net/">https://osdn.net/</a> - OSDN.net is a free-of-charge service for open source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add mailmenot.io temp email service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f065855c01df4f94f2b46db91262954c0dfcb592</link><description><![CDATA[<a href="http://mailmenot.io">http://mailmenot.io</a> - Free disposable temporary email service with ability to add multiple email addresses<br>
  ]]></description>
 </item>
 
