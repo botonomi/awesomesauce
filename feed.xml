@@ -4,6 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add visualime.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/55a626485e28bd26508ae5c7a0d7ee3e92b5a679</link><description><![CDATA[<a href="https://www.visualime.com/">https://www.visualime.com/</a> - Free and unlimited session recordings, no traffic limits<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update free plans offered by session recording tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9c84aebab56a4c8d8f1b243632aed2202fe07353</link><description><![CDATA[<a href="https://www.inspectlet.com/">https://www.inspectlet.com/</a> - 2,500 sessions/month free for 1 website<br>
+<a href="https://livesession.io/">https://livesession.io/</a> - 5,000 sessions/month free for 1 website<br>
+<a href="https://mouseflow.com/">https://mouseflow.com/</a> - 500 sessions/month free for 1 website<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add HostedScan to Security and PKI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0744ac3eabde417d70ff12226da00ee3ede26c3d</link><description><![CDATA[<a href="https://hostedscan.com">https://hostedscan.com</a> - Online vulnerability scanner for web applications, servers, and networks. 10 free scans per month.<br>
  ]]></description>
@@ -40,16 +52,6 @@
 <item>
 	<title>Add Warrant to Security and PKI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/49d22c54cc9ad4d762eb1eba286c851673bceb96</link><description><![CDATA[<a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 5,000 API requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add `checklyhq.com` to Testing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a10b589240dd0a3fee00f5efa84301ad28b796ef</link><description><![CDATA[<a href="https://checklyhq.com">https://checklyhq.com</a> - Checkly is the API & E2E monitoring platform for the modern stack: programmable, flexible and loving JavaScript. Generous free tier for devs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7bd96149efa1eb469a6450658e843ebc140e45f</link><description><![CDATA[<a href="https://osdn.net/">https://osdn.net/</a> - OSDN.net is a free-of-charge service for open source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.<br>
  ]]></description>
 </item>
 
