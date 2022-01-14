@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added PageShare.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42e769a28276f8d9d06910f7e0dd90be65a11af9</link><description><![CDATA[<a href="https://www.pageshare.dev">https://www.pageshare.dev</a> - Adds visual reviews capabilities into GitHub Pull Requests with no need to deploy websites. Free for up to 10 pages each month and 100MB of storage in total.<br>
+ ]]></description>
+</item>
+<item>
 	<title>feat: add mail.gw</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f9227ac5985e877b85a8b339b59d8174b5f325bc</link><description><![CDATA[<a href="https://mail.gw">https://mail.gw</a> - 10 Minute Mail. Free anonymous temporary email without obligations.<br>
  ]]></description>
@@ -46,10 +51,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0b79314e55c9bba5b63e671c7d1ea85e30650be8</link><description><![CDATA[<a href="https://www.gradientos.app">https://www.gradientos.app</a> - Makes choosing a gradient fast and easy.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove scraperapi.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0f7978abe6c9c78fca36727a264617b3f30af132</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
