@@ -4,6 +4,36 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/90f26fc73f101cb05c127737a9885a754630faf2</link><description><![CDATA[<a href="https://react-favicon.com/">https://react-favicon.com/</a> - Generate Favicons for your web site using React and JSX using any font and icon library.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed PostHog from session recording section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/76f170bdd90323fa6bdf58f2b9d1821ff895d4c5</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added PostHog to product analytics and session recording</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/311e95d547bcf5f522e50bce561ded1cfaf0cc99</link><description><![CDATA[<a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month<br>
+<a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month<br>
+ ]]></description>
+</item>
+<item>
+	<title>add serverless cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1b70826a3fed7dc650a552263ac16ec1866c6bb5</link><description><![CDATA[<a href="https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration">https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration</a> - - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed the extra *</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/87f298b19400d80cd88eec8fe8b06d282bfdaf5e</link><description><![CDATA[<a href="https://thundra.io/foresight">https://thundra.io/foresight</a> - Thundra Foresight is a tool for debugging and troubleshooting test failures in no time and optimizing build duration and performance in your CI pipeline.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Foresight</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e69eb474959dd2631530d7a173dc0b0437cdeec6</link><description><![CDATA[<a href="https://thundra.io/foresight">https://thundra.io/foresight</a> - — Thundra Foresight is a tool for debugging and troubleshooting test failures in no time and optimizing build duration and performance in your CI pipeline.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Bruzu.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/65f54449c5e435ec8ef42719b9cf17f46163aa74</link><description><![CDATA[<a href="https://bruzu.com/">https://bruzu.com/</a> - Automate Image production. Generate tons of Image variants with API, Integrations or nocode sheet. API is FREE with watermark.<br>
  ]]></description>
@@ -16,35 +46,6 @@
 <item>
 	<title>Add eyeson API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e0f44649717c743153f80bc996e9e7fac4fb9c92</link><description><![CDATA[<a href="https://apiservice.eyeson.com/api-pricing">https://apiservice.eyeson.com/api-pricing</a> - - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows RealTime Data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "Remove Okteto Cloud"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/00a40fb2e7d3764737cde2c042e11341c3b8af16</link><description><![CDATA[<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 3Gi/pod with a maximum of 8Gi/namespace, 1CPU/pod with a maximum of 4CPUs/namespace and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Nhost</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e734c1ed4f41786147d37904e1fdffb3516dd09</link><description><![CDATA[<a href="https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura">https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura</a> - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update localhost.direct</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ca93e977ae514a65acb976a873031f9b88c7789</link><description><![CDATA[<a href="https://get.localhost.direct">https://get.localhost.direct</a> - A better *.localhost.direct Wildcard public CA signed SSL cert for localhost development with sub-domain support<br>
- ]]></description>
-</item>
-<item>
-	<title>adding tabler icons under smart mockups</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/79957c316bcf596b3255800aedaa5c301b82c950</link><description><![CDATA[<a href="https://tablericons.com/">https://tablericons.com/</a> - Free copy and paste SVG editable icons.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove the endless hosting they looked like they don't operate anymore</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ebbf98ae92077f27f6dd85ec573e4027b2f09da8</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>adding budibase under BaaS. I think, we should have Low Code section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f625daee3da547a7432bd0878e570425b57b8809</link><description><![CDATA[<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
  ]]></description>
 </item>
 
