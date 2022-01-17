@@ -4,52 +4,47 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
-	<title>Added PageShare.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/42e769a28276f8d9d06910f7e0dd90be65a11af9</link><description><![CDATA[<a href="https://www.pageshare.dev">https://www.pageshare.dev</a> - Adds visual reviews capabilities into GitHub Pull Requests with no need to deploy websites. Free for up to 10 pages each month and 100MB of storage in total.<br>
+	<title>Add Bruzu.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/65f54449c5e435ec8ef42719b9cf17f46163aa74</link><description><![CDATA[<a href="https://bruzu.com/">https://bruzu.com/</a> - Automate Image production. Generate tons of Image variants with API, Integrations or nocode sheet. API is FREE with watermark.<br>
  ]]></description>
 </item>
 <item>
-	<title>feat: add mail.gw</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f9227ac5985e877b85a8b339b59d8174b5f325bc</link><description><![CDATA[<a href="https://mail.gw">https://mail.gw</a> - 10 Minute Mail. Free anonymous temporary email without obligations.<br>
+	<title>Adapt Messaging header -> Messaging and Streaming</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1a7e99122ab5f0ce016096dd430c8e13965ab2c8</link><description><![CDATA[<a href="#messaging-and-streaming">#messaging-and-streaming</a> - Streaming](#messaging-and-streaming)<br>
  ]]></description>
 </item>
 <item>
-	<title>add supportivekoala</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/085a8ebcd6e6abc8914874d280b618e9401b7b20</link><description><![CDATA[<a href="http://supportivekoala.com/">http://supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
+	<title>Add eyeson API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e0f44649717c743153f80bc996e9e7fac4fb9c92</link><description><![CDATA[<a href="https://apiservice.eyeson.com/api-pricing">https://apiservice.eyeson.com/api-pricing</a> - - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows RealTime Data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.<br>
  ]]></description>
 </item>
 <item>
-	<title>add visualime.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/55a626485e28bd26508ae5c7a0d7ee3e92b5a679</link><description><![CDATA[<a href="https://www.visualime.com/">https://www.visualime.com/</a> - Free and unlimited session recordings, no traffic limits<br>
+	<title>Revert "Remove Okteto Cloud"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00a40fb2e7d3764737cde2c042e11341c3b8af16</link><description><![CDATA[<a href="https://okteto.com">https://okteto.com</a> - - Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 3Gi/pod with a maximum of 8Gi/namespace, 1CPU/pod with a maximum of 4CPUs/namespace and 5GB Disk space. The apps sleep after 24 hours of inactivity.<br>
  ]]></description>
 </item>
 <item>
-	<title>Update free plans offered by session recording tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9c84aebab56a4c8d8f1b243632aed2202fe07353</link><description><![CDATA[<a href="https://www.inspectlet.com/">https://www.inspectlet.com/</a> - 2,500 sessions/month free for 1 website<br>
-<a href="https://livesession.io/">https://livesession.io/</a> - 5,000 sessions/month free for 1 website<br>
-<a href="https://mouseflow.com/">https://mouseflow.com/</a> - 500 sessions/month free for 1 website<br>
+	<title>Added Nhost</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6e734c1ed4f41786147d37904e1fdffb3516dd09</link><description><![CDATA[<a href="https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura">https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura</a> - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.<br>
  ]]></description>
 </item>
 <item>
-	<title>Add HostedScan to Security and PKI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0744ac3eabde417d70ff12226da00ee3ede26c3d</link><description><![CDATA[<a href="https://hostedscan.com">https://hostedscan.com</a> - Online vulnerability scanner for web applications, servers, and networks. 10 free scans per month.<br>
+	<title>Update localhost.direct</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0ca93e977ae514a65acb976a873031f9b88c7789</link><description><![CDATA[<a href="https://get.localhost.direct">https://get.localhost.direct</a> - A better *.localhost.direct Wildcard public CA signed SSL cert for localhost development with sub-domain support<br>
  ]]></description>
 </item>
 <item>
-	<title>Remove ending whitespace</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f1af206c5933d5e6f4ca7c399d831c1522a5a9c1</link><description><![CDATA[<a href="https://www.gooddata.com/">https://www.gooddata.com/</a> - Data as a Service - Create interactive and insightful dashboards. Free tier comes with 5 workspaces and 100 MB/workspace.<br>
-<a href="https://meetslack.com">https://meetslack.com</a> - Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.<br>
-<a href="https://github.com/marketplace/testspace-com">https://github.com/marketplace/testspace-com</a> - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) accounts for 450 results per month.<br>
+	<title>adding tabler icons under smart mockups</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/79957c316bcf596b3255800aedaa5c301b82c950</link><description><![CDATA[<a href="https://tablericons.com/">https://tablericons.com/</a> - Free copy and paste SVG editable icons.<br>
  ]]></description>
 </item>
 <item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c142095aa2c9b57bf21884a53a4fca5058577d4</link><description><![CDATA[<a href="https://heyform.net/">https://heyform.net/</a> - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.<br>
- ]]></description>
+	<title>remove the endless hosting they looked like they don't operate anymore</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ebbf98ae92077f27f6dd85ec573e4027b2f09da8</link><description><![CDATA[ ]]></description>
 </item>
 <item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0b79314e55c9bba5b63e671c7d1ea85e30650be8</link><description><![CDATA[<a href="https://www.gradientos.app">https://www.gradientos.app</a> - Makes choosing a gradient fast and easy.<br>
+	<title>adding budibase under BaaS. I think, we should have Low Code section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f625daee3da547a7432bd0878e570425b57b8809</link><description><![CDATA[<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
  ]]></description>
 </item>
 
