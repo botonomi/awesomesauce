@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix spelling mistake</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/de2a2ef3f3dfd86753e8ed14318d242fe3c580b4</link><description><![CDATA[<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data transfer per day.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add UI-licious Snippet to Testing category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/45252dd72ad134e4cd80e8e21e606b230869e092</link><description><![CDATA[<a href="https://snippets.uilicious.com">https://snippets.uilicious.com</a> - It's like CodePen, but for cross browser testing. UI-licious lets write tests like user stories, and offers a free platform - UI-licious Snippets - that allows you to run unlimited number of tests on Chrome for free with no sign up requred, for up to 3 minutes per test run. Found a bug? You can simply copy the unique url to your test to show your devs exactly how to reproduce the bug.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Filebase S3-compatible storage 🚀🛰️</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/522d7aab042543e445068184c1029c1eab1f4a66</link><description><![CDATA[<a href="https://filebase.com/">https://filebase.com/</a> - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Layer0 as hosting platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a84cdd8bc2b2da9d80cfcd23ae60568d2ceb81db</link><description><![CDATA[<a href="https://www.limelight.com/">https://www.limelight.com/</a> - fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove the Code Quality listing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07ee5e32b2f9fc8cdb2bc771bd9df4ddf49adceb</link><description><![CDATA[ ]]></description>
 </item>
@@ -36,31 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/db1e1dd77cd37be59bb5a0ecf5204d3f1578c623</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removed PostHog from session recording section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/76f170bdd90323fa6bdf58f2b9d1821ff895d4c5</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added PostHog to product analytics and session recording</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/311e95d547bcf5f522e50bce561ded1cfaf0cc99</link><description><![CDATA[<a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month<br>
-<a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month<br>
- ]]></description>
-</item>
-<item>
-	<title>add serverless cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1b70826a3fed7dc650a552263ac16ec1866c6bb5</link><description><![CDATA[<a href="https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration">https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration</a> - - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed the extra *</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/87f298b19400d80cd88eec8fe8b06d282bfdaf5e</link><description><![CDATA[<a href="https://thundra.io/foresight">https://thundra.io/foresight</a> - Thundra Foresight is a tool for debugging and troubleshooting test failures in no time and optimizing build duration and performance in your CI pipeline.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Foresight</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e69eb474959dd2631530d7a173dc0b0437cdeec6</link><description><![CDATA[<a href="https://thundra.io/foresight">https://thundra.io/foresight</a> - — Thundra Foresight is a tool for debugging and troubleshooting test failures in no time and optimizing build duration and performance in your CI pipeline.<br>
- ]]></description>
 </item>
 
 </channel>
