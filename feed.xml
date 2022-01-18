@@ -4,9 +4,38 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove the Code Quality listing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/07ee5e32b2f9fc8cdb2bc771bd9df4ddf49adceb</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bf768d7ec6c67a9a37f00a5d019df3f4fc661eb9</link><description><![CDATA[<a href="https://www.meteor.com/cloud">https://www.meteor.com/cloud</a> - — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.<br>
+ ]]></description>
+</item>
+<item>
+	<title>change website od Tabler Icons</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c5bf30a10581e4b5f32d76293c866980ab426a0</link><description><![CDATA[<a href="https://tabler-icons.io/">https://tabler-icons.io/</a> - Over 1500 free copy and paste SVG editable icons.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/90f26fc73f101cb05c127737a9885a754630faf2</link><description><![CDATA[<a href="https://react-favicon.com/">https://react-favicon.com/</a> - Generate Favicons for your web site using React and JSX using any font and icon library.<br>
  ]]></description>
+</item>
+<item>
+	<title>* Add Codiga</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a633702de621d634e398b3d6193f298bc6d2874e</link><description><![CDATA[<a href="https://codiga.io/">https://codiga.io/</a> - Automated Code Review for GitHub, GitLab and Bitbucket. Free for open-source and small organizations.<br>
+<a href="https://codiga.io/">https://codiga.io/</a> - Coding Assistant that lets you search, define and reuse code snippets directly in your IDE. Free for individual and small organizations.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/01f5e9b9de96b38bc0de0c754a558b744d96f951</link><description><![CDATA[<a href="https://www.meteor.com/cloud">https://www.meteor.com/cloud</a> - — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/db1e1dd77cd37be59bb5a0ecf5204d3f1578c623</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Removed PostHog from session recording section</title>
@@ -31,21 +60,6 @@
 <item>
 	<title>Added Foresight</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e69eb474959dd2631530d7a173dc0b0437cdeec6</link><description><![CDATA[<a href="https://thundra.io/foresight">https://thundra.io/foresight</a> - — Thundra Foresight is a tool for debugging and troubleshooting test failures in no time and optimizing build duration and performance in your CI pipeline.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Bruzu.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65f54449c5e435ec8ef42719b9cf17f46163aa74</link><description><![CDATA[<a href="https://bruzu.com/">https://bruzu.com/</a> - Automate Image production. Generate tons of Image variants with API, Integrations or nocode sheet. API is FREE with watermark.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adapt Messaging header -> Messaging and Streaming</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1a7e99122ab5f0ce016096dd430c8e13965ab2c8</link><description><![CDATA[<a href="#messaging-and-streaming">#messaging-and-streaming</a> - Streaming](#messaging-and-streaming)<br>
- ]]></description>
-</item>
-<item>
-	<title>Add eyeson API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e0f44649717c743153f80bc996e9e7fac4fb9c92</link><description><![CDATA[<a href="https://apiservice.eyeson.com/api-pricing">https://apiservice.eyeson.com/api-pricing</a> - - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows RealTime Data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.<br>
  ]]></description>
 </item>
 
