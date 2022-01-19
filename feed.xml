@@ -14,6 +14,11 @@
  ]]></description>
 </item>
 <item>
+	<title>docs: add Moderne.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0a52328f173e47552d4e3d1983f42b06d71ff657</link><description><![CDATA[<a href="https://app.moderne.io">https://app.moderne.io</a> - Automatic source code refactoring. Moderne offers framework migrations, code analysis with remediation, and unrivaled code transformation at scale, so developers can spend their time building new things instead of maintaining the old. Free for Open Source.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Filebase S3-compatible storage 🚀🛰️</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/522d7aab042543e445068184c1029c1eab1f4a66</link><description><![CDATA[<a href="https://filebase.com/">https://filebase.com/</a> - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.<br>
  ]]></description>
@@ -52,10 +57,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/01f5e9b9de96b38bc0de0c754a558b744d96f951</link><description><![CDATA[<a href="https://www.meteor.com/cloud">https://www.meteor.com/cloud</a> - — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/db1e1dd77cd37be59bb5a0ecf5204d3f1578c623</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
