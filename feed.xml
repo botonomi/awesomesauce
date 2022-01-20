@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adds northflank to one section as requested</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a630f71c21d1096d3c6eacdf3d0d723e3331ac0f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>adds Northflank PaaS into PaaS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/316a3b7cab7acdb9b3775ca81f2fa58feb8eb87e</link><description><![CDATA[<a href="https://northflank.com">https://northflank.com</a> - Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.<br>
+ ]]></description>
+</item>
+<item>
+	<title>adds Northflank DBaaS into DBaaS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/065d7d7af0965fe49838d583d184d43bb519e228</link><description><![CDATA[<a href="https://northflank.com">https://northflank.com</a> - Northflank offers managed serverless PostgreSQL, MongoDB, Redis, Minio and MySQL with a free tier of 512MB RAM, 4GB disk & free logging, metrics and backups.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Authgear in Security and PKI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b765979b1d15ff43933b0e3e57fd1285780fa34f</link><description><![CDATA[<a href="https://www.authgear.com">https://www.authgear.com</a> - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix spelling mistake</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/de2a2ef3f3dfd86753e8ed14318d242fe3c580b4</link><description><![CDATA[<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data transfer per day.<br>
  ]]></description>
@@ -31,32 +50,6 @@
 <item>
 	<title>remove the Code Quality listing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07ee5e32b2f9fc8cdb2bc771bd9df4ddf49adceb</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bf768d7ec6c67a9a37f00a5d019df3f4fc661eb9</link><description><![CDATA[<a href="https://www.meteor.com/cloud">https://www.meteor.com/cloud</a> - — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.<br>
- ]]></description>
-</item>
-<item>
-	<title>change website od Tabler Icons</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c5bf30a10581e4b5f32d76293c866980ab426a0</link><description><![CDATA[<a href="https://tabler-icons.io/">https://tabler-icons.io/</a> - Over 1500 free copy and paste SVG editable icons.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/90f26fc73f101cb05c127737a9885a754630faf2</link><description><![CDATA[<a href="https://react-favicon.com/">https://react-favicon.com/</a> - Generate Favicons for your web site using React and JSX using any font and icon library.<br>
- ]]></description>
-</item>
-<item>
-	<title>* Add Codiga</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a633702de621d634e398b3d6193f298bc6d2874e</link><description><![CDATA[<a href="https://codiga.io/">https://codiga.io/</a> - Automated Code Review for GitHub, GitLab and Bitbucket. Free for open-source and small organizations.<br>
-<a href="https://codiga.io/">https://codiga.io/</a> - Coding Assistant that lets you search, define and reuse code snippets directly in your IDE. Free for individual and small organizations.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/01f5e9b9de96b38bc0de0c754a558b744d96f951</link><description><![CDATA[<a href="https://www.meteor.com/cloud">https://www.meteor.com/cloud</a> - — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.<br>
- ]]></description>
 </item>
 
 </channel>
