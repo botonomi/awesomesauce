@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix markup</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bddab49d282edcc6a70e44596cff1528f855427b</link><description><![CDATA[<a href="https://www.formrocket.me">https://www.formrocket.me</a> - HTML forms made easy, unlimited forms & responses. Comes with Discord notifications and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>adds northflank to one section as requested</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a630f71c21d1096d3c6eacdf3d0d723e3331ac0f</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,10 +51,6 @@
 	<title>Add Layer0 as hosting platform</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a84cdd8bc2b2da9d80cfcd23ae60568d2ceb81db</link><description><![CDATA[<a href="https://www.limelight.com/">https://www.limelight.com/</a> - fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove the Code Quality listing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/07ee5e32b2f9fc8cdb2bc771bd9df4ddf49adceb</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
