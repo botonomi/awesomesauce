@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added formpost.app to forms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d5d9f85ee7527f61229944a0b62c964c83203327</link><description><![CDATA[<a href="https://formpost.app">https://formpost.app</a> - Free, unlimited Form to Email service. Setup custom redirect, auto response, webhooks etc for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix markup</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bddab49d282edcc6a70e44596cff1528f855427b</link><description><![CDATA[<a href="https://www.formrocket.me">https://www.formrocket.me</a> - HTML forms made easy, unlimited forms & responses. Comes with Discord notifications and more.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add Filebase S3-compatible storage 🚀🛰️</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/522d7aab042543e445068184c1029c1eab1f4a66</link><description><![CDATA[<a href="https://filebase.com/">https://filebase.com/</a> - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Layer0 as hosting platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a84cdd8bc2b2da9d80cfcd23ae60568d2ceb81db</link><description><![CDATA[<a href="https://www.limelight.com/">https://www.limelight.com/</a> - fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.<br>
  ]]></description>
 </item>
 
