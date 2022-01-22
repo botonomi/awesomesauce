@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add nootiz to collaboration tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/761054359666933dcd2322de7be31f881e0a94a8</link><description><![CDATA[<a href="https:www.nootiz.com/">https:www.nootiz.com/</a> - The go-to tool for gathering and managing visual feedback on any website<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated description & free plan info</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/76e99f3416394b72f090c20c729e0ebdd9334be3</link><description><![CDATA[<a href="https://www.sanity.io/">https://www.sanity.io/</a> - Platform for structured content that comes with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, 3 non-admin users, 2 datasets, 500K API CDN requests, 10GB bandwidth, 5GB assets included for free per project.<br>
+ ]]></description>
+</item>
+<item>
+	<title>fix markup</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/998082ecb5e5b659c94f0f989b4adbbf39f4362f</link><description><![CDATA[<a href="https://www.geojs.io/">https://www.geojs.io/</a> - Highly available REST/JSON/JSONP IP Geolocation lookup API.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added geojs.io to APIs, Data and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6c43bb9b8ad1253d8c651b4e71dced4400267c2e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added formpost.app to forms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d5d9f85ee7527f61229944a0b62c964c83203327</link><description><![CDATA[<a href="https://formpost.app">https://formpost.app</a> - Free, unlimited Form to Email service. Setup custom redirect, auto response, webhooks etc for free.<br>
  ]]></description>
@@ -30,26 +49,6 @@
 <item>
 	<title>Added Authgear in Security and PKI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b765979b1d15ff43933b0e3e57fd1285780fa34f</link><description><![CDATA[<a href="https://www.authgear.com">https://www.authgear.com</a> - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix spelling mistake</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/de2a2ef3f3dfd86753e8ed14318d242fe3c580b4</link><description><![CDATA[<a href="https://cloud.dgraph.io/pricing?type=free">https://cloud.dgraph.io/pricing?type=free</a> - — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data transfer per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add UI-licious Snippet to Testing category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/45252dd72ad134e4cd80e8e21e606b230869e092</link><description><![CDATA[<a href="https://snippets.uilicious.com">https://snippets.uilicious.com</a> - It's like CodePen, but for cross browser testing. UI-licious lets write tests like user stories, and offers a free platform - UI-licious Snippets - that allows you to run unlimited number of tests on Chrome for free with no sign up requred, for up to 3 minutes per test run. Found a bug? You can simply copy the unique url to your test to show your devs exactly how to reproduce the bug.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs: add Moderne.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0a52328f173e47552d4e3d1983f42b06d71ff657</link><description><![CDATA[<a href="https://app.moderne.io">https://app.moderne.io</a> - Automatic source code refactoring. Moderne offers framework migrations, code analysis with remediation, and unrivaled code transformation at scale, so developers can spend their time building new things instead of maintaining the old. Free for Open Source.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Filebase S3-compatible storage 🚀🛰️</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/522d7aab042543e445068184c1029c1eab1f4a66</link><description><![CDATA[<a href="https://filebase.com/">https://filebase.com/</a> - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.<br>
  ]]></description>
 </item>
 
