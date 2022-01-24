@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Escape GraphQL Quickscan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ace0ec31c386c88eb85d01620f90849d9ee3d835</link><description><![CDATA[<a href="https://escape.tech/quickscan">https://escape.tech/quickscan</a> - Quickscan](https://escape.tech/quickscan) - One-click security scan of your GraphQL endpoints. Free, no login required.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add nootiz to collaboration tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/761054359666933dcd2322de7be31f881e0a94a8</link><description><![CDATA[<a href="https:www.nootiz.com/">https:www.nootiz.com/</a> - The go-to tool for gathering and managing visual feedback on any website<br>
  ]]></description>
