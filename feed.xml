@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add GitGuardian to security tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2494692a5db2ac9596e8565fb1ed77f98ba41f4a</link><description><![CDATA[<a href="https://www.gitguardian.com">https://www.gitguardian.com</a> - Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files – Free for individuals and teams of 25 developers or less.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fixes nootiz-link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9a5f981ce6043c47c4fb83a16b58afddf523fafc</link><description><![CDATA[<a href="https://www.nootiz.com/">https://www.nootiz.com/</a> - The go-to tool for gathering and managing visual feedback on any website<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>adds northflank to one section as requested</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a630f71c21d1096d3c6eacdf3d0d723e3331ac0f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>adds Northflank PaaS into PaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/316a3b7cab7acdb9b3775ca81f2fa58feb8eb87e</link><description><![CDATA[<a href="https://northflank.com">https://northflank.com</a> - Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.<br>
- ]]></description>
 </item>
 
 </channel>
