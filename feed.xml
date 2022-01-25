@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fixes nootiz-link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9a5f981ce6043c47c4fb83a16b58afddf523fafc</link><description><![CDATA[<a href="https://www.nootiz.com/">https://www.nootiz.com/</a> - The go-to tool for gathering and managing visual feedback on any website<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Escape GraphQL Quickscan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ace0ec31c386c88eb85d01620f90849d9ee3d835</link><description><![CDATA[<a href="https://escape.tech/quickscan">https://escape.tech/quickscan</a> - Quickscan](https://escape.tech/quickscan) - One-click security scan of your GraphQL endpoints. Free, no login required.<br>
  ]]></description>
@@ -44,16 +49,6 @@
 <item>
 	<title>adds Northflank PaaS into PaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/316a3b7cab7acdb9b3775ca81f2fa58feb8eb87e</link><description><![CDATA[<a href="https://northflank.com">https://northflank.com</a> - Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.<br>
- ]]></description>
-</item>
-<item>
-	<title>adds Northflank DBaaS into DBaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/065d7d7af0965fe49838d583d184d43bb519e228</link><description><![CDATA[<a href="https://northflank.com">https://northflank.com</a> - Northflank offers managed serverless PostgreSQL, MongoDB, Redis, Minio and MySQL with a free tier of 512MB RAM, 4GB disk & free logging, metrics and backups.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Authgear in Security and PKI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b765979b1d15ff43933b0e3e57fd1285780fa34f</link><description><![CDATA[<a href="https://www.authgear.com">https://www.authgear.com</a> - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.<br>
  ]]></description>
 </item>
 
