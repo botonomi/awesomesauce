@@ -4,6 +4,37 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Update Commenting Systems, CI/CD, Dev blogs"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/40af9b0ff23efe8f2bbc93b2af4c365e0318c9ae</link><description><![CDATA[<a href="https://hashnode.com/">https://hashnode.com/</a> - Hassle-free Blogging Software for Developers!.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5e95248def82c64a1c2907a61b445ec3bac7024a</link><description><![CDATA[<a href="https://hashnode.com/">https://hashnode.com/</a> - Hassle-free Blogging Software for Developers!<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Commenting Systems, CI/CD, Dev blogs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0f7fe9df34a588c57deddeeee831a5f701f5135a</link><description><![CDATA[<a href="https://www.jetbrains.com/teamcity/">https://www.jetbrains.com/teamcity/</a> - TeamCity Professional is free: 100 build configurations, 3 build agents.<br>
+<a href="https://blog.jetbrains.com/">https://blog.jetbrains.com/</a> - — Industry and developer tools news by JetBrains.<br>
+<a href="https://remark42.com/">https://remark42.com/</a> - Privacy-focused lightweight commenting engine.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Custom changed to costom</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c65a927864f3955d82c8394fc2e786ace405311a</link><description><![CDATA[<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no custom domain support.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated Divio</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6013ad8ba2587ca04fc21e8a2d2fa8ef39edfad0</link><description><![CDATA[<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no costom domain support.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed SUSE Developer Platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1e81066df11c244721d8b8ff291ef974e0034506</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9fd028480970464ca7f287ae38afa039e4aef06</link><description><![CDATA[<a href="https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs">https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs</a> - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Free for up to 3 users, alerts via Slack, Discord, and Email.<br>
  ]]></description>
@@ -21,35 +52,6 @@
 <item>
 	<title>Add Escape GraphQL Quickscan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ace0ec31c386c88eb85d01620f90849d9ee3d835</link><description><![CDATA[<a href="https://escape.tech/quickscan">https://escape.tech/quickscan</a> - Quickscan](https://escape.tech/quickscan) - One-click security scan of your GraphQL endpoints. Free, no login required.<br>
- ]]></description>
-</item>
-<item>
-	<title>add nootiz to collaboration tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/761054359666933dcd2322de7be31f881e0a94a8</link><description><![CDATA[<a href="https:www.nootiz.com/">https:www.nootiz.com/</a> - The go-to tool for gathering and managing visual feedback on any website<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated description & free plan info</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/76e99f3416394b72f090c20c729e0ebdd9334be3</link><description><![CDATA[<a href="https://www.sanity.io/">https://www.sanity.io/</a> - Platform for structured content that comes with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, 3 non-admin users, 2 datasets, 500K API CDN requests, 10GB bandwidth, 5GB assets included for free per project.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix markup</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/998082ecb5e5b659c94f0f989b4adbbf39f4362f</link><description><![CDATA[<a href="https://www.geojs.io/">https://www.geojs.io/</a> - Highly available REST/JSON/JSONP IP Geolocation lookup API.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added geojs.io to APIs, Data and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6c43bb9b8ad1253d8c651b4e71dced4400267c2e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added formpost.app to forms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d5d9f85ee7527f61229944a0b62c964c83203327</link><description><![CDATA[<a href="https://formpost.app">https://formpost.app</a> - Free, unlimited Form to Email service. Setup custom redirect, auto response, webhooks etc for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix markup</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bddab49d282edcc6a70e44596cff1528f855427b</link><description><![CDATA[<a href="https://www.formrocket.me">https://www.formrocket.me</a> - HTML forms made easy, unlimited forms & responses. Comes with Discord notifications and more.<br>
  ]]></description>
 </item>
 
