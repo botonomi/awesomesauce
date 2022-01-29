@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add coupler.io to APIs, Data and ML section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5403c2a5d070cfa23165fba14fa2b0f0c9361f94</link><description><![CDATA[<a href="https://www.coupler.io/">https://www.coupler.io/</a> - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Upstash Kafka to messaging section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/279a313f49a531e3be621725cc99107c8cb9d0db</link><description><![CDATA[<a href="https://upstash.com/kafka">https://upstash.com/kafka</a> - - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update AWS and light formatting</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7f073abd4b9a12a06aee2033bc01c42051989824</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,16 +56,6 @@
 <item>
 	<title>Add GitGuardian to security tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2494692a5db2ac9596e8565fb1ed77f98ba41f4a</link><description><![CDATA[<a href="https://www.gitguardian.com">https://www.gitguardian.com</a> - Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files – Free for individuals and teams of 25 developers or less.<br>
- ]]></description>
-</item>
-<item>
-	<title>fixes nootiz-link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9a5f981ce6043c47c4fb83a16b58afddf523fafc</link><description><![CDATA[<a href="https://www.nootiz.com/">https://www.nootiz.com/</a> - The go-to tool for gathering and managing visual feedback on any website<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Escape GraphQL Quickscan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ace0ec31c386c88eb85d01620f90849d9ee3d835</link><description><![CDATA[<a href="https://escape.tech/quickscan">https://escape.tech/quickscan</a> - Quickscan](https://escape.tech/quickscan) - One-click security scan of your GraphQL endpoints. Free, no login required.<br>
  ]]></description>
 </item>
 
