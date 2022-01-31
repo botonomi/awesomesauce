@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add TerminusX as DBaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d8a0c23221ce04261d3f4232828160c92b98f9e5</link><description><![CDATA[<a href="https://terminusdb.com/">https://terminusdb.com/</a> - Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding svgrepo.com to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3b1f0f8c41b654055e33a5dd20c25d8acb0058ca</link><description><![CDATA[<a href="https://www.svgrepo.com/">https://www.svgrepo.com/</a> - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.<br>
  ]]></description>
@@ -52,11 +57,6 @@
 <item>
 	<title>Removed SUSE Developer Platform</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1e81066df11c244721d8b8ff291ef974e0034506</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a9fd028480970464ca7f287ae38afa039e4aef06</link><description><![CDATA[<a href="https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs">https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs</a> - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Free for up to 3 users, alerts via Slack, Discord, and Email.<br>
- ]]></description>
 </item>
 
 </channel>
