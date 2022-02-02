@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6afb34c76c2f4c161034b2ae1eee97d9a439ef51</link><description><![CDATA[<a href="https://www.dataimporter.io">https://www.dataimporter.io</a> - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add TerminusX as DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8a0c23221ce04261d3f4232828160c92b98f9e5</link><description><![CDATA[<a href="https://terminusdb.com/">https://terminusdb.com/</a> - Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.<br>
  ]]></description>
@@ -53,10 +58,6 @@
 	<title>Updated Divio</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6013ad8ba2587ca04fc21e8a2d2fa8ef39edfad0</link><description><![CDATA[<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no costom domain support.<br>
  ]]></description>
-</item>
-<item>
-	<title>Removed SUSE Developer Platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1e81066df11c244721d8b8ff291ef974e0034506</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
