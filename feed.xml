@@ -5,6 +5,11 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fba56c0d4693f4695da35845d82d378d2b62a38d</link><description><![CDATA[<a href="https://deploywithflags.com">https://deploywithflags.com</a> - Flags](https://deploywithflags.com) — Feature Flags Service. Free for individual developers managing flags for a single project.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/70301c0de87be4ccd0afd02b58dbec3ca4b62688</link><description><![CDATA[<a href="https://www.huaweicloud.com/intl/en-us/product/dns.html">https://www.huaweicloud.com/intl/en-us/product/dns.html</a> - Free DNS hosting by Huawei<br>
  ]]></description>
 </item>
@@ -57,10 +62,6 @@
 	<title>add Upstash Kafka to messaging section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/279a313f49a531e3be621725cc99107c8cb9d0db</link><description><![CDATA[<a href="https://upstash.com/kafka">https://upstash.com/kafka</a> - - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update AWS and light formatting</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7f073abd4b9a12a06aee2033bc01c42051989824</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
