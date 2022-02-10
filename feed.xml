@@ -5,6 +5,11 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d692c1079d5613bd6cbe2c471362b1d75d8f456c</link><description><![CDATA[<a href="https://spacelift.io/">https://spacelift.io/</a> - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fba56c0d4693f4695da35845d82d378d2b62a38d</link><description><![CDATA[<a href="https://deploywithflags.com">https://deploywithflags.com</a> - Flags](https://deploywithflags.com) — Feature Flags Service. Free for individual developers managing flags for a single project.<br>
  ]]></description>
 </item>
@@ -51,16 +56,6 @@
 <item>
 	<title>Adding svgrepo.com to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3b1f0f8c41b654055e33a5dd20c25d8acb0058ca</link><description><![CDATA[<a href="https://www.svgrepo.com/">https://www.svgrepo.com/</a> - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add coupler.io to APIs, Data and ML section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5403c2a5d070cfa23165fba14fa2b0f0c9361f94</link><description><![CDATA[<a href="https://www.coupler.io/">https://www.coupler.io/</a> - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Upstash Kafka to messaging section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/279a313f49a531e3be621725cc99107c8cb9d0db</link><description><![CDATA[<a href="https://upstash.com/kafka">https://upstash.com/kafka</a> - - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.<br>
  ]]></description>
 </item>
 
