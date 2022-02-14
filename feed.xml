@@ -5,6 +5,15 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/14d958a8462ebbaf983d3fb1e3ccd27d5d26ea8a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Crucial Human Project</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2df04bfa3dd2f46f59dd0026e1d84d3259cc2b53</link><description><![CDATA[<a href="https://crucialhuman.com/products/project/">https://crucialhuman.com/products/project/</a> - Project](https://crucialhuman.com/products/project/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d692c1079d5613bd6cbe2c471362b1d75d8f456c</link><description><![CDATA[<a href="https://spacelift.io/">https://spacelift.io/</a> - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month<br>
  ]]></description>
 </item>
@@ -51,11 +60,6 @@
 <item>
 	<title>Add TerminusX as DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8a0c23221ce04261d3f4232828160c92b98f9e5</link><description><![CDATA[<a href="https://terminusdb.com/">https://terminusdb.com/</a> - Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding svgrepo.com to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3b1f0f8c41b654055e33a5dd20c25d8acb0058ca</link><description><![CDATA[<a href="https://www.svgrepo.com/">https://www.svgrepo.com/</a> - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.<br>
  ]]></description>
 </item>
 
