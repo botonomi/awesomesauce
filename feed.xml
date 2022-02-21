@@ -4,8 +4,23 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add UptimeDog.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d7868f04ee76f903a76a38e43bdd0cb782be669c</link><description><![CDATA[<a href="https://www.uptimedog.com">https://www.uptimedog.com</a> - Free uptime monitoring service. Monitors availability of your website every 2 minutes 24/7/365.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Loggly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3d0f54054931fc5f8413d8ece60b4110af825443</link><description><![CDATA[<a href="https://www.loggly.com/">https://www.loggly.com/</a> - Free for a single user, 200MB/day with 7 days retention<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aba3656262f74c5b18f3540082c36a1c21f5f234</link><description><![CDATA[<a href="https://fabform.io/">https://fabform.io/</a> - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email and others.<br>
+ ]]></description>
+</item>
+<item>
+	<title>update Analytics / indicative</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b3a780f89701db7b0d9d943d9dec690dc9587db5</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 25M events/month, 6 months data retention.<br>
  ]]></description>
 </item>
 <item>
@@ -51,31 +66,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/70301c0de87be4ccd0afd02b58dbec3ca4b62688</link><description><![CDATA[<a href="https://www.huaweicloud.com/intl/en-us/product/dns.html">https://www.huaweicloud.com/intl/en-us/product/dns.html</a> - Free DNS hosting by Huawei<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8746baa7b95762ce8ba1fabb87024d3420f64d45</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>fix(index): update cdn to jsdelivr</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/24f11258dcceb9e59290888b04953693da71615a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>fix(index): use light theme as default fallback</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6ce40bb735edbbb84f1a66e410c089a2cf63ce73</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>feat(index): add dark theme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cf42913853a522ab48bf69af8e985ad05719c535</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2d0ed7f6d38cdb3eaa7e7d6576754814b32eb8ef</link><description><![CDATA[<a href="https://upstash.com/kafka">https://upstash.com/kafka</a> - - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.<br>
-<a href="https://www.coupler.io/">https://www.coupler.io/</a> - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.<br>
-<a href="https://www.svgrepo.com/">https://www.svgrepo.com/</a> - Explore, search and find the best fitting icons or vectors for your projects using wide variety vector library. Download free SVG Vectors for commercial use.<br>
-<a href="https://terminusdb.com/">https://terminusdb.com/</a> - Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.<br>
-<a href="https://www.dataimporter.io">https://www.dataimporter.io</a> - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.<br>
  ]]></description>
 </item>
 
