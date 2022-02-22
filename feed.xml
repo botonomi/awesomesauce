@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Add UptimeDog.com"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/77e65ebd118346926e6a10cba8445b4adf5d4164</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add UptimeDog.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d7868f04ee76f903a76a38e43bdd0cb782be669c</link><description><![CDATA[<a href="https://www.uptimedog.com">https://www.uptimedog.com</a> - Free uptime monitoring service. Monitors availability of your website every 2 minutes 24/7/365.<br>
  ]]></description>
@@ -61,11 +65,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fba56c0d4693f4695da35845d82d378d2b62a38d</link><description><![CDATA[<a href="https://deploywithflags.com">https://deploywithflags.com</a> - Flags](https://deploywithflags.com) — Feature Flags Service. Free for individual developers managing flags for a single project.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/70301c0de87be4ccd0afd02b58dbec3ca4b62688</link><description><![CDATA[<a href="https://www.huaweicloud.com/intl/en-us/product/dns.html">https://www.huaweicloud.com/intl/en-us/product/dns.html</a> - Free DNS hosting by Huawei<br>
  ]]></description>
 </item>
 
