@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add cronitor.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d61fb83e11884455e050d4916de1cf1516645ef7</link><description><![CDATA[<a href="https://cronitor.io/">https://cronitor.io/</a> - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove gliffy.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a13404372c70eee6a3781d794b463a88ae97d8b0</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update draw.io to diagrams.net</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9981c645bcaa9a56355754f4d9de54812abcedc9</link><description><![CDATA[<a href="https://app.diagrams.net/">https://app.diagrams.net/</a> - Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels<br>
+ ]]></description>
+</item>
+<item>
 	<title>Revert "Add UptimeDog.com"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/77e65ebd118346926e6a10cba8445b4adf5d4164</link><description><![CDATA[ ]]></description>
 </item>
@@ -30,42 +44,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/14d958a8462ebbaf983d3fb1e3ccd27d5d26ea8a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Crucial Human Project</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2df04bfa3dd2f46f59dd0026e1d84d3259cc2b53</link><description><![CDATA[<a href="https://crucialhuman.com/products/project/">https://crucialhuman.com/products/project/</a> - Project](https://crucialhuman.com/products/project/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove QingCloud,</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9765b7a71a82e2c7be5b3d62b3b397e16ee20f98</link><description><![CDATA[<a href="https://aws.amazon.com/cloudfront/">https://aws.amazon.com/cloudfront/</a> - 1TB egress per month<br>
-<a href="https://aws.amazon.com/cloudwatch/">https://aws.amazon.com/cloudwatch/</a> - 10 custom metrics and 10 alarms<br>
-<a href="https://aws.amazon.com/codebuild/">https://aws.amazon.com/codebuild/</a> - 100min of build time per month<br>
-<a href="https://aws.amazon.com/codecommit/">https://aws.amazon.com/codecommit/</a> - 5 active users,50GB storage and 10000 request per month<br>
-<a href="https://aws.amazon.com/codepipeline/">https://aws.amazon.com/codepipeline/</a> - 1 active pipeline per month<br>
-<a href="https://aws.amazon.com/dynamodb/">https://aws.amazon.com/dynamodb/</a> - 25GB NoSQL DB<br>
-<a href="https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo">https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo</a> - 750 hours per month of t2.micro or t3.micro(12mo)<br>
-<a href="https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo">https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo</a> - 30GB per month of General Purpose (SSD) or Magnetic(12mo)<br>
-<a href="https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo">https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo</a> - Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)<br>
-<a href="https://aws.amazon.com/glacier">https://aws.amazon.com/glacier</a> - 10GB long-term object storage<br>
-<a href="https://aws.amazon.com/lambda/">https://aws.amazon.com/lambda/</a> - 1 million requests per month<br>
-<a href="https://aws.amazon.com/sns/">https://aws.amazon.com/sns/</a> - 1 million publishes per month<br>
-<a href="https://aws.amazon.com/ses/">https://aws.amazon.com/ses/</a> - 62.000 messages per month<br>
-<a href="https://aws.amazon.com/sqs/">https://aws.amazon.com/sqs/</a> - 1 million messaging queue requests<br>
-<a href="https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo">https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo</a> - - 1 B1S Linux VM, 1 B1S Windows VM (12mo)<br>
-<a href="https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo">https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo</a> - 15GB Inbound(12mo) & 5GB egress per month<br>
-<a href="https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo">https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo</a> - 5GB LRS File or Blob storage (12mo)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d692c1079d5613bd6cbe2c471362b1d75d8f456c</link><description><![CDATA[<a href="https://spacelift.io/">https://spacelift.io/</a> - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fba56c0d4693f4695da35845d82d378d2b62a38d</link><description><![CDATA[<a href="https://deploywithflags.com">https://deploywithflags.com</a> - Flags](https://deploywithflags.com) — Feature Flags Service. Free for individual developers managing flags for a single project.<br>
- ]]></description>
 </item>
 
 </channel>
