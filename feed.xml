@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add ##domain to the index</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d80deeffbf6fce567beabf936ce9c3cbd4cc9f23</link><description><![CDATA[<a href="#domain">#domain</a> - <br>
+ ]]></description>
+</item>
+<item>
+	<title>Delete Qovery and Create ##Domain</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0fcabcb2ad2a8a8754c65eb8e64ef1210176ebcb</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas and work done by 1100+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by remove ones whose offerings have changed or been retired.<br>
+<a href="https://freenom.com">https://freenom.com</a> - Free .tk,.ml,.ga,.cf and .gq domain.<br>
+<a href="https://nic.eu.org">https://nic.eu.org</a> - Free eu.org domain. Request is usually approved in 14 days.<br>
+<a href="https://js.org">https://js.org</a> - Free js.org subdomains for GitHub Pages for the JavaScript community.<br>
+<a href="https://nic.ua/">https://nic.ua/</a> - Free pp.ua subdomains.<br>
+<a href="https://thedev.id">https://thedev.id</a> - A free thedev.id subdomain for developers.<br>
+<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add cronitor.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d61fb83e11884455e050d4916de1cf1516645ef7</link><description><![CDATA[<a href="https://cronitor.io/">https://cronitor.io/</a> - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.<br>
  ]]></description>
@@ -40,10 +56,6 @@
 	<title>update Analytics / indicative</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b3a780f89701db7b0d9d943d9dec690dc9587db5</link><description><![CDATA[<a href="https://indicative.com/">https://indicative.com/</a> - Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 25M events/month, 6 months data retention.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/14d958a8462ebbaf983d3fb1e3ccd27d5d26ea8a</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
