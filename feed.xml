@@ -4,6 +4,13 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update rebranded product, added Stickies</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5d1fb5b469049315ab554fac60e78dc88c69dce9</link><description><![CDATA[<a href="https://stickies.app/">https://stickies.app/</a> - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, 1 GB storage.<br>
+<a href="https://www.shakebugs.com/">https://www.shakebugs.com/</a> - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.<br>
+<a href="https://superpm.app/">https://superpm.app/</a> - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add saturncloud.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ee925e253e997306406dc0f0ed8d32f841e8a9e7</link><description><![CDATA[<a href="https://saturncloud.io/">https://saturncloud.io/</a> - Data science cloud environment, that allows to run Jupyter notebooks and Dask clusters. 30 hours free computation and 3 hours of Dask per month.<br>
  ]]></description>
@@ -50,11 +57,6 @@
 <item>
 	<title>Loggly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3d0f54054931fc5f8413d8ece60b4110af825443</link><description><![CDATA[<a href="https://www.loggly.com/">https://www.loggly.com/</a> - Free for a single user, 200MB/day with 7 days retention<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aba3656262f74c5b18f3540082c36a1c21f5f234</link><description><![CDATA[<a href="https://fabform.io/">https://fabform.io/</a> - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email and others.<br>
  ]]></description>
 </item>
 
