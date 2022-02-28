@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add teleretro.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7b30c01e741021544e889b75cf67200eccdc2d07</link><description><![CDATA[<a href="https://www.teleretro.com/">https://www.teleretro.com/</a> - Simple and fun retrospective tool with icebreakers, gifs and emojis. Free plan includes 3 retros and unlimited members.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add ruttl.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/01d1a9684f717979e79941a895976134931ff1e3</link><description><![CDATA[<a href="https://ruttl.com/">https://ruttl.com/</a> - The best all-in-one feedback tool to collect digital feedback and review websites, PDF's and images.<br>
  ]]></description>
@@ -54,10 +59,6 @@
 	<title>Update draw.io to diagrams.net</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9981c645bcaa9a56355754f4d9de54812abcedc9</link><description><![CDATA[<a href="https://app.diagrams.net/">https://app.diagrams.net/</a> - Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels<br>
  ]]></description>
-</item>
-<item>
-	<title>Revert "Add UptimeDog.com"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/77e65ebd118346926e6a10cba8445b4adf5d4164</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
