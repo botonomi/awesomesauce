@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Uptime Monitor RoboMiri</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8825de54312e221b0333dda9250ac16016b50b40</link><description><![CDATA[<a href="https://robomiri.com/">https://robomiri.com/</a> - RoboMiri is a stable uptime monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add PHPSandbox</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/470167389ae8839418030e5b580780d8543054fa</link><description><![CDATA[<a href="https://phpsandbox.io/">https://phpsandbox.io/</a> - Online developement environment for PHP.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add teleretro.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7b30c01e741021544e889b75cf67200eccdc2d07</link><description><![CDATA[<a href="https://www.teleretro.com/">https://www.teleretro.com/</a> - Simple and fun retrospective tool with icebreakers, gifs and emojis. Free plan includes 3 retros and unlimited members.<br>
  ]]></description>
@@ -26,6 +36,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Add lecto.ai</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c0c885abf82e4ee4674d4e150c2144d538fd9b51</link><description><![CDATA[<a href="https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request">https://lecto.ai/) - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request</a> - Machine Translation API with Free tier (30 free requests, 1000 translated characters per request). Integrated with Loco Translate Wordpress plugin.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add saturncloud.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ee925e253e997306406dc0f0ed8d32f841e8a9e7</link><description><![CDATA[<a href="https://saturncloud.io/">https://saturncloud.io/</a> - Data science cloud environment, that allows to run Jupyter notebooks and Dask clusters. 30 hours free computation and 3 hours of Dask per month.<br>
  ]]></description>
@@ -44,20 +59,6 @@
 <a href="https://nic.ua/">https://nic.ua/</a> - Free pp.ua subdomains.<br>
 <a href="https://thedev.id">https://thedev.id</a> - A free thedev.id subdomain for developers.<br>
 <a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Add cronitor.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d61fb83e11884455e050d4916de1cf1516645ef7</link><description><![CDATA[<a href="https://cronitor.io/">https://cronitor.io/</a> - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove gliffy.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a13404372c70eee6a3781d794b463a88ae97d8b0</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update draw.io to diagrams.net</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9981c645bcaa9a56355754f4d9de54812abcedc9</link><description><![CDATA[<a href="https://app.diagrams.net/">https://app.diagrams.net/</a> - Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels<br>
  ]]></description>
 </item>
 
