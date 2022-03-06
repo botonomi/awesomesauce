@@ -4,6 +4,13 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Census</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ff41270f765a089573ae03eb2405c30f62de5497</link><description><![CDATA[<a href="https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration">https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration</a> - - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.<br>
+<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
+<a href="https://www.getcensus.com/">https://www.getcensus.com/</a> - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8986ca0958463b6cd5ce4a0f6f9ac5cb20fab0bc</link><description><![CDATA[<a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30MB redis instance<br>
  ]]></description>
@@ -48,11 +55,6 @@
 <item>
 	<title>Add saturncloud.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ee925e253e997306406dc0f0ed8d32f841e8a9e7</link><description><![CDATA[<a href="https://saturncloud.io/">https://saturncloud.io/</a> - Data science cloud environment, that allows to run Jupyter notebooks and Dask clusters. 30 hours free computation and 3 hours of Dask per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>add ##domain to the index</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d80deeffbf6fce567beabf936ce9c3cbd4cc9f23</link><description><![CDATA[<a href="#domain">#domain</a> - <br>
  ]]></description>
 </item>
 
