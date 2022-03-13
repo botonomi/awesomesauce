@@ -4,6 +4,31 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Add RemSupp"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9ff6d135e96daf57651fbe0f6b4c68e0b8a0e99a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/152a92b68be3d8ad2a882a2e6dd0d0a22afa77cd</link><description><![CDATA[<a href="https://is-a-good.dev">https://is-a-good.dev</a> - A free is-a-good-dev subdomain for developers.<br>
+<a href="https://github.com/Olivr/free-domain">https://github.com/Olivr/free-domain</a> - wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add RemSupp Co-browsing to "Other Free Resources"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d23cdba1cd9d3a1c7668f607c662328efc781197</link><description><![CDATA[<a href="https://remsupp.com) — Collaborative Browsing - real-time remote support for your web app users without any software download (2 sessions/day for free">https://remsupp.com) — Collaborative Browsing - real-time remote support for your web app users without any software download (2 sessions/day for free</a> - Collaborative Browsing - real-time remote support for your web app users without any software download (2 sessions/day for free).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add RemSupp.com to "Remote Desktop Tools"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/351114dd3139792a1c5a806608fa47edacefa0bd</link><description><![CDATA[<a href="https://remsupp.com) —  On-demand support and permanent access to devices  (2 sessions/day for free">https://remsupp.com) —  On-demand support and permanent access to devices  (2 sessions/day for free</a> - On-demand support and permanent access to devices (2 sessions/day for free)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Clerk.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6d23e417f1558db10a4ed850420871afbbfaeb77</link><description><![CDATA[<a href="https://clerk.dev/">https://clerk.dev/</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 500 monthly active users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d59db431295b74cc1589834f505b0c02db71e738</link><description><![CDATA[<a href="https://www.tabnine.com/">https://www.tabnine.com/</a> - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.<br>
  ]]></description>
@@ -246,26 +271,6 @@
 <item>
 	<title>fix typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8986ca0958463b6cd5ce4a0f6f9ac5cb20fab0bc</link><description><![CDATA[<a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30MB redis instance<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Uptime Monitor RoboMiri</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8825de54312e221b0333dda9250ac16016b50b40</link><description><![CDATA[<a href="https://robomiri.com/">https://robomiri.com/</a> - RoboMiri is a stable uptime monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.<br>
- ]]></description>
-</item>
-<item>
-	<title>add PHPSandbox</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/470167389ae8839418030e5b580780d8543054fa</link><description><![CDATA[<a href="https://phpsandbox.io/">https://phpsandbox.io/</a> - Online developement environment for PHP.<br>
- ]]></description>
-</item>
-<item>
-	<title>add teleretro.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7b30c01e741021544e889b75cf67200eccdc2d07</link><description><![CDATA[<a href="https://www.teleretro.com/">https://www.teleretro.com/</a> - Simple and fun retrospective tool with icebreakers, gifs and emojis. Free plan includes 3 retros and unlimited members.<br>
- ]]></description>
-</item>
-<item>
-	<title>add ruttl.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/01d1a9684f717979e79941a895976134931ff1e3</link><description><![CDATA[<a href="https://ruttl.com/">https://ruttl.com/</a> - The best all-in-one feedback tool to collect digital feedback and review websites, PDF's and images.<br>
  ]]></description>
 </item>
 
