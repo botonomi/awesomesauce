@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add RemSupp.com to "Remote Desktop Tools"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9aed11148f69fdff124dc48ff0367de2b7ea880a</link><description><![CDATA[<a href="https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free">https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free</a> - On-demand support and permanent access to devices (2 sessions/day for free)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Revert "Add RemSupp"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ff6d135e96daf57651fbe0f6b4c68e0b8a0e99a</link><description><![CDATA[ ]]></description>
 </item>
@@ -266,11 +271,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/ff41270f765a089573ae03eb2405c30f62de5497</link><description><![CDATA[<a href="https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration">https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration</a> - - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.<br>
 <a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
 <a href="https://www.getcensus.com/">https://www.getcensus.com/</a> - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8986ca0958463b6cd5ce4a0f6f9ac5cb20fab0bc</link><description><![CDATA[<a href="https://redislabs.com/try-free/">https://redislabs.com/try-free/</a> - Free 30MB redis instance<br>
  ]]></description>
 </item>
 
