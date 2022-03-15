@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update logz.io info</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/196f3fd62af56a3550e2b8c71e951d102d6e26c7</link><description><![CDATA[<a href="https://logz.io/">https://logz.io/</a> - Free up to 1 GB/day, 1 days retention<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add RemSupp.com to "Remote Desktop Tools"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9aed11148f69fdff124dc48ff0367de2b7ea880a</link><description><![CDATA[<a href="https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free">https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free</a> - On-demand support and permanent access to devices (2 sessions/day for free)<br>
  ]]></description>
@@ -264,13 +269,6 @@
 <item>
 	<title>Adding UseCSV by Layercode to free-for.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2696034272210d4d5ac09363bc00efeb22806ee7</link><description><![CDATA[<a href="https://layercode.com/usecsv">https://layercode.com/usecsv</a> - Layercode](https://layercode.com/usecsv) — Add CSV and Excel import to your web app in minutes. Give your users an enjoyable and robust data import experience. Get Started for Free without any credit card details, and start integrating UseCSV today. You can create unlimited Importers and upload files up to 100Mb.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Census</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ff41270f765a089573ae03eb2405c30f62de5497</link><description><![CDATA[<a href="https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration">https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration</a> - - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.<br>
-<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
-<a href="https://www.getcensus.com/">https://www.getcensus.com/</a> - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.<br>
  ]]></description>
 </item>
 
