@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove liteflow because there is no free package there</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3e27d87acfadd82bccd6a6d64be8a6359dbab8da</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update logz.io info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/196f3fd62af56a3550e2b8c71e951d102d6e26c7</link><description><![CDATA[<a href="https://logz.io/">https://logz.io/</a> - Free up to 1 GB/day, 1 days retention<br>
  ]]></description>
@@ -264,11 +268,6 @@
 <a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
 <a href="https://www.getcensus.com/">https://www.getcensus.com/</a> - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.<br>
 <a href="https://layercode.com/usecsv">https://layercode.com/usecsv</a> - Layercode](https://layercode.com/usecsv) — Add CSV and Excel import to your web app in minutes. Give your users an enjoyable and robust data import experience. Get Started for Free without any credit card details, and start integrating UseCSV today. You can create unlimited Importers and upload files up to 100Mb.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding UseCSV by Layercode to free-for.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2696034272210d4d5ac09363bc00efeb22806ee7</link><description><![CDATA[<a href="https://layercode.com/usecsv">https://layercode.com/usecsv</a> - Layercode](https://layercode.com/usecsv) — Add CSV and Excel import to your web app in minutes. Give your users an enjoyable and robust data import experience. Get Started for Free without any credit card details, and start integrating UseCSV today. You can create unlimited Importers and upload files up to 100Mb.<br>
  ]]></description>
 </item>
 
