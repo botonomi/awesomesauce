@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Translized to Translation Management</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c16fe2c3888704f4c2bea15d5c9f74259ef4d5ab</link><description><![CDATA[<a href="https://translized.com">https://translized.com</a> - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Pantry to "Storage and Media Processing"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2b0f865fcf084d22fd8fba0106aa517bd4268a8c</link><description><![CDATA[<a href="https://getpantry.cloud/">https://getpantry.cloud/</a> - A simple JSON data storage API that's perfect for personal projects, hackathons and mobile apps!<br>
  ]]></description>
@@ -45,16 +50,6 @@
 <item>
 	<title>Added Clerk.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6d23e417f1558db10a4ed850420871afbbfaeb77</link><description><![CDATA[<a href="https://clerk.dev/">https://clerk.dev/</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 500 monthly active users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d59db431295b74cc1589834f505b0c02db71e738</link><description><![CDATA[<a href="https://www.tabnine.com/">https://www.tabnine.com/</a> - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a6064b5f22fd96645c13988ed953e2aa8d4aee49</link><description><![CDATA[<a href="https://www.tabnine.com">https://www.tabnine.com</a> - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.<br>
  ]]></description>
 </item>
 
