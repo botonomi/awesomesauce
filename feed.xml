@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add https://observablehq.com/</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/133e07b1e261864e1fcf9a608ca854c5aa834b75</link><description><![CDATA[<a href="https://observablehq.com/">https://observablehq.com/</a> - a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Translized to Translation Management</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c16fe2c3888704f4c2bea15d5c9f74259ef4d5ab</link><description><![CDATA[<a href="https://translized.com">https://translized.com</a> - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add RemSupp.com to "Remote Desktop Tools"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/351114dd3139792a1c5a806608fa47edacefa0bd</link><description><![CDATA[<a href="https://remsupp.com) —  On-demand support and permanent access to devices  (2 sessions/day for free">https://remsupp.com) —  On-demand support and permanent access to devices  (2 sessions/day for free</a> - On-demand support and permanent access to devices (2 sessions/day for free)<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Clerk.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6d23e417f1558db10a4ed850420871afbbfaeb77</link><description><![CDATA[<a href="https://clerk.dev/">https://clerk.dev/</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 500 monthly active users.<br>
  ]]></description>
 </item>
 
