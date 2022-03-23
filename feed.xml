@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fbdcbc57d8085a121e55cc8b9db1602098873657</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d987c9e63c9935a6510a2ad59cf5a1e10dd608a3</link><description><![CDATA[<a href="https://js.cool">https://js.cool</a> - Free js.cool subdomain for developers.<br>
+<a href="https://runs-on.tech/">https://runs-on.tech/</a> - Free runs-on.tech subdomain.<br>
+<a href="https://www.is-a.dev/">https://www.is-a.dev/</a> - Free is-a.dev subdomain for developers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add https://observablehq.com/</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/133e07b1e261864e1fcf9a608ca854c5aa834b75</link><description><![CDATA[<a href="https://observablehq.com/">https://observablehq.com/</a> - a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.<br>
  ]]></description>
@@ -35,22 +46,6 @@
 <item>
 	<title>Revert "Add RemSupp"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ff6d135e96daf57651fbe0f6b4c68e0b8a0e99a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/152a92b68be3d8ad2a882a2e6dd0d0a22afa77cd</link><description><![CDATA[<a href="https://is-a-good.dev">https://is-a-good.dev</a> - A free is-a-good-dev subdomain for developers.<br>
-<a href="https://github.com/Olivr/free-domain">https://github.com/Olivr/free-domain</a> - wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add RemSupp Co-browsing to "Other Free Resources"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d23cdba1cd9d3a1c7668f607c662328efc781197</link><description><![CDATA[<a href="https://remsupp.com) — Collaborative Browsing - real-time remote support for your web app users without any software download (2 sessions/day for free">https://remsupp.com) — Collaborative Browsing - real-time remote support for your web app users without any software download (2 sessions/day for free</a> - Collaborative Browsing - real-time remote support for your web app users without any software download (2 sessions/day for free).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add RemSupp.com to "Remote Desktop Tools"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/351114dd3139792a1c5a806608fa47edacefa0bd</link><description><![CDATA[<a href="https://remsupp.com) —  On-demand support and permanent access to devices  (2 sessions/day for free">https://remsupp.com) —  On-demand support and permanent access to devices  (2 sessions/day for free</a> - On-demand support and permanent access to devices (2 sessions/day for free)<br>
- ]]></description>
 </item>
 
 </channel>
