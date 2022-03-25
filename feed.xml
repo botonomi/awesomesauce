@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Move geojs to the map section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c48651131fde9587e6182e1bb9b0bf90ff6cabfb</link><description><![CDATA[<a href="https://www.geojs.io/">https://www.geojs.io/</a> - Highly available REST/JSON/JSONP IP Geolocation lookup API.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add preset.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/31d8c418a38f0614da88f12b84563d7c1b7d4b15</link><description><![CDATA[<a href="https://preset.io/">https://preset.io/</a> - - A hosted Apache Superset service. Forever free for teams up to 5 users, featuring unlimited dashboards and charts, no-code chart builder and a collaborative SQL editor.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fbdcbc57d8085a121e55cc8b9db1602098873657</link><description><![CDATA[ ]]></description>
 </item>
@@ -42,10 +52,6 @@
 	<title>Add RemSupp.com to "Remote Desktop Tools"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9aed11148f69fdff124dc48ff0367de2b7ea880a</link><description><![CDATA[<a href="https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free">https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free</a> - On-demand support and permanent access to devices (2 sessions/day for free)<br>
  ]]></description>
-</item>
-<item>
-	<title>Revert "Add RemSupp"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9ff6d135e96daf57651fbe0f6b4c68e0b8a0e99a</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
