@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1cd11dea976f46cbe638115848fe9c9d64c0bdc1</link><description><![CDATA[<a href="https://tempmailers.com">https://tempmailers.com</a> - — Temporary, disposable, private domain, and free email system.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add file.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b8c0e7d4c3f6815bb231e1bc136b1795e4ac7e37</link><description><![CDATA[<a href="https://www.file.io">https://www.file.io</a> - 2 GB storage of files. A file is auto-deleted after 1 download. REST API to interact with the storage. Rate limit 1 request/minute.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Tolgee to Translation management section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/042c46d550d85a678ad5f87e31f2ae32342cea2f</link><description><![CDATA[<a href="https://tolgee.io">https://tolgee.io</a> - Free SaaS offering with limited translations, forever-free self hosted version<br>
  ]]></description>
@@ -43,15 +53,6 @@
 	<title>Add Translized to Translation Management</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c16fe2c3888704f4c2bea15d5c9f74259ef4d5ab</link><description><![CDATA[<a href="https://translized.com">https://translized.com</a> - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects<br>
  ]]></description>
-</item>
-<item>
-	<title>Add Pantry to "Storage and Media Processing"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2b0f865fcf084d22fd8fba0106aa517bd4268a8c</link><description><![CDATA[<a href="https://getpantry.cloud/">https://getpantry.cloud/</a> - A simple JSON data storage API that's perfect for personal projects, hackathons and mobile apps!<br>
- ]]></description>
-</item>
-<item>
-	<title>remove liteflow because there is no free package there</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3e27d87acfadd82bccd6a6d64be8a6359dbab8da</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
