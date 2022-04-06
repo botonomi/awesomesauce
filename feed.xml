@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update gitlab pricing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6c6d1d088b98abc577791168d30819a349bad83</link><description><![CDATA[<a href="https://about.gitlab.com/">https://about.gitlab.com/</a> - Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add weserv image cdn</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e6d650dcaf4a58f6f766def94b10aa59343c0130</link><description><![CDATA[<a href="https://images.weserv.nl/">https://images.weserv.nl/</a> - An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.<br>
  ]]></description>
@@ -47,11 +52,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/d987c9e63c9935a6510a2ad59cf5a1e10dd608a3</link><description><![CDATA[<a href="https://js.cool">https://js.cool</a> - Free js.cool subdomain for developers.<br>
 <a href="https://runs-on.tech/">https://runs-on.tech/</a> - Free runs-on.tech subdomain.<br>
 <a href="https://www.is-a.dev/">https://www.is-a.dev/</a> - Free is-a.dev subdomain for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add https://observablehq.com/</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/133e07b1e261864e1fcf9a608ca854c5aa834b75</link><description><![CDATA[<a href="https://observablehq.com/">https://observablehq.com/</a> - a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.<br>
  ]]></description>
 </item>
 
