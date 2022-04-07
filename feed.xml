@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update the free plan for Cypress Recorder</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8288470dcf88ece89a0d1787f32f76dd0fadf483</link><description><![CDATA[<a href="https://cypress.preflight.com/">https://cypress.preflight.com/</a> - by Preflight](https://cypress.preflight.com/) - Create AI-powered Cypress Tests/POM models on your browser. It's open-source except for the AI part. It's free for 5 test creations each month with Self-healing scripts, Email, and Visual testing.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Cypress Recorder</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/05c46970eebdcd1c86b2d0a265af7bc118531a3d</link><description><![CDATA[<a href="https://cypress.preflight.com/">https://cypress.preflight.com/</a> - by Preflight](https://cypress.preflight.com/) - Create AI-powered Cypress Tests/POM models on your browser. It's open-source except for the AI part. It's free for up to 50 test creations with Self-healing scripts, Email, and Visual testing.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Preflight.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eeafb0c7c0f7b0bafababc7744b2cb2024dd710d</link><description><![CDATA[<a href="https://preflight.com">https://preflight.com</a> - No-code automated web testing. Record tests on your browser that are resilient to UI changes and run them on Windows machines. Integrate with your CI/CD. The free plan includes 50 test runs per month with video, HTML sessions and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update gitlab pricing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c6c6d1d088b98abc577791168d30819a349bad83</link><description><![CDATA[<a href="https://about.gitlab.com/">https://about.gitlab.com/</a> - Unlimited public and private Git repos with up to 5 collaborators. Also offers the following features :<br>
  ]]></description>
@@ -36,22 +51,6 @@
 <item>
 	<title>Move geojs to the map section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c48651131fde9587e6182e1bb9b0bf90ff6cabfb</link><description><![CDATA[<a href="https://www.geojs.io/">https://www.geojs.io/</a> - Highly available REST/JSON/JSONP IP Geolocation lookup API.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add preset.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/31d8c418a38f0614da88f12b84563d7c1b7d4b15</link><description><![CDATA[<a href="https://preset.io/">https://preset.io/</a> - - A hosted Apache Superset service. Forever free for teams up to 5 users, featuring unlimited dashboards and charts, no-code chart builder and a collaborative SQL editor.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fbdcbc57d8085a121e55cc8b9db1602098873657</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d987c9e63c9935a6510a2ad59cf5a1e10dd608a3</link><description><![CDATA[<a href="https://js.cool">https://js.cool</a> - Free js.cool subdomain for developers.<br>
-<a href="https://runs-on.tech/">https://runs-on.tech/</a> - Free runs-on.tech subdomain.<br>
-<a href="https://www.is-a.dev/">https://www.is-a.dev/</a> - Free is-a.dev subdomain for developers.<br>
  ]]></description>
 </item>
 
