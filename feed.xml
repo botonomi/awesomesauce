@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/38f47e3540cbacc9486d4dabcc0262b77a33c80c</link><description><![CDATA[<a href="https://github.com/willin/js.cool">https://github.com/willin/js.cool</a> - Free js.cool subdomains for GitHub Pages and Vercel.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add domain js.cool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6e4c49d2389f829deb7ab49ebadc39893fb9715</link><description><![CDATA[<a href="https://github.com/willin/js-cool">https://github.com/willin/js-cool</a> - Free js.cool subdomains for GitHub Pages and Vercel.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Orchest</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/846abc8647ff06bf14d3e643c01b89ea21b33064</link><description><![CDATA[<a href="https://orchest.io">https://orchest.io</a> - Visual pipeline editor and workflow orchestrator for data science, 1 instance for free, open source version available.<br>
  ]]></description>
@@ -699,16 +709,6 @@
 <item>
 	<title>Fix alphabetic order</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/127145e9914863257c87bf690ab79f34a6d742cd</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Pulumi</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/989d646c69e0efb2c4cdd83ac50474499026af35</link><description><![CDATA[<a href="https://www.pulumi.com/">https://www.pulumi.com/</a> - Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add swetrix.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec8a81f12633553f2b21ae07514c6a66c9f38a47</link><description><![CDATA[<a href="https://swetrix.com/">https://swetrix.com/</a> - — Privacy-focused web analytics. Free plan includes up to 5000 events per month.<br>
  ]]></description>
 </item>
 
