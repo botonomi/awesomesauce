@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove seeder</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0605a3cd813840e2e58d4ae59505e70f6d9da2ed</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/38f47e3540cbacc9486d4dabcc0262b77a33c80c</link><description><![CDATA[<a href="https://github.com/willin/js.cool">https://github.com/willin/js.cool</a> - Free js.cool subdomains for GitHub Pages and Vercel.<br>
  ]]></description>
@@ -704,11 +708,6 @@
 <item>
 	<title>Added Teamhood to collaboration category</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/83b6cb143b74b90def0b3fab49a6af90e97f7695</link><description><![CDATA[<a href="https://teamhood.com/">https://teamhood.com/</a> - Free Project, Task and Issue tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix alphabetic order</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/127145e9914863257c87bf690ab79f34a6d742cd</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.<br>
  ]]></description>
 </item>
 
