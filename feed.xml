@@ -4,8 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Specify Gather free tier limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e764cca59c6de8ec67a3724211ca066c01ade36c</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove seeder</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0605a3cd813840e2e58d4ae59505e70f6d9da2ed</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add Gather</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e3d415b54512c018754969506a4d48b4f599612d</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Update README.md</title>
@@ -698,11 +708,6 @@
 <item>
 	<title>Add Uptrace</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7dad250fd6fe38f1ce7865f36298ce5bbd7f584</link><description><![CDATA[<a href="https://uptrace.dev">https://uptrace.dev</a> - Distributed Tracing Tool that helps developers pinpoint failures and find performance bottlenecks. Has a free plan, offers a free Personal subscription for open source projects, and has an open source version.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added clarification for free version limitations</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5a453962c28af3998abc48adda7c35769daab2dd</link><description><![CDATA[<a href="https://teamhood.com/">https://teamhood.com/</a> - Free Project, Task and Issue tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for 5 users and 3 project portfolios.<br>
  ]]></description>
 </item>
 
