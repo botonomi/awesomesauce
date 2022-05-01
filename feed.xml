@@ -41,13 +41,14 @@
  ]]></description>
 </item>
 <item>
-	<title>Specify Gather free tier limit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e764cca59c6de8ec67a3724211ca066c01ade36c</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.<br>
+	<title>Added Livecycle to list of collaboration tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/33dbc9f489c074619eaf1702eb88aa27682fb40c</link><description><![CDATA[<a href="https://www.livecycle.io/">https://www.livecycle.io/</a> - Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open source projects.<br>
  ]]></description>
 </item>
 <item>
-	<title>remove seeder</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0605a3cd813840e2e58d4ae59505e70f6d9da2ed</link><description><![CDATA[ ]]></description>
+	<title>Specify Gather free tier limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e764cca59c6de8ec67a3724211ca066c01ade36c</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.<br>
+ ]]></description>
 </item>
 
 </channel>
