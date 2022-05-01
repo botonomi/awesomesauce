@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove 24browser.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3df4786848c974bbeec057874854fd3ae7645cb6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add selectstar.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/656d578749eb96c425cb3b51ddcb295cfa95a8c8</link><description><![CDATA[<a href="https://www.selectstar.com/">https://www.selectstar.com/</a> - - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and up to 10 Users.<br>
  ]]></description>
@@ -44,11 +48,6 @@
 <item>
 	<title>remove seeder</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0605a3cd813840e2e58d4ae59505e70f6d9da2ed</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Gather</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e3d415b54512c018754969506a4d48b4f599612d</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life.<br>
- ]]></description>
 </item>
 
 </channel>
