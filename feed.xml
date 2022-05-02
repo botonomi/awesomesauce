@@ -4,6 +4,37 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f8f8e2b91af8d7567e0ed6692c41aba81acf691</link><description><![CDATA[<a href="https://supportivekoala.com/">https://supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
+<a href="http://inumbo.com/">http://inumbo.com/</a> - SMTP based spam filter, free for 10 users<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove jare.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4ec0d687deffc28af3e16113bc341be67b9ac916</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>use https for links</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42f34d7cec926a1f2fb6c89eedbdbffecd1c1fe1</link><description><![CDATA[<a href="https://chiselapp.com/">https://chiselapp.com/</a> - Unlimited public and private Fossil repositories<br>
+<a href="https//supportivekoala.com/">https//supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
+<a href="https://wolfram.com/language/">https://wolfram.com/language/</a> - Built-in knowledge-based algorithms in the cloud.<br>
+<a href="https://eva.pingutil.com/">https://eva.pingutil.com/</a> - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.<br>
+<a href="https://inumbo.com/">https://inumbo.com/</a> - SMTP based spam filter, free for 10 users<br>
+<a href="https://mailmenot.io">https://mailmenot.io</a> - Free disposable temporary email service with ability to add multiple email addresses<br>
+<a href="https://www.yopmail.fr/en/">https://www.yopmail.fr/en/</a> - Disposable email addresses<br>
+<a href="https://freehostingnoads.net/">https://freehostingnoads.net/</a> - — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.<br>
+<a href="https://cloud.yugabyte.com">https://cloud.yugabyte.com</a> - YugabyteDB is a distributed SQL database compatible with PostgresSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.<br>
+<a href="https://jsonplaceholder.typicode.com/">https://jsonplaceholder.typicode.com/</a> - REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.<br>
+<a href="https://s-macke.github.io/jor1k/demos/main.html">https://s-macke.github.io/jor1k/demos/main.html</a> - a OpenRISC virtual machine capable of running Linux with network support.<br>
+ ]]></description>
+</item>
+<item>
+	<title>free api and cms added 🔥</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6b1af5c573a965e74a1ec006da73674b29155a4</link><description><![CDATA[<a href="https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!">https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!</a> - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.<br>
+<a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a> - is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove 24browser.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3df4786848c974bbeec057874854fd3ae7645cb6</link><description><![CDATA[ ]]></description>
 </item>
@@ -29,26 +60,6 @@
 <item>
 	<title>Remove inactive web continuousphp.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6ad0099fd30d4055a0384ce51c488175d0523491</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add MailerSend</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/842037e9fa099f9c636ea6e644ad0886b28e6e4f</link><description><![CDATA[<a href="https://www.mailersend.com">https://www.mailersend.com</a> - Email API, SMTP, 12,000 emails/month free for transacational emails<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c16f18d1d1b6919de910aa3d180472bd348fca47</link><description><![CDATA[<a href="https://emaillabs.io/en">https://emaillabs.io/en</a> - Send up to 24 000 Email for free every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Livecycle to list of collaboration tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/33dbc9f489c074619eaf1702eb88aa27682fb40c</link><description><![CDATA[<a href="https://www.livecycle.io/">https://www.livecycle.io/</a> - Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Specify Gather free tier limit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e764cca59c6de8ec67a3724211ca066c01ade36c</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.<br>
- ]]></description>
 </item>
 
 </channel>
