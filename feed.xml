@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Befonts</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ccab45c09c32409c6e08d2b90da68d5e41ca1607</link><description><![CDATA[<a href="https://befonts.com/">https://befonts.com/</a> - Provides several unqiue fonts for personal or commercial use.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f8f8e2b91af8d7567e0ed6692c41aba81acf691</link><description><![CDATA[<a href="https://supportivekoala.com/">https://supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
 <a href="http://inumbo.com/">http://inumbo.com/</a> - SMTP based spam filter, free for 10 users<br>
@@ -56,10 +61,6 @@
 	<title>Add Cloudflare to the email section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eed5e052d43b919929ae135e2194069dbc337dd6</link><description><![CDATA[<a href="https://cloudflare.com/">https://cloudflare.com/</a> - Free email forwarding.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove inactive web continuousphp.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6ad0099fd30d4055a0384ce51c488175d0523491</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
