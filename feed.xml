@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update papertrail plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fa57449bfc3ac86cc576ff28b08a6a121fccb1ef</link><description><![CDATA[<a href="https://papertrailapp.com/">https://papertrailapp.com/</a> - 48 hours search, 7 days archive, 50 MB/month<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add cogram.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c2d00d406507d7e506384fd4c774d4e44fa9023</link><description><![CDATA[<a href="https://www.cogram.com/old-home">https://www.cogram.com/old-home</a> - Cogram uses artificial intelligence to give you code suggestions in Jupyter Notebook. 1,000 code generations/month for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add hex.tech</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3a9bc645dbcdd197e2042f6626c88f5016ebdb6f</link><description><![CDATA[<a href="https://hex.tech/">https://hex.tech/</a> - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Befonts</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ccab45c09c32409c6e08d2b90da68d5e41ca1607</link><description><![CDATA[<a href="https://befonts.com/">https://befonts.com/</a> - Provides several unqiue fonts for personal or commercial use.<br>
  ]]></description>
@@ -42,25 +57,6 @@
 <item>
 	<title>Remove 24browser.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3df4786848c974bbeec057874854fd3ae7645cb6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add selectstar.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/656d578749eb96c425cb3b51ddcb295cfa95a8c8</link><description><![CDATA[<a href="https://www.selectstar.com/">https://www.selectstar.com/</a> - - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and up to 10 Users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e6eeca98ba66b8ea6d7c39f5335711fed71e05ba</link><description><![CDATA[<a href="https://www.mailersend.com">https://www.mailersend.com</a> - Email API, SMTP, 12,000 emails/month free for transactional emails<br>
- ]]></description>
-</item>
-<item>
-	<title>Append email forwarding to Cloudflare</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/740357a1409fc9ced06aba9e14b3759a4711c6a0</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Cloudflare to the email section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eed5e052d43b919929ae135e2194069dbc337dd6</link><description><![CDATA[<a href="https://cloudflare.com/">https://cloudflare.com/</a> - Free email forwarding.<br>
- ]]></description>
 </item>
 
 </channel>
