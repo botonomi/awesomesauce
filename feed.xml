@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Argonaut under PaaS category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2bb30c4994d325e7a1ccdd2e4fbac8750c33254f</link><description><![CDATA[<a href="https://argonaut.dev/">https://argonaut.dev/</a> - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update papertrail plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fa57449bfc3ac86cc576ff28b08a6a121fccb1ef</link><description><![CDATA[<a href="https://papertrailapp.com/">https://papertrailapp.com/</a> - 48 hours search, 7 days archive, 50 MB/month<br>
  ]]></description>
