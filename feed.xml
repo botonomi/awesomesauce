@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added haikei.app</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/100bde66a51340690a533f2524bcfc4988d7d06b</link><description><![CDATA[<a href="https://www.haikei.app/">https://www.haikei.app/</a> - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Fleek</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec80b4807926058fea8804c95aee29ba3ac53449</link><description><![CDATA[<a href="https://fleek.co/">https://fleek.co/</a> - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Argonaut under PaaS category</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2bb30c4994d325e7a1ccdd2e4fbac8750c33254f</link><description><![CDATA[<a href="https://argonaut.dev/">https://argonaut.dev/</a> - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.<br>
  ]]></description>
@@ -52,16 +62,6 @@
 <a href="https://jsonplaceholder.typicode.com/">https://jsonplaceholder.typicode.com/</a> - REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.<br>
 <a href="https://s-macke.github.io/jor1k/demos/main.html">https://s-macke.github.io/jor1k/demos/main.html</a> - a OpenRISC virtual machine capable of running Linux with network support.<br>
  ]]></description>
-</item>
-<item>
-	<title>free api and cms added 🔥</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c6b1af5c573a965e74a1ec006da73674b29155a4</link><description><![CDATA[<a href="https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!">https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!</a> - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.<br>
-<a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a> - is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove 24browser.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3df4786848c974bbeec057874854fd3ae7645cb6</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
