@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Flatirons Fuse</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/92c897e283c321ffc52f1bc709c7706227278988</link><description><![CDATA[<a href="https://flatironsdevelopment.com/products/fuse/">https://flatironsdevelopment.com/products/fuse/</a> - - An embeddable CSV and spreadsheet import tool that makes importing data to your website fast, easy, and painless.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added haikei.app</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/100bde66a51340690a533f2524bcfc4988d7d06b</link><description><![CDATA[<a href="https://www.haikei.app/">https://www.haikei.app/</a> - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.<br>
  ]]></description>
@@ -47,21 +52,6 @@
 <item>
 	<title>Remove jare.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4ec0d687deffc28af3e16113bc341be67b9ac916</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>use https for links</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/42f34d7cec926a1f2fb6c89eedbdbffecd1c1fe1</link><description><![CDATA[<a href="https://chiselapp.com/">https://chiselapp.com/</a> - Unlimited public and private Fossil repositories<br>
-<a href="https//supportivekoala.com/">https//supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
-<a href="https://wolfram.com/language/">https://wolfram.com/language/</a> - Built-in knowledge-based algorithms in the cloud.<br>
-<a href="https://eva.pingutil.com/">https://eva.pingutil.com/</a> - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.<br>
-<a href="https://inumbo.com/">https://inumbo.com/</a> - SMTP based spam filter, free for 10 users<br>
-<a href="https://mailmenot.io">https://mailmenot.io</a> - Free disposable temporary email service with ability to add multiple email addresses<br>
-<a href="https://www.yopmail.fr/en/">https://www.yopmail.fr/en/</a> - Disposable email addresses<br>
-<a href="https://freehostingnoads.net/">https://freehostingnoads.net/</a> - — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.<br>
-<a href="https://cloud.yugabyte.com">https://cloud.yugabyte.com</a> - YugabyteDB is a distributed SQL database compatible with PostgresSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.<br>
-<a href="https://jsonplaceholder.typicode.com/">https://jsonplaceholder.typicode.com/</a> - REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.<br>
-<a href="https://s-macke.github.io/jor1k/demos/main.html">https://s-macke.github.io/jor1k/demos/main.html</a> - a OpenRISC virtual machine capable of running Linux with network support.<br>
- ]]></description>
 </item>
 
 </channel>
