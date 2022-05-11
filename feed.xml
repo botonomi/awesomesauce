@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>code.cs50</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6fc07ab2f951654a2120be4799479f416ecb31c7</link><description><![CDATA[<a href="https://code.cs50.io/">https://code.cs50.io/</a> - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Flatirons Fuse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/92c897e283c321ffc52f1bc709c7706227278988</link><description><![CDATA[<a href="https://flatironsdevelopment.com/products/fuse/">https://flatironsdevelopment.com/products/fuse/</a> - - An embeddable CSV and spreadsheet import tool that makes importing data to your website fast, easy, and painless.<br>
  ]]></description>
@@ -48,10 +53,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f8f8e2b91af8d7567e0ed6692c41aba81acf691</link><description><![CDATA[<a href="https://supportivekoala.com/">https://supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
 <a href="http://inumbo.com/">http://inumbo.com/</a> - SMTP based spam filter, free for 10 users<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove jare.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4ec0d687deffc28af3e16113bc341be67b9ac916</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
