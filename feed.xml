@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add IP2Location.io to APIs, Data and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/29228882b8445e7d3a759e2ebae8ab164f445135</link><description><![CDATA[<a href="https://www.ip2location.io/">https://www.ip2location.io/</a> - Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP and so on. Free plan is available with 30k credits per month. Subscribe paid plans for more advanced features or contact us for a personalized plan.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Buttons generator added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/12fd33526eb54e2d74d9a9e28328363487f91ad6</link><description><![CDATA[<a href="https://markodenic.com/tools/buttons-generator/">https://markodenic.com/tools/buttons-generator/</a> - — 100+ buttons you can use in your project.<br>
+ ]]></description>
+</item>
+<item>
 	<title>code.cs50</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6fc07ab2f951654a2120be4799479f416ecb31c7</link><description><![CDATA[<a href="https://code.cs50.io/">https://code.cs50.io/</a> - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.<br>
  ]]></description>
@@ -41,17 +51,6 @@
 <item>
 	<title>Add hex.tech</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3a9bc645dbcdd197e2042f6626c88f5016ebdb6f</link><description><![CDATA[<a href="https://hex.tech/">https://hex.tech/</a> - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Befonts</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ccab45c09c32409c6e08d2b90da68d5e41ca1607</link><description><![CDATA[<a href="https://befonts.com/">https://befonts.com/</a> - Provides several unqiue fonts for personal or commercial use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6f8f8e2b91af8d7567e0ed6692c41aba81acf691</link><description><![CDATA[<a href="https://supportivekoala.com/">https://supportivekoala.com/</a> - Allows you to autogenerate images by your input via templates. Free plan allows you to create up to 100 images per week.<br>
-<a href="http://inumbo.com/">http://inumbo.com/</a> - SMTP based spam filter, free for 10 users<br>
  ]]></description>
 </item>
 
