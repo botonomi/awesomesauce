@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added fontofweb.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5c93bcb62c52f4a60db9c237c8e178b526c73aee</link><description><![CDATA[<a href="https://fontofweb.com/">https://fontofweb.com/</a> - web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add IP2Location.io to APIs, Data and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/29228882b8445e7d3a759e2ebae8ab164f445135</link><description><![CDATA[<a href="https://www.ip2location.io/">https://www.ip2location.io/</a> - Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP and so on. Free plan is available with 30k credits per month. Subscribe paid plans for more advanced features or contact us for a personalized plan.<br>
  ]]></description>
@@ -41,16 +46,6 @@
 <item>
 	<title>Update papertrail plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fa57449bfc3ac86cc576ff28b08a6a121fccb1ef</link><description><![CDATA[<a href="https://papertrailapp.com/">https://papertrailapp.com/</a> - 48 hours search, 7 days archive, 50 MB/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Add cogram.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c2d00d406507d7e506384fd4c774d4e44fa9023</link><description><![CDATA[<a href="https://www.cogram.com/old-home">https://www.cogram.com/old-home</a> - Cogram uses artificial intelligence to give you code suggestions in Jupyter Notebook. 1,000 code generations/month for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add hex.tech</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3a9bc645dbcdd197e2042f6626c88f5016ebdb6f</link><description><![CDATA[<a href="https://hex.tech/">https://hex.tech/</a> - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.<br>
  ]]></description>
 </item>
 
