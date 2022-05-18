@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Geekflare API description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/45404014349727ae4110661db7623bc881adacfb</link><description><![CDATA[<a href="https://geekflare.com/api">https://geekflare.com/api</a> - - Geekflare API let you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and a lot more. The free plan offers 3000 API requests.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Geekflare API under APIs, Data and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00dcaf35781ddf32ef970aba21c219ac5f9ed697</link><description><![CDATA[<a href="https://geekflare.com/api">https://geekflare.com/api</a> - - Geekflare API let you take screenshot, audit website, TLS scan, DNS lookup, test TTFB and a lot more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removing NSFW rest</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d45735891a17e18708f64bdf3625e0388dfc3ddc</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,16 +56,6 @@
 <item>
 	<title>Add Flatirons Fuse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/92c897e283c321ffc52f1bc709c7706227278988</link><description><![CDATA[<a href="https://flatironsdevelopment.com/products/fuse/">https://flatironsdevelopment.com/products/fuse/</a> - - An embeddable CSV and spreadsheet import tool that makes importing data to your website fast, easy, and painless.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added haikei.app</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/100bde66a51340690a533f2524bcfc4988d7d06b</link><description><![CDATA[<a href="https://www.haikei.app/">https://www.haikei.app/</a> - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Fleek</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec80b4807926058fea8804c95aee29ba3ac53449</link><description><![CDATA[<a href="https://fleek.co/">https://fleek.co/</a> - Build modern sites and apps on the Open Web and its protocols seamlessly free for, unlimited websites and 50 GB/month bandwidth.<br>
  ]]></description>
 </item>
 
