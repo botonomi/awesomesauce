@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>space added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5d35552ce1b845abde1b024fa24c98a3695f073c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>added flutter flow</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0bec4ca2f2d8b0b0b1c599302cb0135e673cef7d</link><description><![CDATA[<a href="#flutter-related-and-building-ios-apps-without-mac">#flutter-related-and-building-ios-apps-without-mac</a> - and Building IOS Apps without Mac](#flutter-related-and-building-ios-apps-without-mac)<br>
+<a href="https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac">https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac</a> - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.<br>
+<a href="https://codemagic.io/">https://codemagic.io/</a> - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool. Free tier offers 500 free minutes/month, and Mac Mini instance with 2.3Ghz and 8gb of RAM.<br>
+<a href="https://flutterflow.io/">https://flutterflow.io/</a> - FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.<br>
+<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
+	<title>Flutter & Free Ios building without mac added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6f527796e533876f3cd380b53128dafeb8ccad4</link><description><![CDATA[<a href="#flutter">#flutter</a> - Building IOS without Mac](#flutter)<br>
+<a href="https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac">https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac</a> - is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.<br>
+<a href="https://codemagic.io/">https://codemagic.io/</a> - is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove 404 link for site selectel</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9dffdec0269b17184cab4a9ebe6c5b96ace0f07e</link><description><![CDATA[ ]]></description>
 </item>
@@ -56,15 +76,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/e5a848f40cf6a1395e28ec096d39a2e7a482e046</link><description><![CDATA[<a href="https://file.coffee/) - An platform where you can store up to 15MB/file (30/MB file with an account">https://file.coffee/) - An platform where you can store up to 15MB/file (30/MB file with an account</a> - An platform where you can store up to 15MB/file (30/MB file with an account).<br>
 <a href="https://nsfw.rest">https://nsfw.rest</a> - Free API to scan images for NSFW content and files for malware. 100 request per second.<br>
 <a href="https://unscan.co">https://unscan.co</a> - Free API to scan images for NSFW and files for malware. 100 requests per second.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove amixr.io as its migrated to grafana oncall</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/90a0ca3618fbf2aaf7bf71dc1eb9307b960f473c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added fontofweb.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5c93bcb62c52f4a60db9c237c8e178b526c73aee</link><description><![CDATA[<a href="https://fontofweb.com/">https://fontofweb.com/</a> - web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.<br>
  ]]></description>
 </item>
 
