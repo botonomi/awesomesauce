@@ -4,6 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added link in the top section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8a68398f80c1c2116a4844e840c49a193939bf9b</link><description><![CDATA[<a href="#game-development">#game-development</a> - <br>
+ ]]></description>
+</item>
+<item>
+	<title>Added back to top button</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/02f052092fc3990269ae3f9495b93a80757c6ade</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Resources for Game Development</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fa7baf61bcb3cd430ac387dc4a2b91c5918db18e</link><description><![CDATA[<a href="https://itch.io/game-assets">https://itch.io/game-assets</a> - Free/Paid assets like sprites, tile sets, character packs, ...<br>
+<a href="https://gamedevmarket.net">https://gamedevmarket.net</a> - Free/Paid assets like 2D, 3D, Audio, GUI.<br>
+<a href="https://opengameart.org">https://opengameart.org</a> - OpenSource Game Assets like music, sounds, sprites, gifs, ...<br>
+<a href="https://craftpix.net">https://craftpix.net</a> - Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.<br>
+<a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for you games<br>
+<a href="https://www.artstation.com/">https://www.artstation.com/</a> - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.<br>
+<a href="https://rive.app/community/">https://rive.app/community/</a> - Community assets as well as create your own game assets using its free plan.<br>
+ ]]></description>
+</item>
+<item>
 	<title>space added</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5d35552ce1b845abde1b024fa24c98a3695f073c</link><description><![CDATA[ ]]></description>
 </item>
@@ -60,22 +81,6 @@
 <item>
 	<title>Add Geekflare API under APIs, Data and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/00dcaf35781ddf32ef970aba21c219ac5f9ed697</link><description><![CDATA[<a href="https://geekflare.com/api">https://geekflare.com/api</a> - - Geekflare API let you take screenshot, audit website, TLS scan, DNS lookup, test TTFB and a lot more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removing NSFW rest</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d45735891a17e18708f64bdf3625e0388dfc3ddc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ba13b6be9314ca95e1fa6a6b30cb170703bf89f2</link><description><![CDATA[<a href="https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account">https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account</a> - A platform where you can store up to 15MB/file (30/MB file with an account).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e5a848f40cf6a1395e28ec096d39a2e7a482e046</link><description><![CDATA[<a href="https://file.coffee/) - An platform where you can store up to 15MB/file (30/MB file with an account">https://file.coffee/) - An platform where you can store up to 15MB/file (30/MB file with an account</a> - An platform where you can store up to 15MB/file (30/MB file with an account).<br>
-<a href="https://nsfw.rest">https://nsfw.rest</a> - Free API to scan images for NSFW content and files for malware. 100 request per second.<br>
-<a href="https://unscan.co">https://unscan.co</a> - Free API to scan images for NSFW and files for malware. 100 requests per second.<br>
  ]]></description>
 </item>
 
