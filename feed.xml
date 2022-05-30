@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Azure Free web app daily limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a11d984c5270991aad23d11c64906cc8a08982c8</link><description><![CDATA[<a href="https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day">https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day</a> - - 10 web, mobile or API apps (60 CPU minutes / day)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added link in the top section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8a68398f80c1c2116a4844e840c49a193939bf9b</link><description><![CDATA[<a href="#game-development">#game-development</a> - <br>
  ]]></description>
@@ -71,16 +76,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c0bfa925e93b9ad3b9e5fdede062235f37835cac</link><description><![CDATA[<a href="https://dnsexit.com/">https://dnsexit.com/</a> - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Geekflare API description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/45404014349727ae4110661db7623bc881adacfb</link><description><![CDATA[<a href="https://geekflare.com/api">https://geekflare.com/api</a> - - Geekflare API let you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and a lot more. The free plan offers 3000 API requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Geekflare API under APIs, Data and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/00dcaf35781ddf32ef970aba21c219ac5f9ed697</link><description><![CDATA[<a href="https://geekflare.com/api">https://geekflare.com/api</a> - - Geekflare API let you take screenshot, audit website, TLS scan, DNS lookup, test TTFB and a lot more.<br>
  ]]></description>
 </item>
 
