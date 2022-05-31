@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Frontend Zero to One https://www.fezto.xyz/</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bdbb83509c99ee42d0eef3ac95d3aecb14c1afc4</link><description><![CDATA[<a href="https://www.fezto.xyz/">https://www.fezto.xyz/</a> - to One](https://www.fezto.xyz/) — Launch an app immediately from your OpenAPI or Swagger spec, see how partners experience your API. Free. Paid tier for customizations and code.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Azure Free web app daily limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a11d984c5270991aad23d11c64906cc8a08982c8</link><description><![CDATA[<a href="https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day">https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps (60 CPU minutes / day</a> - - 10 web, mobile or API apps (60 CPU minutes / day)<br>
  ]]></description>
@@ -71,11 +76,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/17bd56f7e7dea3b58a2772eca737cc393536a953</link><description><![CDATA[<a href="https://www.limelight.com/">https://www.limelight.com/</a> - Deploy fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.<br>
 <a href="https://mogenius.com/">https://mogenius.com/</a> - Deploy from git repository with Dockerfile. 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c0bfa925e93b9ad3b9e5fdede062235f37835cac</link><description><![CDATA[<a href="https://dnsexit.com/">https://dnsexit.com/</a> - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.<br>
  ]]></description>
 </item>
 
