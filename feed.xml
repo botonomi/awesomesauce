@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Tebi</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ab46655dcb43fa9e777477f91667583875592d60</link><description><![CDATA[<a href="https://tebi.io/">https://tebi.io/</a> - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated as per comment</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/85c7f573e9d33c724fbd71e97be28850096a48b6</link><description><![CDATA[<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
  ]]></description>
@@ -68,11 +73,6 @@
 <item>
 	<title>Remove 404 link for site selectel</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9dffdec0269b17184cab4a9ebe6c5b96ace0f07e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Styra DAS Free</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/494e3d101b097cee112250db7d0bb20b44ca9f91</link><description><![CDATA[<a href="https://signup.styra.com/) — Styra DAS Free, Full lifecycle policy management to create, deploy and manage Open Policy Agent(OPA">https://signup.styra.com/) — Styra DAS Free, Full lifecycle policy management to create, deploy and manage Open Policy Agent(OPA</a> - Styra DAS Free, Full lifecycle policy management to create, deploy and manage Open Policy Agent(OPA) authorization<br>
- ]]></description>
 </item>
 
 </channel>
