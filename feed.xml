@@ -4,8 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated as per comment</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/85c7f573e9d33c724fbd71e97be28850096a48b6</link><description><![CDATA[<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Frontend Zero to One https://www.fezto.xyz/</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bdbb83509c99ee42d0eef3ac95d3aecb14c1afc4</link><description><![CDATA[<a href="https://www.fezto.xyz/">https://www.fezto.xyz/</a> - to One](https://www.fezto.xyz/) — Launch an app immediately from your OpenAPI or Swagger spec, see how partners experience your API. Free. Paid tier for customizations and code.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding Seclookup free security scanner</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cf39caa682bb7a20470d241a8e4addf875cb8f71</link><description><![CDATA[<a href="https://www.abstractapi.com/ip-geolocation-api">https://www.abstractapi.com/ip-geolocation-api</a> - API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 20,000 requests per month.<br>
+<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, improve threat detection & response. 50K lookups free<br>
  ]]></description>
 </item>
 <item>
@@ -61,21 +72,6 @@
 <item>
 	<title>Styra DAS Free</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/494e3d101b097cee112250db7d0bb20b44ca9f91</link><description><![CDATA[<a href="https://signup.styra.com/) — Styra DAS Free, Full lifecycle policy management to create, deploy and manage Open Policy Agent(OPA">https://signup.styra.com/) — Styra DAS Free, Full lifecycle policy management to create, deploy and manage Open Policy Agent(OPA</a> - Styra DAS Free, Full lifecycle policy management to create, deploy and manage Open Policy Agent(OPA) authorization<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/af4f3d94759557c6aa58218f82eb68f08eeb9cd5</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bfe9b8c7d1905b1c26980af04aa4a89ecd77b7a0</link><description><![CDATA[<a href="https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users *(currently not available for new users to register">https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users *(currently not available for new users to register</a> - Free email and DNS hosting for up to 1,000 users *(currently not available for new users to register)*<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/17bd56f7e7dea3b58a2772eca737cc393536a953</link><description><![CDATA[<a href="https://www.limelight.com/">https://www.limelight.com/</a> - Deploy fast dynamic Jamstack websites on a global CDN powered by [Limelight](https://www.limelight.com/) for free with 100GB/month bandwidth and 3 environments.<br>
-<a href="https://mogenius.com/">https://mogenius.com/</a> - Deploy from git repository with Dockerfile. 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.<br>
  ]]></description>
 </item>
 
