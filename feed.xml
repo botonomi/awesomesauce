@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Move Argonautfrom PaaS to CI/CD</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fad42c42fc12265d40d578dd53f2419e9b8e9871</link><description><![CDATA[<a href="https://argonaut.dev/">https://argonaut.dev/</a> - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Tebi</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ab46655dcb43fa9e777477f91667583875592d60</link><description><![CDATA[<a href="https://tebi.io/">https://tebi.io/</a> - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.<br>
  ]]></description>
@@ -69,10 +74,6 @@
 <a href="https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac">https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac</a> - is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.<br>
 <a href="https://codemagic.io/">https://codemagic.io/</a> - is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove 404 link for site selectel</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9dffdec0269b17184cab4a9ebe6c5b96ace0f07e</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
