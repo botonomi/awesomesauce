@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update bit.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/764d1e87dd909af6a9e68686431b5b7c67156851</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst).<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove not free testing tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/303da5b7b78839e117e9690a99d984f012a9bb7e</link><description><![CDATA[ ]]></description>
 </item>
@@ -57,19 +62,6 @@
 <a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for you games<br>
 <a href="https://www.artstation.com/">https://www.artstation.com/</a> - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.<br>
 <a href="https://rive.app/community/">https://rive.app/community/</a> - Community assets as well as create your own game assets using its free plan.<br>
- ]]></description>
-</item>
-<item>
-	<title>space added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5d35552ce1b845abde1b024fa24c98a3695f073c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>added flutter flow</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0bec4ca2f2d8b0b0b1c599302cb0135e673cef7d</link><description><![CDATA[<a href="#flutter-related-and-building-ios-apps-without-mac">#flutter-related-and-building-ios-apps-without-mac</a> - and Building IOS Apps without Mac](#flutter-related-and-building-ios-apps-without-mac)<br>
-<a href="https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac">https://flutlab.io/) - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac</a> - FlutLab is a modern Flutter online IDE and the best place to create, debug, and build cross-platform projects. Build iOS (Without Mac) and Android apps with Flutter.<br>
-<a href="https://codemagic.io/">https://codemagic.io/</a> - Codemagic is a fully hosted and managed CI/CD for mobile apps. You can build, test, deploy with a GUI based CI/CD tool. Free tier offers 500 free minutes/month, and Mac Mini instance with 2.3Ghz and 8gb of RAM.<br>
-<a href="https://flutterflow.io/">https://flutterflow.io/</a> - FlutterFlow is a browser-based drag-and-drop interface to build mobile app using flutter.<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
  ]]></description>
 </item>
 
