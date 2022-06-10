@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add sslip.io DNS service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fdd5bdc8338ae5c3dc23bf68ab286d36cbd7f743</link><description><![CDATA[<a href="https://sslip.io/">https://sslip.io/</a> - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update bit.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/764d1e87dd909af6a9e68686431b5b7c67156851</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst).<br>
  ]]></description>
@@ -51,17 +56,6 @@
 <item>
 	<title>Added back to top button</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/02f052092fc3990269ae3f9495b93a80757c6ade</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Resources for Game Development</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fa7baf61bcb3cd430ac387dc4a2b91c5918db18e</link><description><![CDATA[<a href="https://itch.io/game-assets">https://itch.io/game-assets</a> - Free/Paid assets like sprites, tile sets, character packs, ...<br>
-<a href="https://gamedevmarket.net">https://gamedevmarket.net</a> - Free/Paid assets like 2D, 3D, Audio, GUI.<br>
-<a href="https://opengameart.org">https://opengameart.org</a> - OpenSource Game Assets like music, sounds, sprites, gifs, ...<br>
-<a href="https://craftpix.net">https://craftpix.net</a> - Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.<br>
-<a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for you games<br>
-<a href="https://www.artstation.com/">https://www.artstation.com/</a> - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.<br>
-<a href="https://rive.app/community/">https://rive.app/community/</a> - Community assets as well as create your own game assets using its free plan.<br>
  ]]></description>
 </item>
 
