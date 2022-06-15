@@ -4,6 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/89ccf64eee6df30eb2211902ddc26db3b58ea7c3</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7674e11add0bc568907cbc83270079519df793b1</link><description><![CDATA[<a href="https://colorkit.co/">https://colorkit.co/</a> - Create color palettes online or get inspiration from top palettes.<br>
+<a href="https://codetoimage.com/">https://codetoimage.com/</a> - Create screenshots of code or text to share on social media.<br>
+<a href="https://onlineexifviewer.com/">https://onlineexifviewer.com/</a> - View EXIF data online instantly for a photo including GPS location and metadata.<br>
+<a href="https://sunrisesunset.io/api/">https://sunrisesunset.io/api/</a> - Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.<br>
+<a href="https://titlecapitalize.com/">https://titlecapitalize.com/</a> - - Instantly convert text to title case online.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Httpic</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/791c7dc815cf7a29f5e3cb8bb5184ca0579a3087</link><description><![CDATA[<a href="https://httpic.com">https://httpic.com</a> - Turn any website into jpg, png or pdf. Capture full page screenshots, adjust viewport, inject custom code. Free tier at 150 images / month.<br>
  ]]></description>
@@ -46,16 +59,6 @@
 <item>
 	<title>remove not free testing tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/303da5b7b78839e117e9690a99d984f012a9bb7e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Move Argonautfrom PaaS to CI/CD</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fad42c42fc12265d40d578dd53f2419e9b8e9871</link><description><![CDATA[<a href="https://argonaut.dev/">https://argonaut.dev/</a> - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Tebi</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ab46655dcb43fa9e777477f91667583875592d60</link><description><![CDATA[<a href="https://tebi.io/">https://tebi.io/</a> - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.<br>
- ]]></description>
 </item>
 
 </channel>
