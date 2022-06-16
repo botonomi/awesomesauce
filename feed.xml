@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated Mailazy pricing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/36f1193c2db04007ae74a4500b2512b87c00afae</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/89ccf64eee6df30eb2211902ddc26db3b58ea7c3</link><description><![CDATA[ ]]></description>
 </item>
@@ -55,10 +60,6 @@
 	<title>Update bit.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/764d1e87dd909af6a9e68686431b5b7c67156851</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst).<br>
  ]]></description>
-</item>
-<item>
-	<title>remove not free testing tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/303da5b7b78839e117e9690a99d984f012a9bb7e</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
