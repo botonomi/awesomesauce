@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fix: added information about Dyte's free tier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/40b2976a10ae19faa403cfcdb5ce17d8833ee9f9</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes 10,000 minutes of live video/audio usage every month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>fix: added hyphen between "developer" and "friendly"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8e799913a99fc090879452e2dedac1b9062e2e92</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement.<br>
+ ]]></description>
+</item>
+<item>
+	<title>docs(tools-for-teams): added video/audio SDK [Dyte](https://dyte.io) …</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d3abfa728d54d24b14aa4d56100501bbf8abfbf</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated Mailazy pricing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/36f1193c2db04007ae74a4500b2512b87c00afae</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).<br>
  ]]></description>
@@ -49,16 +64,6 @@
 <item>
 	<title>add jotcode</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1172ed0a5c5403ca99dec6e6209ba3eaaf802d95</link><description><![CDATA[<a href="https://jotcode.io">https://jotcode.io</a> - A serverless platform for hosting simple scripts, API and servers<br>
- ]]></description>
-</item>
-<item>
-	<title>Add sslip.io DNS service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fdd5bdc8338ae5c3dc23bf68ab286d36cbd7f743</link><description><![CDATA[<a href="https://sslip.io/">https://sslip.io/</a> - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update bit.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/764d1e87dd909af6a9e68686431b5b7c67156851</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 1 database, 10GB storage, 1 CPU and 1GB Memory (burst).<br>
  ]]></description>
 </item>
 
