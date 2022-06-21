@@ -4,8 +4,38 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update DB-IP URL</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b3af799d854fcd819f1484bacde52535f0c41348</link><description><![CDATA[<a href="https://db-ip.com/api/free/">https://db-ip.com/api/free/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9e72a0a9ff88ab860b1c4419633a2c25c1f7538f</link><description><![CDATA[<a href="https://stoplight.io/">https://stoplight.io/</a> - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DB-IP free api</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/22e6fb5a6f97b91879586d6746e7e09079e51a79</link><description><![CDATA[<a href="https://db-ip.com/">https://db-ip.com/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Poly Pizza</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b40fbd677618bae66550104ee7dc4be0d4493c45</link><description><![CDATA[<a href="https://poly.pizza/">https://poly.pizza/</a> - - Free low poly 3D assets<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add InstaWP</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c0ffbc320248740d0ad2eaa14b38a0d8fd050868</link><description><![CDATA[<a href="https://instawp.com/">https://instawp.com/</a> - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add stoplight.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2e2d8d83c2274d8777e81026b1bd660d784d62c6</link><description><![CDATA[<a href="https://stoplight.io/">https://stoplight.io/</a> - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DB-IP free IP geolocation database</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5fea5cdf7a9a6bb4cf98862bd1ac445c45ccc1b6</link><description><![CDATA[<a href="https://db-ip.com/">https://db-ip.com/</a> - Free IP geolocation database under CC-BY 4.0 License.<br>
  ]]></description>
 </item>
 <item>
@@ -39,31 +69,6 @@
 <a href="https://onlineexifviewer.com/">https://onlineexifviewer.com/</a> - View EXIF data online instantly for a photo including GPS location and metadata.<br>
 <a href="https://sunrisesunset.io/api/">https://sunrisesunset.io/api/</a> - Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.<br>
 <a href="https://titlecapitalize.com/">https://titlecapitalize.com/</a> - - Instantly convert text to title case online.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Httpic</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/791c7dc815cf7a29f5e3cb8bb5184ca0579a3087</link><description><![CDATA[<a href="https://httpic.com">https://httpic.com</a> - Turn any website into jpg, png or pdf. Capture full page screenshots, adjust viewport, inject custom code. Free tier at 150 images / month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Hookdeck</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3fbdda84d2e8e7e98118cc1ce84201b0f1ab726b</link><description><![CDATA[<a href="https://hookdeck.com/pricing">https://hookdeck.com/pricing</a> - Develop, test and monitor your webhooks from a single place. 100K requests and 100K attempts per month with 3 days retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update landing page</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cb2fcfe9282f2691458e71b6037b6e6bc420fb75</link><description><![CDATA[<a href="https://en.pingcap.com/tidb-cloud/">https://en.pingcap.com/tidb-cloud/</a> - — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Cloud provides one-year free Developer Tier, 500 MiB of OLTP storage, and 500 MiB of OLAP Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update TiDB Cloud according to it's latest offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b3634a9566559716be0614e973633beb8fc8cfd0</link><description><![CDATA[<a href="https://tidbcloud.com/free-trial">https://tidbcloud.com/free-trial</a> - — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Cloud provides one-year free Developer Tier, 500 MiB of OLTP storage, and 500 MiB of OLAP Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>comments from MR</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6356dccb72bd12aec2592e62ea4f5d687c6762d7</link><description><![CDATA[<a href="https://jotcode.io">https://jotcode.io</a> - A serverless platform for hosting simple scripts, API and servers. Free plan allows running 100 scripts per month<br>
  ]]></description>
 </item>
 
