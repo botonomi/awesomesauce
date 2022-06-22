@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add splitbee</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/be11ac63475413c39eca064eea06202b0ec7c5f4</link><description><![CDATA[<a href="https://splitbee.io/">https://splitbee.io/</a> - Track and optimize your online business with Splitbee. Free plan includes up to 2,500 events / month, 6 months retention, 1 x Active A/B Test and 1 x Active Automation.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update DB-IP URL</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b3af799d854fcd819f1484bacde52535f0c41348</link><description><![CDATA[<a href="https://db-ip.com/api/free/">https://db-ip.com/api/free/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
  ]]></description>
@@ -56,19 +61,6 @@
 <item>
 	<title>Updated Mailazy pricing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/36f1193c2db04007ae74a4500b2512b87c00afae</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/89ccf64eee6df30eb2211902ddc26db3b58ea7c3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7674e11add0bc568907cbc83270079519df793b1</link><description><![CDATA[<a href="https://colorkit.co/">https://colorkit.co/</a> - Create color palettes online or get inspiration from top palettes.<br>
-<a href="https://codetoimage.com/">https://codetoimage.com/</a> - Create screenshots of code or text to share on social media.<br>
-<a href="https://onlineexifviewer.com/">https://onlineexifviewer.com/</a> - View EXIF data online instantly for a photo including GPS location and metadata.<br>
-<a href="https://sunrisesunset.io/api/">https://sunrisesunset.io/api/</a> - Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.<br>
-<a href="https://titlecapitalize.com/">https://titlecapitalize.com/</a> - - Instantly convert text to title case online.<br>
  ]]></description>
 </item>
 
