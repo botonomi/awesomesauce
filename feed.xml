@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add css-gradient.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f4d91b0d230727b24fea83857eb37d92d36903f2</link><description><![CDATA[<a href="https://www.css-gradient.com/">https://www.css-gradient.com/</a> - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add splitbee</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/be11ac63475413c39eca064eea06202b0ec7c5f4</link><description><![CDATA[<a href="https://splitbee.io/">https://splitbee.io/</a> - Track and optimize your online business with Splitbee. Free plan includes up to 2,500 events / month, 6 months retention, 1 x Active A/B Test and 1 x Active Automation.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>docs(tools-for-teams): added video/audio SDK [Dyte](https://dyte.io) …</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2d3abfa728d54d24b14aa4d56100501bbf8abfbf</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Mailazy pricing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/36f1193c2db04007ae74a4500b2512b87c00afae</link><description><![CDATA[<a href="https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit">https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit</a> - Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).<br>
  ]]></description>
 </item>
 
