@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Warrant free tier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f3324a05cf0682abce29165403b02b584c181cb6</link><description><![CDATA[<a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 1 million API requests per month and 1,000 authz rules.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated Sema Listing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/63f67392e25adaf8ea14f183ca476499fbffe588</link><description><![CDATA[ ]]></description>
 </item>
@@ -56,11 +61,6 @@
 <item>
 	<title>Add DB-IP free IP geolocation database</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5fea5cdf7a9a6bb4cf98862bd1ac445c45ccc1b6</link><description><![CDATA[<a href="https://db-ip.com/">https://db-ip.com/</a> - Free IP geolocation database under CC-BY 4.0 License.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix: added information about Dyte's free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/40b2976a10ae19faa403cfcdb5ce17d8833ee9f9</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes 10,000 minutes of live video/audio usage every month.<br>
  ]]></description>
 </item>
 
