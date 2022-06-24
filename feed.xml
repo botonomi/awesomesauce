@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated Sema Listing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/63f67392e25adaf8ea14f183ca476499fbffe588</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Sema</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/638e02719dc8c9ee2e4f7e7b70af0d2732c73421</link><description><![CDATA[<a href="https://www.semasoftware.com/">https://www.semasoftware.com/</a> - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.<br>
+<a href="https://www.semasoftware.com/">https://www.semasoftware.com/</a> - Free code review tool. Code reviewers have access to a library of best practices to quickly relay targeted feedback. Dashboards on the website showcase trends.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add css-gradient.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f4d91b0d230727b24fea83857eb37d92d36903f2</link><description><![CDATA[<a href="https://www.css-gradient.com/">https://www.css-gradient.com/</a> - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.<br>
  ]]></description>
@@ -51,16 +61,6 @@
 <item>
 	<title>fix: added information about Dyte's free tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/40b2976a10ae19faa403cfcdb5ce17d8833ee9f9</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes 10,000 minutes of live video/audio usage every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix: added hyphen between "developer" and "friendly"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8e799913a99fc090879452e2dedac1b9062e2e92</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs(tools-for-teams): added video/audio SDK [Dyte](https://dyte.io) …</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2d3abfa728d54d24b14aa4d56100501bbf8abfbf</link><description><![CDATA[<a href="https://dyte.io">https://dyte.io</a> - The most developer friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement.<br>
  ]]></description>
 </item>
 
