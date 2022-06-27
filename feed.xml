@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update LocalXpose description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6d273114ef9723f3267ec81df865d2c78933c814</link><description><![CDATA[<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added localxpose.io (tunnel service)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1b8448ce24320cc1214b9749fa58d66b1d6383ae</link><description><![CDATA[<a href="https://www.zerotier.com">https://www.zerotier.com</a> - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks<br>
+<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Warrant free tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f3324a05cf0682abce29165403b02b584c181cb6</link><description><![CDATA[<a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 1 million API requests per month and 1,000 authz rules.<br>
  ]]></description>
@@ -51,16 +62,6 @@
 <item>
 	<title>Add InstaWP</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c0ffbc320248740d0ad2eaa14b38a0d8fd050868</link><description><![CDATA[<a href="https://instawp.com/">https://instawp.com/</a> - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add stoplight.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2e2d8d83c2274d8777e81026b1bd660d784d62c6</link><description><![CDATA[<a href="https://stoplight.io/">https://stoplight.io/</a> - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DB-IP free IP geolocation database</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5fea5cdf7a9a6bb4cf98862bd1ac445c45ccc1b6</link><description><![CDATA[<a href="https://db-ip.com/">https://db-ip.com/</a> - Free IP geolocation database under CC-BY 4.0 License.<br>
  ]]></description>
 </item>
 
