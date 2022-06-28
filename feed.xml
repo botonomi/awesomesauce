@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added elmah.io to Crash and Exception Handling tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5ca8c399189dc89960d8f76d6465784608ed4b68</link><description><![CDATA[<a href="https://elmah.io/">https://elmah.io/</a> - Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update LocalXpose description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6d273114ef9723f3267ec81df865d2c78933c814</link><description><![CDATA[<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.<br>
  ]]></description>
@@ -52,16 +57,6 @@
 <item>
 	<title>Add DB-IP free api</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/22e6fb5a6f97b91879586d6746e7e09079e51a79</link><description><![CDATA[<a href="https://db-ip.com/">https://db-ip.com/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Poly Pizza</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b40fbd677618bae66550104ee7dc4be0d4493c45</link><description><![CDATA[<a href="https://poly.pizza/">https://poly.pizza/</a> - - Free low poly 3D assets<br>
- ]]></description>
-</item>
-<item>
-	<title>Add InstaWP</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c0ffbc320248740d0ad2eaa14b38a0d8fd050868</link><description><![CDATA[<a href="https://instawp.com/">https://instawp.com/</a> - Launch a WordPress site in a few seconds. A free tier with: 5 Active Sites, 500 MB Space, 48 hrs Site Expiry.<br>
  ]]></description>
 </item>
 
