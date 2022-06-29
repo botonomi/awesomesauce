@@ -9,6 +9,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d0f4469fb4ad8491dbdeede487cc0aa414dc3ad</link><description><![CDATA[<a href="https://bugbug.io/">https://bugbug.io/</a> - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update LocalXpose description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6d273114ef9723f3267ec81df865d2c78933c814</link><description><![CDATA[<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.<br>
  ]]></description>
@@ -47,16 +52,6 @@
 <item>
 	<title>Update DB-IP URL</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b3af799d854fcd819f1484bacde52535f0c41348</link><description><![CDATA[<a href="https://db-ip.com/api/free/">https://db-ip.com/api/free/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9e72a0a9ff88ab860b1c4419633a2c25c1f7538f</link><description><![CDATA[<a href="https://stoplight.io/">https://stoplight.io/</a> - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DB-IP free api</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/22e6fb5a6f97b91879586d6746e7e09079e51a79</link><description><![CDATA[<a href="https://db-ip.com/">https://db-ip.com/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
  ]]></description>
 </item>
 
