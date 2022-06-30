@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Re add db-ip with correct link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5f24989bf1460f2263e0ed2e727881f1170dbb87</link><description><![CDATA[<a href="https://db-ip.com/api/free">https://db-ip.com/api/free</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove db-ip from list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bcd21940b0843e401dec787541d87065cb0fd4a9</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added elmah.io to Crash and Exception Handling tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5ca8c399189dc89960d8f76d6465784608ed4b68</link><description><![CDATA[<a href="https://elmah.io/">https://elmah.io/</a> - Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects.<br>
  ]]></description>
@@ -47,11 +56,6 @@
 <item>
 	<title>add splitbee</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/be11ac63475413c39eca064eea06202b0ec7c5f4</link><description><![CDATA[<a href="https://splitbee.io/">https://splitbee.io/</a> - Track and optimize your online business with Splitbee. Free plan includes up to 2,500 events / month, 6 months retention, 1 x Active A/B Test and 1 x Active Automation.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update DB-IP URL</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b3af799d854fcd819f1484bacde52535f0c41348</link><description><![CDATA[<a href="https://db-ip.com/api/free/">https://db-ip.com/api/free/</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
  ]]></description>
 </item>
 
