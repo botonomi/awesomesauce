@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Shotstack</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9ddfb019fd59d67ac1b9600f538f442e8d64d5ea</link><description><![CDATA[<a href="https://shotstack.io">https://shotstack.io</a> - API to generate and edit video at scale. Free up to 20 minutes of rendered video per month<br>
+ ]]></description>
+</item>
+<item>
 	<title>Re add db-ip with correct link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f24989bf1460f2263e0ed2e727881f1170dbb87</link><description><![CDATA[<a href="https://db-ip.com/api/free">https://db-ip.com/api/free</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Add css-gradient.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f4d91b0d230727b24fea83857eb37d92d36903f2</link><description><![CDATA[<a href="https://www.css-gradient.com/">https://www.css-gradient.com/</a> - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.<br>
- ]]></description>
-</item>
-<item>
-	<title>add splitbee</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/be11ac63475413c39eca064eea06202b0ec7c5f4</link><description><![CDATA[<a href="https://splitbee.io/">https://splitbee.io/</a> - Track and optimize your online business with Splitbee. Free plan includes up to 2,500 events / month, 6 months retention, 1 x Active A/B Test and 1 x Active Automation.<br>
  ]]></description>
 </item>
 
