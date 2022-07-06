@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove DDoS Guard</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e9ba4b5ea2075dae08d75163690f116413dae494</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>RM ScrapingBee - As per requested changes</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/24dc99d9c8312d06473c35bb6483d6f4390106ad</link><description><![CDATA[ ]]></description>
 </item>
@@ -55,17 +59,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2d0f4469fb4ad8491dbdeede487cc0aa414dc3ad</link><description><![CDATA[<a href="https://bugbug.io/">https://bugbug.io/</a> - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.<br>
- ]]></description>
-</item>
-<item>
-	<title>update LocalXpose description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6d273114ef9723f3267ec81df865d2c78933c814</link><description><![CDATA[<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.<br>
- ]]></description>
-</item>
-<item>
-	<title>added localxpose.io (tunnel service)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1b8448ce24320cc1214b9749fa58d66b1d6383ae</link><description><![CDATA[<a href="https://www.zerotier.com">https://www.zerotier.com</a> - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks<br>
-<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet.<br>
  ]]></description>
 </item>
 
