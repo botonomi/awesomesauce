@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add YepCode</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/986428ec98d855ae12babd8806ef752a5e101852</link><description><![CDATA[<a href="https://yepcode.io/pricing/">https://yepcode.io/pricing/</a> - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove DDoS Guard</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e9ba4b5ea2075dae08d75163690f116413dae494</link><description><![CDATA[ ]]></description>
 </item>
@@ -54,11 +59,6 @@
 <item>
 	<title>Added elmah.io to Crash and Exception Handling tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5ca8c399189dc89960d8f76d6465784608ed4b68</link><description><![CDATA[<a href="https://elmah.io/">https://elmah.io/</a> - Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2d0f4469fb4ad8491dbdeede487cc0aa414dc3ad</link><description><![CDATA[<a href="https://bugbug.io/">https://bugbug.io/</a> - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.<br>
  ]]></description>
 </item>
 
