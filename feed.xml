@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e65c1d3a3de1de0a709aab0dd7247c2d2fbdac54</link><description><![CDATA[<a href="https://mogenius.com/">https://mogenius.com/</a> - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add YepCode</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/986428ec98d855ae12babd8806ef752a5e101852</link><description><![CDATA[<a href="https://yepcode.io/pricing/">https://yepcode.io/pricing/</a> - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).<br>
  ]]></description>
@@ -55,11 +60,6 @@
 <item>
 	<title>Remove db-ip from list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bcd21940b0843e401dec787541d87065cb0fd4a9</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added elmah.io to Crash and Exception Handling tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5ca8c399189dc89960d8f76d6465784608ed4b68</link><description><![CDATA[<a href="https://elmah.io/">https://elmah.io/</a> - Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects.<br>
- ]]></description>
 </item>
 
 </channel>
