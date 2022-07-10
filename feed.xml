@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add Idrive e2</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/23242074875b9a33ec36414f31c3618bbfc41a8e</link><description><![CDATA[<a href="https://www.idrive.com/e2/">https://www.idrive.com/e2/</a> - - S3 compatibility object storage. 10 GB free storage and unlimited bandwidth.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e65c1d3a3de1de0a709aab0dd7247c2d2fbdac54</link><description><![CDATA[<a href="https://mogenius.com/">https://mogenius.com/</a> - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.<br>
  ]]></description>
@@ -51,15 +56,6 @@
 	<title>Add Shotstack</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ddfb019fd59d67ac1b9600f538f442e8d64d5ea</link><description><![CDATA[<a href="https://shotstack.io">https://shotstack.io</a> - API to generate and edit video at scale. Free up to 20 minutes of rendered video per month<br>
  ]]></description>
-</item>
-<item>
-	<title>Re add db-ip with correct link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f24989bf1460f2263e0ed2e727881f1170dbb87</link><description><![CDATA[<a href="https://db-ip.com/api/free">https://db-ip.com/api/free</a> - Free IP geolocation API with 1k request per IP per day.lite database under CC-BY 4.0 License is free too.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove db-ip from list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bcd21940b0843e401dec787541d87065cb0fd4a9</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
