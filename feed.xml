@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add C2 Object Storage</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/21fceb91196a3f8605c62495625762b2067aa38e</link><description><![CDATA[<a href="https://c2.synology.com/en-us/pricing/object-storage">https://c2.synology.com/en-us/pricing/object-storage</a> - Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB download per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added microsoft clarity</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f730398124b84fc68ba16d33fe7a192770c1520a</link><description><![CDATA[<a href="https://clarity.microsoft.com/">https://clarity.microsoft.com/</a> - - Clarity is a free, easy-to-use tool that captures how real people actually use your site.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Idrive e2</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/23242074875b9a33ec36414f31c3618bbfc41a8e</link><description><![CDATA[<a href="https://www.idrive.com/e2/">https://www.idrive.com/e2/</a> - - S3 compatibility object storage. 10 GB free storage and unlimited bandwidth.<br>
  ]]></description>
@@ -11,6 +21,11 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e65c1d3a3de1de0a709aab0dd7247c2d2fbdac54</link><description><![CDATA[<a href="https://mogenius.com/">https://mogenius.com/</a> - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Gemfury</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9cfed4e2ebb53bf3f1b346959bb8b3c67cae0fb7</link><description><![CDATA[<a href="https://gemfury.com">https://gemfury.com</a> - Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, RPM repositories. Free for public projects.<br>
  ]]></description>
 </item>
 <item>
@@ -38,24 +53,6 @@
 <item>
 	<title>RM Zdoo - Dead Link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b646ecafef0d530edfae74c5c2ce20b2fec28655</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>RM Timedoor - Dead Link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/71fed559fa909c7dddf42057153cef418b6477a1</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>RM hookbin - Dead Link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/01aa9578e0f5c9a8e63fec1c135c634b6c5990f3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update ScrapingNinja to ScrapingBee</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f4738864f33bfec2138ff6e40c422d453300772e</link><description><![CDATA[<a href="https://www.scrapingbee.com//">https://www.scrapingbee.com//</a> - Handle JS rendering, Chrome Headless, Proxy rotation and CAPTCHAs solving all in one place. The first 1000 are free of charge, no credit card required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Shotstack</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9ddfb019fd59d67ac1b9600f538f442e8d64d5ea</link><description><![CDATA[<a href="https://shotstack.io">https://shotstack.io</a> - API to generate and edit video at scale. Free up to 20 minutes of rendered video per month<br>
- ]]></description>
 </item>
 
 </channel>
