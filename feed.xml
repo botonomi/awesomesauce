@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixed</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f4880122cffb2cc5b7aae435c1185700b1faeec3</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add C2 Object Storage</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/21fceb91196a3f8605c62495625762b2067aa38e</link><description><![CDATA[<a href="https://c2.synology.com/en-us/pricing/object-storage">https://c2.synology.com/en-us/pricing/object-storage</a> - Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB download per month.<br>
  ]]></description>
@@ -14,45 +18,63 @@
  ]]></description>
 </item>
 <item>
+	<title>Fixes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dc3f919e0daaee5fe83270215a7650c113a25779</link><description><![CDATA[<a href="https://stripe.com">https://stripe.com</a> - A free payment and checkout API for cards, bank transfers with 3d secure authentication and instant payouts.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Design tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d0280303b842899ff51135285cbd04554ac59b87</link><description><![CDATA[<a href="https://gimp.org">https://gimp.org</a> - Free and open-source raster graphics editor used for image manipulation and image editing.<br>
+<a href="https://canva.com">https://canva.com</a> - Free online design tool to create visual content.<br>
+<a href="https://stripe.com">https://stripe.com</a> - A simple API integration used to accept payments on various platforms.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Stripe</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0a47e230305d8f273c830281ba10afcf9e3da0ba</link><description><![CDATA[<a href="https://stripe.com">https://stripe.com</a> - A simple API integration used to accept payments on verious platforms.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Changes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1b17c736bdace2b5ef175ba3f21379a2d5e0039f</link><description><![CDATA[<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> - Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft.<br>
+<a href="https://code.visualstudio.com) - (Windows, macOS and Linux">https://code.visualstudio.com) - (Windows, macOS and Linux</a> - (Windows, macOS and Linux).<br>
+<a href="https://vscode.dev) - (Browser">https://vscode.dev) - (Browser</a> - (Browser)<br>
+ ]]></description>
+</item>
+<item>
+	<title>VSCode.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ca2fd72d1fcac5bbad8462ecace83b4a0d3c31a1</link><description><![CDATA[<a href="https://vscode.dev">https://vscode.dev</a> - free, zero-install Microsoft Visual Studio Code experience in your browser.<br>
+ ]]></description>
+</item>
+<item>
+	<title>InfinityFree</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ea1f3cae15489950fbedd4ee49758aad37d8cfbc</link><description><![CDATA[<a href="https://infinityfree.com">https://infinityfree.com</a> - Completely free website hosting with PHP, MySQL and 99% uptime.<br>
+ ]]></description>
+</item>
+<item>
+	<title>000webhost</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5658061731f2cffebd77e2621cbfb2705305a870</link><description><![CDATA[<a href="https://000webhost.com">https://000webhost.com</a> - Free PHP, MySQL, and cPanel Hosting.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Unreal</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/23b54496d52e07d183fdcd13610e253ae91477ae</link><description><![CDATA[<a href="https://www.unrealengine.com/">https://www.unrealengine.com/</a> - - Advanced game engine for game creation<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Unity</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a1ee713aa4b4274a0345cf3e5fd9bbbfdb4100a2</link><description><![CDATA[<a href="https://unity.com">https://unity.com</a> - Cross-platform game engine for real-time development<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated Supabase link.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/32128f498378adddc3d35f2be664288b67dbcb89</link><description><![CDATA[<a href="https://supabase.com">https://supabase.com</a> - The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Idrive e2</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/23242074875b9a33ec36414f31c3618bbfc41a8e</link><description><![CDATA[<a href="https://www.idrive.com/e2/">https://www.idrive.com/e2/</a> - - S3 compatibility object storage. 10 GB free storage and unlimited bandwidth.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e65c1d3a3de1de0a709aab0dd7247c2d2fbdac54</link><description><![CDATA[<a href="https://mogenius.com/">https://mogenius.com/</a> - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 1 CPU core, 2 GB RAM, 10 GB traffic, 4 GB SSD persistent storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Gemfury</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9cfed4e2ebb53bf3f1b346959bb8b3c67cae0fb7</link><description><![CDATA[<a href="https://gemfury.com">https://gemfury.com</a> - Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, RPM repositories. Free for public projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add YepCode</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/986428ec98d855ae12babd8806ef752a5e101852</link><description><![CDATA[<a href="https://yepcode.io/pricing/">https://yepcode.io/pricing/</a> - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove DDoS Guard</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e9ba4b5ea2075dae08d75163690f116413dae494</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>RM ScrapingBee - As per requested changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/24dc99d9c8312d06473c35bb6483d6f4390106ad</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Readded Hookbin - As per requested changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/88f7d8fcb7d5a39031115f428cf56d94202511b2</link><description><![CDATA[<a href="https://hookbin.com/) - Create unique (public or private">https://hookbin.com/) - Create unique (public or private</a> - Create unique (public or private) endpoints to collect, parse, and inspect HTTP requests. Inspect headers, body, query strings, cookies, uploaded files, etc. Useful for testing/inspecting webhook. Similar to RequestBin, and Webhook.site.<br>
- ]]></description>
-</item>
-<item>
-	<title>RM Kritika - Dead Link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2ff4a44a7fdf7e70fa97bc432a052bcfb3a6f08b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>RM Zdoo - Dead Link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b646ecafef0d530edfae74c5c2ce20b2fec28655</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
