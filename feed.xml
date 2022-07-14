@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>some markdown issues</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/67ea05ff70690316e0277a1748f14f3a614326f0</link><description><![CDATA[<a href="https://www.semasoftware.com/">https://www.semasoftware.com/</a> - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.<br>
+<a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a> - Gatsby is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!<br>
+<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no custom domain support.<br>
+<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.<br>
+<a href="https://rive.app/community/">https://rive.app/community/</a> - Community assets as well as create your own game assets using its free plan.<br>
+<a href="https://get.localhost.direct">https://get.localhost.direct</a> - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support<br>
+<a href="https://markodenic.com/tools/buttons-generator/">https://markodenic.com/tools/buttons-generator/</a> - — 100+ buttons you can use in your project.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add a pr template</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a82e6af09430a2eec57c40232507924ccc5b8008</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added cyclic.sh to PaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f0c851125e412c92afcc175e408da5d8c514320f</link><description><![CDATA[<a href="https://www.cyclic.sh">https://www.cyclic.sh</a> - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.<br>
  ]]></description>
@@ -54,26 +69,6 @@
 <item>
 	<title>InfinityFree</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ea1f3cae15489950fbedd4ee49758aad37d8cfbc</link><description><![CDATA[<a href="https://infinityfree.com">https://infinityfree.com</a> - Completely free website hosting with PHP, MySQL and 99% uptime.<br>
- ]]></description>
-</item>
-<item>
-	<title>000webhost</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5658061731f2cffebd77e2621cbfb2705305a870</link><description><![CDATA[<a href="https://000webhost.com">https://000webhost.com</a> - Free PHP, MySQL, and cPanel Hosting.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Unreal</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/23b54496d52e07d183fdcd13610e253ae91477ae</link><description><![CDATA[<a href="https://www.unrealengine.com/">https://www.unrealengine.com/</a> - - Advanced game engine for game creation<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Unity</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a1ee713aa4b4274a0345cf3e5fd9bbbfdb4100a2</link><description><![CDATA[<a href="https://unity.com">https://unity.com</a> - Cross-platform game engine for real-time development<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Supabase link.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/32128f498378adddc3d35f2be664288b67dbcb89</link><description><![CDATA[<a href="https://supabase.com">https://supabase.com</a> - The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.<br>
  ]]></description>
 </item>
 
