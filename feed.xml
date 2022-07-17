@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding flat.social to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4f62ee50c03513baee371cc5edc0c8af6e1bd456</link><description><![CDATA[<a href="https://flat.social">https://flat.social</a> - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update PULL_REQUEST_TEMPLATE.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c5aced47522bee676e9e1067de887ac2b67fc3c8</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Adding WayScript to PaaS devtools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/26ae8478f00af61e8658518c2fbf469919fc8427</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 744 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
+ ]]></description>
+</item>
+<item>
 	<title>some markdown issues</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/67ea05ff70690316e0277a1748f14f3a614326f0</link><description><![CDATA[<a href="https://www.semasoftware.com/">https://www.semasoftware.com/</a> - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.<br>
 <a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a> - Gatsby is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!<br>
@@ -35,40 +49,6 @@
 <item>
 	<title>Added microsoft clarity</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f730398124b84fc68ba16d33fe7a192770c1520a</link><description><![CDATA[<a href="https://clarity.microsoft.com/">https://clarity.microsoft.com/</a> - - Clarity is a free, easy-to-use tool that captures how real people actually use your site.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dc3f919e0daaee5fe83270215a7650c113a25779</link><description><![CDATA[<a href="https://stripe.com">https://stripe.com</a> - A free payment and checkout API for cards, bank transfers with 3d secure authentication and instant payouts.<br>
- ]]></description>
-</item>
-<item>
-	<title>Design tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d0280303b842899ff51135285cbd04554ac59b87</link><description><![CDATA[<a href="https://gimp.org">https://gimp.org</a> - Free and open-source raster graphics editor used for image manipulation and image editing.<br>
-<a href="https://canva.com">https://canva.com</a> - Free online design tool to create visual content.<br>
-<a href="https://stripe.com">https://stripe.com</a> - A simple API integration used to accept payments on various platforms.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Stripe</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0a47e230305d8f273c830281ba10afcf9e3da0ba</link><description><![CDATA[<a href="https://stripe.com">https://stripe.com</a> - A simple API integration used to accept payments on verious platforms.<br>
- ]]></description>
-</item>
-<item>
-	<title>Changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1b17c736bdace2b5ef175ba3f21379a2d5e0039f</link><description><![CDATA[<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> - Code](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications. Developed by Microsoft.<br>
-<a href="https://code.visualstudio.com) - (Windows, macOS and Linux">https://code.visualstudio.com) - (Windows, macOS and Linux</a> - (Windows, macOS and Linux).<br>
-<a href="https://vscode.dev) - (Browser">https://vscode.dev) - (Browser</a> - (Browser)<br>
- ]]></description>
-</item>
-<item>
-	<title>VSCode.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca2fd72d1fcac5bbad8462ecace83b4a0d3c31a1</link><description><![CDATA[<a href="https://vscode.dev">https://vscode.dev</a> - free, zero-install Microsoft Visual Studio Code experience in your browser.<br>
- ]]></description>
-</item>
-<item>
-	<title>InfinityFree</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ea1f3cae15489950fbedd4ee49758aad37d8cfbc</link><description><![CDATA[<a href="https://infinityfree.com">https://infinityfree.com</a> - Completely free website hosting with PHP, MySQL and 99% uptime.<br>
  ]]></description>
 </item>
 
