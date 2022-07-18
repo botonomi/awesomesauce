@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>chore(readme): fix reset usage context</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c16b283284ebbcb07e1139c9db90bca7ae441626</link><description><![CDATA[<a href="https://a11ywatch.com">https://a11ywatch.com</a> - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that resets daily.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add: a11ywatch to API list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1a347d75fa18fdc3b241949332f4297874706299</link><description><![CDATA[<a href="https://a11ywatch.com">https://a11ywatch.com</a> - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that reset daily.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding flat.social to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f62ee50c03513baee371cc5edc0c8af6e1bd456</link><description><![CDATA[<a href="https://flat.social">https://flat.social</a> - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.<br>
  ]]></description>
@@ -40,16 +50,6 @@
 <item>
 	<title>Fixed</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f4880122cffb2cc5b7aae435c1185700b1faeec3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add C2 Object Storage</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/21fceb91196a3f8605c62495625762b2067aa38e</link><description><![CDATA[<a href="https://c2.synology.com/en-us/pricing/object-storage">https://c2.synology.com/en-us/pricing/object-storage</a> - Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB download per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added microsoft clarity</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f730398124b84fc68ba16d33fe7a192770c1520a</link><description><![CDATA[<a href="https://clarity.microsoft.com/">https://clarity.microsoft.com/</a> - - Clarity is a free, easy-to-use tool that captures how real people actually use your site.<br>
- ]]></description>
 </item>
 
 </channel>
