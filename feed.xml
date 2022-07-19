@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update Idrive e2 pricing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7662175bf9e75c3f609e0d39aa5288e490f2e5c3</link><description><![CDATA[<a href="https://www.idrive.com/e2/">https://www.idrive.com/e2/</a> - - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>chore(readme): fix reset usage context</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c16b283284ebbcb07e1139c9db90bca7ae441626</link><description><![CDATA[<a href="https://a11ywatch.com">https://a11ywatch.com</a> - Powerful web accessibility tool at scale. Free site-wide web acessibility testing and beyond that resets daily.<br>
  ]]></description>
