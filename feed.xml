@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Nordigen to APIs, Data an ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7721d58ba445d485ca401f095de7960cb2f0d88c</link><description><![CDATA[<a href="https://nordigen.com">https://nordigen.com</a> - Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.<br>
+ ]]></description>
+</item>
+<item>
 	<title>goodbye Octopus :'(</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eb992b835fcacfed66fe11f4e8f2e34fbcab76b0</link><description><![CDATA[ ]]></description>
 </item>
@@ -50,11 +55,6 @@
 <item>
 	<title>add a pr template</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a82e6af09430a2eec57c40232507924ccc5b8008</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added cyclic.sh to PaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f0c851125e412c92afcc175e408da5d8c514320f</link><description><![CDATA[<a href="https://www.cyclic.sh">https://www.cyclic.sh</a> - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.<br>
- ]]></description>
 </item>
 
 </channel>
