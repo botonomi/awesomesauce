@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>goodbye Octopus :'(</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eb992b835fcacfed66fe11f4e8f2e34fbcab76b0</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>update Idrive e2 pricing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7662175bf9e75c3f609e0d39aa5288e490f2e5c3</link><description><![CDATA[<a href="https://www.idrive.com/e2/">https://www.idrive.com/e2/</a> - - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.<br>
  ]]></description>
@@ -51,10 +55,6 @@
 	<title>Added cyclic.sh to PaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f0c851125e412c92afcc175e408da5d8c514320f</link><description><![CDATA[<a href="https://www.cyclic.sh">https://www.cyclic.sh</a> - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.<br>
  ]]></description>
-</item>
-<item>
-	<title>Fixed</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f4880122cffb2cc5b7aae435c1185700b1faeec3</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
