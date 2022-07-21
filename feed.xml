@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added knock.app</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ea516e9d37fd694fb2fb595bbfe727ed5c3dde1b</link><description><![CDATA[<a href="https://knock.app">https://knock.app</a> - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. Free plan includes 10,000 messages/mo.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27e46341d35bf1ca6baa4da3579df96e2777f676</link><description><![CDATA[<a href="https://ory.sh/">https://ory.sh/</a> - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added webpushr</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6b094c2d4b29b6812024f9da19bf79d529426711</link><description><![CDATA[<a href="https://www.webpushr.com/">https://www.webpushr.com/</a> - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging<br>
+ ]]></description>
+</item>
+<item>
+	<title>docs: add ory free for dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9ae478bf9867e21236d9056dd45a180632b8059a</link><description><![CDATA[<a href="https://ory.sh/">https://ory.sh/</a> - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Nordigen to APIs, Data an ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7721d58ba445d485ca401f095de7960cb2f0d88c</link><description><![CDATA[<a href="https://nordigen.com">https://nordigen.com</a> - Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.<br>
  ]]></description>
@@ -31,30 +51,6 @@
 	<title>Adding flat.social to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f62ee50c03513baee371cc5edc0c8af6e1bd456</link><description><![CDATA[<a href="https://flat.social">https://flat.social</a> - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update PULL_REQUEST_TEMPLATE.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c5aced47522bee676e9e1067de887ac2b67fc3c8</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Adding WayScript to PaaS devtools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/26ae8478f00af61e8658518c2fbf469919fc8427</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 744 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
- ]]></description>
-</item>
-<item>
-	<title>some markdown issues</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/67ea05ff70690316e0277a1748f14f3a614326f0</link><description><![CDATA[<a href="https://www.semasoftware.com/">https://www.semasoftware.com/</a> - Free developer portfolio tool able to consolidate and snapshot contributions across multiple repositories into a single report.<br>
-<a href="https://www.gatsbyjs.com/">https://www.gatsbyjs.com/</a> - Gatsby is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!<br>
-<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no custom domain support.<br>
-<a href="https://localxpose.io">https://localxpose.io</a> - Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.<br>
-<a href="https://rive.app/community/">https://rive.app/community/</a> - Community assets as well as create your own game assets using its free plan.<br>
-<a href="https://get.localhost.direct">https://get.localhost.direct</a> - A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support<br>
-<a href="https://markodenic.com/tools/buttons-generator/">https://markodenic.com/tools/buttons-generator/</a> - — 100+ buttons you can use in your project.<br>
- ]]></description>
-</item>
-<item>
-	<title>add a pr template</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a82e6af09430a2eec57c40232507924ccc5b8008</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
