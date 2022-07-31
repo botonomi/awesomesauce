@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update PR template to lower noise</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df3a920f15319d0f94fa27b7ad7c00a235b85a32</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>adds superdesigner to design & ui</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0b075d2e242d59ccb8d1640e017888adeba3e43e</link><description><![CDATA[<a href="https://colab.research.google.com/">https://colab.research.google.com/</a> - - Free Jupyter Notebooks development environment.<br>
+<a href="https://nordigen.com">https://nordigen.com</a> - Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.<br>
+<a href="https://superdesigner.co">https://superdesigner.co</a> - A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.<br>
+ ]]></description>
+</item>
+<item>
 	<title>99inbound and formkeep merged</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2bc548a9fdfc717f093634fb7d78f3edc1140973</link><description><![CDATA[<a href="https://www.formkeep.com/">https://www.formkeep.com/</a> - Unlimited forms with 50 submissions per month, spam protection, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, teams and integrations to Google Sheets, Slack, ActiveCampaign and Zapier.<br>
  ]]></description>
@@ -51,20 +62,6 @@
 <item>
 	<title>Add Memfault to the "Crash and Exception Handling" section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/16a667343e8670ebfc52829eecac043de09acaec</link><description><![CDATA[<a href="https://app.memfault.com/register-laird">https://app.memfault.com/register-laird</a> - Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.<br>
- ]]></description>
-</item>
-<item>
-	<title>Hi, I added some new link of Free tools to give the community have mo…</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2a733e1f47580d6041b34d125ab044517e3ce06a</link><description><![CDATA[<a href="https://devrant.com/">https://devrant.com/</a> - Share and bond over successes and frustrations with code, tech and life as a programmer.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6ccdae2ae8101377f625e94efec658d17c275e29</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4699c23c14cb73c617e1d52706835b83b488d280</link><description><![CDATA[<a href="https://colab.research.google.com/">https://colab.research.google.com/</a> - - Free Jupyter Notebooks development environment.<br>
  ]]></description>
 </item>
 
