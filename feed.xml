@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9aa806af691b6384263ea4a22ab5c4a5f71888b1</link><description><![CDATA[<a href="https://windmill.dev/">https://windmill.dev/</a> - Windmill is an open-source developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts. Free user you can create and be member of at most 3 non-premium workspaces.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add windmill.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ebac9417af2a919e4283e5d77b6d8b4b552d2500</link><description><![CDATA[<a href="https://windmill.dev/">https://windmill.dev/</a> - Windmill is an open-source developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update PR template to lower noise</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df3a920f15319d0f94fa27b7ad7c00a235b85a32</link><description><![CDATA[ ]]></description>
 </item>
@@ -47,21 +57,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/9105667568092fc66e08c46530d64b24e4feab12</link><description><![CDATA[<a href="https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free">https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free</a> - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including Katalon Studio, TestOps (+ Visual Testing free),TestCloud and Katalon Recorder.<br>
 <a href="https://gettaurus.org">https://gettaurus.org</a> - User can write test script via a single YAML file in a text editor, then execute on Taurus with command in the terminal for API Testing<br>
 <a href="https://seominion.com/">https://seominion.com/</a> - - Free SEO Tools for all SEO checks<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4715295428a1b396f1163e73231a2e99d084308c</link><description><![CDATA[<a href="https://betterstack.com/better-uptime">https://betterstack.com/better-uptime</a> - - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product. 10 monitors with 3 min check frequency and status pages are included on the free plan.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added better stack</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b90c76ad3a57cd9e3943c9f416c9bb9d4e2e8698</link><description><![CDATA[<a href="https://betterstack.com/better-uptime">https://betterstack.com/better-uptime</a> - - Uptime monitoring, incident management, on-call scheduling/alerting and status pages in a single product.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Memfault to the "Crash and Exception Handling" section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/16a667343e8670ebfc52829eecac043de09acaec</link><description><![CDATA[<a href="https://app.memfault.com/register-laird">https://app.memfault.com/register-laird</a> - Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.<br>
  ]]></description>
 </item>
 
