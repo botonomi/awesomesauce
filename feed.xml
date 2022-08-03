@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Arvan Cloud from CDN and Protection</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/779c9e056030a3c2c7724106e75ace319e8de995</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4b977254b8c54c6f2256fb489e9ce747d97822af</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,11 +49,6 @@
 <item>
 	<title>Add asgardeo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eedeca48b91a4a389fc008cae0ed0bea3ae50a0a</link><description><![CDATA[<a href="https://wso2.com/asgardeo">https://wso2.com/asgardeo</a> - Seamless Integration of SSO, MFA, passwordless auth and more. Includes SDKs for frontend and backend apps. Free up to 1000 MAUs and 5 identity providers.<br>
- ]]></description>
-</item>
-<item>
-	<title>added useful link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2698f646c78d79b10dd2cba3030b049584f8bd6e</link><description><![CDATA[<a href="https://www.wrappixel.com/">https://www.wrappixel.com/</a> - Download High Quality Free and Premium Admin dashboard template created with Angular, React, VueJs, NextJs and NuxtJs!<br>
  ]]></description>
 </item>
 
