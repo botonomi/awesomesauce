@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove image4.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7adc0d4a796a8f110a255875bd657ad7444aeecd</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Remove Arvan Cloud from CDN and Protection</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/779c9e056030a3c2c7724106e75ace319e8de995</link><description><![CDATA[ ]]></description>
 </item>
