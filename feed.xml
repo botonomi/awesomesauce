@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update railway free plan quota</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/82b3d6c0e27f538d290c3f10f9730561f734f629</link><description><![CDATA[<a href="https://railway.app">https://railway.app</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 1GB Disk, 512 MB RAM, limited to $5 or 500 hours of usage monthly available for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add cronit app</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7a0ec27a8764b24a25c54e242b80062e48b98500</link><description><![CDATA[<a href="https://cronit.app">https://cronit.app</a> - Online cronjobs service. Free plan includes 100 job execution per month<br>
  ]]></description>
@@ -47,10 +52,6 @@
 	<title>add windmill.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ebac9417af2a919e4283e5d77b6d8b4b552d2500</link><description><![CDATA[<a href="https://windmill.dev/">https://windmill.dev/</a> - Windmill is an open-source developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.<br>
  ]]></description>
-</item>
-<item>
-	<title>update PR template to lower noise</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df3a920f15319d0f94fa27b7ad7c00a235b85a32</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
