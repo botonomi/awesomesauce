@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix minor typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/760a5b80fd8a2a2675ed97f1f0b7352214b7e948</link><description><![CDATA[<a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for your games<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/20be5df381cc74a6a36a6847b191e6cc0218e403</link><description><![CDATA[<a href="https://www.quidlo.com/timesheets">https://www.quidlo.com/timesheets</a> - - A simple timesheet and time tracking app for teams. Free plan has time tracking and generating reports features, it is available for up to 10 users.<br>
  ]]></description>
@@ -38,14 +43,6 @@
 <item>
 	<title>Remove Arvan Cloud from CDN and Protection</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/779c9e056030a3c2c7724106e75ace319e8de995</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4b977254b8c54c6f2256fb489e9ce747d97822af</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8787d92e1851ae95170728ce326923d7233290f5</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
