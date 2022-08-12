@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update humio logging limit per day</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/001115b94881ad1f49fda81027bcab46d35ca9fe</link><description><![CDATA[<a href="https://www.humio.com/">https://www.humio.com/</a> - Free up to 16 GB/day with 7 days retention<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ccbbf6b0696a549b30563dfeb62a40a7bbec07c4</link><description><![CDATA[<a href="https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 5 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Also provides automated public status pages (with support coming for 3rd party uptime monitoring">https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 5 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Also provides automated public status pages (with support coming for 3rd party uptime monitoring</a> - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 5 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Also provides automated public status pages (with support coming for 3rd party uptime monitoring). Free for up to 3 users, alerts via Slack, Discord, and Email.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix minor typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/760a5b80fd8a2a2675ed97f1f0b7352214b7e948</link><description><![CDATA[<a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for your games<br>
  ]]></description>
@@ -39,10 +49,6 @@
 <item>
 	<title>remove image4.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7adc0d4a796a8f110a255875bd657ad7444aeecd</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Arvan Cloud from CDN and Protection</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/779c9e056030a3c2c7724106e75ace319e8de995</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
