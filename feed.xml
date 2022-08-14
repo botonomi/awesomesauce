@@ -14,6 +14,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Add Screenshots</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/247c1616a8cf24b75cc926b3df721566cd37fa43</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - You API for Screenshot. With highly customizable options for capture. Free 100 screenshots/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix minor typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/760a5b80fd8a2a2675ed97f1f0b7352214b7e948</link><description><![CDATA[<a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for your games<br>
  ]]></description>
@@ -45,10 +50,6 @@
 	<title>Add DBaaS: filess.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8c3075549e2fa7d2e964661d8c40a3c932cf9717</link><description><![CDATA[<a href="https://filess.io">https://filess.io</a> - filess.io is a platform where you can create upto 5 databases of the following DBMS for free: MySQL, MariaDB, MongoDB, PostreSQL.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove image4.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7adc0d4a796a8f110a255875bd657ad7444aeecd</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
