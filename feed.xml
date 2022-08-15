@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Adapty.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2349ab6a7aabf67c0b83a9009d4f1093ea45f174</link><description><![CDATA[<a href="https://adapty.io/">https://adapty.io/</a> - One-stop solution with open-source SDK for mobile in-app subscriptions integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update humio logging limit per day</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/001115b94881ad1f49fda81027bcab46d35ca9fe</link><description><![CDATA[<a href="https://www.humio.com/">https://www.humio.com/</a> - Free up to 16 GB/day with 7 days retention<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e123606cd11f7674f5802a8bb6c1e1a31836609b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add DBaaS: filess.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c3075549e2fa7d2e964661d8c40a3c932cf9717</link><description><![CDATA[<a href="https://filess.io">https://filess.io</a> - filess.io is a platform where you can create upto 5 databases of the following DBMS for free: MySQL, MariaDB, MongoDB, PostreSQL.<br>
- ]]></description>
 </item>
 
 </channel>
