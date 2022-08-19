@@ -4,6 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removed Yandex.Connect</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e644f42116234590ea2217ad8f50858163b96297</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove jsonbin.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/28d576ebf9040cd515681cac8a4511c3d1c2a3ad</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update jsonbin.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e5aa2ed8c8e93a3280d0e938d0df15729e15f2f3</link><description><![CDATA[<a href="https://jsonbin.io/">https://jsonbin.io/</a> - JSON data storage service. Ideal for small-scale web apps, website, mobile apps. Free for first 10.000 requests<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update mogenius</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4dd85926e7d24594a3112bc55312be38dfaafd46</link><description><![CDATA[<a href="https://mogenius.com/">https://mogenius.com/</a> - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 0.5 CPU core, 1 GB RAM, 5 GB traffic, 2 GB SSD persistent storage.<br>
  ]]></description>
@@ -36,20 +49,6 @@
 	<title>Add Screenshots</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/247c1616a8cf24b75cc926b3df721566cd37fa43</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - You API for Screenshot. With highly customizable options for capture. Free 100 screenshots/month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Fix minor typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/760a5b80fd8a2a2675ed97f1f0b7352214b7e948</link><description><![CDATA[<a href="https://lospec.com/">https://lospec.com/</a> - Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for your games<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/20be5df381cc74a6a36a6847b191e6cc0218e403</link><description><![CDATA[<a href="https://www.quidlo.com/timesheets">https://www.quidlo.com/timesheets</a> - - A simple timesheet and time tracking app for teams. Free plan has time tracking and generating reports features, it is available for up to 10 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>removing runs-on.tech from free domain as repo archived</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1e6299785a9e5279d694705e2d5d2fac0519cfff</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
