@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Deno Deploy PaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f84c88af6a0d8114198e2dcc686528fbefcced3e</link><description><![CDATA[<a href="https://deno.com/deploy">https://deno.com/deploy</a> - - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge, worldwide. Free tier includes 100,000 requests per day and 100 GiB data transfer per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix grammar</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e25af5947c02bc0335a1d185763d3e7d278eed91</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding the details about what is free</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fb6d5baf106eeb17c5e27d603d71dd72f48aa6ef</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding the okso.app to the "Design and UI" section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/43392f6abcc2bef76d51f5ff385b6f7f5e3e8288</link><description><![CDATA[<a href="https://okso.app">https://okso.app</a> - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9928bb405605d1405b3cfba7693b8d3fb4bd92c1</link><description><![CDATA[<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.<br>
  ]]></description>
@@ -38,16 +58,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dc22c6611eaae94f2f6be2854e2d8124ce14e0a7</link><description><![CDATA[<a href="https://vector.express">https://vector.express</a> - Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT, PS and SVG vector fast and easily.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Adapty.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2349ab6a7aabf67c0b83a9009d4f1093ea45f174</link><description><![CDATA[<a href="https://adapty.io/">https://adapty.io/</a> - One-stop solution with open-source SDK for mobile in-app subscriptions integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update humio logging limit per day</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/001115b94881ad1f49fda81027bcab46d35ca9fe</link><description><![CDATA[<a href="https://www.humio.com/">https://www.humio.com/</a> - Free up to 16 GB/day with 7 days retention<br>
  ]]></description>
 </item>
 
