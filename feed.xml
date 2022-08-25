@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Correct doppler offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/560ae6a1578ae070be8dc044e86e5c390a12a245</link><description><![CDATA[<a href="https://doppler.com/">https://doppler.com/</a> - Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for 5 users with basic access controls.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add explanation of free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/885c36f596136001bf0881fc3c436a5f8f155f13</link><description><![CDATA[<a href="https://dotenv.com/">https://dotenv.com/</a> - Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add dotenv</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5fb768a8d9cb184abfd18bf525a7b531e335b08a</link><description><![CDATA[<a href="https://dotenv.com/">https://dotenv.com/</a> - Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update happi.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/88d16316c7985170521db0dee12c74d1f9ef2392</link><description><![CDATA[<a href="https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics">https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics</a> - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 4000 free API calls per month.<br>
  ]]></description>
@@ -47,20 +62,6 @@
 <item>
 	<title>Removed Yandex.Connect</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e644f42116234590ea2217ad8f50858163b96297</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove jsonbin.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/28d576ebf9040cd515681cac8a4511c3d1c2a3ad</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update jsonbin.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e5aa2ed8c8e93a3280d0e938d0df15729e15f2f3</link><description><![CDATA[<a href="https://jsonbin.io/">https://jsonbin.io/</a> - JSON data storage service. Ideal for small-scale web apps, website, mobile apps. Free for first 10.000 requests<br>
- ]]></description>
-</item>
-<item>
-	<title>Update mogenius</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4dd85926e7d24594a3112bc55312be38dfaafd46</link><description><![CDATA[<a href="https://mogenius.com/">https://mogenius.com/</a> - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 0.5 CPU core, 1 GB RAM, 5 GB traffic, 2 GB SSD persistent storage.<br>
- ]]></description>
 </item>
 
 </channel>
