@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/be7dcf636dbbbada22f1bd92f572d34b54d9ab42</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Fix to .org domain</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2fc46bb69a38c971322dae9a672bbd3de76c1ebc</link><description><![CDATA[<a href="https://dotenv.org/">https://dotenv.org/</a> - Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Correct doppler offering</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/560ae6a1578ae070be8dc044e86e5c390a12a245</link><description><![CDATA[<a href="https://doppler.com/">https://doppler.com/</a> - Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for 5 users with basic access controls.<br>
  ]]></description>
@@ -58,10 +67,6 @@
 	<title>Added Takeout</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8ddbe32be280cf5c3c139974227ac51320a5b64c</link><description><![CDATA[<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - 500 emails/month free.<br>
  ]]></description>
-</item>
-<item>
-	<title>Removed Yandex.Connect</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e644f42116234590ea2217ad8f50858163b96297</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
