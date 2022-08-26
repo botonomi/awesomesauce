@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adding Einblick</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/83652195b76ec48ed774601348978ca00d5d068d</link><description><![CDATA[<a href="https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML">https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML</a> - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML) or comparing populations. Free tier includes 5 canvases and unlimited collaborators.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove heroku because it is no more free</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0cef6671b7c12709b885f0f0683ddeadc1a2b113</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'ripienaar:master' into master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/be7dcf636dbbbada22f1bd92f572d34b54d9ab42</link><description><![CDATA[ ]]></description>
 </item>
@@ -51,21 +60,6 @@
 <item>
 	<title>Adding the details about what is free</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fb6d5baf106eeb17c5e27d603d71dd72f48aa6ef</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding the okso.app to the "Design and UI" section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/43392f6abcc2bef76d51f5ff385b6f7f5e3e8288</link><description><![CDATA[<a href="https://okso.app">https://okso.app</a> - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9928bb405605d1405b3cfba7693b8d3fb4bd92c1</link><description><![CDATA[<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Takeout</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8ddbe32be280cf5c3c139974227ac51320a5b64c</link><description><![CDATA[<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - 500 emails/month free.<br>
  ]]></description>
 </item>
 
