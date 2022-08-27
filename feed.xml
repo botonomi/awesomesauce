@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add domcloud.co to list of free PaaS service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7f0748ecb35719a6c98edece2e29936a9dd629a1</link><description><![CDATA[<a href="https://domcloud.co">https://domcloud.co</a> - Linux hosting service that also provides CI/CD with GitHub, SSH and MariaDB/Postgres database. Free version has 1 GB storage and 1 GB network/month limit and limited to a free domain.<br>
+ ]]></description>
+</item>
+<item>
 	<title>adding Einblick</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/83652195b76ec48ed774601348978ca00d5d068d</link><description><![CDATA[<a href="https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML">https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML</a> - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML) or comparing populations. Free tier includes 5 canvases and unlimited collaborators.<br>
  ]]></description>
@@ -50,16 +55,6 @@
 <item>
 	<title>Add Deno Deploy PaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f84c88af6a0d8114198e2dcc686528fbefcced3e</link><description><![CDATA[<a href="https://deno.com/deploy">https://deno.com/deploy</a> - - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge, worldwide. Free tier includes 100,000 requests per day and 100 GiB data transfer per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix grammar</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e25af5947c02bc0335a1d185763d3e7d278eed91</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding the details about what is free</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fb6d5baf106eeb17c5e27d603d71dd72f48aa6ef</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
  ]]></description>
 </item>
 
