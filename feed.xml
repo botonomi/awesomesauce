@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added "3Dassets.one" in Game Development</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dfcd4406a8551cc1b08c2275009ecc227dc659f6</link><description><![CDATA[<a href="https://www.3dassets.one/">https://www.3dassets.one/</a> - Over 8,000 free/paid 3D models, and PBR materials for making textures.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add SuperTokens to the "Security and PKI" section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/341866a2328aac26c7846b145765137b1d7cc5a5</link><description><![CDATA[<a href="https://supertokens.com/">https://supertokens.com/</a> - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.<br>
  ]]></description>
@@ -60,15 +65,6 @@
 	<title>Add domcloud.co to list of free PaaS service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7f0748ecb35719a6c98edece2e29936a9dd629a1</link><description><![CDATA[<a href="https://domcloud.co">https://domcloud.co</a> - Linux hosting service that also provides CI/CD with GitHub, SSH and MariaDB/Postgres database. Free version has 1 GB storage and 1 GB network/month limit and limited to a free domain.<br>
  ]]></description>
-</item>
-<item>
-	<title>adding Einblick</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/83652195b76ec48ed774601348978ca00d5d068d</link><description><![CDATA[<a href="https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML">https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML</a> - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate common tasks such as building predictive models (AutoML) or comparing populations. Free tier includes 5 canvases and unlimited collaborators.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove heroku because it is no more free</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0cef6671b7c12709b885f0f0683ddeadc1a2b113</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
