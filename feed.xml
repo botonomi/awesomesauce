@@ -4,6 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Keep notation consistent</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/53945de1c2b5ed428f8a55d91fe2cf98e9a815af</link><description><![CDATA[<a href="https://konghq.com/">https://konghq.com/</a> - API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.<br>
+<a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
+<a href="https://app.diagrams.net/">https://app.diagrams.net/</a> - Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels<br>
+ ]]></description>
+</item>
+<item>
+	<title>add nextbillion.ai maps related services & SDK</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/db89acb83fc3970a79de29b920dfde26dd2ca445</link><description><![CDATA[<a href="https://nextbillion.ai/pricing">https://nextbillion.ai/pricing</a> - Maps related services: Geocoding, Navigation (Direction, Routing, Route Optimization, Distance Matrix), Maps SDK (Vector, Static, Mobile SDK). [Free with specified quota](https://nextbillion.ai/pricing) for each services.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added "3Dassets.one" in Game Development</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dfcd4406a8551cc1b08c2275009ecc227dc659f6</link><description><![CDATA[<a href="https://www.3dassets.one/">https://www.3dassets.one/</a> - Over 8,000 free/paid 3D models, and PBR materials for making textures.<br>
  ]]></description>
@@ -59,11 +71,6 @@
 <item>
 	<title>add bunny fonts</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3949f36777b18abeb80add1b6cc9a4c0464b9615</link><description><![CDATA[<a href="https://fonts.bunny.net/">https://fonts.bunny.net/</a> - - Easily integrate Bunny Fonts into your website with a Google Fonts drop-in compatible API. But without the tracking!.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add domcloud.co to list of free PaaS service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7f0748ecb35719a6c98edece2e29936a9dd629a1</link><description><![CDATA[<a href="https://domcloud.co">https://domcloud.co</a> - Linux hosting service that also provides CI/CD with GitHub, SSH and MariaDB/Postgres database. Free version has 1 GB storage and 1 GB network/month limit and limited to a free domain.<br>
  ]]></description>
 </item>
 
