@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Cauldron.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7033f0ec2502205bd05b8fdc964dad954587a42</link><description><![CDATA[<a href="https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...">https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...</a> - Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...). Free tier includes unlimited number of reports.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add other Free Resources</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/09fec84abba3a269a5b1c8bea50ada0ad431a15c</link><description><![CDATA[<a href="https://utils.fun/en">https://utils.fun/en</a> - All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Keep notation consistent</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/53945de1c2b5ed428f8a55d91fe2cf98e9a815af</link><description><![CDATA[<a href="https://konghq.com/">https://konghq.com/</a> - API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.<br>
 <a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
@@ -51,26 +61,6 @@
 <item>
 	<title>Merge branch 'ripienaar:master' into add-raven</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fb5760f94570ecbc3e16fcfb8707e92ba3cad834</link><description><![CDATA[<a href="https://www.kvstore.io/">https://www.kvstore.io/</a> - Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour<br>
- ]]></description>
-</item>
-<item>
-	<title>add raven.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cf8cdec376494fa9f88cc7dddf99905d4195fb69</link><description><![CDATA[<a href="https://www.raven.dev/">https://www.raven.dev/</a> - API to manage notifications across SMS, Email, Push, Slack, WA & more, First 10,000 events free every month<br>
- ]]></description>
-</item>
-<item>
-	<title>Bunny DNS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d8e96891e1b79e02103214c40324f4e082790e0</link><description><![CDATA[<a href="https://bunny.net/dns/">https://bunny.net/dns/</a> - - DNS hosting, 20 million free queries<br>
- ]]></description>
-</item>
-<item>
-	<title>Add kvstore.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9d8f79588667b6a9776892ea18faddd5ecebe3d7</link><description><![CDATA[<a href="https://www.kvstore.io/">https://www.kvstore.io/</a> - Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour<br>
- ]]></description>
-</item>
-<item>
-	<title>add bunny fonts</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3949f36777b18abeb80add1b6cc9a4c0464b9615</link><description><![CDATA[<a href="https://fonts.bunny.net/">https://fonts.bunny.net/</a> - - Easily integrate Bunny Fonts into your website with a Google Fonts drop-in compatible API. But without the tracking!.<br>
  ]]></description>
 </item>
 
