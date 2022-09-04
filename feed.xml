@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>summaryzing description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fc6951a8f2aeaf0517b7a93db3982ad8ef601386</link><description><![CDATA[<a href="https://rocket.chat/">https://rocket.chat/</a> - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging and Full messaging history.<br>
+ ]]></description>
+</item>
+<item>
+	<title>improving RC description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d604c9d23a20e7d16fe46fa14a9aab6befada602</link><description><![CDATA[<a href="https://rocket.chat/">https://rocket.chat/</a> - Open-source, secure, and compliant communications platform includes features like: Apps Marketplace, White labeling, Omnichannel features and apps, Matrix Federation, Bridge to Slack, Teams, and others, End-to-end encryption, Unlimited 1:1 and group messaging, Full messaging history, and much more! Free Tier includes several listed features as Unlimited 1:1 and group messaging and Full messaging history.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Cauldron.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7033f0ec2502205bd05b8fdc964dad954587a42</link><description><![CDATA[<a href="https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...">https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...</a> - Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...). Free tier includes unlimited number of reports.<br>
  ]]></description>
@@ -51,16 +61,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/b32dcbec34c377e0d512e5af7a71768e6c006f27</link><description><![CDATA[<a href="https://bunny.net">https://bunny.net</a> - <br>
 <a href="https://fonts.bunny.net/">https://fonts.bunny.net/</a> - - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.<br>
 <a href="https://bunny.net/dns/">https://bunny.net/dns/</a> - - DNS hosting, 20 million free queries<br>
- ]]></description>
-</item>
-<item>
-	<title>Update bunnyfonts feedback</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/716c807521c969e2e9f6f13cf3f9933608dfe3cc</link><description><![CDATA[<a href="https://fonts.bunny.net/">https://fonts.bunny.net/</a> - - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into add-raven</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fb5760f94570ecbc3e16fcfb8707e92ba3cad834</link><description><![CDATA[<a href="https://www.kvstore.io/">https://www.kvstore.io/</a> - Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour<br>
  ]]></description>
 </item>
 
