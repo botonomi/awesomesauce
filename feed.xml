@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c033c1a0d7940de09b8d7b6f2a9b2f45ac24d8bc</link><description><![CDATA[<a href="https://easyvectors.com/">https://easyvectors.com/</a> - EasyVectors.com is a stock of quality free SVG vector art. Download best vector graphics absolutely for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added tldraw under Tools for Teams and Collaboration</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/81d87e028ea3ea57d145c779a3dc1cea84b37f8b</link><description><![CDATA[<a href="https://tldraw.com">https://tldraw.com</a> - Free open source white-boarding and diagramming tool with features such as smart arrows, snapping, sticky notes, and SVG export. Multiplayer mode for collaborative editing. Free official VS Code extension available as well.<br>
+ ]]></description>
+</item>
+<item>
 	<title>summaryzing description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fc6951a8f2aeaf0517b7a93db3982ad8ef601386</link><description><![CDATA[<a href="https://rocket.chat/">https://rocket.chat/</a> - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging and Full messaging history.<br>
  ]]></description>
@@ -43,24 +53,6 @@
 <item>
 	<title>Add SuperTokens to the "Security and PKI" section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/341866a2328aac26c7846b145765137b1d7cc5a5</link><description><![CDATA[<a href="https://supertokens.com/">https://supertokens.com/</a> - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.<br>
- ]]></description>
-</item>
-<item>
-	<title>add gcore free services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3d2258c0eee37c43c63f34c42c0d388762cec051</link><description><![CDATA[<a href="https://gcorelabs.com/">https://gcorelabs.com/</a> - <br>
-<a href="https://gcorelabs.com/cdn/">https://gcorelabs.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
-<a href="https://gcorelabs.com/dns/">https://gcorelabs.com/dns/</a> - — Free DNS hosting.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove raven.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/95134aa626d87c743fc1c610b8e0c9e724370dd4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>all the bunny.net free services together</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b32dcbec34c377e0d512e5af7a71768e6c006f27</link><description><![CDATA[<a href="https://bunny.net">https://bunny.net</a> - <br>
-<a href="https://fonts.bunny.net/">https://fonts.bunny.net/</a> - - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.<br>
-<a href="https://bunny.net/dns/">https://bunny.net/dns/</a> - - DNS hosting, 20 million free queries<br>
  ]]></description>
 </item>
 
