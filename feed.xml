@@ -34,6 +34,16 @@
  ]]></description>
 </item>
 <item>
+	<title>Typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/69b8c09bfdd6d7be4a83301a2ce86c1d52d9f486</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dc800ac63b01679efe75d6890e510c84b3ac24ac</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - Your API for Screenshot. With highly customizable options for capture. Free 100 screenshots/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Keep notation consistent</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/53945de1c2b5ed428f8a55d91fe2cf98e9a815af</link><description><![CDATA[<a href="https://konghq.com/">https://konghq.com/</a> - API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.<br>
 <a href="https://forestry.io/">https://forestry.io/</a> - Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere<br>
@@ -48,11 +58,6 @@
 <item>
 	<title>Added "3Dassets.one" in Game Development</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dfcd4406a8551cc1b08c2275009ecc227dc659f6</link><description><![CDATA[<a href="https://www.3dassets.one/">https://www.3dassets.one/</a> - Over 8,000 free/paid 3D models, and PBR materials for making textures.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add SuperTokens to the "Security and PKI" section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/341866a2328aac26c7846b145765137b1d7cc5a5</link><description><![CDATA[<a href="https://supertokens.com/">https://supertokens.com/</a> - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.<br>
  ]]></description>
 </item>
 
