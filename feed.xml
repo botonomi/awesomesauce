@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Bumping 2 GB to 10 GB</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/293c6f9bd9c055a4b13c435bf253c3f054eca438</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove disposable email services without contact details</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c4f9519f269b9be39c3a751ca1b5c9ca1c4737ba</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/69b8c09bfdd6d7be4a83301a2ce86c1d52d9f486</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dc800ac63b01679efe75d6890e510c84b3ac24ac</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - Your API for Screenshot. With highly customizable options for capture. Free 100 screenshots/month.<br>
  ]]></description>
 </item>
 
