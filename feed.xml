@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove automate.io (retired)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a51a02ca2fd1e6b789497e1071656bad8eaa61ad</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Bumping 2 GB to 10 GB</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/293c6f9bd9c055a4b13c435bf253c3f054eca438</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!<br>
  ]]></description>
@@ -46,16 +50,6 @@
 <item>
 	<title>Add other Free Resources</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/09fec84abba3a269a5b1c8bea50ada0ad431a15c</link><description><![CDATA[<a href="https://utils.fun/en">https://utils.fun/en</a> - All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Microtica as a CI/CD tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/145d93caa1329f9873db161df67a2315aa17e3ff</link><description><![CDATA[<a href="https://microtica.com/">https://microtica.com/</a> - Spin up environments with ready-made infrastructure components, deploy apps on Kubernetes for free and support your production workloads<br>
- ]]></description>
-</item>
-<item>
-	<title>Typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/69b8c09bfdd6d7be4a83301a2ce86c1d52d9f486</link><description><![CDATA[<a href="https://screenshotson.click">https://screenshotson.click</a> - Your API for Screenshots. With highly customizable options for capture. Free 100 screenshots/month.<br>
  ]]></description>
 </item>
 
