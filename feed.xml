@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update WayScript free runtime hours</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5f8040824fada793bbfd7a32cb3d943b58dd2320</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove automate.io (retired)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a51a02ca2fd1e6b789497e1071656bad8eaa61ad</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add Cauldron.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7033f0ec2502205bd05b8fdc964dad954587a42</link><description><![CDATA[<a href="https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...">https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...</a> - Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...). Free tier includes unlimited number of reports.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add other Free Resources</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/09fec84abba3a269a5b1c8bea50ada0ad431a15c</link><description><![CDATA[<a href="https://utils.fun/en">https://utils.fun/en</a> - All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.<br>
  ]]></description>
 </item>
 
