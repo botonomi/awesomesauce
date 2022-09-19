@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Porter</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ce9ddc0e84fa6fa3c2667013bec8e34a3ffd90bf</link><description><![CDATA[<a href="https://getporter.dev/">https://getporter.dev/</a> - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Napkin</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e010b817c34a6b18b6bf35dfbfbe56c2c6b10511</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/be291c441318fbda592ea9a24d36cf78499d9636</link><description><![CDATA[<a href="https://advicement.io">https://advicement.io</a> - Generate PDF documents with JSON to PDF API based on LaTeX templates. Free plan allows 50 API calls per month and access to a library of templates.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove layer0</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/046ebadf9477d8a9d695f6887b4bcf1d9152eccd</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update WayScript free runtime hours</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f8040824fada793bbfd7a32cb3d943b58dd2320</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
  ]]></description>
@@ -25,31 +44,6 @@
 <item>
 	<title>Expanded description for Microtica</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/64d46dd7fa5ce7482dd517175131306affcefd74</link><description><![CDATA[<a href="https://microtica.com/">https://microtica.com/</a> - Spin up environments with ready-made infrastructure components, deploy apps on Kubernetes for free and support your production workloads. Free tier includes 2 services, 100 build minutes/month and 20 deployments/month on a shared Kubernetes Cluster provided by us.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c033c1a0d7940de09b8d7b6f2a9b2f45ac24d8bc</link><description><![CDATA[<a href="https://easyvectors.com/">https://easyvectors.com/</a> - EasyVectors.com is a stock of quality free SVG vector art. Download best vector graphics absolutely for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>added tldraw under Tools for Teams and Collaboration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/81d87e028ea3ea57d145c779a3dc1cea84b37f8b</link><description><![CDATA[<a href="https://tldraw.com">https://tldraw.com</a> - Free open source white-boarding and diagramming tool with features such as smart arrows, snapping, sticky notes, and SVG export. Multiplayer mode for collaborative editing. Free official VS Code extension available as well.<br>
- ]]></description>
-</item>
-<item>
-	<title>summaryzing description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fc6951a8f2aeaf0517b7a93db3982ad8ef601386</link><description><![CDATA[<a href="https://rocket.chat/">https://rocket.chat/</a> - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging and Full messaging history.<br>
- ]]></description>
-</item>
-<item>
-	<title>improving RC description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d604c9d23a20e7d16fe46fa14a9aab6befada602</link><description><![CDATA[<a href="https://rocket.chat/">https://rocket.chat/</a> - Open-source, secure, and compliant communications platform includes features like: Apps Marketplace, White labeling, Omnichannel features and apps, Matrix Federation, Bridge to Slack, Teams, and others, End-to-end encryption, Unlimited 1:1 and group messaging, Full messaging history, and much more! Free Tier includes several listed features as Unlimited 1:1 and group messaging and Full messaging history.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Cauldron.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7033f0ec2502205bd05b8fdc964dad954587a42</link><description><![CDATA[<a href="https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...">https://cauldron.io) — Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...</a> - Analytics open source solution that allows users to aggregate information from multiple collaboration platforms as different types of data sources (Git, Github, Gitlab...). Free tier includes unlimited number of reports.<br>
  ]]></description>
 </item>
 
