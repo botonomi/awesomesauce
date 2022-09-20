@@ -4,6 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update free-plan quota description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dd41c5b6e3f36fcc9fd06d5ae7696f68ac0b9300</link><description><![CDATA[<a href="https://form-data.com">https://form-data.com</a> - No-code forms backend. Spam filter, email notification and auto-respond, webhooks, zapier, redirects, AJAX or POST and more. Free plan offers unlimited forms, 20 submissions/month and additional 2000 submissions with Form-Data badge.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b145947bb0ddf848212de78f7dbecb19dbf8faa</link><description><![CDATA[<a href="https://advicement.io">https://advicement.io</a> - Generate PDF documents with JSON to PDF API based on LaTeX templates. Free plan allows 50 API calls per month and access to a library of templates.<br>
+<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.<br>
+<a href="https://getporter.dev/">https://getporter.dev/</a> - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Porter</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ce9ddc0e84fa6fa3c2667013bec8e34a3ffd90bf</link><description><![CDATA[<a href="https://getporter.dev/">https://getporter.dev/</a> - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.<br>
  ]]></description>
@@ -23,6 +35,16 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/046ebadf9477d8a9d695f6887b4bcf1d9152eccd</link><description><![CDATA[ ]]></description>
 </item>
 <item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c9821fe6275ae5833d7d9a2ce9d5360541b5810e</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added form-data</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1fd653793edaa19c3f53b1abe001665579a02e03</link><description><![CDATA[<a href="https://form-data.com">https://form-data.com</a> - No-code forms backend. Spam filter, email notification and auto-respond, webhooks, zapier, redirects, AJAX or POST and more. Free plan offers unlimited forms and 2000 submissions.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update WayScript free runtime hours</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f8040824fada793bbfd7a32cb3d943b58dd2320</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
  ]]></description>
@@ -34,16 +56,6 @@
 <item>
 	<title>Bumping 2 GB to 10 GB</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/293c6f9bd9c055a4b13c435bf253c3f054eca438</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!<br>
- ]]></description>
-</item>
-<item>
-	<title>remove disposable email services without contact details</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c4f9519f269b9be39c3a751ca1b5c9ca1c4737ba</link><description><![CDATA[<a href="https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed">https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed</a> - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).<br>
- ]]></description>
-</item>
-<item>
-	<title>Expanded description for Microtica</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/64d46dd7fa5ce7482dd517175131306affcefd74</link><description><![CDATA[<a href="https://microtica.com/">https://microtica.com/</a> - Spin up environments with ready-made infrastructure components, deploy apps on Kubernetes for free and support your production workloads. Free tier includes 2 services, 100 build minutes/month and 20 deployments/month on a shared Kubernetes Cluster provided by us.<br>
  ]]></description>
 </item>
 
