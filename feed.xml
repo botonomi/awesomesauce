@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixed formating</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d9bdda83d5c8655ec07a12dc5f3db7bb2229b5eb</link><description><![CDATA[<a href="https://teleporthq.io/">https://teleporthq.io/</a> - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. 3 free projects, unlimited collaborators, free code export.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update teleportHQ description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8ef0db78d93b6ae156264b06d7d4d03829bde040</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update Readme with teleportHQ.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ca841d64f98ccf617d5146060b2b575506e23245</link><description><![CDATA[<a href="https://teleporthq.io/">https://teleporthq.io/</a> - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform with integrated UI development and content modelling tools. A powerful visual builder to create and publish your headless static websites instantly.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Jotcode since it's shutdown</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dad865b6a66cdb36f8d74d62218fa99ed5163c5d</link><description><![CDATA[ ]]></description>
 </item>
@@ -47,15 +61,6 @@
 	<title>Added form-data</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1fd653793edaa19c3f53b1abe001665579a02e03</link><description><![CDATA[<a href="https://form-data.com">https://form-data.com</a> - No-code forms backend. Spam filter, email notification and auto-respond, webhooks, zapier, redirects, AJAX or POST and more. Free plan offers unlimited forms and 2000 submissions.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update WayScript free runtime hours</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f8040824fada793bbfd7a32cb3d943b58dd2320</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
- ]]></description>
-</item>
-<item>
-	<title>remove automate.io (retired)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a51a02ca2fd1e6b789497e1071656bad8eaa61ad</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
