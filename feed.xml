@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Jotcode since it's shutdown</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dad865b6a66cdb36f8d74d62218fa99ed5163c5d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>update free-plan quota description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dd41c5b6e3f36fcc9fd06d5ae7696f68ac0b9300</link><description><![CDATA[<a href="https://form-data.com">https://form-data.com</a> - No-code forms backend. Spam filter, email notification and auto-respond, webhooks, zapier, redirects, AJAX or POST and more. Free plan offers unlimited forms, 20 submissions/month and additional 2000 submissions with Form-Data badge.<br>
  ]]></description>
@@ -52,11 +56,6 @@
 <item>
 	<title>remove automate.io (retired)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a51a02ca2fd1e6b789497e1071656bad8eaa61ad</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Bumping 2 GB to 10 GB</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/293c6f9bd9c055a4b13c435bf253c3f054eca438</link><description><![CDATA[<a href="https://internxt.com">https://internxt.com</a> - Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!<br>
- ]]></description>
 </item>
 
 </channel>
