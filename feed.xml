@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Formester.com to Forms section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4e6516a342088bbf4809fba19dc01af5ccfa1e87</link><description><![CDATA[<a href="https://formester.com">https://formester.com</a> - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fixed formating</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d9bdda83d5c8655ec07a12dc5f3db7bb2229b5eb</link><description><![CDATA[<a href="https://teleporthq.io/">https://teleporthq.io/</a> - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. 3 free projects, unlimited collaborators, free code export.<br>
  ]]></description>
@@ -55,11 +60,6 @@
 <item>
 	<title>Merge branch 'ripienaar:master' into master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c9821fe6275ae5833d7d9a2ce9d5360541b5810e</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
- ]]></description>
-</item>
-<item>
-	<title>Added form-data</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1fd653793edaa19c3f53b1abe001665579a02e03</link><description><![CDATA[<a href="https://form-data.com">https://form-data.com</a> - No-code forms backend. Spam filter, email notification and auto-respond, webhooks, zapier, redirects, AJAX or POST and more. Free plan offers unlimited forms and 2000 submissions.<br>
  ]]></description>
 </item>
 
