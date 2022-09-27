@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>DBaaS bit.io update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9ab11135e60d710763d1cb3fb1aa410af0383e12</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Formester.com to Forms section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4e6516a342088bbf4809fba19dc01af5ccfa1e87</link><description><![CDATA[<a href="https://formester.com">https://formester.com</a> - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.<br>
  ]]></description>
@@ -51,15 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/be291c441318fbda592ea9a24d36cf78499d9636</link><description><![CDATA[<a href="https://advicement.io">https://advicement.io</a> - Generate PDF documents with JSON to PDF API based on LaTeX templates. Free plan allows 50 API calls per month and access to a library of templates.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove layer0</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/046ebadf9477d8a9d695f6887b4bcf1d9152eccd</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c9821fe6275ae5833d7d9a2ce9d5360541b5810e</link><description><![CDATA[<a href="https://www.wayscript.com/pricing">https://www.wayscript.com/pricing</a> - is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time. Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).<br>
  ]]></description>
 </item>
 
