@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d6fc5a641b3191dda059e037bbb202ce85a3f9df</link><description><![CDATA[<a href="https://freeforcommercialuse.net/">https://freeforcommercialuse.net/</a> - FFCU Worry-free model/property release stock photos<br>
+ ]]></description>
+</item>
+<item>
 	<title>DBaaS bit.io update</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ab11135e60d710763d1cb3fb1aa410af0383e12</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month<br>
  ]]></description>
@@ -46,16 +51,6 @@
 <item>
 	<title>Update Porter</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ce9ddc0e84fa6fa3c2667013bec8e34a3ffd90bf</link><description><![CDATA[<a href="https://getporter.dev/">https://getporter.dev/</a> - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Napkin</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e010b817c34a6b18b6bf35dfbfbe56c2c6b10511</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/be291c441318fbda592ea9a24d36cf78499d9636</link><description><![CDATA[<a href="https://advicement.io">https://advicement.io</a> - Generate PDF documents with JSON to PDF API based on LaTeX templates. Free plan allows 50 API calls per month and access to a library of templates.<br>
  ]]></description>
 </item>
 
