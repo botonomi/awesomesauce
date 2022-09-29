@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove duplicated entry</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/693c29dac2b9bd2598e885a158fe67d8cf029769</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d6fc5a641b3191dda059e037bbb202ce85a3f9df</link><description><![CDATA[<a href="https://freeforcommercialuse.net/">https://freeforcommercialuse.net/</a> - FFCU Worry-free model/property release stock photos<br>
  ]]></description>
@@ -46,11 +50,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/5b145947bb0ddf848212de78f7dbecb19dbf8faa</link><description><![CDATA[<a href="https://advicement.io">https://advicement.io</a> - Generate PDF documents with JSON to PDF API based on LaTeX templates. Free plan allows 50 API calls per month and access to a library of templates.<br>
 <a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.<br>
 <a href="https://getporter.dev/">https://getporter.dev/</a> - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Porter</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ce9ddc0e84fa6fa3c2667013bec8e34a3ffd90bf</link><description><![CDATA[<a href="https://getporter.dev/">https://getporter.dev/</a> - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.<br>
  ]]></description>
 </item>
 
