@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fixed hyperlink</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/99ad1c1591d013e73657adfa2f565e4ae040d10e</link><description><![CDATA[<a href="https://zoho.com/sign">https://zoho.com/sign</a> - <br>
+ ]]></description>
+</item>
+<item>
+	<title>Removed link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/30cd3b48d1dddebd6554420f3663f8fd79b85148</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Removed link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/11fa0e4fd7cffdb26fd94703bc4ae2fcabbb3983</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,16 +54,6 @@
 <item>
 	<title>DBaaS bit.io update</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ab11135e60d710763d1cb3fb1aa410af0383e12</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Formester.com to Forms section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4e6516a342088bbf4809fba19dc01af5ccfa1e87</link><description><![CDATA[<a href="https://formester.com">https://formester.com</a> - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixed formating</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d9bdda83d5c8655ec07a12dc5f3db7bb2229b5eb</link><description><![CDATA[<a href="https://teleporthq.io/">https://teleporthq.io/</a> - Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to create and publish your headless static websites instantly. 3 free projects, unlimited collaborators, free code export.<br>
  ]]></description>
 </item>
 
