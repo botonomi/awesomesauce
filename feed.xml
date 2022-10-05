@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7f4188abecb82a9f462662c984a056d490df243a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Fixed hyperlink</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/99ad1c1591d013e73657adfa2f565e4ae040d10e</link><description><![CDATA[<a href="https://zoho.com/sign">https://zoho.com/sign</a> - <br>
  ]]></description>
@@ -49,11 +53,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d6fc5a641b3191dda059e037bbb202ce85a3f9df</link><description><![CDATA[<a href="https://freeforcommercialuse.net/">https://freeforcommercialuse.net/</a> - FFCU Worry-free model/property release stock photos<br>
- ]]></description>
-</item>
-<item>
-	<title>DBaaS bit.io update</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9ab11135e60d710763d1cb3fb1aa410af0383e12</link><description><![CDATA[<a href="https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst">https://bit.io) — Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst</a> - Managed PostgreSQL database service. 3 database, 3GB storage per database, 1 CPU and 1GB Memory (burst), 1B rows queried per month<br>
  ]]></description>
 </item>
 
