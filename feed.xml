@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/171dba6a7ac58ba76c1bb4ec898c0ffff5ffd8c1</link><description><![CDATA[<a href="https://www.3dmodelscc0.com/">https://www.3dmodelscc0.com/</a> - Library of public domain 3D models made for game development.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated Planetscale Free Tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0ecefaf08c5480a92d25d58426553421ae9df917</link><description><![CDATA[<a href="https://planetscale.com/">https://planetscale.com/</a> - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 1 databases for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.<br>
  ]]></description>
@@ -43,17 +48,6 @@
 <item>
 	<title>Fixed indent</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8367ddeef1ebd737151e042a87bff959f4fa5be0</link><description><![CDATA[<a href="https://www.kiter.app/">https://www.kiter.app/</a> - Let's anyone organize their job search and keep track of interviews, opportunities, and connections. Powerful web app and chrome extension. Completely free.<br>
- ]]></description>
-</item>
-<item>
-	<title>PR for [PromptLoop, Kiter]</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f983759bc82eb7fce685691db0c4fa3c5085fc7e</link><description><![CDATA[<a href="https://www.promptloop.com/">https://www.promptloop.com/</a> - Use AI and large language models like GPT-3 with a single simple spreadsheet formula to tranform, comprehend, and analyze text in Google Sheets. First 2,000 credits free each month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding [PromptLoop, Kiter] for PR</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a679a6e572c892f69c824d73379f6e2272cc1e06</link><description><![CDATA[<a href="https://www.promptloop.com/">https://www.promptloop.com/</a> - Use AI and large language models with a single simple spreadsheet formula in Google Sheets. First 2,000 credits free each month.<br>
-<a href="https://www.kiter.app/">https://www.kiter.app/</a> - Let's anyone organize their job search and keep track of interviews, opportunities, and connections. Powerful web app and chrome extension. Completely free.<br>
  ]]></description>
 </item>
 
