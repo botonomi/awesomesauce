@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add Wdrfree SVG</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7c27e33ff5dac9607a5dfc3a6f4ad19ca96954ed</link><description><![CDATA[<a href="https://wdrfree.com/free-svg">https://wdrfree.com/free-svg</a> - - Black and White Free SVG Cut files.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/171dba6a7ac58ba76c1bb4ec898c0ffff5ffd8c1</link><description><![CDATA[<a href="https://www.3dmodelscc0.com/">https://www.3dmodelscc0.com/</a> - Library of public domain 3D models made for game development.<br>
  ]]></description>
@@ -43,11 +48,6 @@
 	<title>Removed dead services and updated modified ones</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/05191d941934cfe87890dafcf041a4ffe49f4b22</link><description><![CDATA[<a href="https://www.make.com/en">https://www.make.com/en</a> - Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.<br>
 <a href="https://escape.tech/">https://escape.tech/</a> - Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixed indent</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8367ddeef1ebd737151e042a87bff959f4fa5be0</link><description><![CDATA[<a href="https://www.kiter.app/">https://www.kiter.app/</a> - Let's anyone organize their job search and keep track of interviews, opportunities, and connections. Powerful web app and chrome extension. Completely free.<br>
  ]]></description>
 </item>
 
