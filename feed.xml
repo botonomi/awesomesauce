@@ -4,6 +4,37 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add androidfilehost</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8e2ad7021103819d25c0af909e7678f81a97cffd</link><description><![CDATA[<a href="https://androidfilehost.com/">https://androidfilehost.com/</a> - Free file sharing platform with unlimited speed, bandwidth, file count, download count, etc. Mainly aimed for Android dev related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add hackmd.io markdown file collaboration tool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/805387f42d8cb9b8d28970df0cd4b2a433e7d88a</link><description><![CDATA[<a href="https://hackmd.io/pricing">https://hackmd.io/pricing</a> - Real time collaboration & writing tool for markdown format docs/files. Like GoogleDocs but for markdown files. Free unlimited number of "notes", but number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).<br>
+ ]]></description>
+</item>
+<item>
+	<title>add gofile.io free file sharing storage platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e69d968b1c7377158ce0ba61a79bb1d554cfe916</link><description><![CDATA[<a href="https://gofile.io/) - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days">https://gofile.io/) - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days</a> - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days), it will be deleted.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add cyberchef</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/596b344acbba23c8a2410bba0630b2ea8313a55d</link><description><![CDATA[<a href="https://gchq.github.io/CyberChef/">https://gchq.github.io/CyberChef/</a> - A simple, intuitive web app for analysing and decoding/encoding data without having to deal with complex tools or programming languages. Like a swiss army knife of cryptography & encryption. All features are free to use, no limit. Open source, if you wish to self-host.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add commandbar</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1d6e5bbb14b98f6a62a6bbb6edb0b6c580f9e2a1</link><description><![CDATA[<a href="https://www.commandbar.com/">https://www.commandbar.com/</a> - Unified Search Bar as-a-service, web based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up-to 1000 Monthly Active Users, unlimited commands.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add proton mail & tutanota</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d0908a0b6b824fa213f3bdb0cb0e9f770d147f6a</link><description><![CDATA[<a href="https://proton.me/mail">https://proton.me/mail</a> - - Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.<br>
+<a href="https://github.com/tutao/tutanota">https://github.com/tutao/tutanota</a> - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source](https://github.com/tutao/tutanota), so you can opt to self-host.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Wdrfree SVG</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7c27e33ff5dac9607a5dfc3a6f4ad19ca96954ed</link><description><![CDATA[<a href="https://wdrfree.com/free-svg">https://wdrfree.com/free-svg</a> - - Black and White Free SVG Cut files.<br>
  ]]></description>
@@ -21,33 +52,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b6b4719fc148c9185b88d2a4f13419f04e90af7d</link><description><![CDATA[<a href="https://volca.io#api">https://volca.io#api</a> - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7f4188abecb82a9f462662c984a056d490df243a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Fixed hyperlink</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/99ad1c1591d013e73657adfa2f565e4ae040d10e</link><description><![CDATA[<a href="https://zoho.com/sign">https://zoho.com/sign</a> - <br>
- ]]></description>
-</item>
-<item>
-	<title>Removed link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/30cd3b48d1dddebd6554420f3663f8fd79b85148</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removed link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/11fa0e4fd7cffdb26fd94703bc4ae2fcabbb3983</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removed link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3783b6d9d65ab814eaecb0258a02dc8478a4e6d2</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Removed dead services and updated modified ones</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/05191d941934cfe87890dafcf041a4ffe49f4b22</link><description><![CDATA[<a href="https://www.make.com/en">https://www.make.com/en</a> - Workflow automation tool which lets you connect apps and automate workflows using UI, it supports many apps and most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations and 15 minutes of minimum interval.<br>
-<a href="https://escape.tech/">https://escape.tech/</a> - Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.<br>
  ]]></description>
 </item>
 
