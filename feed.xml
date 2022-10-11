@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix Flagsmith link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/66d0630c83365800b775ef0919fc89c116edda67</link><description><![CDATA[<a href="https://flagsmith.com">https://flagsmith.com</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise<br>
+ ]]></description>
+</item>
+<item>
+	<title>add freetools.site</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/44009b0b24d9765a87234b45db8e2c93a23d8078</link><description><![CDATA[<a href="https://freetools.site/">https://freetools.site/</a> - Free online tools. Convert or edit documents, images, audio, video and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add androidfilehost</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8e2ad7021103819d25c0af909e7678f81a97cffd</link><description><![CDATA[<a href="https://androidfilehost.com/">https://androidfilehost.com/</a> - Free file sharing platform with unlimited speed, bandwidth, file count, download count, etc. Mainly aimed for Android dev related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.<br>
  ]]></description>
@@ -42,16 +52,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/171dba6a7ac58ba76c1bb4ec898c0ffff5ffd8c1</link><description><![CDATA[<a href="https://www.3dmodelscc0.com/">https://www.3dmodelscc0.com/</a> - Library of public domain 3D models made for game development.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Planetscale Free Tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0ecefaf08c5480a92d25d58426553421ae9df917</link><description><![CDATA[<a href="https://planetscale.com/">https://planetscale.com/</a> - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 1 databases for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b6b4719fc148c9185b88d2a4f13419f04e90af7d</link><description><![CDATA[<a href="https://volca.io#api">https://volca.io#api</a> - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.<br>
  ]]></description>
 </item>
 
