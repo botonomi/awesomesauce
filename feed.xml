@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove siasky</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/87110417c9bb3f6054494ddfe3af637d2f504d4c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d4d14723f7726d775591dd04d7f87e1434ba63c</link><description><![CDATA[<a href="https://branition.com/colors">https://branition.com/colors</a> - Hand curated color pallets best fitted for brands.<br>
  ]]></description>
@@ -47,11 +51,6 @@
 	<title>add proton mail & tutanota</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d0908a0b6b824fa213f3bdb0cb0e9f770d147f6a</link><description><![CDATA[<a href="https://proton.me/mail">https://proton.me/mail</a> - - Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.<br>
 <a href="https://github.com/tutao/tutanota">https://github.com/tutao/tutanota</a> - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source](https://github.com/tutao/tutanota), so you can opt to self-host.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Wdrfree SVG</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7c27e33ff5dac9607a5dfc3a6f4ad19ca96954ed</link><description><![CDATA[<a href="https://wdrfree.com/free-svg">https://wdrfree.com/free-svg</a> - - Black and White Free SVG Cut files.<br>
  ]]></description>
 </item>
 
