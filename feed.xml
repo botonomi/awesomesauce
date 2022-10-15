@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>codehooks.io shorter text</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/06d3a06671cd1857b7c172f4ebe2fc806822540c</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system and a message queue. 1 instance free per project, 5000 records and 5000 calls/month free, 3 developers included. No credit-card required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added codehooks.io to dbaas section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/29f07fa8172e285cd6f9a97df9ef3ac1559f81b6</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - Fast and simple JavaScript serverless backend and database service for front-end developers and makers. Combines fast serverless functions, HTTP2 API endpoints, a NoSQL document db with Mongdb-like queries, a key/value store, a CRON-like job system and a message queue. First datastore/space free, 5000 data objects/records and 5000 function calls monthly are free, 3 developers included.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove siasky</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/87110417c9bb3f6054494ddfe3af637d2f504d4c</link><description><![CDATA[ ]]></description>
 </item>
@@ -40,17 +50,6 @@
 <item>
 	<title>add cyberchef</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/596b344acbba23c8a2410bba0630b2ea8313a55d</link><description><![CDATA[<a href="https://gchq.github.io/CyberChef/">https://gchq.github.io/CyberChef/</a> - A simple, intuitive web app for analysing and decoding/encoding data without having to deal with complex tools or programming languages. Like a swiss army knife of cryptography & encryption. All features are free to use, no limit. Open source, if you wish to self-host.<br>
- ]]></description>
-</item>
-<item>
-	<title>add commandbar</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1d6e5bbb14b98f6a62a6bbb6edb0b6c580f9e2a1</link><description><![CDATA[<a href="https://www.commandbar.com/">https://www.commandbar.com/</a> - Unified Search Bar as-a-service, web based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up-to 1000 Monthly Active Users, unlimited commands.<br>
- ]]></description>
-</item>
-<item>
-	<title>add proton mail & tutanota</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d0908a0b6b824fa213f3bdb0cb0e9f770d147f6a</link><description><![CDATA[<a href="https://proton.me/mail">https://proton.me/mail</a> - - Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.<br>
-<a href="https://github.com/tutao/tutanota">https://github.com/tutao/tutanota</a> - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source](https://github.com/tutao/tutanota), so you can opt to self-host.<br>
  ]]></description>
 </item>
 
