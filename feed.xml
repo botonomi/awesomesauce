@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>IaaS: remove FossHost</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/874869ac54add055e1191b716cc627b88f7478ed</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add text correction PostreSQL => PostgreSQL</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/62a7370c9016ae59f02d6ec56a6a666a46a89b5d</link><description><![CDATA[<a href="https://filess.io">https://filess.io</a> - filess.io is a platform where you can create upto 5 databases of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.<br>
  ]]></description>
@@ -40,16 +44,6 @@
 <item>
 	<title>add androidfilehost</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8e2ad7021103819d25c0af909e7678f81a97cffd</link><description><![CDATA[<a href="https://androidfilehost.com/">https://androidfilehost.com/</a> - Free file sharing platform with unlimited speed, bandwidth, file count, download count, etc. Mainly aimed for Android dev related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.<br>
- ]]></description>
-</item>
-<item>
-	<title>add hackmd.io markdown file collaboration tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/805387f42d8cb9b8d28970df0cd4b2a433e7d88a</link><description><![CDATA[<a href="https://hackmd.io/pricing">https://hackmd.io/pricing</a> - Real time collaboration & writing tool for markdown format docs/files. Like GoogleDocs but for markdown files. Free unlimited number of "notes", but number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).<br>
- ]]></description>
-</item>
-<item>
-	<title>add gofile.io free file sharing storage platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e69d968b1c7377158ce0ba61a79bb1d554cfe916</link><description><![CDATA[<a href="https://gofile.io/) - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days">https://gofile.io/) - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days</a> - Free file sharing and storage platform, can be used via web based UI & also API. unlimited file size, bandwidth, download count, etc. But when a file becomes inactive (no download for more than 10 days), it will be deleted.<br>
  ]]></description>
 </item>
 
