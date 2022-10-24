@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Data Fetcher</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/350d4568da4e731673e82640732004e12c20d99f</link><description><![CDATA[<a href="https://datafetcher.com">https://datafetcher.com</a> - - Connect Airtable to any application or API with no-code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DigitalOcean App Platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/58ae574dfedcdf8a766083f2381623d89382e0a1</link><description><![CDATA[<a href="https://www.digitalocean.com/pricing">https://www.digitalocean.com/pricing</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>chore: add auth section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b9871996f506a011f3ef6fe287a5a1c724e5e30f</link><description><![CDATA[<a href="#authentication-authorization-and-user-management">#authentication-authorization-and-user-management</a> - and User Management](#authentication-authorization-and-user-management)<br>
 <a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
@@ -23,6 +33,11 @@
 <a href="https://ory.sh/">https://ory.sh/</a> - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.<br>
 <a href="https://supertokens.com/">https://supertokens.com/</a> - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.<br>
 <a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 1 million API requests per month and 1,000 authz rules.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c7a3d0f3ef6a003a3a3535bab948d19e77c78cab</link><description><![CDATA[<a href="https://www.digitalocean.com/">https://www.digitalocean.com/</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
  ]]></description>
 </item>
 <item>
@@ -52,20 +67,6 @@
 	<title>Add JSON2Video API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b70d5b092be040920027feb2aaafe2d56952f6df</link><description><![CDATA[<a href="https://json2video.com">https://json2video.com</a> - A video editing API to automate video marketing and social media videos, programmatically or with no-code.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0d08e32b2267b6661cdd5cdb86d2153f0ebe69e1</link><description><![CDATA[<a href="https://filess.io">https://filess.io</a> - filess.io is a platform where you can create 1 database of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.<br>
- ]]></description>
-</item>
-<item>
-	<title>update readme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5ce73ebffb487905f19b27d7a6513ae9eab14340</link><description><![CDATA[<a href="https://domain.dee.al">https://domain.dee.al</a> - Free .dee.al,.gal.aw,.devz.id instant domain for your blog site & Other, ENJOY<br>
- ]]></description>
-</item>
-<item>
-	<title>IaaS: remove FossHost</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/874869ac54add055e1191b716cc627b88f7478ed</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
