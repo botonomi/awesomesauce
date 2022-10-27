@@ -4,6 +4,13 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Fixes for Gcore"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/44068eb4f7da573ec8aab3b5cc8065c56849079d</link><description><![CDATA[<a href="https://gcorelabs.com/">https://gcorelabs.com/</a> - <br>
+<a href="https://gcorelabs.com/cdn/">https://gcorelabs.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
+<a href="https://gcorelabs.com/dns/">https://gcorelabs.com/dns/</a> - — Free DNS hosting.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fixes for Gcore</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a366a9627714c6d1887e3f5d851d74b7e81e08fc</link><description><![CDATA[<a href="https://gcore.com/">https://gcore.com/</a> - <br>
 <a href="https://gcore.com/cdn/">https://gcore.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
@@ -64,11 +71,6 @@
 <item>
 	<title>Add https://game-icons.net</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d087e69b674a53fa1e986d4af1a644197f795518</link><description><![CDATA[<a href="https://game-icons.net/">https://game-icons.net/</a> - - Free styleable SVG/PNG icons provided under CC-BY license.<br>
- ]]></description>
-</item>
-<item>
-	<title>baas:add engagespot</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2715c0a8f0954baab048f22d312f2405df7f3c49</link><description><![CDATA[<a href="https://engagespot.co/">https://engagespot.co/</a> - Notification infrastructure for developers. Free for upto 100 monthly active users.<br>
  ]]></description>
 </item>
 
