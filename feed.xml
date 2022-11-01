@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add AppSpector.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cfba0018130d22954149ecc206949a8dea35aeab</link><description><![CDATA[<a href="https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs">https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs</a> - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added `tarampampam/free-domains`</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/983150070468d18e0d6964b0dab799b4939e1dec</link><description><![CDATA[<a href="https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported">https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported</a> - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).<br>
  ]]></description>
@@ -73,10 +78,6 @@
 	<title>chore: add zitadel cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3f9d9abafeee767109501a2dcd92d42d2a61300c</link><description><![CDATA[<a href="https://zitadel.com) — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on">https://zitadel.com) — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on</a> - — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on).<br>
  ]]></description>
-</item>
-<item>
-	<title>remove Domino Data Lab</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0dc55955812d29ff911a5b29356a412dec944878</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
