@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d44f6c4e1151d0861f0073918212b1ef36758b6</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add AppSpector.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cfba0018130d22954149ecc206949a8dea35aeab</link><description><![CDATA[<a href="https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs">https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs</a> - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).<br>
  ]]></description>
@@ -31,6 +36,11 @@
 <a href="https://gcore.com/cdn/">https://gcore.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
 <a href="https://gcore.com/dns/">https://gcore.com/dns/</a> - — Free global DNS hosting without limits. Terraform, Certbot, External DNS, Octodns support.<br>
 <a href="https://gcore.com/dns/">https://gcore.com/dns/</a> - Free global DNS hosting without limits. Terraform, Certbot, External DNS, Octodns support.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Webhook Store</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d71bf612eece13445787758e2a37de6eeefc33d2</link><description><![CDATA[<a href="https://github.webhook.store) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://github.webhook.store) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
  ]]></description>
 </item>
 <item>
@@ -68,15 +78,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c7a3d0f3ef6a003a3a3535bab948d19e77c78cab</link><description><![CDATA[<a href="https://www.digitalocean.com/">https://www.digitalocean.com/</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove kickbox.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7221303dd6e902a6a239c13009e24f064eefcc5</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>chore: add zitadel cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3f9d9abafeee767109501a2dcd92d42d2a61300c</link><description><![CDATA[<a href="https://zitadel.com) — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on">https://zitadel.com) — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on</a> - — A turnkey user and access management that works for you and supports multi tenant (B2B) use cases. Free for up to 25'000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies and so on).<br>
  ]]></description>
 </item>
 
