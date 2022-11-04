@@ -5,6 +5,11 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/49cbb9e981435d8d056fd3ad84ebd516ae40d576</link><description><![CDATA[<a href="https://www.pdfmonkey.io/">https://www.pdfmonkey.io/</a> - Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 300 free documents per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2d44f6c4e1151d0861f0073918212b1ef36758b6</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
  ]]></description>
 </item>
@@ -51,33 +56,6 @@
 <item>
 	<title>Add DigitalOcean App Platform</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/58ae574dfedcdf8a766083f2381623d89382e0a1</link><description><![CDATA[<a href="https://www.digitalocean.com/pricing">https://www.digitalocean.com/pricing</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>chore: add auth section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b9871996f506a011f3ef6fe287a5a1c724e5e30f</link><description><![CDATA[<a href="#authentication-authorization-and-user-management">#authentication-authorization-and-user-management</a> - and User Management](#authentication-authorization-and-user-management)<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="https://wso2.com/asgardeo">https://wso2.com/asgardeo</a> - Seamless Integration of SSO, MFA, passwordless auth and more. Includes SDKs for frontend and backend apps. Free up to 1000 MAUs and 5 identity providers.<br>
-<a href="https://auth0.com/">https://auth0.com/</a> - Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.<br>
-<a href="https://www.authgear.com">https://www.authgear.com</a> - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.<br>
-<a href="https://authress.io/">https://authress.io/</a> - Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. First 1000 API calls are free.<br>
-<a href="https://authy.com) - Two-factor authentication (2FA">https://authy.com) - Two-factor authentication (2FA</a> - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.<br>
-<a href="https://clerk.dev/">https://clerk.dev/</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 500 monthly active users.<br>
-<a href="https://duo.com/) — Two-factor authentication (2FA">https://duo.com/) — Two-factor authentication (2FA</a> - Two-factor authentication (2FA) for website or app. Free for 10 users, all authentication methods, unlimited, integrations, hardware tokens.<br>
-<a href="https://jumpcloud.com/">https://jumpcloud.com/</a> - Provides directory as a service similar to Azure AD, user management, single sign-on, and RADIUS authentication. Free for up to 10 users.<br>
-<a href="https://www.loginradius.com/">https://www.loginradius.com/</a> - Managed User Authentication service for free. Email registration and 3 social providers.<br>
-<a href="https://www.logintc.com/) — Two-factor authentication (2FA">https://www.logintc.com/) — Two-factor authentication (2FA</a> - Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH<br>
-<a href="https://mojoauth.com/">https://mojoauth.com/</a> - MojoAuth makes it easy to implement Passwordless authentication on your web, mobile or any application in minutes.<br>
-<a href="https://developer.okta.com/">https://developer.okta.com/</a> - User management, authentication and authorization. Free for up to 1000 monthly active users.<br>
-<a href="https://www.onelogin.com/) — Identity as a Service (IDaaS">https://www.onelogin.com/) — Identity as a Service (IDaaS</a> - Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users<br>
-<a href="https://ory.sh/">https://ory.sh/</a> - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.<br>
-<a href="https://supertokens.com/">https://supertokens.com/</a> - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.<br>
-<a href="https://warrant.dev/">https://warrant.dev/</a> - Hosted enterprise-grade authorization and access control service for your apps. Free tier includes 1 million API requests per month and 1,000 authz rules.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c7a3d0f3ef6a003a3a3535bab948d19e77c78cab</link><description><![CDATA[<a href="https://www.digitalocean.com/">https://www.digitalocean.com/</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
  ]]></description>
 </item>
 
