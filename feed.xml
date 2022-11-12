@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add GitHub Codespaces</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7276824b31054c49fc16eeb061e4065b5136a760</link><description><![CDATA[<a href="https://github.com/codespaces">https://github.com/codespaces</a> - Development environments that are hosted in the cloud. 120-core hours available for free every month.<br>
+<a href="https://www.gitpod.io">https://www.gitpod.io</a> - Instant, ready-to-code dev environments for GitHub projects. Free tier includes 50 hours/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/49cbb9e981435d8d056fd3ad84ebd516ae40d576</link><description><![CDATA[<a href="https://www.pdfmonkey.io/">https://www.pdfmonkey.io/</a> - Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 300 free documents per month.<br>
  ]]></description>
@@ -51,11 +57,6 @@
 <item>
 	<title>Add Data Fetcher</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/350d4568da4e731673e82640732004e12c20d99f</link><description><![CDATA[<a href="https://datafetcher.com">https://datafetcher.com</a> - - Connect Airtable to any application or API with no-code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DigitalOcean App Platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/58ae574dfedcdf8a766083f2381623d89382e0a1</link><description><![CDATA[<a href="https://www.digitalocean.com/pricing">https://www.digitalocean.com/pricing</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
  ]]></description>
 </item>
 
