@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>shorter</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c5179df83097de9aa3b7bdafee7a7143e271467d</link><description><![CDATA[<a href="https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions">https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions</a> - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. Free for small projects - up to 1M records, 5M function calls per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Convex</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bd4bf79009874a4ed77159427f8a5a04c00a5c5c</link><description><![CDATA[<a href="https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL">https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL</a> - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL). Transactions by default with OCC & retries on mutations. React hooks for building UIs to be reactive by default. Free for small projects - up to 1M records, 5M function calls per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove asayer.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a08579fa0b59a359021b2494b4f1495f5ee98732</link><description><![CDATA[ ]]></description>
 </item>
@@ -43,19 +53,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/44068eb4f7da573ec8aab3b5cc8065c56849079d</link><description><![CDATA[<a href="https://gcorelabs.com/">https://gcorelabs.com/</a> - <br>
 <a href="https://gcorelabs.com/cdn/">https://gcorelabs.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
 <a href="https://gcorelabs.com/dns/">https://gcorelabs.com/dns/</a> - — Free DNS hosting.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixes for Gcore</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a366a9627714c6d1887e3f5d851d74b7e81e08fc</link><description><![CDATA[<a href="https://gcore.com/">https://gcore.com/</a> - <br>
-<a href="https://gcore.com/cdn/">https://gcore.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
-<a href="https://gcore.com/dns/">https://gcore.com/dns/</a> - — Free global DNS hosting without limits. Terraform, Certbot, External DNS, Octodns support.<br>
-<a href="https://gcore.com/dns/">https://gcore.com/dns/</a> - Free global DNS hosting without limits. Terraform, Certbot, External DNS, Octodns support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Webhook Store</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d71bf612eece13445787758e2a37de6eeefc33d2</link><description><![CDATA[<a href="https://github.webhook.store) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://github.webhook.store) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
  ]]></description>
 </item>
 
