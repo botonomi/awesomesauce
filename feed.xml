@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update pr guideline</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e88cc7a70d5bab2c0dfb819128080c4beb9e8ea6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>shorter</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c5179df83097de9aa3b7bdafee7a7143e271467d</link><description><![CDATA[<a href="https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions">https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions</a> - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. Free for small projects - up to 1M records, 5M function calls per month.<br>
  ]]></description>
@@ -46,13 +50,6 @@
 <item>
 	<title>Updated storj plan details.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c4c7914bf1aac54752eb488234d86b491c10f135</link><description><![CDATA[<a href="https://storj.io/">https://storj.io/</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 150 GB storage, 150 GB bandwidth per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "Fixes for Gcore"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/44068eb4f7da573ec8aab3b5cc8065c56849079d</link><description><![CDATA[<a href="https://gcorelabs.com/">https://gcorelabs.com/</a> - <br>
-<a href="https://gcorelabs.com/cdn/">https://gcorelabs.com/cdn/</a> - Global content delivery network, 1 TB and 1 million requests per month free.<br>
-<a href="https://gcorelabs.com/dns/">https://gcorelabs.com/dns/</a> - — Free DNS hosting.<br>
  ]]></description>
 </item>
 
