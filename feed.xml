@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Beampipe.io added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ffee518098e5e5d9893f5cf94cbd86de285847a3</link><description><![CDATA[<a href="https://beampipe.io">https://beampipe.io</a> - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add storage limit for GH Codespaces free tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6e681a22f3c32674ab6fcb4395325d4da8cac276</link><description><![CDATA[<a href="https://github.com/codespaces">https://github.com/codespaces</a> - Development environments that are hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add AppSpector.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cfba0018130d22954149ecc206949a8dea35aeab</link><description><![CDATA[<a href="https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs">https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs</a> - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).<br>
- ]]></description>
-</item>
-<item>
-	<title>Added `tarampampam/free-domains`</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/983150070468d18e0d6964b0dab799b4939e1dec</link><description><![CDATA[<a href="https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported">https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported</a> - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).<br>
  ]]></description>
 </item>
 
