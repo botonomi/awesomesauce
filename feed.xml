@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added QR Code Robot - free QR Code generator</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d466fcc34ed48f2f4b80b78df13e511caed62dd1</link><description><![CDATA[<a href="https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video">https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video</a> - Robot](https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video) and also a scan tracking of QR code.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Beampipe.io added</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ffee518098e5e5d9893f5cf94cbd86de285847a3</link><description><![CDATA[<a href="https://beampipe.io">https://beampipe.io</a> - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2d44f6c4e1151d0861f0073918212b1ef36758b6</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add AppSpector.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cfba0018130d22954149ecc206949a8dea35aeab</link><description><![CDATA[<a href="https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs">https://appspector.com/) - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs</a> - Mission control, for remote iOS/Android/Flutter debugging. Free for small traffic usage (64MB of logs).<br>
  ]]></description>
 </item>
 
