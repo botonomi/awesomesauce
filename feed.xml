@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Edit mockapi resource limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4524638332deddd779d57389f956a1c453f6f61a</link><description><![CDATA[<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/4 resources per project for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added landings for web landing page inspiration</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1f1a58c4b36d8cbcccb68d214574bba384d9b5c6</link><description><![CDATA[<a href="https://landings.dev/">https://landings.dev/</a> - [Web Screenshots] Find the best landing pages for your design inspiration based on your preference.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated Readme.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a96b09296c5bb25829a9f9748c741414130c9473</link><description><![CDATA[<a href="https://www.setools.xyz/">https://www.setools.xyz/</a> - This website provide free tools for developers and everyone. We are having tools like base64 encoder, URL Encoder, character counter, SHA256, MD5 Hash.<br>
  ]]></description>
@@ -40,17 +50,6 @@
 <item>
 	<title>Remove asayer.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a08579fa0b59a359021b2494b4f1495f5ee98732</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add GitHub Codespaces</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7276824b31054c49fc16eeb061e4065b5136a760</link><description><![CDATA[<a href="https://github.com/codespaces">https://github.com/codespaces</a> - Development environments that are hosted in the cloud. 120-core hours available for free every month.<br>
-<a href="https://www.gitpod.io">https://www.gitpod.io</a> - Instant, ready-to-code dev environments for GitHub projects. Free tier includes 50 hours/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/49cbb9e981435d8d056fd3ad84ebd516ae40d576</link><description><![CDATA[<a href="https://www.pdfmonkey.io/">https://www.pdfmonkey.io/</a> - Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 300 free documents per month.<br>
- ]]></description>
 </item>
 
 </channel>
