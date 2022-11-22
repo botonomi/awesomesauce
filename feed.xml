@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated Readme.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a96b09296c5bb25829a9f9748c741414130c9473</link><description><![CDATA[<a href="https://www.setools.xyz/">https://www.setools.xyz/</a> - This website provide free tools for developers and everyone. We are having tools like base64 encoder, URL Encoder, character counter, SHA256, MD5 Hash.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added QR Code Robot - free QR Code generator</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d466fcc34ed48f2f4b80b78df13e511caed62dd1</link><description><![CDATA[<a href="https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video">https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video</a> - Robot](https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video) and also a scan tracking of QR code.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/49cbb9e981435d8d056fd3ad84ebd516ae40d576</link><description><![CDATA[<a href="https://www.pdfmonkey.io/">https://www.pdfmonkey.io/</a> - Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 300 free documents per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2d44f6c4e1151d0861f0073918212b1ef36758b6</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
  ]]></description>
 </item>
 
