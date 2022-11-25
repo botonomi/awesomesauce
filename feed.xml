@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add free</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b6b69fe99ed9cea25585c1e7d7c839d6ded92c7c</link><description><![CDATA[<a href="https://hightouch.com/">https://hightouch.com/</a> - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools. Free tier that offers you one destination to sync data to.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added Hightouch</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fdf518d45b850e2d36c98f6c72af674a1524094b</link><description><![CDATA[<a href="https://hightouch.com/">https://hightouch.com/</a> - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Edit mockapi resource limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4524638332deddd779d57389f956a1c453f6f61a</link><description><![CDATA[<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/4 resources per project for free.<br>
  ]]></description>
@@ -46,10 +56,6 @@
 	<title>add Convex</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bd4bf79009874a4ed77159427f8a5a04c00a5c5c</link><description><![CDATA[<a href="https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL">https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL</a> - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL). Transactions by default with OCC & retries on mutations. React hooks for building UIs to be reactive by default. Free for small projects - up to 1M records, 5M function calls per month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove asayer.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a08579fa0b59a359021b2494b4f1495f5ee98732</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
