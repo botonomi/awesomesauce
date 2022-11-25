@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removing Flowdash as the service is now shutdown</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4e42b126466b0927b9587ce65a9ef3e7925ba78d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add free</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b6b69fe99ed9cea25585c1e7d7c839d6ded92c7c</link><description><![CDATA[<a href="https://hightouch.com/">https://hightouch.com/</a> - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools. Free tier that offers you one destination to sync data to.<br>
  ]]></description>
@@ -46,16 +50,6 @@
 <item>
 	<title>update pr guideline</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e88cc7a70d5bab2c0dfb819128080c4beb9e8ea6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>shorter</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c5179df83097de9aa3b7bdafee7a7143e271467d</link><description><![CDATA[<a href="https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions">https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions</a> - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. Free for small projects - up to 1M records, 5M function calls per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Convex</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bd4bf79009874a4ed77159427f8a5a04c00a5c5c</link><description><![CDATA[<a href="https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL">https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL</a> - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. End to end typing via typescript. Correct consistent caching & live updates on queries (written in JS/TS, not SQL). Transactions by default with OCC & retries on mutations. React hooks for building UIs to be reactive by default. Free for small projects - up to 1M records, 5M function calls per month.<br>
- ]]></description>
 </item>
 
 </channel>
