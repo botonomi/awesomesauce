@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/90218c214ed0bfb343782ddedbc34bee504afad1</link><description><![CDATA[<a href="https://tally.so/">https://tally.so/</a> - 99% of all the features are totally free. Free tier lets you have these: unlimited forms, unlimited submissions, email notifications, form logic, collect payments, file upload, custom thank you page, and many more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8b209384c280d643b05b9228962da9f4c871fa3f</link><description><![CDATA[<a href="https://colab.research.google.com/">https://colab.research.google.com/</a> - - Free Jupyter Notebooks development environment.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added LogZab - Audit Trail Management System</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c888ec592467b4111a12de4dddaded5aa790cbc1</link><description><![CDATA[<a href="https://logzab.com/">https://logzab.com/</a> - Audit trail management system. Free 1.000 user activity log per month, 1 month retention, for up-to 5 projects.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/579bcc8cdeeb9ea31b2a4ac1bd73a255015fbb5c</link><description><![CDATA[<a href="https://tally.so/) - 99% of all the features are totally free (Unlimited submissions, and more.">https://tally.so/) - 99% of all the features are totally free (Unlimited submissions, and more.</a> - 99% of all the features are totally free (Unlimited submissions, and more.)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removing Flowdash as the service is now shutdown</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4e42b126466b0927b9587ce65a9ef3e7925ba78d</link><description><![CDATA[ ]]></description>
 </item>
@@ -36,20 +56,6 @@
 	<title>Added QR Code Robot - free QR Code generator</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d466fcc34ed48f2f4b80b78df13e511caed62dd1</link><description><![CDATA[<a href="https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video">https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video</a> - Robot](https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video) and also a scan tracking of QR code.<br>
  ]]></description>
-</item>
-<item>
-	<title>Beampipe.io added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ffee518098e5e5d9893f5cf94cbd86de285847a3</link><description><![CDATA[<a href="https://beampipe.io">https://beampipe.io</a> - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add storage limit for GH Codespaces free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e681a22f3c32674ab6fcb4395325d4da8cac276</link><description><![CDATA[<a href="https://github.com/codespaces">https://github.com/codespaces</a> - Development environments that are hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>update pr guideline</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e88cc7a70d5bab2c0dfb819128080c4beb9e8ea6</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
