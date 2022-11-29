@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Kenney.nl</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/96c6a8d60a5a3f091cb824719973445fcd443a78</link><description><![CDATA[<a href="https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed">https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed</a> - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/90218c214ed0bfb343782ddedbc34bee504afad1</link><description><![CDATA[<a href="https://tally.so/">https://tally.so/</a> - 99% of all the features are totally free. Free tier lets you have these: unlimited forms, unlimited submissions, email notifications, form logic, collect payments, file upload, custom thank you page, and many more.<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Updated Readme.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a96b09296c5bb25829a9f9748c741414130c9473</link><description><![CDATA[<a href="https://www.setools.xyz/">https://www.setools.xyz/</a> - This website provide free tools for developers and everyone. We are having tools like base64 encoder, URL Encoder, character counter, SHA256, MD5 Hash.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added QR Code Robot - free QR Code generator</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d466fcc34ed48f2f4b80b78df13e511caed62dd1</link><description><![CDATA[<a href="https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video">https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video</a> - Robot](https://qr-code-robot.com) — Free QR Code Generator. Offers possibilty to generate a QR Code for a webpage, sms, email, wifi auth or free text. Plans to offer also a generator for file sharing (pdf, mp3, video) and also a scan tracking of QR code.<br>
  ]]></description>
 </item>
 
