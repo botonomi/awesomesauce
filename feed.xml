@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cd908c42b4684451c3a5d90dfcbbf9971aca2413</link><description><![CDATA[<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b0871b1f9b3eee4b93b57bd2fd5e5c405b4b0113</link><description><![CDATA[<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/93387a4d5ebe7b6789ec0a84bc5798996a0e00f7</link><description><![CDATA[<a href="https://mailboxlayer.com/">https://mailboxlayer.com/</a> - Email validation and verification JSON API for developers. 100 free API requests/month<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Kenney.nl</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/96c6a8d60a5a3f091cb824719973445fcd443a78</link><description><![CDATA[<a href="https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed">https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed</a> - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.<br>
  ]]></description>
@@ -40,21 +55,6 @@
 <item>
 	<title>added Hightouch</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fdf518d45b850e2d36c98f6c72af674a1524094b</link><description><![CDATA[<a href="https://hightouch.com/">https://hightouch.com/</a> - Hightouch is a Reverse ETL platform that helps you sync your customer data from your data warehouse to your CRM, marketing, and support tools.<br>
- ]]></description>
-</item>
-<item>
-	<title>Edit mockapi resource limit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4524638332deddd779d57389f956a1c453f6f61a</link><description><![CDATA[<a href="https://www.mockapi.io/">https://www.mockapi.io/</a> - MockAPI is a simple tool that lets you easily mock up APIs, generate custom data, and preform operations on it using RESTful interface. MockAPI is meant to be used as a prototyping/testing/learning tool. 1 project/4 resources per project for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added landings for web landing page inspiration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1f1a58c4b36d8cbcccb68d214574bba384d9b5c6</link><description><![CDATA[<a href="https://landings.dev/">https://landings.dev/</a> - [Web Screenshots] Find the best landing pages for your design inspiration based on your preference.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Readme.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a96b09296c5bb25829a9f9748c741414130c9473</link><description><![CDATA[<a href="https://www.setools.xyz/">https://www.setools.xyz/</a> - This website provide free tools for developers and everyone. We are having tools like base64 encoder, URL Encoder, character counter, SHA256, MD5 Hash.<br>
  ]]></description>
 </item>
 
