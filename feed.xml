@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>changed text</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5a8fb377f8fdb5cc0bee743c0b12096295b5cd93</link><description><![CDATA[<a href="https://query.me">https://query.me</a> - Collaborative data notebooks that execute in a script-like fashion and allow to fetch and send data via SQL, API, and a growing number custom blocks, like Slack and Email. Free for small Teams.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added Query.me</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2a331f2c556baf973bfe707cdf18457949e01cb9</link><description><![CDATA[<a href="https://query.me">https://query.me</a> - Collaborative, Notebook-style IDE that allows to connect SQL databases, send API requests and Emails, use JINJA to build powerful workflows. Free for small Teams.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update open domains url</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4c24328323a376aa1d0c7b55c0b23f6e44fb9262</link><description><![CDATA[<a href="https://open-domains.net">https://open-domains.net</a> - - Free subdomains for personal sites, open-source projects, and more.<br>
  ]]></description>
@@ -48,16 +58,6 @@
 <item>
 	<title>Add Kenney.nl</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/96c6a8d60a5a3f091cb824719973445fcd443a78</link><description><![CDATA[<a href="https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed">https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed</a> - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/90218c214ed0bfb343782ddedbc34bee504afad1</link><description><![CDATA[<a href="https://tally.so/">https://tally.so/</a> - 99% of all the features are totally free. Free tier lets you have these: unlimited forms, unlimited submissions, email notifications, form logic, collect payments, file upload, custom thank you page, and many more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8b209384c280d643b05b9228962da9f4c871fa3f</link><description><![CDATA[<a href="https://colab.research.google.com/">https://colab.research.google.com/</a> - - Free Jupyter Notebooks development environment.<br>
  ]]></description>
 </item>
 
