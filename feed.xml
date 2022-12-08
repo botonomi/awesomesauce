@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add mdbgo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/693a64355b2f8c5773db669d87cdcb08b59b86a1</link><description><![CDATA[<a href="https://mdbgo.com/">https://mdbgo.com/</a> - - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add nitropack.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c0bbf57b4990efc4bb7f0b53dc0b3d6514943957</link><description><![CDATA[<a href="https://nitropack.io/) - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN">https://nitropack.io/) - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN</a> - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN). Free for up to 5,000 pageviews/month<br>
+ ]]></description>
+</item>
+<item>
 	<title>changed text</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5a8fb377f8fdb5cc0bee743c0b12096295b5cd93</link><description><![CDATA[<a href="https://query.me">https://query.me</a> - Collaborative data notebooks that execute in a script-like fashion and allow to fetch and send data via SQL, API, and a growing number custom blocks, like Slack and Email. Free for small Teams.<br>
  ]]></description>
@@ -53,11 +63,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/93387a4d5ebe7b6789ec0a84bc5798996a0e00f7</link><description><![CDATA[<a href="https://mailboxlayer.com/">https://mailboxlayer.com/</a> - Email validation and verification JSON API for developers. 100 free API requests/month<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Kenney.nl</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/96c6a8d60a5a3f091cb824719973445fcd443a78</link><description><![CDATA[<a href="https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed">https://www.kenney.nl/assets/) - Free (CC0 1.0 Universal licensed</a> - Free (CC0 1.0 Universal licensed) 2D, 3D, Audio, and UI game assets.<br>
  ]]></description>
 </item>
 
