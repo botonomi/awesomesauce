@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adjust free offer of Fly.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/361c9ceecf8a736c48f9938269d370c06a1b190f</link><description><![CDATA[<a href="https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total">https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total</a> - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adjust free block volume amount for Oracle Cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/676a65bb1e4027bb848ca529a8c338c065c1f112</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add mdbgo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/693a64355b2f8c5773db669d87cdcb08b59b86a1</link><description><![CDATA[<a href="https://mdbgo.com/">https://mdbgo.com/</a> - - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.<br>
  ]]></description>
@@ -48,21 +57,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/1e966a1e4289295b6afdb205b2fc398043316b9a</link><description><![CDATA[<a href="https://freenom.com">https://freenom.com</a> - Free .tk,.ml,.ga,.cf and .gq domain.<br>
 <a href="https://github.com/open-domains/register) - Free is-not-a.dev & localplayer.dev subdomains for developers. (Supported Record Types: A, AAAA, CNAME, NS and TXT">https://github.com/open-domains/register) - Free is-not-a.dev & localplayer.dev subdomains for developers. (Supported Record Types: A, AAAA, CNAME, NS and TXT</a> - localplayer.dev](https://github.com/open-domains/register) - Free is-not-a.dev & localplayer.dev subdomains for developers. (Supported Record Types: A, AAAA, CNAME, NS and TXT)<br>
 <a href="https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported">https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported</a> - 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cd908c42b4684451c3a5d90dfcbbf9971aca2413</link><description><![CDATA[<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b0871b1f9b3eee4b93b57bd2fd5e5c405b4b0113</link><description><![CDATA[<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/93387a4d5ebe7b6789ec0a84bc5798996a0e00f7</link><description><![CDATA[<a href="https://mailboxlayer.com/">https://mailboxlayer.com/</a> - Email validation and verification JSON API for developers. 100 free API requests/month<br>
  ]]></description>
 </item>
 
