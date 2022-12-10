@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/efedb833549d0b9ccbf25ae3cc3d46d4383c4552</link><description><![CDATA[<a href="https://lucide.dev">https://lucide.dev</a> - Free customizable and consistent SVG icon toolkit.<br>
+ ]]></description>
+</item>
+<item>
 	<title>LoginRadius, per support as of 2022-12-09 no longer supports free at …</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8276aaae6142f4b5074fc3b68633f92c498691df</link><description><![CDATA[ ]]></description>
 </item>
@@ -49,16 +54,6 @@
 <item>
 	<title>added Query.me</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2a331f2c556baf973bfe707cdf18457949e01cb9</link><description><![CDATA[<a href="https://query.me">https://query.me</a> - Collaborative, Notebook-style IDE that allows to connect SQL databases, send API requests and Emails, use JINJA to build powerful workflows. Free for small Teams.<br>
- ]]></description>
-</item>
-<item>
-	<title>update open domains url</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c24328323a376aa1d0c7b55c0b23f6e44fb9262</link><description><![CDATA[<a href="https://open-domains.net">https://open-domains.net</a> - - Free subdomains for personal sites, open-source projects, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update domains</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8fee89887fd1e0048be5688e37de2f3f1fee8d11</link><description><![CDATA[<a href="https://github.com/open-domains/register">https://github.com/open-domains/register</a> - - Free subdomains for personal sites, open-source projects, and more.<br>
  ]]></description>
 </item>
 
