@@ -4,6 +4,25 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>LoginRadius, per support as of 2022-12-09 no longer supports free at …</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8276aaae6142f4b5074fc3b68633f92c498691df</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Missed a spot</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/09777745f358ffb3da7ef045131e873ee763651b</link><description><![CDATA[<a href="https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - no credit card required! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2">https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - no credit card required! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2</a> - Get started with Free Forever Error and Performance Monitoring - no credit card required! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Removing emphasis on txt as suggested</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0d9dc0096268493e42b7402b24e941038be2d1a5</link><description><![CDATA[<a href="https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2">https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2</a> - Get started with Free Forever Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Request for Airbrake to be added under Monitoring</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/33f6b7ca7a49d25130cfadbd8c1cdd43c93e6a93</link><description><![CDATA[<a href="https://www.airbrake.io/) - Get started with <strong><i>Free Forever</i></strong> Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a <strong><i>FREE FOR LIFE</i></strong> Airbrake Dev Account that includes (1) User, (1) Team, (2">https://www.airbrake.io/) - Get started with <strong><i>Free Forever</i></strong> Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a <strong><i>FREE FOR LIFE</i></strong> Airbrake Dev Account that includes (1) User, (1) Team, (2</a> - Get started with <strong><i>Free Forever</i></strong> Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a <strong><i>FREE FOR LIFE</i></strong> Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adjust free offer of Fly.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/361c9ceecf8a736c48f9938269d370c06a1b190f</link><description><![CDATA[<a href="https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total">https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total</a> - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.<br>
  ]]></description>
@@ -40,23 +59,6 @@
 <item>
 	<title>Update domains</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8fee89887fd1e0048be5688e37de2f3f1fee8d11</link><description><![CDATA[<a href="https://github.com/open-domains/register">https://github.com/open-domains/register</a> - - Free subdomains for personal sites, open-source projects, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1358f986ad00d20dad92c46381e8ae8e622a6eec</link><description><![CDATA[<a href="https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account">https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account</a> - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 deployments per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ff02ce81dc6cc4889d4800a5639e765d51f339c4</link><description><![CDATA[<a href="https://github.com/open-domains/register">https://github.com/open-domains/register</a> - localplayer.dev](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update domain</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1e966a1e4289295b6afdb205b2fc398043316b9a</link><description><![CDATA[<a href="https://freenom.com">https://freenom.com</a> - Free .tk,.ml,.ga,.cf and .gq domain.<br>
-<a href="https://github.com/open-domains/register) - Free is-not-a.dev & localplayer.dev subdomains for developers. (Supported Record Types: A, AAAA, CNAME, NS and TXT">https://github.com/open-domains/register) - Free is-not-a.dev & localplayer.dev subdomains for developers. (Supported Record Types: A, AAAA, CNAME, NS and TXT</a> - localplayer.dev](https://github.com/open-domains/register) - Free is-not-a.dev & localplayer.dev subdomains for developers. (Supported Record Types: A, AAAA, CNAME, NS and TXT)<br>
-<a href="https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported">https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported</a> - 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).<br>
  ]]></description>
 </item>
 
