@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adding refero.design to Design Inspiration</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/62d5312941297ed81e67f8e9a57143d765a8ccbe</link><description><![CDATA[<a href="https://refero.design/">https://refero.design/</a> - [Web screenshots] Tagged and searchable collection of design references from great web applications.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add circum icons to design and UI section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/769aa0d14b1dde9c464e4c748bffe79c1584a785</link><description><![CDATA[<a href="https://circumicons.com">https://circumicons.com</a> - - Consistent open source icons as SVG for React, Vue and Svelte.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dab28d2bb92b756d17cce2db810bbb8612a405ae</link><description><![CDATA[<a href="https://xata.io">https://xata.io</a> - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.<br>
  ]]></description>
@@ -45,15 +55,6 @@
 <item>
 	<title>Adjust free offer of Fly.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/361c9ceecf8a736c48f9938269d370c06a1b190f</link><description><![CDATA[<a href="https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total">https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total</a> - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adjust free block volume amount for Oracle Cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/676a65bb1e4027bb848ca529a8c338c065c1f112</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add mdbgo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/693a64355b2f8c5773db669d87cdcb08b59b86a1</link><description><![CDATA[<a href="https://mdbgo.com/">https://mdbgo.com/</a> - - Free hosting for 1 project with 2 weeks Container TTL, 500mb RAM per project, SFTP - 1G disk space.<br>
  ]]></description>
 </item>
 
