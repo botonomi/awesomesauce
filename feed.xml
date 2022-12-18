@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Atom</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/29853708b4b1b143154a4f95f43ffa3738a18f17</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a890a93c9a228e82227e92f954230b93a19f5c19</link><description><![CDATA[<a href="https://logflare.app/">https://logflare.app/</a> - Free for upto 12,960,000 entries per app per month, 3 days retention<br>
+ ]]></description>
+</item>
+<item>
 	<title>adding refero.design to Design Inspiration</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/62d5312941297ed81e67f8e9a57143d765a8ccbe</link><description><![CDATA[<a href="https://refero.design/">https://refero.design/</a> - [Web screenshots] Tagged and searchable collection of design references from great web applications.<br>
  ]]></description>
@@ -45,16 +54,6 @@
 <item>
 	<title>Removing emphasis on txt as suggested</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0d9dc0096268493e42b7402b24e941038be2d1a5</link><description><![CDATA[<a href="https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2">https://www.airbrake.io/) - Get started with Free Forever Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2</a> - Get started with Free Forever Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a FREE FOR LIFE Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>Request for Airbrake to be added under Monitoring</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/33f6b7ca7a49d25130cfadbd8c1cdd43c93e6a93</link><description><![CDATA[<a href="https://www.airbrake.io/) - Get started with <strong><i>Free Forever</i></strong> Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a <strong><i>FREE FOR LIFE</i></strong> Airbrake Dev Account that includes (1) User, (1) Team, (2">https://www.airbrake.io/) - Get started with <strong><i>Free Forever</i></strong> Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a <strong><i>FREE FOR LIFE</i></strong> Airbrake Dev Account that includes (1) User, (1) Team, (2</a> - Get started with <strong><i>Free Forever</i></strong> Error and Performance Monitoring - <strong><i>no credit card required</i></strong>! After the Free Trial period ends, you can choose to upgrade to a paid Airbrake plan, or automatically convert to a <strong><i>FREE FOR LIFE</i></strong> Airbrake Dev Account that includes (1) User, (1) Team, (2) Projects, 7,500 Errors per month, 50,000 Performance Events, and 7 days data retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adjust free offer of Fly.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/361c9ceecf8a736c48f9938269d370c06a1b190f</link><description><![CDATA[<a href="https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total">https://fly.io/) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total</a> - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.<br>
  ]]></description>
 </item>
 
