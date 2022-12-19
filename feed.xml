@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Weights & Biases</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f9094942aa29674931ed21d21264f0009700dd66</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
+<a href="https://wandb.ai">https://wandb.ai</a> - Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add PropelAuth</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/491cbd2dca5d311b1535f18a8ac843ec4b5f4277</link><description><![CDATA[<a href="https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth"">https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth"</a> - A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").<br>
  ]]></description>
@@ -46,10 +52,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/efedb833549d0b9ccbf25ae3cc3d46d4383c4552</link><description><![CDATA[<a href="https://lucide.dev">https://lucide.dev</a> - Free customizable and consistent SVG icon toolkit.<br>
  ]]></description>
-</item>
-<item>
-	<title>LoginRadius, per support as of 2022-12-09 no longer supports free at …</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8276aaae6142f4b5074fc3b68633f92c498691df</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
