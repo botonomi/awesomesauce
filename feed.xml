@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add MDBootstrap</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/51e7e278a9ee2db68f34bd9fa3478ce3dfa6eb46</link><description><![CDATA[<a href="https://mdbootstrap.com/">https://mdbootstrap.com/</a> - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Weights & Biases</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f9094942aa29674931ed21d21264f0009700dd66</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
 <a href="https://wandb.ai">https://wandb.ai</a> - Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.<br>
@@ -46,11 +51,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2a04c526e16b4260b35ed49806d6406f3afe10b0</link><description><![CDATA[<a href="https://pantheon.io/">https://pantheon.io/</a> - Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/efedb833549d0b9ccbf25ae3cc3d46d4383c4552</link><description><![CDATA[<a href="https://lucide.dev">https://lucide.dev</a> - Free customizable and consistent SVG icon toolkit.<br>
  ]]></description>
 </item>
 
