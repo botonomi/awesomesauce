@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Shipyard</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a137ce7c684455124b8fcec54920edd532244023</link><description><![CDATA[<a href="https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL">https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL</a> - Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add MDBootstrap</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/51e7e278a9ee2db68f34bd9fa3478ce3dfa6eb46</link><description><![CDATA[<a href="https://mdbootstrap.com/">https://mdbootstrap.com/</a> - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Added Xata.io under DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8feda1f3b84252b09dd2ce4633cf3cf1409038a</link><description><![CDATA[<a href="https://xata.io">https://xata.io</a> - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2a04c526e16b4260b35ed49806d6406f3afe10b0</link><description><![CDATA[<a href="https://pantheon.io/">https://pantheon.io/</a> - Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.<br>
  ]]></description>
 </item>
 
