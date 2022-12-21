@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Tailwind Elements</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1f75b428c196f7a5583811db7ee2383a67e5153a</link><description><![CDATA[<a href="https://tailwind-elements.com/">https://tailwind-elements.com/</a> - - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.<br>
+ ]]></description>
+</item>
+<item>
+	<title>pulsetic.com added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/142cddaede9781def211c16053d0b38e80653f8b</link><description><![CDATA[<a href="https://pulsetic.com">https://pulsetic.com</a> - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Shipyard</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a137ce7c684455124b8fcec54920edd532244023</link><description><![CDATA[<a href="https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL">https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL</a> - Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.<br>
  ]]></description>
@@ -41,16 +51,6 @@
 <item>
 	<title>add circum icons to design and UI section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/769aa0d14b1dde9c464e4c748bffe79c1584a785</link><description><![CDATA[<a href="https://circumicons.com">https://circumicons.com</a> - - Consistent open source icons as SVG for React, Vue and Svelte.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dab28d2bb92b756d17cce2db810bbb8612a405ae</link><description><![CDATA[<a href="https://xata.io">https://xata.io</a> - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Xata.io under DBaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d8feda1f3b84252b09dd2ce4633cf3cf1409038a</link><description><![CDATA[<a href="https://xata.io">https://xata.io</a> - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers.<br>
  ]]></description>
 </item>
 
