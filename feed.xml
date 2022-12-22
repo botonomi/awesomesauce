@@ -4,8 +4,48 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove unneeded code</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2037d3789245c64b74b823baaacd06e3c68b054c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Revert bullet point change</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9fc3c49e2d6f819efb977fe14ba1ed0032b282ea</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Revert bullet point change</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fae47ba1078ba58f2353dc55a67c21cedbbc1721</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Delete CODEOWNERS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c51c833f061e63bbdd8128cfd320470875685183</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Revert title</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b0020b9000c43478f075f46d278236968fd9d36e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>remove gitea.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3f3c3c816271cc9c9b634b76b478202aa55371bd</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/50dc95b10d0ed5c69ca7af2b6bbaafac288f1694</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5e72231e0aa9906e3af293b513585f601d3fd001</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Create CODEOWNERS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2277318e28fe416fe54ebc5ed36d79d67fd1e634</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update PULL_REQUEST_TEMPLATE.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/68ca1189354d1ca4dcf38714471ac87050646ec6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>prettier + add meta</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/39ae08ee85f5262ac085350995608ececfef74c0</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Add Tailwind Elements</title>
@@ -20,31 +60,6 @@
 <item>
 	<title>Add Shipyard</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a137ce7c684455124b8fcec54920edd532244023</link><description><![CDATA[<a href="https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL">https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL</a> - Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add MDBootstrap</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/51e7e278a9ee2db68f34bd9fa3478ce3dfa6eb46</link><description><![CDATA[<a href="https://mdbootstrap.com/">https://mdbootstrap.com/</a> - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Weights & Biases</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f9094942aa29674931ed21d21264f0009700dd66</link><description><![CDATA[<a href="https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style">https://www.openwebhook.io) - Tool for storing third party webhooks and debug them on localhost (ngrok style</a> - - Tool for storing third party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain *username*.github.webhook.store, free public domains *anything*.webhook.store.<br>
-<a href="https://wandb.ai">https://wandb.ai</a> - Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add PropelAuth</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/491cbd2dca5d311b1535f18a8ac843ec4b5f4277</link><description><![CDATA[<a href="https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth"">https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth"</a> - A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Atom</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/29853708b4b1b143154a4f95f43ffa3738a18f17</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a890a93c9a228e82227e92f954230b93a19f5c19</link><description><![CDATA[<a href="https://logflare.app/">https://logflare.app/</a> - Free for upto 12,960,000 entries per app per month, 3 days retention<br>
  ]]></description>
 </item>
 
