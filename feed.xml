@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove gitea.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3f3c3c816271cc9c9b634b76b478202aa55371bd</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Tailwind Elements</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1f75b428c196f7a5583811db7ee2383a67e5153a</link><description><![CDATA[<a href="https://tailwind-elements.com/">https://tailwind-elements.com/</a> - - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.<br>
  ]]></description>
@@ -41,16 +45,6 @@
 <item>
 	<title>typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a890a93c9a228e82227e92f954230b93a19f5c19</link><description><![CDATA[<a href="https://logflare.app/">https://logflare.app/</a> - Free for upto 12,960,000 entries per app per month, 3 days retention<br>
- ]]></description>
-</item>
-<item>
-	<title>adding refero.design to Design Inspiration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/62d5312941297ed81e67f8e9a57143d765a8ccbe</link><description><![CDATA[<a href="https://refero.design/">https://refero.design/</a> - [Web screenshots] Tagged and searchable collection of design references from great web applications.<br>
- ]]></description>
-</item>
-<item>
-	<title>add circum icons to design and UI section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/769aa0d14b1dde9c464e4c748bffe79c1584a785</link><description><![CDATA[<a href="https://circumicons.com">https://circumicons.com</a> - - Consistent open source icons as SVG for React, Vue and Svelte.<br>
  ]]></description>
 </item>
 
