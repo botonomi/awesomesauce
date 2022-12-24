@@ -4,6 +4,30 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>change the hyphon</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2193e16baf2f8d8bc0e56319ac02352de09709e0</link><description><![CDATA[<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
+<a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
+<a href="https://www.tooljet.com/">https://www.tooljet.com/</a> - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.<br>
+ ]]></description>
+</item>
+<item>
+	<title>space issue</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e4d148d69d68b3a2dd566b5b9e3406d2c6130103</link><description><![CDATA[<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
+<a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
+<a href="https://www.tooljet.com/">https://www.tooljet.com/</a> - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.<br>
+ ]]></description>
+</item>
+<item>
+	<title>create a section following the same format</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/629640d6c4cf8c4d3684c5f99951e93b1fe6b164</link><description><![CDATA[<a href="#low-code-platform">#low-code-platform</a> - <br>
+<a href="https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform">https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform</a> - Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
+<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
+<a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
+<a href="https://www.tooljet.com/">https://www.tooljet.com/</a> - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove unneeded code</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2037d3789245c64b74b823baaacd06e3c68b054c</link><description><![CDATA[ ]]></description>
 </item>
@@ -50,16 +74,6 @@
 <item>
 	<title>Add Tailwind Elements</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1f75b428c196f7a5583811db7ee2383a67e5153a</link><description><![CDATA[<a href="https://tailwind-elements.com/">https://tailwind-elements.com/</a> - - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.<br>
- ]]></description>
-</item>
-<item>
-	<title>pulsetic.com added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/142cddaede9781def211c16053d0b38e80653f8b</link><description><![CDATA[<a href="https://pulsetic.com">https://pulsetic.com</a> - 10 monitors, 6 Months Historical Uptime/Logs, unlimited status pages and custom domains included! For unlimited time and unlimited email alerts for free. No credit card required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Shipyard</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a137ce7c684455124b8fcec54920edd532244023</link><description><![CDATA[<a href="https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL">https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL</a> - Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.<br>
  ]]></description>
 </item>
 
