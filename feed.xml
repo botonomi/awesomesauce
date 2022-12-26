@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add teamplify.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8707a9a842450893e321163e677b48977038d035</link><description><![CDATA[<a href="https://teamplify.com">https://teamplify.com</a> - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small teams up to 5 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>change the hyphon</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2193e16baf2f8d8bc0e56319ac02352de09709e0</link><description><![CDATA[<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
 <a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
@@ -70,11 +75,6 @@
 <item>
 	<title>prettier + add meta</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/39ae08ee85f5262ac085350995608ececfef74c0</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Tailwind Elements</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1f75b428c196f7a5583811db7ee2383a67e5153a</link><description><![CDATA[<a href="https://tailwind-elements.com/">https://tailwind-elements.com/</a> - - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.<br>
- ]]></description>
 </item>
 
 </channel>
