@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Removing DBaaS Quickmetrics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/612883cf68396feda50908f4fcff12ec22577945</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add teamplify.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8707a9a842450893e321163e677b48977038d035</link><description><![CDATA[<a href="https://teamplify.com">https://teamplify.com</a> - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small teams up to 5 users.<br>
  ]]></description>
@@ -71,10 +75,6 @@
 <item>
 	<title>Update PULL_REQUEST_TEMPLATE.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/68ca1189354d1ca4dcf38714471ac87050646ec6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>prettier + add meta</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/39ae08ee85f5262ac085350995608ececfef74c0</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
