@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>corretion full url including https:// and please remove the blank line</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c8ebb046adc4b04e3ba07f48df0a6c3b803a3e3f</link><description><![CDATA[<a href="https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex">https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex</a> - Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.<br>
+ ]]></description>
+</item>
+<item>
+	<title>regex101 added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/38614ef7b4c035d2a08cb33aedab23627aaebb6a</link><description><![CDATA[<a href="https://freecodetools.org/">https://freecodetools.org/</a> - Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.<br>
+<a href="regex101.com) — Free this website allows you to test and debug regular expressions (regex">regex101.com) — Free this website allows you to test and debug regular expressions (regex</a> - Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.<br>
+ ]]></description>
+</item>
+<item>
 	<title>removed livesession.io[https://livesession.io/]</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b60021d18c9bef89d4231762cd6f2fb6e0e7eb4e</link><description><![CDATA[ ]]></description>
 </item>
@@ -58,20 +69,6 @@
 <a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
 <a href="https://www.tooljet.com/">https://www.tooljet.com/</a> - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.<br>
  ]]></description>
-</item>
-<item>
-	<title>create a section following the same format</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/629640d6c4cf8c4d3684c5f99951e93b1fe6b164</link><description><![CDATA[<a href="#low-code-platform">#low-code-platform</a> - <br>
-<a href="https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform">https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform</a> - Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
-<a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
-<a href="https://budibase.com/">https://budibase.com/</a> - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s<br>
-<a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
-<a href="https://www.tooljet.com/">https://www.tooljet.com/</a> - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove unneeded code</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2037d3789245c64b74b823baaacd06e3c68b054c</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
