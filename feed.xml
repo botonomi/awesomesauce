@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1fe1d50da34b779d0793aa82a4f4b7a0bd716274</link><description><![CDATA[<a href="https://www.kodytools.com/dev-tools">https://www.kodytools.com/dev-tools</a> - — 100+ dev tools including formatter, minifier, and converter.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Splitbee</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dab6dc82ad9119d654c5a824d63e4163c36d9d6b</link><description><![CDATA[ ]]></description>
 </item>
@@ -60,10 +65,6 @@
 	<title>Free Code Tools added</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/393c2a04eea5c426ce5f69f2671e95bd8bd8db03</link><description><![CDATA[<a href="https://freecodetools.org/">https://freecodetools.org/</a> - Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.<br>
  ]]></description>
-</item>
-<item>
-	<title>Removing DBaaS Quickmetrics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/612883cf68396feda50908f4fcff12ec22577945</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
