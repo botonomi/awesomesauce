@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Sflow.io under Issue Tracking and Project Management</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/35d2436b968cd239214327cb6a2162dec1618c89</link><description><![CDATA[<a href="https://sflow.io">https://sflow.io</a> - sflow.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1fe1d50da34b779d0793aa82a4f4b7a0bd716274</link><description><![CDATA[<a href="https://www.kodytools.com/dev-tools">https://www.kodytools.com/dev-tools</a> - — 100+ dev tools including formatter, minifier, and converter.<br>
  ]]></description>
@@ -55,15 +60,6 @@
 <item>
 	<title>fixed markdown</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/35c908b7c197fced66c916e21f535f9aa4105b0d</link><description><![CDATA[<a href="https://locationiq.com/">https://locationiq.com/</a> - Geocoding, Maps, and Routing APIs. 5000 requests/day for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added LocationIQ under Geocoding</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b29fde22ce3ba06beb0ac090275dd5d8df7fd830</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Free Code Tools added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/393c2a04eea5c426ce5f69f2671e95bd8bd8db03</link><description><![CDATA[<a href="https://freecodetools.org/">https://freecodetools.org/</a> - Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.<br>
  ]]></description>
 </item>
 
