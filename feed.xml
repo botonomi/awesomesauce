@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add emailvalidation.io as a service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e3acaff59bc59e80456f5ea7579ce54181fa7d4a</link><description><![CDATA[<a href="https://emailvalidation.io">https://emailvalidation.io</a> - 150 free email verifications per month<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Sflow.io under Issue Tracking and Project Management</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/35d2436b968cd239214327cb6a2162dec1618c89</link><description><![CDATA[<a href="https://sflow.io">https://sflow.io</a> - sflow.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.<br>
  ]]></description>
@@ -55,11 +60,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ef9a2634a5fa7a39f3e2c4ce405c992ecada7a5f</link><description><![CDATA[<a href="https://livesession.io/">https://livesession.io/</a> - 1,000 sessions free for 1 website<br>
- ]]></description>
-</item>
-<item>
-	<title>fixed markdown</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/35c908b7c197fced66c916e21f535f9aa4105b0d</link><description><![CDATA[<a href="https://locationiq.com/">https://locationiq.com/</a> - Geocoding, Maps, and Routing APIs. 5000 requests/day for free.<br>
  ]]></description>
 </item>
 
