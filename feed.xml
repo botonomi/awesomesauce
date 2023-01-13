@@ -4,8 +4,33 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Apply suggestion from review</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d608f925bd0e5d22e8058b2efdf26f075a87e1d</link><description><![CDATA[<a href="https://traefik.io/traefik-hub/">https://traefik.io/traefik-hub/</a> - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update format</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b09c4569b7af34c94c2c4cf0fc5e6ecb1169a7ca</link><description><![CDATA[<a href="https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo">https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo</a> - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6da361626b4bb2aae59b1fa6b45d27f964c050e2</link><description><![CDATA[<a href="https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity">https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity</a> - AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add traefik-hub, a service to publish and secure containers</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3fba0afeba059223a8bc40b0ab446c8d7bf77ee7</link><description><![CDATA[<a href="https://traefik.io/traefik-hub/">https://traefik.io/traefik-hub/</a> - Publish locally running services over a tunnel to a public custom URL and secure them with access control.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8bf5c454118ab89e68142c140b102956953d6a37</link><description><![CDATA[<a href="https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity">https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity</a> - AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update EC2 egress free offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0e60ed63ac5a1ff07364607036ae604143f8bb20</link><description><![CDATA[<a href="https://aws.amazon.com/ec2/">https://aws.amazon.com/ec2/</a> - 100GB egress per month<br>
  ]]></description>
 </item>
 <item>
@@ -31,31 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1fe1d50da34b779d0793aa82a4f4b7a0bd716274</link><description><![CDATA[<a href="https://www.kodytools.com/dev-tools">https://www.kodytools.com/dev-tools</a> - — 100+ dev tools including formatter, minifier, and converter.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Splitbee</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dab6dc82ad9119d654c5a824d63e4163c36d9d6b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Include data pass through info</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c9e52af4a24a647e61429c116380975ab9b7cf9c</link><description><![CDATA[<a href="https://cube.dev/">https://cube.dev/</a> - Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Cube under APIs, data, and ML section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/34c09cd50d20a16c73973a5a474ab29cd540051e</link><description><![CDATA[<a href="https://cube.dev/">https://cube.dev/</a> - Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier and you can also self-host open-source Cube.<br>
- ]]></description>
-</item>
-<item>
-	<title>corretion full url including https:// and please remove the blank line</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c8ebb046adc4b04e3ba07f48df0a6c3b803a3e3f</link><description><![CDATA[<a href="https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex">https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex</a> - Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.<br>
- ]]></description>
-</item>
-<item>
-	<title>regex101 added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38614ef7b4c035d2a08cb33aedab23627aaebb6a</link><description><![CDATA[<a href="https://freecodetools.org/">https://freecodetools.org/</a> - Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.<br>
-<a href="regex101.com) — Free this website allows you to test and debug regular expressions (regex">regex101.com) — Free this website allows you to test and debug regular expressions (regex</a> - Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.<br>
  ]]></description>
 </item>
 
