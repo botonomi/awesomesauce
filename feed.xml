@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8fe6c7422baac02b880e0846bfe1741497eb944e</link><description><![CDATA[<a href="https://duckdocs.com">https://duckdocs.com</a> - Markdown-powered documentation hosting, sort of like a hosted Docusaurus. Free for 10 pages per site.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DuckDocs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bbd285973bb526c13e84687a83b91661f510413d</link><description><![CDATA[<a href="https://duckdocs.com">https://duckdocs.com</a> - Free markdown-powered documentation hosting, sort of like a hosted Docusaurus.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Apply suggestion from review</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2d608f925bd0e5d22e8058b2efdf26f075a87e1d</link><description><![CDATA[<a href="https://traefik.io/traefik-hub/">https://traefik.io/traefik-hub/</a> - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.<br>
  ]]></description>
@@ -51,11 +61,6 @@
 	<title>Added missing AWS' Free Tier services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9b93dfcf48d73396fa7231dea1a5b92c41063a5</link><description><![CDATA[<a href="https://aws.amazon.com/ec2/faqs/#t4g-instances">https://aws.amazon.com/ec2/faqs/#t4g-instances</a> - 750 hours per month of t4g.small until December 31, 2023<br>
 <a href="https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD">https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD</a> - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1fe1d50da34b779d0793aa82a4f4b7a0bd716274</link><description><![CDATA[<a href="https://www.kodytools.com/dev-tools">https://www.kodytools.com/dev-tools</a> - — 100+ dev tools including formatter, minifier, and converter.<br>
  ]]></description>
 </item>
 
