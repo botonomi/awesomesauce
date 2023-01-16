@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Keploy under Testing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/14bde2e7113080331eef59d4d23752fb8c565ac0</link><description><![CDATA[<a href="https://keploy.io/) - Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks">https://keploy.io/) - Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks</a> - Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks) by recording real API calls. It is free for Open Source.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Mentioning free resouces for Mattermost</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d18a5a832c914155c12fd60aefbf7885d565c602</link><description><![CDATA[<a href="https://mattermost.com/">https://mattermost.com/</a> - Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Mattermost</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/883df3dc0fb4379c8f1a1d61888c185a1669fec0</link><description><![CDATA[<a href="https://mattermost.com/">https://mattermost.com/</a> - Secure collaboration for technical teams. One integrated platform for all of your team messaging, collaborative workflows and project management needs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove hostman</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ab786902c877f6ba392d89480d38cf826473d5d6</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,20 +60,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8bf5c454118ab89e68142c140b102956953d6a37</link><description><![CDATA[<a href="https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity">https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity</a> - AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update EC2 egress free offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0e60ed63ac5a1ff07364607036ae604143f8bb20</link><description><![CDATA[<a href="https://aws.amazon.com/ec2/">https://aws.amazon.com/ec2/</a> - 100GB egress per month<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove EC2 Free "Trial"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e6f48f098610f2ddad6dc72fc6d6ffcd668ef433</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add emailvalidation.io as a service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e3acaff59bc59e80456f5ea7579ce54181fa7d4a</link><description><![CDATA[<a href="https://emailvalidation.io">https://emailvalidation.io</a> - 150 free email verifications per month<br>
  ]]></description>
 </item>
 
