@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Downtime Monkey</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7bdd967519496e4ca3f730fdb398254f9f092724</link><description><![CDATA[<a href="https://pingmeter.com/">https://pingmeter.com/</a> - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.<br>
+<a href="https://downtimemonkey.com/">https://downtimemonkey.com/</a> - 60 uptime monitors, 5 minute interval. Email, Slack alerts.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d3f104b2c491602a93613438c41081c5572e7c72</link><description><![CDATA[<a href="https://stellate.co/">https://stellate.co/</a> - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.<br>
+ ]]></description>
+</item>
+<item>
+	<title>GraphCDN removed & Stellate added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec0999f4c8d03cab3935ae4d40dfd9d17132032d</link><description><![CDATA[<a href="https://stellate.co/">https://stellate.co/</a> - Stellate is free for indie hackers and individual developers. Your GraphQL API. Blazing fast and reliable.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove awesomeness</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3ea1b3bd643ad9c411b3e8744f4697503e4ee3e4</link><description><![CDATA[ ]]></description>
 </item>
@@ -39,26 +55,6 @@
 <item>
 	<title>Add DuckDocs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bbd285973bb526c13e84687a83b91661f510413d</link><description><![CDATA[<a href="https://duckdocs.com">https://duckdocs.com</a> - Free markdown-powered documentation hosting, sort of like a hosted Docusaurus.<br>
- ]]></description>
-</item>
-<item>
-	<title>Apply suggestion from review</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2d608f925bd0e5d22e8058b2efdf26f075a87e1d</link><description><![CDATA[<a href="https://traefik.io/traefik-hub/">https://traefik.io/traefik-hub/</a> - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update format</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b09c4569b7af34c94c2c4cf0fc5e6ecb1169a7ca</link><description><![CDATA[<a href="https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo">https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo</a> - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6da361626b4bb2aae59b1fa6b45d27f964c050e2</link><description><![CDATA[<a href="https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity">https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity</a> - AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add traefik-hub, a service to publish and secure containers</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3fba0afeba059223a8bc40b0ab446c8d7bf77ee7</link><description><![CDATA[<a href="https://traefik.io/traefik-hub/">https://traefik.io/traefik-hub/</a> - Publish locally running services over a tunnel to a public custom URL and secure them with access control.<br>
  ]]></description>
 </item>
 
