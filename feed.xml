@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c86099784e0937e4b7243b060742a3cf93ee2780</link><description><![CDATA[<a href="https://cloud.yugabyte.com">https://cloud.yugabyte.com</a> - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added GrowthBook</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3416673635d748f1e5bd9976ba68102493b44bfc</link><description><![CDATA[<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Downtime Monkey</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7bdd967519496e4ca3f730fdb398254f9f092724</link><description><![CDATA[<a href="https://pingmeter.com/">https://pingmeter.com/</a> - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.<br>
 <a href="https://downtimemonkey.com/">https://downtimemonkey.com/</a> - 60 uptime monitors, 5 minute interval. Email, Slack alerts.<br>
@@ -45,16 +55,6 @@
 <item>
 	<title>docs: fixed typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/90663bdf846a436dae40324e6cc739d358070a79</link><description><![CDATA[<a href="https://www.behance.net/">https://www.behance.net/</a> - [Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8fe6c7422baac02b880e0846bfe1741497eb944e</link><description><![CDATA[<a href="https://duckdocs.com">https://duckdocs.com</a> - Markdown-powered documentation hosting, sort of like a hosted Docusaurus. Free for 10 pages per site.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DuckDocs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bbd285973bb526c13e84687a83b91661f510413d</link><description><![CDATA[<a href="https://duckdocs.com">https://duckdocs.com</a> - Free markdown-powered documentation hosting, sort of like a hosted Docusaurus.<br>
  ]]></description>
 </item>
 
