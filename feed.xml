@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3fa10909a150a707541b496d861ae20e117a2f0b</link><description><![CDATA[<a href="https://retool.com/">https://retool.com/</a> - Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/70f18d02a9e22b80232be2c26e94cd77a38e1f49</link><description><![CDATA[<a href="https://retool.com/">https://retool.com/</a> - Low-code platform for building internal applications. Retool is highly hackable, so you’re never limited by what's available out of the box. If you can write it with JavaScript and an API, you can build it in Retool.<br>
+ ]]></description>
+</item>
+<item>
 	<title>typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c86099784e0937e4b7243b060742a3cf93ee2780</link><description><![CDATA[<a href="https://cloud.yugabyte.com">https://cloud.yugabyte.com</a> - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.<br>
  ]]></description>
@@ -46,15 +56,6 @@
 <item>
 	<title>Added Mattermost</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/883df3dc0fb4379c8f1a1d61888c185a1669fec0</link><description><![CDATA[<a href="https://mattermost.com/">https://mattermost.com/</a> - Secure collaboration for technical teams. One integrated platform for all of your team messaging, collaborative workflows and project management needs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove hostman</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ab786902c877f6ba392d89480d38cf826473d5d6</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>docs: fixed typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/90663bdf846a436dae40324e6cc739d358070a79</link><description><![CDATA[<a href="https://www.behance.net/">https://www.behance.net/</a> - [Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.<br>
  ]]></description>
 </item>
 
