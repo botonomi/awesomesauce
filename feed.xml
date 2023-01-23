@@ -4,6 +4,13 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove statvoo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/88c81da8e6a564c671fe14df1571d66ba811bbf5</link><description><![CDATA[<a href="https://cube.dev/">https://cube.dev/</a> - Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month.<br>
+<a href="https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform">https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform</a> - Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)<br>
+<a href="https://www.digitalocean.com/pricing">https://www.digitalocean.com/pricing</a> - Build and deploy 3 static sites for free on the App Platform Starter tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3fa10909a150a707541b496d861ae20e117a2f0b</link><description><![CDATA[<a href="https://retool.com/">https://retool.com/</a> - Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can build it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.<br>
  ]]></description>
@@ -51,11 +58,6 @@
 <item>
 	<title>Mentioning free resouces for Mattermost</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d18a5a832c914155c12fd60aefbf7885d565c602</link><description><![CDATA[<a href="https://mattermost.com/">https://mattermost.com/</a> - Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Mattermost</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/883df3dc0fb4379c8f1a1d61888c185a1669fec0</link><description><![CDATA[<a href="https://mattermost.com/">https://mattermost.com/</a> - Secure collaboration for technical teams. One integrated platform for all of your team messaging, collaborative workflows and project management needs.<br>
  ]]></description>
 </item>
 
