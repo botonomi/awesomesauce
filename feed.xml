@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>AppHarbor shut down</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0e1fe760de59b74d064d01172028be9b0cba0d24</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ed59d47518d2ce19a390a73801775ff0f348554c</link><description><![CDATA[<a href="https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget">https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget</a> - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.<br>
  ]]></description>
@@ -55,10 +59,6 @@
 	<title>GraphCDN removed & Stellate added</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ec0999f4c8d03cab3935ae4d40dfd9d17132032d</link><description><![CDATA[<a href="https://stellate.co/">https://stellate.co/</a> - Stellate is free for indie hackers and individual developers. Your GraphQL API. Blazing fast and reliable.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove awesomeness</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3ea1b3bd643ad9c411b3e8744f4697503e4ee3e4</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
