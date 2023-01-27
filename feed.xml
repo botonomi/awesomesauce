@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add pagerly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/04039d953a18b66ccc8957da388c3d7674532e6f</link><description><![CDATA[<a href="https://pagerly.io/) -  Manage oncalls on Slack  (integrates with Pagerduty, OpsGenie) .Free upto 1 team (one team refers to one oncall">https://pagerly.io/) -  Manage oncalls on Slack  (integrates with Pagerduty, OpsGenie) .Free upto 1 team (one team refers to one oncall</a> - Manage oncalls on Slack (integrates with Pagerduty, OpsGenie) .Free upto 1 team (one team refers to one oncall)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ac3e4aeee6786bf6210c1d292f7cc12570ecd5d5</link><description><![CDATA[<a href="https://arize.com/">https://arize.com/</a> - - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.<br>
+ ]]></description>
+</item>
+<item>
+	<title>incorporate pr feedback</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e5e37b4f5b50b5fbd8055473da904990fba4b7cd</link><description><![CDATA[<a href="https://arize.com/">https://arize.com/</a> - - Machine learning observability for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. Free up to two models.<br>
+ ]]></description>
+</item>
+<item>
 	<title>addressing comments</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eedcb68bad96fead9ed2d7bf89597d2135d51802</link><description><![CDATA[<a href="https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc">https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc</a> - Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.<br>
 <a href="https://www.tabnine.com/">https://www.tabnine.com/</a> - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available.<br>
@@ -18,6 +33,12 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/2dedb071f3f5af4d6a3762440ca9bfc3bfbf1e58</link><description><![CDATA[<a href="#code-generation">#code-generation</a> - <br>
 <a href="https://www.codeium.com/) — Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with your favorite IDEs (VSCode, JetBrains, Vim/Neovim, Jupyter, Colab, etc">https://www.codeium.com/) — Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with your favorite IDEs (VSCode, JetBrains, Vim/Neovim, Jupyter, Colab, etc</a> - Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with your favorite IDEs (VSCode, JetBrains, Vim/Neovim, Jupyter, Colab, etc), with lightning fast speeds and state-of-the-art suggestion quality.<br>
 <a href="#table-of-contents">#table-of-contents</a> - top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
+	<title>add arize ai</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27468b7631ef25b0f0c08a6fa99d4b3333885c1b</link><description><![CDATA[<a href="https://arize.com/">https://arize.com/</a> - - Arize AI free observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift.<br>
+<a href="https://arize.com/">https://arize.com/</a> - - Arize AI free observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift.<br>
  ]]></description>
 </item>
 <item>
@@ -45,22 +66,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/70f18d02a9e22b80232be2c26e94cd77a38e1f49</link><description><![CDATA[<a href="https://retool.com/">https://retool.com/</a> - Low-code platform for building internal applications. Retool is highly hackable, so you’re never limited by what's available out of the box. If you can write it with JavaScript and an API, you can build it in Retool.<br>
- ]]></description>
-</item>
-<item>
-	<title>typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c86099784e0937e4b7243b060742a3cf93ee2780</link><description><![CDATA[<a href="https://cloud.yugabyte.com">https://cloud.yugabyte.com</a> - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added GrowthBook</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3416673635d748f1e5bd9976ba68102493b44bfc</link><description><![CDATA[<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Downtime Monkey</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7bdd967519496e4ca3f730fdb398254f9f092724</link><description><![CDATA[<a href="https://pingmeter.com/">https://pingmeter.com/</a> - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.<br>
-<a href="https://downtimemonkey.com/">https://downtimemonkey.com/</a> - 60 uptime monitors, 5 minute interval. Email, Slack alerts.<br>
  ]]></description>
 </item>
 
