@@ -4,8 +4,23 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>cf tunnel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9d4dcc7604a08a70eda5b376186cb994261944f9</link><description><![CDATA[<a href="https://www.cloudflare.com/products/zero-trust/">https://www.cloudflare.com/products/zero-trust/</a> - - You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.<br>
+ ]]></description>
+</item>
+<item>
 	<title>feat: add simplePDF</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a5d945138e033d1353c82d1d6553194ccb8eb5b1</link><description><![CDATA[<a href="https://simplepdf.eu/embed">https://simplepdf.eu/embed</a> - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.<br>
+ ]]></description>
+</item>
+<item>
+	<title>cloudflare tunnel detail</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8862302690a8b4986bb11832cace1b2ab25d7c64</link><description><![CDATA[<a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare">https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare</a> - - Cloudflare Tunnel can connect HTTP web servers, SSH servers, remote desktops, and other protocols safely to your domains on Cloudflare without a publicly routable IP address. Expose your HTTP resources to the Internet via a public hostname using a DNS record. and use private network routes to expose both HTTP and non-HTTP resources. [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare) can expose locally running servers over a tunnel to a random subdomain on trycloudflare.com, No account required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Cloudflare tunnel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/49d8bcc9eebc49ac8e9771c89fc9ef83d248f7b5</link><description><![CDATA[<a href="https://www.cloudflare.com/products/tunnel/">https://www.cloudflare.com/products/tunnel/</a> - - Cloudflare Tunnel can connect HTTP web servers, SSH servers, remote desktops, and other protocols safely to Cloudflare without a publicly routable IP address.<br>
  ]]></description>
 </item>
 <item>
@@ -48,16 +63,6 @@
 	<title>add arize ai</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/27468b7631ef25b0f0c08a6fa99d4b3333885c1b</link><description><![CDATA[<a href="https://arize.com/">https://arize.com/</a> - - Arize AI free observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift.<br>
 <a href="https://arize.com/">https://arize.com/</a> - - Arize AI free observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ed59d47518d2ce19a390a73801775ff0f348554c</link><description><![CDATA[<a href="https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget">https://tiledesk.com) - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget</a> - Create chatbots and conversational apps. Bring them omnichannel: from your website (live chat widget) to WhatsApp. Free plan with unlimited chatbots.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added gokanban.io as a free kanban board software</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6ee37aa2956af8f79326135cd32644866f1ac992</link><description><![CDATA[<a href="https://gokanban.io">https://gokanban.io</a> - Syntax based, no registration Kanban Board for fast use. Free with no limitations.<br>
  ]]></description>
 </item>
 
