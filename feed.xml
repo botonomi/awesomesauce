@@ -4,6 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Pumble</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/caef682f877877ab33bde81902c6110b82f39049</link><description><![CDATA[<a href="https://pumble.com">https://pumble.com</a> - Free team chat app. Unlimited users and message history, free forever.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Clockify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2936e55f55a97c369937ae56abaeb8be3fe8ac9a</link><description><![CDATA[<a href="https://clockify.me">https://clockify.me</a> - Time tracker and timesheet app that lets you track work hours across projects. Unlimited users, free forever.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Plaky</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7bd079667e1d4788564527dd5a738e0a28849b92</link><description><![CDATA[<a href="https://plaky.com) - Free task management (kanban">https://plaky.com) - Free task management (kanban</a> - Free task management (kanban) software without any limits. Unlimited users, unlimited projects, free forever.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Buildkite under CI/CD</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/70566cb99a6be7bf21061cbca44ec94ed5559763</link><description><![CDATA[<a href="https://buildkite.com">https://buildkite.com</a> - <br>
+<a href="https://buildkite.com/test-analytics">https://buildkite.com/test-analytics</a> - — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added soos</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6ea97516a54e68a8bab92d0c0e3fc8e11ea39a7d</link><description><![CDATA[<a href="https://soos.io">https://soos.io</a> - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.<br>
  ]]></description>
@@ -44,26 +65,6 @@
 <item>
 	<title>add coinmarketcap</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c8a516155806f5cacea7725c6a1da878deea9dad</link><description><![CDATA[<a href="https://coinmarketcap.com/api/">https://coinmarketcap.com/api/</a> - Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>add coingecko</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cd9244a4c1564f211bd51954ed86557ad54b0b46</link><description><![CDATA[<a href="https://www.coingecko.com/en/api">https://www.coingecko.com/en/api</a> - Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution.<br>
- ]]></description>
-</item>
-<item>
-	<title>add coin360</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cca371bbf20a273a39c2a568dd45303bd2816416</link><description><![CDATA[<a href="https://api.coin360.com/">https://api.coin360.com/</a> - Provides cryptocurrency market data including latest crypto exchange rates and historical data<br>
- ]]></description>
-</item>
-<item>
-	<title>Add pricing information for Cloudcraft</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ab71c0b9526fee899ec7e3a07a45e48b1e8fa727</link><description><![CDATA[<a href="https://cloudcraft.co/">https://cloudcraft.co/</a> - Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too. Free plan has unlimited private diagrams for single user.<br>
- ]]></description>
-</item>
-<item>
-	<title>add number of free monthly messages to description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c81fdfa933e73d577e4006c19a86b9fdbb0b0a09</link><description><![CDATA[<a href="https://www.svix.com/">https://www.svix.com/</a> - Webhooks as a Service. Send up to 50,000 messages/month for free.<br>
  ]]></description>
 </item>
 
