@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added soos</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6ea97516a54e68a8bab92d0c0e3fc8e11ea39a7d</link><description><![CDATA[<a href="https://soos.io">https://soos.io</a> - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add pricing information for todoist</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fcd93da6b59282cbc4f76d9083a388e1c5f68180</link><description><![CDATA[<a href="https://todoist.com/">https://todoist.com/</a> - Collaborative and individual task management. Free plan has: 5 active projects, 5 users in project, file uploading up to 5MB, 3 filters, 1 week activity history.<br>
  ]]></description>
@@ -59,11 +64,6 @@
 <item>
 	<title>add number of free monthly messages to description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c81fdfa933e73d577e4006c19a86b9fdbb0b0a09</link><description><![CDATA[<a href="https://www.svix.com/">https://www.svix.com/</a> - Webhooks as a Service. Send up to 50,000 messages/month for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Svix</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c9d8d8ae1156259186f75d65b66efbcc172b84cd</link><description><![CDATA[<a href="https://www.svix.com/">https://www.svix.com/</a> - Webhooks as a Service. Launch a world class webhook service in minutes.<br>
  ]]></description>
 </item>
 
