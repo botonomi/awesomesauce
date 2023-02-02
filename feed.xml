@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Change Fingerprintjs description to single line</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/450f475ec2e1982583c6ab16e03151b3bdfbf9b0</link><description><![CDATA[<a href="https://www.fingerprint.com">https://www.fingerprint.com</a> - Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged. Free tier version of Pro has 20,000 Requests per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add FingerprintJS free trial information</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ad9d2c8d7bf497fb8e4069dc5d91305ee4a623e9</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add FingerprintJS under Security and PKI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7ed7076cf46f5d223f538dc09d1f519ba9d26b07</link><description><![CDATA[<a href="https://www.fingerprint.com">https://www.fingerprint.com</a> - Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add DaisyUI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/740a974f9c9a0d24ce45489cc34181da3367a0f0</link><description><![CDATA[<a href="https://daisyui.com/">https://daisyui.com/</a> - Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.<br>
  ]]></description>
@@ -57,15 +71,6 @@
 	<title>Add pricing information to easyretro</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/306daaaeec04dcdf1a7fee37d6e2d26cd319d935</link><description><![CDATA[<a href="https://www.easyretro.io/">https://www.easyretro.io/</a> - Simple and intuitive sprint retrospective tool. Free plan has 3 public boards and 1 survey per board per month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Add pricing information for bitrix24</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/135b9402982cd882d164419f20792c9763441b8c</link><description><![CDATA[<a href="https://www.bitrix24.com/">https://www.bitrix24.com/</a> - Intranet and project management tool. Free plan has 5GB for unlimited users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove vivifyscrum, because it has no free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/82c51b222bd040086f02dd5b8b0437f09163fe8c</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
