@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Koyeb</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b2616c520287cd157dc587c9ed540ffe1f27b428</link><description><![CDATA[<a href="https://www.divio.com/">https://www.divio.com/</a> - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects. Requires card and no custom domain support.<br>
+<a href="https://www.koyeb.com">https://www.koyeb.com</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources. The free plan requires card information.<br>
+ ]]></description>
+</item>
+<item>
 	<title>adds Tinybird to DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f5075c09444c88e017825dcc11833e638ac7b71f</link><description><![CDATA[<a href="https://tinybird.co">https://tinybird.co</a> - A serverless managed ClickHouse with connection-less data ingest over HTTP and let's you publish SQL queries as managed HTTP APIs. No time limit on free-tier, 10GB storage + 1000 API requests per day.<br>
  ]]></description>
@@ -56,15 +62,6 @@
 <item>
 	<title>Add pricing information for todoist</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fcd93da6b59282cbc4f76d9083a388e1c5f68180</link><description><![CDATA[<a href="https://todoist.com/">https://todoist.com/</a> - Collaborative and individual task management. Free plan has: 5 active projects, 5 users in project, file uploading up to 5MB, 3 filters, 1 week activity history.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove zentao - no free SaaS, only self-hosted</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4414405ba894918adb24f2c05ad5bf4c8e8e4a15</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add pricing information for kanbantool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7acd4e9cdc88e9b98c4177332708ce3516f63b0</link><description><![CDATA[<a href="https://kanbantool.com/">https://kanbantool.com/</a> - Kanban board-based project management. Free plan has 2 boards, 2 users, without atachments or files.<br>
  ]]></description>
 </item>
 
