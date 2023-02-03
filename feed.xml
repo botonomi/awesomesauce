@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adds Tinybird to DBaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f5075c09444c88e017825dcc11833e638ac7b71f</link><description><![CDATA[<a href="https://tinybird.co">https://tinybird.co</a> - A serverless managed ClickHouse with connection-less data ingest over HTTP and let's you publish SQL queries as managed HTTP APIs. No time limit on free-tier, 10GB storage + 1000 API requests per day.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Change Fingerprintjs description to single line</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/450f475ec2e1982583c6ab16e03151b3bdfbf9b0</link><description><![CDATA[<a href="https://www.fingerprint.com">https://www.fingerprint.com</a> - Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged. Free tier version of Pro has 20,000 Requests per month.<br>
  ]]></description>
@@ -60,16 +65,6 @@
 <item>
 	<title>Add pricing information for kanbantool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b7acd4e9cdc88e9b98c4177332708ce3516f63b0</link><description><![CDATA[<a href="https://kanbantool.com/">https://kanbantool.com/</a> - Kanban board-based project management. Free plan has 2 boards, 2 users, without atachments or files.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add pricing information for taskade</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/847e863e2d888ecd498fd4a4dc7fefe0fe0ae4f0</link><description><![CDATA[<a href="https://www.taskade.com/">https://www.taskade.com/</a> - Real-time collaborative task lists and outlines for teams. Free plan has: 1 workspace with unlimited tasks and projects; 1GB file storage; 1 week project history; 5 attendees per video meeting.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add pricing information to easyretro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/306daaaeec04dcdf1a7fee37d6e2d26cd319d935</link><description><![CDATA[<a href="https://www.easyretro.io/">https://www.easyretro.io/</a> - Simple and intuitive sprint retrospective tool. Free plan has 3 public boards and 1 survey per board per month.<br>
  ]]></description>
 </item>
 
