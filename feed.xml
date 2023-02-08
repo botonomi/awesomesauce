@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add EForw to Email</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f6a057bda1472d0b5073f5f091836eafa13f4867</link><description><![CDATA[<a href="https://www.eforw.com">https://www.eforw.com</a> - Free email forwarding for 1 domain. Receive and send emails from your domain.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Meteosource Weather API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ca9cb759d10f511ddd9bef288d48638922aee113</link><description><![CDATA[<a href="https://www.meteosource.com/">https://www.meteosource.com/</a> - API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. Free plan comes with 400 calls per day.<br>
  ]]></description>
@@ -57,11 +62,6 @@
 	<title>Add Buildkite under CI/CD</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/70566cb99a6be7bf21061cbca44ec94ed5559763</link><description><![CDATA[<a href="https://buildkite.com">https://buildkite.com</a> - <br>
 <a href="https://buildkite.com/test-analytics">https://buildkite.com/test-analytics</a> - — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>added soos</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6ea97516a54e68a8bab92d0c0e3fc8e11ea39a7d</link><description><![CDATA[<a href="https://soos.io">https://soos.io</a> - Free, unlimited SCA scans for open source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.<br>
  ]]></description>
 </item>
 
