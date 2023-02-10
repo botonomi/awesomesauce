@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove unscan.co</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e7eaa0c3cb41186694fc90dde8b174d700ff3200</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add EForw to Email</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f6a057bda1472d0b5073f5f091836eafa13f4867</link><description><![CDATA[<a href="https://www.eforw.com">https://www.eforw.com</a> - Free email forwarding for 1 domain. Receive and send emails from your domain.<br>
  ]]></description>
@@ -51,17 +55,6 @@
 <item>
 	<title>Add Clockify</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2936e55f55a97c369937ae56abaeb8be3fe8ac9a</link><description><![CDATA[<a href="https://clockify.me">https://clockify.me</a> - Time tracker and timesheet app that lets you track work hours across projects. Unlimited users, free forever.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Plaky</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7bd079667e1d4788564527dd5a738e0a28849b92</link><description><![CDATA[<a href="https://plaky.com) - Free task management (kanban">https://plaky.com) - Free task management (kanban</a> - Free task management (kanban) software without any limits. Unlimited users, unlimited projects, free forever.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Buildkite under CI/CD</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/70566cb99a6be7bf21061cbca44ec94ed5559763</link><description><![CDATA[<a href="https://buildkite.com">https://buildkite.com</a> - <br>
-<a href="https://buildkite.com/test-analytics">https://buildkite.com/test-analytics</a> - — Get more out of your test suites, works with any CI platform. Free developer tier includes 100k test executions/month, with more free inclusions for open source projects.<br>
  ]]></description>
 </item>
 
