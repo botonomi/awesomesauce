@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add OpenAPI.security</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/04e455fab143aac06dcf0af061e969a251264d55</link><description><![CDATA[<a href="https://openapi.security/">https://openapi.security/</a> - Free tool to quickly check the security of any OpenAPI / Swagger based API. No signup required.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove unscan.co</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7eaa0c3cb41186694fc90dde8b174d700ff3200</link><description><![CDATA[ ]]></description>
 </item>
