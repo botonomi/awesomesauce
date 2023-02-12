@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>deduplicate webhook.site and cloudamqp.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cbde14f925b591740c9a5400e4493ea6ba6270cc</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add OpenAPI.security</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/04e455fab143aac06dcf0af061e969a251264d55</link><description><![CDATA[<a href="https://openapi.security/">https://openapi.security/</a> - Free tool to quickly check the security of any OpenAPI / Swagger based API. No signup required.<br>
  ]]></description>
@@ -50,11 +54,6 @@
 <item>
 	<title>Add FingerprintJS under Security and PKI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7ed7076cf46f5d223f538dc09d1f519ba9d26b07</link><description><![CDATA[<a href="https://www.fingerprint.com">https://www.fingerprint.com</a> - Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DaisyUI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/740a974f9c9a0d24ce45489cc34181da3367a0f0</link><description><![CDATA[<a href="https://daisyui.com/">https://daisyui.com/</a> - Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.<br>
  ]]></description>
 </item>
 
