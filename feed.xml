@@ -13,6 +13,17 @@
  ]]></description>
 </item>
 <item>
+	<title>Describe free level</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ded47938240e782fd75569223870d64bc321ec8e</link><description><![CDATA[<a href="https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation">https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation</a> - — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Clockwork Micro</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/65685eacc5e23f291d9b34493e58b02efbda0d72</link><description><![CDATA[<a href="https://www.notion.so/">https://www.notion.so/</a> - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.<br>
+<a href="https://clockworkmicro.com/">https://clockworkmicro.com/</a> - — Map tools that work like clockwork.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove unscan.co</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7eaa0c3cb41186694fc90dde8b174d700ff3200</link><description><![CDATA[ ]]></description>
 </item>
@@ -40,20 +51,6 @@
 <item>
 	<title>adds Tinybird to DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f5075c09444c88e017825dcc11833e638ac7b71f</link><description><![CDATA[<a href="https://tinybird.co">https://tinybird.co</a> - A serverless managed ClickHouse with connection-less data ingest over HTTP and let's you publish SQL queries as managed HTTP APIs. No time limit on free-tier, 10GB storage + 1000 API requests per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Change Fingerprintjs description to single line</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/450f475ec2e1982583c6ab16e03151b3bdfbf9b0</link><description><![CDATA[<a href="https://www.fingerprint.com">https://www.fingerprint.com</a> - Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged. Free tier version of Pro has 20,000 Requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add FingerprintJS free trial information</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ad9d2c8d7bf497fb8e4069dc5d91305ee4a623e9</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add FingerprintJS under Security and PKI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7ed7076cf46f5d223f538dc09d1f519ba9d26b07</link><description><![CDATA[<a href="https://www.fingerprint.com">https://www.fingerprint.com</a> - Fingerprinting](https://www.fingerprint.com) - FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.<br>
  ]]></description>
 </item>
 
