@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add emaildrop.io to Emails section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a7f1399e03ffe0ff487d5735b116ad6ba7eba138</link><description><![CDATA[<a href="https://emaildrop.io/">https://emaildrop.io/</a> - Free disposable email provider. Email addresses can be created via GraphQL API.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Feathery to the Forms section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c423209ada6c7ddaf04464eb4627c6f97b14321e</link><description><![CDATA[<a href="https://feathery.io">https://feathery.io</a> - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add EForw to Email</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f6a057bda1472d0b5073f5f091836eafa13f4867</link><description><![CDATA[<a href="https://www.eforw.com">https://www.eforw.com</a> - Free email forwarding for 1 domain. Receive and send emails from your domain.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Meteosource Weather API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca9cb759d10f511ddd9bef288d48638922aee113</link><description><![CDATA[<a href="https://www.meteosource.com/">https://www.meteosource.com/</a> - API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. Free plan comes with 400 calls per day.<br>
  ]]></description>
 </item>
 
