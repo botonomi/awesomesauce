@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f8aa26f4702a9695940de080b249d38e192b8ecc</link><description><![CDATA[<a href="https://gamefresco.com/">https://gamefresco.com/</a> - Discover, collect and share free game assets from game artists everywhere.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add emaildrop.io to Emails section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a7f1399e03ffe0ff487d5735b116ad6ba7eba138</link><description><![CDATA[<a href="https://emaildrop.io/">https://emaildrop.io/</a> - Free disposable email provider. Email addresses can be created via GraphQL API.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>tool made for developers</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/263d2bf9023d1a6fe685482dd7dedeeb6f6845a6</link><description><![CDATA[<a href="https://www.erdlab.io) —  Free cloud based entity relationship diagram (ERD">https://www.erdlab.io) —  Free cloud based entity relationship diagram (ERD</a> - — Free cloud based entity relationship diagram (ERD) tool made for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add EForw to Email</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f6a057bda1472d0b5073f5f091836eafa13f4867</link><description><![CDATA[<a href="https://www.eforw.com">https://www.eforw.com</a> - Free email forwarding for 1 domain. Receive and send emails from your domain.<br>
  ]]></description>
 </item>
 
