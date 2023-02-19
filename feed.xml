@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ce0ddfe1ff6fb0186d5f352cde3a57a7967604c7</link><description><![CDATA[<a href="https://www.activepieces.com">https://www.activepieces.com</a> - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/358bf39218041360c007e3c2a2034377347bd95e</link><description><![CDATA[<a href="https://www.activepieces.com">https://www.activepieces.com</a> - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add: pika</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dca6750560bf23b085aa29fd575eaae96cff62bc</link><description><![CDATA[<a href="https://pika.style/templates/code-image">https://pika.style/templates/code-image</a> - Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.<br>
  ]]></description>
@@ -47,10 +57,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/65685eacc5e23f291d9b34493e58b02efbda0d72</link><description><![CDATA[<a href="https://www.notion.so/">https://www.notion.so/</a> - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.<br>
 <a href="https://clockworkmicro.com/">https://clockworkmicro.com/</a> - — Map tools that work like clockwork.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove unscan.co</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e7eaa0c3cb41186694fc90dde8b174d700ff3200</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
