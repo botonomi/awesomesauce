@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding TemplateTo Free tier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9cc5343c837c3780d0347e7b6537f84a957a6a34</link><description><![CDATA[<a href="https://templateto.com">https://templateto.com</a> - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1ea1222b187eafd0f3ff0cb75a2107d555e957b6</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>https://www.softacheck.com is DNS_PROBE_FINISHED_NXDOMAIN,</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e280c1e231745e588f6e6e7dc3637ff1dc9a1aea</link><description><![CDATA[<a href="https://github.com/apps/softacheck">https://github.com/apps/softacheck</a> - An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ce0ddfe1ff6fb0186d5f352cde3a57a7967604c7</link><description><![CDATA[<a href="https://www.activepieces.com">https://www.activepieces.com</a> - Build automation flows to connect several apps together in the backend of your app. For example, when an event fires in your app, send a Slack message or add a Google Sheet row. Free up to 5,000 tasks per month.<br>
  ]]></description>
@@ -36,26 +50,6 @@
 <item>
 	<title>Add Bencher</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2d03bfa3b499639ec03fccab6c2c0c67c4f3aea</link><description><![CDATA[<a href="https://bencher.dev/">https://bencher.dev/</a> - A suite of continuous benchmarking tools designed to catch performance regressions in CI. Free for all public projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>deduplicate webhook.site and cloudamqp.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cbde14f925b591740c9a5400e4493ea6ba6270cc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add OpenAPI.security</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/04e455fab143aac06dcf0af061e969a251264d55</link><description><![CDATA[<a href="https://openapi.security/">https://openapi.security/</a> - Free tool to quickly check the security of any OpenAPI / Swagger based API. No signup required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Describe free level</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ded47938240e782fd75569223870d64bc321ec8e</link><description><![CDATA[<a href="https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation">https://clockworkmicro.com/) — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation</a> - — Map tools that work like clockwork. 50,000 free queries per month (map tiles, db2vector, elevation).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Clockwork Micro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65685eacc5e23f291d9b34493e58b02efbda0d72</link><description><![CDATA[<a href="https://www.notion.so/">https://www.notion.so/</a> - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.<br>
-<a href="https://clockworkmicro.com/">https://clockworkmicro.com/</a> - — Map tools that work like clockwork.<br>
  ]]></description>
 </item>
 
