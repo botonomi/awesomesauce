@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add datalore</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c3abb4ae12f20da8e05f65640f91d37a6036b969</link><description><![CDATA[<a href="https://datalore.jetbrains.com">https://datalore.jetbrains.com</a> - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updates to Analytics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c8cc01f00376390a9891bc03026baa83b557b28c</link><description><![CDATA[<a href="https://keen.io/">https://keen.io/</a> - Custom Analytics for data collection, analysis and visualization. 1,000 events/month free<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add HiveMQ to Messaging and Streaming</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5f9646b2a38a9f17302aa4ccf1a2e2c9e0753fad</link><description><![CDATA[<a href="https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required">https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required</a> - Connect your MQTT devices to the Cloud Native IoT Messaging Broker. Free to connect up to 100 devices (no credit card required) forever.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding TemplateTo Free tier</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9cc5343c837c3780d0347e7b6537f84a957a6a34</link><description><![CDATA[<a href="https://templateto.com">https://templateto.com</a> - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.<br>
  ]]></description>
@@ -15,6 +30,11 @@
 <item>
 	<title>https://www.softacheck.com is DNS_PROBE_FINISHED_NXDOMAIN,</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e280c1e231745e588f6e6e7dc3637ff1dc9a1aea</link><description><![CDATA[<a href="https://github.com/apps/softacheck">https://github.com/apps/softacheck</a> - An online tool that performs static analysis for C/C++ code using open source tools such as cppcheck and clang-tidy and automatically generates code documentation for users using doxygen. This tool is free for use.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Listed DronaHQ in Low Code Category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a7a298368acee705740d56c9203d9ff75a3f07e5</link><description><![CDATA[<a href="https://www.dronahq.com/">https://www.dronahq.com/</a> - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.<br>
  ]]></description>
 </item>
 <item>
@@ -35,21 +55,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f8aa26f4702a9695940de080b249d38e192b8ecc</link><description><![CDATA[<a href="https://gamefresco.com/">https://gamefresco.com/</a> - Discover, collect and share free game assets from game artists everywhere.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add emaildrop.io to Emails section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a7f1399e03ffe0ff487d5735b116ad6ba7eba138</link><description><![CDATA[<a href="https://emaildrop.io/">https://emaildrop.io/</a> - Free disposable email provider. Email addresses can be created via GraphQL API.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Feathery to the Forms section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c423209ada6c7ddaf04464eb4627c6f97b14321e</link><description><![CDATA[<a href="https://feathery.io">https://feathery.io</a> - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. Free plan allows up to 250 submissions / month and 5 active forms.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Bencher</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d2d03bfa3b499639ec03fccab6c2c0c67c4f3aea</link><description><![CDATA[<a href="https://bencher.dev/">https://bencher.dev/</a> - A suite of continuous benchmarking tools designed to catch performance regressions in CI. Free for all public projects.<br>
  ]]></description>
 </item>
 
