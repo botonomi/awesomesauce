@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove GlobalSign</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/35cf777c1e0634803cefded4029de5a939acbfd0</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add datalore</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c3abb4ae12f20da8e05f65640f91d37a6036b969</link><description><![CDATA[<a href="https://datalore.jetbrains.com">https://datalore.jetbrains.com</a> - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.<br>
  ]]></description>
@@ -50,11 +54,6 @@
 <item>
 	<title>add: pika</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dca6750560bf23b085aa29fd575eaae96cff62bc</link><description><![CDATA[<a href="https://pika.style/templates/code-image">https://pika.style/templates/code-image</a> - Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f8aa26f4702a9695940de080b249d38e192b8ecc</link><description><![CDATA[<a href="https://gamefresco.com/">https://gamefresco.com/</a> - Discover, collect and share free game assets from game artists everywhere.<br>
  ]]></description>
 </item>
 
