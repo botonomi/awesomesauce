@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove mogenius</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/169700ff55ce6af1b2131603245e5fdb7a89c51b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add WunderGraph</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a68382200459f3d24ed7e79bb2b8cffe8831d387</link><description><![CDATA[<a href="https://wundergraph.com/pricing">https://wundergraph.com/pricing</a> - An open source platform that allows you to quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)<br>
  ]]></description>
@@ -45,11 +49,6 @@
 <item>
 	<title>Add HiveMQ to Messaging and Streaming</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5f9646b2a38a9f17302aa4ccf1a2e2c9e0753fad</link><description><![CDATA[<a href="https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required">https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required</a> - Connect your MQTT devices to the Cloud Native IoT Messaging Broker. Free to connect up to 100 devices (no credit card required) forever.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding TemplateTo Free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9cc5343c837c3780d0347e7b6537f84a957a6a34</link><description><![CDATA[<a href="https://templateto.com">https://templateto.com</a> - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. Free plan comes with 450 PDFs/month and 3 templates.<br>
  ]]></description>
 </item>
 
