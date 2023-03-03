@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/092c8d8ba33cbce44b9a04085b80bdce207dfe8d</link><description><![CDATA[<a href="https://middleware.io/">https://middleware.io/</a> - Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0f46370d9b468d9a1964fb1a6a23958a0b72b65e</link><description><![CDATA[<a href="https://middleware.io/">https://middleware.io/</a> - Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows upto Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a515810bddc17d04b3f46fb2a2d4ba2ed973dcb2</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>remove mogenius</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/169700ff55ce6af1b2131603245e5fdb7a89c51b</link><description><![CDATA[ ]]></description>
 </item>
@@ -39,16 +53,6 @@
 <item>
 	<title>Add datalore</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c3abb4ae12f20da8e05f65640f91d37a6036b969</link><description><![CDATA[<a href="https://datalore.jetbrains.com">https://datalore.jetbrains.com</a> - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updates to Analytics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c8cc01f00376390a9891bc03026baa83b557b28c</link><description><![CDATA[<a href="https://keen.io/">https://keen.io/</a> - Custom Analytics for data collection, analysis and visualization. 1,000 events/month free<br>
- ]]></description>
-</item>
-<item>
-	<title>Add HiveMQ to Messaging and Streaming</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5f9646b2a38a9f17302aa4ccf1a2e2c9e0753fad</link><description><![CDATA[<a href="https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required">https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required</a> - Connect your MQTT devices to the Cloud Native IoT Messaging Broker. Free to connect up to 100 devices (no credit card required) forever.<br>
  ]]></description>
 </item>
 
