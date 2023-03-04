@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove getporter</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/30cdd84aa24746d2a321561d6eea1b37ad9f6349</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/092c8d8ba33cbce44b9a04085b80bdce207dfe8d</link><description><![CDATA[<a href="https://middleware.io/">https://middleware.io/</a> - Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.<br>
  ]]></description>
