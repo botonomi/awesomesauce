@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Descope service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/623f6d2b66cf85a89b4979a5dcf084e039046dba</link><description><![CDATA[<a href="https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7fb2982fb82c36865228930be32ab87bad7fc571</link><description><![CDATA[<a href="https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance">https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance</a> - — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.<br>
  ]]></description>
@@ -53,11 +58,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8fd51dc3a71aa23848c7053901169303971e2481</link><description><![CDATA[<a href="https://scrollbar.app">https://scrollbar.app</a> - Simple free web app for designing custom scrollbars for the web.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Scrollbar.app</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7067030424744c873fe9edcf3864e5e88642ede</link><description><![CDATA[<a href="https://scrollbar.app">https://scrollbar.app</a> - Simple web app for designing custom scrollbars for the web.<br>
  ]]></description>
 </item>
 
