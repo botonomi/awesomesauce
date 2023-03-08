@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add www. to the url</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a93fffeb2587737188711074ade5913fb211e2af</link><description><![CDATA[<a href="https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Descope service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/623f6d2b66cf85a89b4979a5dcf084e039046dba</link><description><![CDATA[<a href="https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
  ]]></description>
@@ -53,11 +58,6 @@
 <item>
 	<title>Add WunderGraph</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a68382200459f3d24ed7e79bb2b8cffe8831d387</link><description><![CDATA[<a href="https://wundergraph.com/pricing">https://wundergraph.com/pricing</a> - An open source platform that allows you to quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8fd51dc3a71aa23848c7053901169303971e2481</link><description><![CDATA[<a href="https://scrollbar.app">https://scrollbar.app</a> - Simple free web app for designing custom scrollbars for the web.<br>
  ]]></description>
 </item>
 
