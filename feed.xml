@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Versionfeeds.com to Miscellaneous</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fbbdcfd84f0ca0b4c86685d712db4b1758a5d168</link><description><![CDATA[<a href="https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free">https://versionfeeds.com) — Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free</a> - Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries or loved tools in one feed. (First 3 feeds are free)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Correct order of tools in Miscellaneous</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4fc3aee6cc2d2e172e439cd3a5d8594d9049cf7b</link><description><![CDATA[<a href="https://cronhooks.io/">https://cronhooks.io/</a> - Schedule on time or recurring webhooks. Free plan allows 5 ad-hoc schedules.<br>
+<a href="https://cronit.app">https://cronit.app</a> - Online cronjobs service. Free plan includes 100 job execution per month<br>
+<a href="https://www.format-express.dev">https://www.format-express.dev</a> - - Instant online formatter for JSON / XML / SQL.<br>
+<a href="https://www.hookrelay.dev/">https://www.hookrelay.dev/</a> - - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.<br>
+<a href="https://pika.style/templates/code-image">https://pika.style/templates/code-image</a> - Screenshots](https://pika.style/templates/code-image) — Create beautiful, customizable screenshots from code snippets and VSCode using extension.<br>
+<a href="https://randomkeygen.com/">https://randomkeygen.com/</a> - A free mobile-friendly tool offers a variety of randomly generated keys and passwords you can use to secure any application, service or device.<br>
+<a href="https://smartcar.com">https://smartcar.com</a> - - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add www. to the url</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a93fffeb2587737188711074ade5913fb211e2af</link><description><![CDATA[<a href="https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
  ]]></description>
@@ -50,15 +66,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a515810bddc17d04b3f46fb2a2d4ba2ed973dcb2</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>remove mogenius</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/169700ff55ce6af1b2131603245e5fdb7a89c51b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add WunderGraph</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a68382200459f3d24ed7e79bb2b8cffe8831d387</link><description><![CDATA[<a href="https://wundergraph.com/pricing">https://wundergraph.com/pricing</a> - An open source platform that allows you to quickly build, ship and manage modern APIs. Builtin CI/CD, GitHub integration, automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)<br>
- ]]></description>
 </item>
 
 </channel>
