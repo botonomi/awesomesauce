@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add What The Diff</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/192d810d967439cbdb0135b8305330412f65fefb</link><description><![CDATA[<a href="https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs">https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs</a> - Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs).<br>
+ ]]></description>
+</item>
+<item>
 	<title>update back to top</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e9b8e91cb6d503af074d278c2de85803d9a483c7</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
 <a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
@@ -2985,10 +2990,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fc694d29c9b423ff528e2db8653ab0faebf452b6</link><description><![CDATA[<a href="https://www.doprax.com">https://www.doprax.com</a> - — Cloud hosting for your Apps, Websites and APIs.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove getporter</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/30cdd84aa24746d2a321561d6eea1b37ad9f6349</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
