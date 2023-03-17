@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f447cde6a8ea460bd582df41e62b982164f4a2d5</link><description><![CDATA[<a href="https://binshare.net">https://binshare.net</a> - Create & share code or binaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding BinShare</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c127fa113f705728ce3662bc598b22368b07049e</link><description><![CDATA[<a href="https://binshare.net">https://binshare.net</a> - Create & share code or binnaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added adminmart.com for Free Templates</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/96fb0e4e782d546ea650599adf466f74e66d8313</link><description><![CDATA[<a href="https://adminmart.com/">https://adminmart.com/</a> - High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!<br>
  ]]></description>
@@ -2974,16 +2984,6 @@
 <item>
 	<title>Add Descope service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/623f6d2b66cf85a89b4979a5dcf084e039046dba</link><description><![CDATA[<a href="https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7fb2982fb82c36865228930be32ab87bad7fc571</link><description><![CDATA[<a href="https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance">https://patr.cloud/) — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance</a> - — An easy-to-use cloud platform to deploy static sites, web apps, databases, containers & more.. Free for 1 Deployment (1vCPU, 1GB RAM, 1 Instance), 3 Static Sites and 10GB Total Docker Repository Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/56cf9a0e3de731cb4e32a29b78eac91713071709</link><description><![CDATA[<a href="https://patr.cloud/">https://patr.cloud/</a> - — An easy-to-use cloud platform to deploy static sites,<br>
  ]]></description>
 </item>
 
