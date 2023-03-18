@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding DeployBot</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a590dc7d6cf00b2bdbff1c1d65435317af1ebcd5</link><description><![CDATA[<a href="https://www.deploybot.com/">https://www.deploybot.com/</a> - 1 repository with 10 deployments, free for Open Source<br>
+ ]]></description>
+</item>
+<item>
 	<title>Typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f447cde6a8ea460bd582df41e62b982164f4a2d5</link><description><![CDATA[<a href="https://binshare.net">https://binshare.net</a> - Create & share code or binaries. Avaliable to share as an beautiful image e.g. for Twitter / Facebook post or as a link e.g for chats or forums.<br>
  ]]></description>
@@ -2979,11 +2984,6 @@
 <item>
 	<title>add www. to the url</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a93fffeb2587737188711074ade5913fb211e2af</link><description><![CDATA[<a href="https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Descope service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/623f6d2b66cf85a89b4979a5dcf084e039046dba</link><description><![CDATA[<a href="https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants">https://descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants</a> - Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).<br>
  ]]></description>
 </item>
 
