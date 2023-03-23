@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added DhiWise</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c0d25734adaeb75fbbe751ec0ba68d4cdb42ea3c</link><description><![CDATA[<a href="https://www.dhiwise.com/">https://www.dhiwise.com/</a> - Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Magny</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8d0bb6dea8569133b055368d0b8824ae4351bb04</link><description><![CDATA[<a href="https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search">https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search</a> - SaaS service that helps implement command palettes (e.g in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Added adminmart.com for Free Templates</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/96fb0e4e782d546ea650599adf466f74e66d8313</link><description><![CDATA[<a href="https://adminmart.com/">https://adminmart.com/</a> - High Quality Free and Premium Admin Dashboard and Website Templates created with Angular, Bootstrap, React, VueJs, NextJs and NuxtJs!<br>
- ]]></description>
-</item>
-<item>
-	<title>add What The Diff</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/192d810d967439cbdb0135b8305330412f65fefb</link><description><![CDATA[<a href="https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs">https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs</a> - Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 tokens per month (~10 PRs).<br>
  ]]></description>
 </item>
 
