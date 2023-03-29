@@ -4,6 +4,54 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md and include APIToolkit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7bc7ad8bb86eee09446daca45976053a22fe19b3</link><description><![CDATA[<a href="https://apitoolkit.io">https://apitoolkit.io</a> - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. Free plan covers servers with up to 20,000 requests per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fixed ZeroTier number of clients</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/11fea9d2f1f931f0b64791b23b5604b3d74e673e</link><description><![CDATA[<a href="https://www.zerotier.com">https://www.zerotier.com</a> - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'master' into patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5c4454b75508529e661a6dc26d342acbd60a5792</link><description><![CDATA[<a href="https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding">https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding</a> - Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).<br>
+<a href="https://gokanban.io">https://gokanban.io</a> - Syntax based, no registration Kanban Board for fast use. Free with no limitations.<br>
+<a href="https://buildkite.com">https://buildkite.com</a> - <br>
+<a href="https://middleware.io/">https://middleware.io/</a> - Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.<br>
+<a href="https://www.dronahq.com/">https://www.dronahq.com/</a> - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.<br>
+<a href="https://zilore.com/en/dns">https://zilore.com/en/dns</a> - Free DNS hosting, free for 5 domains.<br>
+<a href="https://buttondown.email/">https://buttondown.email/</a> - Newsletter service. Up to 100 subscribers free<br>
+<a href="https://www.cloudmersive.com/email-verification-api">https://www.cloudmersive.com/email-verification-api</a> - Email validation and verification API for developers, 800 free API requests/month<br>
+<a href="https://emaillabs.io/en">https://emaillabs.io/en</a> - Send up to 9,000 Emails for free every month, up to 300 emails per day.<br>
+<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
+<a href="https://emailvalidation.io">https://emailvalidation.io</a> - 100 free email verifications per month<br>
+<a href="https://hottempmail.com/">https://hottempmail.com/</a> - Unlimited free temp email or disposable temporary email addresses. Autoexpires in one day.<br>
+<a href="https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month">https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month</a> - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)<br>
+<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 500 subscribers and 1,000 emails/month free<br>
+<a href="https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit">https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit</a> - 6,000 emails/month free (200 emails daily sending limit)<br>
+<a href="https://mailtrap.io/">https://mailtrap.io/</a> - Fake SMTP server for development, free plan with 1 inbox, 100 messages, no team member, 2 emails/second, no forward rules<br>
+<a href="https://mailvalidator.io/">https://mailvalidator.io/</a> - Verify 300 emails/month for free, real-time API with bulk processing available<br>
+<a href="https://www.mail7.io/">https://www.mail7.io/</a> - Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API<br>
+<a href="https://postmarkapp.com/">https://postmarkapp.com/</a> - 100 emails/month free, unlimited DMARC weekly digests<br>
+<a href="https://www.sender.net">https://www.sender.net</a> - to 15 000 emails/month, up to 2,500 subscribers<br>
+<a href="https://sendgrid.com/">https://sendgrid.com/</a> - 100 emails/day and 2,000 contacts free<br>
+<a href="https://www.sendinblue.com/">https://www.sendinblue.com/</a> - 9,000 emails/month, 300 emails/day free<br>
+<a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 12,000 emails/month free<br>
+<a href="https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc">https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc</a> - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).<br>
+<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0f6e33e607e3c73a0a080e818ddb95bf850e423a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27d1359489a818bd7ccdc5d5f53bb26092fdde9f</link><description><![CDATA[<a href="https://www.illacloud.com/">https://www.illacloud.com/</a> - — ILLA Cloud - A robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools. Free for 5 team members.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Clean up email services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ce399a0c707a19d87dd89b68b39e08c6e57e3144</link><description><![CDATA[<a href="https://buttondown.email/">https://buttondown.email/</a> - Newsletter service. Up to 100 subscribers free<br>
 <a href="https://www.cloudmersive.com/email-verification-api">https://www.cloudmersive.com/email-verification-api</a> - Email validation and verification API for developers, 800 free API requests/month<br>
@@ -37,6 +85,11 @@
  ]]></description>
 </item>
 <item>
+	<title>ADD ILLA Cloud to Low-code Platform</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/95a3317190341c8ead06ee4a754264a57b3b0829</link><description><![CDATA[<a href="https://www.illacloud.com/">https://www.illacloud.com/</a> - — ILLA Cloud - A robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add exspanse.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b1d1635a7f15612eeb3aa5d0955e305c746d16b3</link><description><![CDATA[<a href="https://exspanse.com">https://exspanse.com</a> - MLOPS Platform to build, train and deploy ML models and AI solutions. Free plan gives ability to create unlimited projects, 5Gb of cloud storage, 5 docker container images.<br>
  ]]></description>
@@ -49,30 +102,6 @@
 <item>
 	<title>Add Magny</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8d0bb6dea8569133b055368d0b8824ae4351bb04</link><description><![CDATA[<a href="https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search">https://magny.io) - SaaS service that helps implement command palettes (e.g in-app search</a> - SaaS service that helps implement command palettes (e.g in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed biz.mail.ru from Email section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/69fe81d806360fbcf928fc1146e6b57c509a7dbe</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Modify the selefra category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65f6110c27dd1d0461d5a1eea236b7fff9f30759</link><description><![CDATA[<a href="https://www.selefra.io/">https://www.selefra.io/</a> - Selefra free tier offers individual users to scan one single-source connection to discover security and compliance issues on the configurations level of cloud/infra/SaaS.<br>
- ]]></description>
-</item>
-<item>
-	<title>Modify the selefra category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8adccf947338d1792dd7bc164128b3aa15922c3d</link><description><![CDATA[<a href="https://www.selefra.io/">https://www.selefra.io/</a> - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Selefra</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/959f7be0bbd93f3a7462d983eee365e53b0074e9</link><description><![CDATA[<a href="https://www.selefra.io/">https://www.selefra.io/</a> - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.<br>
- ]]></description>
-</item>
-<item>
-	<title>add fontskey.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/25a206d70e04c17220a8f1a00bb401c20d61ba6e</link><description><![CDATA[<a href="https://www.fontskey.com/">https://www.fontskey.com/</a> - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering.<br>
  ]]></description>
 </item>
 
