@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add meilisearch</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3e7acf094f29cfad62573c1743151ad4aebbabc4</link><description><![CDATA[<a href="https://www.meilisearch.com/">https://www.meilisearch.com/</a> - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added zipcodestack.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/353a26cf5857fe83bba280c1734be76a70e148e1</link><description><![CDATA[<a href="https://zipcodestack.com">https://zipcodestack.com</a> - Free Zip Code API and Postal Code Validation. 10000 free requests/month.<br>
  ]]></description>
@@ -87,21 +92,6 @@
 <a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 12,000 emails/month free<br>
 <a href="https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc">https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc</a> - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).<br>
 <a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove cloudflare frontends and carbon copy free domains etc</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38278ade7075f8fe1f045b22ee00ced079e0c16e</link><description><![CDATA[<a href="https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding">https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding</a> - Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).<br>
-<a href="https://gokanban.io">https://gokanban.io</a> - Syntax based, no registration Kanban Board for fast use. Free with no limitations.<br>
-<a href="https://buildkite.com">https://buildkite.com</a> - <br>
-<a href="https://middleware.io/">https://middleware.io/</a> - Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.<br>
-<a href="https://www.dronahq.com/">https://www.dronahq.com/</a> - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.<br>
-<a href="https://zilore.com/en/dns">https://zilore.com/en/dns</a> - Free DNS hosting, free for 5 domains.<br>
- ]]></description>
-</item>
-<item>
-	<title>ADD ILLA Cloud to Low-code Platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/95a3317190341c8ead06ee4a754264a57b3b0829</link><description><![CDATA[<a href="https://www.illacloud.com/">https://www.illacloud.com/</a> - — ILLA Cloud - A robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools.<br>
  ]]></description>
 </item>
 
