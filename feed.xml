@@ -4,6 +4,14 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Oracle, Xirsys, TigerGraph, TerminusCMS; remove deta.sh</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1620a1792db435b505fac98b6a93ccece488d198</link><description><![CDATA[<a href="https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances">https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances</a> - be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)<br>
+<a href="https://www.tigergraph.com/cloud/">https://www.tigergraph.com/cloud/</a> - — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. One free instance with 2 vCPU, 8GB Memory, and 50GB storage that sleeps after 1 hour of inactivity.<br>
+<a href="https://terminusdb.com/pricing">https://terminusdb.com/pricing</a> - Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.<br>
+<a href="https://www.xirsys.com/pricing/">https://www.xirsys.com/pricing/</a> - Unlimited STUN usage + 500 MB monthly TURN bandwidth, capped bandwidth, single geographic region.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add meilisearch</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3e7acf094f29cfad62573c1743151ad4aebbabc4</link><description><![CDATA[<a href="https://www.meilisearch.com/">https://www.meilisearch.com/</a> - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.<br>
  ]]></description>
@@ -69,29 +77,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/27d1359489a818bd7ccdc5d5f53bb26092fdde9f</link><description><![CDATA[<a href="https://www.illacloud.com/">https://www.illacloud.com/</a> - — ILLA Cloud - A robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools. Free for 5 team members.<br>
- ]]></description>
-</item>
-<item>
-	<title>Clean up email services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ce399a0c707a19d87dd89b68b39e08c6e57e3144</link><description><![CDATA[<a href="https://buttondown.email/">https://buttondown.email/</a> - Newsletter service. Up to 100 subscribers free<br>
-<a href="https://www.cloudmersive.com/email-verification-api">https://www.cloudmersive.com/email-verification-api</a> - Email validation and verification API for developers, 800 free API requests/month<br>
-<a href="https://emaillabs.io/en">https://emaillabs.io/en</a> - Send up to 9,000 Emails for free every month, up to 300 emails per day.<br>
-<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
-<a href="https://emailvalidation.io">https://emailvalidation.io</a> - 100 free email verifications per month<br>
-<a href="https://hottempmail.com/">https://hottempmail.com/</a> - Unlimited free temp email or disposable temporary email addresses. Autoexpires in one day.<br>
-<a href="https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month">https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month</a> - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)<br>
-<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 500 subscribers and 1,000 emails/month free<br>
-<a href="https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit">https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit</a> - 6,000 emails/month free (200 emails daily sending limit)<br>
-<a href="https://mailtrap.io/">https://mailtrap.io/</a> - Fake SMTP server for development, free plan with 1 inbox, 100 messages, no team member, 2 emails/second, no forward rules<br>
-<a href="https://mailvalidator.io/">https://mailvalidator.io/</a> - Verify 300 emails/month for free, real-time API with bulk processing available<br>
-<a href="https://www.mail7.io/">https://www.mail7.io/</a> - Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API<br>
-<a href="https://postmarkapp.com/">https://postmarkapp.com/</a> - 100 emails/month free, unlimited DMARC weekly digests<br>
-<a href="https://www.sender.net">https://www.sender.net</a> - to 15 000 emails/month, up to 2,500 subscribers<br>
-<a href="https://sendgrid.com/">https://sendgrid.com/</a> - 100 emails/day and 2,000 contacts free<br>
-<a href="https://www.sendinblue.com/">https://www.sendinblue.com/</a> - 9,000 emails/month, 300 emails/day free<br>
-<a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 12,000 emails/month free<br>
-<a href="https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc">https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc</a> - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).<br>
-<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.<br>
  ]]></description>
 </item>
 
