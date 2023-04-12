@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add 8base serverless backend</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cd40099b96bed6689883937c2ec47ae4eb14a353</link><description><![CDATA[<a href="https://www.8base.com/">https://www.8base.com/</a> - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service, it allows you to start building web applications quicky using a UI app builder and scale easily, Free tier includes: rows: 2,500, Storage: 500Mb, Serverless computing: 1Gb/h, client app users: 5.<br>
+ ]]></description>
+</item>
+<item>
 	<title>move outsystem to low-code platform instead of BaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/577a8922f563c2af766780e2a385cb68889b8778</link><description><![CDATA[<a href="https://www.outsystems.com/">https://www.outsystems.com/</a> - Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database<br>
  ]]></description>
@@ -45,39 +50,6 @@
 	<title>Fixed ZeroTier number of clients</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/11fea9d2f1f931f0b64791b23b5604b3d74e673e</link><description><![CDATA[<a href="https://www.zerotier.com">https://www.zerotier.com</a> - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5c4454b75508529e661a6dc26d342acbd60a5792</link><description><![CDATA[<a href="https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding">https://geocod.xyz) — Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding</a> - Free geocoding API: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).<br>
-<a href="https://gokanban.io">https://gokanban.io</a> - Syntax based, no registration Kanban Board for fast use. Free with no limitations.<br>
-<a href="https://buildkite.com">https://buildkite.com</a> - <br>
-<a href="https://middleware.io/">https://middleware.io/</a> - Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for upto 1M log events, Infrastructure monitoring & APM for upto 2 hosts.<br>
-<a href="https://www.dronahq.com/">https://www.dronahq.com/</a> - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.<br>
-<a href="https://zilore.com/en/dns">https://zilore.com/en/dns</a> - Free DNS hosting, free for 5 domains.<br>
-<a href="https://buttondown.email/">https://buttondown.email/</a> - Newsletter service. Up to 100 subscribers free<br>
-<a href="https://www.cloudmersive.com/email-verification-api">https://www.cloudmersive.com/email-verification-api</a> - Email validation and verification API for developers, 800 free API requests/month<br>
-<a href="https://emaillabs.io/en">https://emaillabs.io/en</a> - Send up to 9,000 Emails for free every month, up to 300 emails per day.<br>
-<a href="https://www.emailjs.com/">https://www.emailjs.com/</a> - This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.<br>
-<a href="https://emailvalidation.io">https://emailvalidation.io</a> - 100 free email verifications per month<br>
-<a href="https://hottempmail.com/">https://hottempmail.com/</a> - Unlimited free temp email or disposable temporary email addresses. Autoexpires in one day.<br>
-<a href="https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month">https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month</a> - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)<br>
-<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 500 subscribers and 1,000 emails/month free<br>
-<a href="https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit">https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit</a> - 6,000 emails/month free (200 emails daily sending limit)<br>
-<a href="https://mailtrap.io/">https://mailtrap.io/</a> - Fake SMTP server for development, free plan with 1 inbox, 100 messages, no team member, 2 emails/second, no forward rules<br>
-<a href="https://mailvalidator.io/">https://mailvalidator.io/</a> - Verify 300 emails/month for free, real-time API with bulk processing available<br>
-<a href="https://www.mail7.io/">https://www.mail7.io/</a> - Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API<br>
-<a href="https://postmarkapp.com/">https://postmarkapp.com/</a> - 100 emails/month free, unlimited DMARC weekly digests<br>
-<a href="https://www.sender.net">https://www.sender.net</a> - to 15 000 emails/month, up to 2,500 subscribers<br>
-<a href="https://sendgrid.com/">https://sendgrid.com/</a> - 100 emails/day and 2,000 contacts free<br>
-<a href="https://www.sendinblue.com/">https://www.sendinblue.com/</a> - 9,000 emails/month, 300 emails/day free<br>
-<a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 12,000 emails/month free<br>
-<a href="https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc">https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc</a> - Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).<br>
-<a href="https://takeout.bysourfruit.com">https://takeout.bysourfruit.com</a> - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0f6e33e607e3c73a0a080e818ddb95bf850e423a</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
