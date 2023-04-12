@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added CrateDB to DBaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ed9aa21db823949ba80294a3e0886559be37e259</link><description><![CDATA[<a href="https://crate.io/lp-crfree">https://crate.io/lp-crfree</a> - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. 1 cluster per organization, no payment method needed.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add 8base serverless backend</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cd40099b96bed6689883937c2ec47ae4eb14a353</link><description><![CDATA[<a href="https://www.8base.com/">https://www.8base.com/</a> - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service, it allows you to start building web applications quicky using a UI app builder and scale easily, Free tier includes: rows: 2,500, Storage: 500Mb, Serverless computing: 1Gb/h, client app users: 5.<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>Update README.md and include APIToolkit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7bc7ad8bb86eee09446daca45976053a22fe19b3</link><description><![CDATA[<a href="https://apitoolkit.io">https://apitoolkit.io</a> - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. Free plan covers servers with up to 20,000 requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fixed ZeroTier number of clients</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/11fea9d2f1f931f0b64791b23b5604b3d74e673e</link><description><![CDATA[<a href="https://www.zerotier.com">https://www.zerotier.com</a> - FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks<br>
  ]]></description>
 </item>
 
