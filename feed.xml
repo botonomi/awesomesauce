@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Axiom</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e20388d47a0ff47da1fb8214933f59f8db5459ed</link><description><![CDATA[<a href="https://axiom.co/">https://axiom.co/</a> - Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Rename LogDNA to Mezmo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f925c7bfb2a74de035c6a2127165b7f088a6f038</link><description><![CDATA[<a href="https://www.mezmo.com/">https://www.mezmo.com/</a> - Free for a single user, no retention, unlimited hosts and sources<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Glob tester</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3674f8a2d2110fab2c8893c77f5b15d07886dbd5</link><description><![CDATA[<a href="https://globster.xyz/">https://globster.xyz/</a> - — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add hypercolor.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b392f75d3c5ad5cde9b4c7c905fe3777056432c4</link><description><![CDATA[<a href="https://hypercolor.dev/">https://hypercolor.dev/</a> - A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added CrateDB to DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ed9aa21db823949ba80294a3e0886559be37e259</link><description><![CDATA[<a href="https://crate.io/lp-crfree">https://crate.io/lp-crfree</a> - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. 1 cluster per organization, no payment method needed.<br>
  ]]></description>
@@ -29,26 +49,6 @@
 <item>
 	<title>add meilisearch</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3e7acf094f29cfad62573c1743151ad4aebbabc4</link><description><![CDATA[<a href="https://www.meilisearch.com/">https://www.meilisearch.com/</a> - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added zipcodestack.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/353a26cf5857fe83bba280c1734be76a70e148e1</link><description><![CDATA[<a href="https://zipcodestack.com">https://zipcodestack.com</a> - Free Zip Code API and Postal Code Validation. 10000 free requests/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Visual Debug tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eb7902883b87e142bd02537f97a5c3194fdc5b2b</link><description><![CDATA[<a href="https://visualdebug.com">https://visualdebug.com</a> - - A Visual feedback tool for better client-dev communication<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Webvizio</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bc19de53167a93c9407ab3bed7dc8f24b1ff1ee0</link><description><![CDATA[<a href="https://webvizio.com">https://webvizio.com</a> - Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md and include APIToolkit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7bc7ad8bb86eee09446daca45976053a22fe19b3</link><description><![CDATA[<a href="https://apitoolkit.io">https://apitoolkit.io</a> - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. Free plan covers servers with up to 20,000 requests per month.<br>
  ]]></description>
 </item>
 
