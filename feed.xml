@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove mezmo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/116a98b1935cec0ec9d5247315683ae5ca0eb0dc</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add css.glass</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a8024e90d9905e8e30f065dd30873f5f483e8dda</link><description><![CDATA[<a href="https://css.glass/">https://css.glass/</a> - Free web app for creating glassmorphic designs using CSS.<br>
  ]]></description>
@@ -48,16 +52,6 @@
 <item>
 	<title>Add Axiom</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e20388d47a0ff47da1fb8214933f59f8db5459ed</link><description><![CDATA[<a href="https://axiom.co/">https://axiom.co/</a> - Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Rename LogDNA to Mezmo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f925c7bfb2a74de035c6a2127165b7f088a6f038</link><description><![CDATA[<a href="https://www.mezmo.com/">https://www.mezmo.com/</a> - Free for a single user, no retention, unlimited hosts and sources<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Glob tester</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3674f8a2d2110fab2c8893c77f5b15d07886dbd5</link><description><![CDATA[<a href="https://globster.xyz/">https://globster.xyz/</a> - — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.<br>
  ]]></description>
 </item>
 
