@@ -4,6 +4,48 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add css.glass</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a8024e90d9905e8e30f065dd30873f5f483e8dda</link><description><![CDATA[<a href="https://css.glass/">https://css.glass/</a> - Free web app for creating glassmorphic designs using CSS.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Switch Icones to iconify.design</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a45440aa34241077b371bd7ea0cce8ef6a1e658e</link><description><![CDATA[<a href="https://icon-sets.iconify.design/">https://icon-sets.iconify.design/</a> - A collection of more than 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as SVGs or for popular web frameworks.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove Copilot from GitLab</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2715630fb8f55cea4c0afbcb9d85e7c947de0623</link><description><![CDATA[<a href="https://github.com/features/copilot">https://github.com/features/copilot</a> - — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Move Copilot to GitHub section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ad7d9962bcfdcefe96eb7d94228dd58362f4e357</link><description><![CDATA[<a href="https://github.com/features/copilot">https://github.com/features/copilot</a> - — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Poliigon</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27a93a76559a0b7f4976916b8b2dc6b990820337</link><description><![CDATA[<a href="https://itch.io/game-assets">https://itch.io/game-assets</a> - Free/Paid assets like sprites, tile sets, character packs, ...<br>
+<a href="https://opengameart.org">https://opengameart.org</a> - OpenSource Game Assets like music, sounds, sprites, gifs, ...<br>
+<a href="https://www.poliigon.com/) - Free and paid textures (with variable resolution">https://www.poliigon.com/) - Free and paid textures (with variable resolution</a> - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Icônes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7c554d7456f63cd5800af3b71850ccc7b18ce0c0</link><description><![CDATA[<a href="https://icones.antfu.me/">https://icones.antfu.me/</a> - A collection of more than 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as links, SVGs, JSX, or for popular web frameworks.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Copilot</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/80e6034e971dd4a3cbdd66eadb83c90758d4fcff</link><description><![CDATA[<a href="https://github.com/features/copilot">https://github.com/features/copilot</a> - — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix incorrect MAU</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ea1d79202dff2cf231c0c038aee9c7dbcc5c7255</link><description><![CDATA[<a href="https://clerk.dev/">https://clerk.dev/</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 5,000 monthly active users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Axiom</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e20388d47a0ff47da1fb8214933f59f8db5459ed</link><description><![CDATA[<a href="https://axiom.co/">https://axiom.co/</a> - Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.<br>
  ]]></description>
@@ -16,39 +58,6 @@
 <item>
 	<title>Added Glob tester</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3674f8a2d2110fab2c8893c77f5b15d07886dbd5</link><description><![CDATA[<a href="https://globster.xyz/">https://globster.xyz/</a> - — A website that allows you to design and test glob patterns. It also provides resources to learn glob patterns.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add hypercolor.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b392f75d3c5ad5cde9b4c7c905fe3777056432c4</link><description><![CDATA[<a href="https://hypercolor.dev/">https://hypercolor.dev/</a> - A curated collection of of Tailwind CSS color gradients, also provides a variety of generators to create your own.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added CrateDB to DBaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ed9aa21db823949ba80294a3e0886559be37e259</link><description><![CDATA[<a href="https://crate.io/lp-crfree">https://crate.io/lp-crfree</a> - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. 1 cluster per organization, no payment method needed.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add 8base serverless backend</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cd40099b96bed6689883937c2ec47ae4eb14a353</link><description><![CDATA[<a href="https://www.8base.com/">https://www.8base.com/</a> - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service, it allows you to start building web applications quicky using a UI app builder and scale easily, Free tier includes: rows: 2,500, Storage: 500Mb, Serverless computing: 1Gb/h, client app users: 5.<br>
- ]]></description>
-</item>
-<item>
-	<title>move outsystem to low-code platform instead of BaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/577a8922f563c2af766780e2a385cb68889b8778</link><description><![CDATA[<a href="https://www.outsystems.com/">https://www.outsystems.com/</a> - Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Oracle, Xirsys, TigerGraph, TerminusCMS; remove deta.sh</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1620a1792db435b505fac98b6a93ccece488d198</link><description><![CDATA[<a href="https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances">https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances</a> - be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)<br>
-<a href="https://www.tigergraph.com/cloud/">https://www.tigergraph.com/cloud/</a> - — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. One free instance with 2 vCPU, 8GB Memory, and 50GB storage that sleeps after 1 hour of inactivity.<br>
-<a href="https://terminusdb.com/pricing">https://terminusdb.com/pricing</a> - Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.<br>
-<a href="https://www.xirsys.com/pricing/">https://www.xirsys.com/pricing/</a> - Unlimited STUN usage + 500 MB monthly TURN bandwidth, capped bandwidth, single geographic region.<br>
- ]]></description>
-</item>
-<item>
-	<title>add meilisearch</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3e7acf094f29cfad62573c1743151ad4aebbabc4</link><description><![CDATA[<a href="https://www.meilisearch.com/">https://www.meilisearch.com/</a> - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. Free plan includes 100K documents and 10K searches/month.<br>
  ]]></description>
 </item>
 
