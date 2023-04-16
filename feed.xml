@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Move patr.cloud and add details on anvil.works</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5a3ba2cf732264c688efa3be374051078ffbfc15</link><description><![CDATA[<a href="https://anvil.works">https://anvil.works</a> - Web app development with nothing but Python. Free tier with unlimited apps, 30 second timeouts.<br>
+<a href="https://patr.cloud/">https://patr.cloud/</a> - — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Vertopal to Design and UI.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ade8a2751909f596b3a7378f5edf5de53149dcd6</link><description><![CDATA[<a href="https://www.vertopal.com">https://www.vertopal.com</a> - Vertopal is a free online platform for converting files to a variety of file formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML and etc.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove mezmo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/116a98b1935cec0ec9d5247315683ae5ca0eb0dc</link><description><![CDATA[ ]]></description>
 </item>
@@ -47,11 +58,6 @@
 <item>
 	<title>Fix incorrect MAU</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ea1d79202dff2cf231c0c038aee9c7dbcc5c7255</link><description><![CDATA[<a href="https://clerk.dev/">https://clerk.dev/</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 5,000 monthly active users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Axiom</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e20388d47a0ff47da1fb8214933f59f8db5459ed</link><description><![CDATA[<a href="https://axiom.co/">https://axiom.co/</a> - Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.<br>
  ]]></description>
 </item>
 
