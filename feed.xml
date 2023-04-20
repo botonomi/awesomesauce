@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove EVA</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5bfde5afa2f373147ecf8a5914a1783b7a81569c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update Clerk URL</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a2acaf9c0a719f6d7013a1f5a138f3d943eeeb05</link><description><![CDATA[<a href="https://clerk.com">https://clerk.com</a> - User management, auth, 2FA/MFA with prebuilt UI components. Free up to 5,000 monthly active users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added my landing page site lovelylanding.net</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/96c98b0752f785d2fa8fe6af06aa3c375ef3f820</link><description><![CDATA[<a href="https://www.lovelylanding.net/">https://www.lovelylanding.net/</a> - [Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet and Mobile screeshots.<br>
  ]]></description>
@@ -36,23 +45,6 @@
 <item>
 	<title>Switch Icones to iconify.design</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a45440aa34241077b371bd7ea0cce8ef6a1e658e</link><description><![CDATA[<a href="https://icon-sets.iconify.design/">https://icon-sets.iconify.design/</a> - A collection of more than 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as SVGs or for popular web frameworks.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Copilot from GitLab</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2715630fb8f55cea4c0afbcb9d85e7c947de0623</link><description><![CDATA[<a href="https://github.com/features/copilot">https://github.com/features/copilot</a> - — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.<br>
- ]]></description>
-</item>
-<item>
-	<title>Move Copilot to GitHub section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ad7d9962bcfdcefe96eb7d94228dd58362f4e357</link><description><![CDATA[<a href="https://github.com/features/copilot">https://github.com/features/copilot</a> - — AI pair programmer and completion tool powered by OpenAI Codex. Provides code review, autocompletion, documentation, and refactoring. Free for students via the GitHub Student Developer Pack.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Poliigon</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/27a93a76559a0b7f4976916b8b2dc6b990820337</link><description><![CDATA[<a href="https://itch.io/game-assets">https://itch.io/game-assets</a> - Free/Paid assets like sprites, tile sets, character packs, ...<br>
-<a href="https://opengameart.org">https://opengameart.org</a> - OpenSource Game Assets like music, sounds, sprites, gifs, ...<br>
-<a href="https://www.poliigon.com/) - Free and paid textures (with variable resolution">https://www.poliigon.com/) - Free and paid textures (with variable resolution</a> - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.<br>
  ]]></description>
 </item>
 
