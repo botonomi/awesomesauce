@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated napkin.io free API calls/month</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d0874f95b2b89ba19d69ce991c025083b82d697a</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 5,000 free API calls/month, rate-limited to 5 calls/second.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove EVA</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5bfde5afa2f373147ecf8a5914a1783b7a81569c</link><description><![CDATA[ ]]></description>
 </item>
