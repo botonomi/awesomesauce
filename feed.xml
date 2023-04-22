@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Turso DBaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cbde094eb14c530b25a0b8a5a1986e3459c7d54d</link><description><![CDATA[<a href="https://chiselstrike.com/">https://chiselstrike.com/</a> - ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides Free Forever starter plan, 8 GB of total storage, Up to 3 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated napkin.io free API calls/month</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d0874f95b2b89ba19d69ce991c025083b82d697a</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 5,000 free API calls/month, rate-limited to 5 calls/second.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add css.glass</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a8024e90d9905e8e30f065dd30873f5f483e8dda</link><description><![CDATA[<a href="https://css.glass/">https://css.glass/</a> - Free web app for creating glassmorphic designs using CSS.<br>
- ]]></description>
-</item>
-<item>
-	<title>Switch Icones to iconify.design</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a45440aa34241077b371bd7ea0cce8ef6a1e658e</link><description><![CDATA[<a href="https://icon-sets.iconify.design/">https://icon-sets.iconify.design/</a> - A collection of more than 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as SVGs or for popular web frameworks.<br>
  ]]></description>
 </item>
 
