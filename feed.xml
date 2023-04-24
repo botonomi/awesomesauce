@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update: snappify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2555d7f9613311dd66d30935a0a4cd264f5b1d01</link><description><![CDATA[<a href="https://snappify.com">https://snappify.com</a> - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add: snappify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/901d79a19785eaa82d2af3b2ae519204a92927a7</link><description><![CDATA[<a href="https://snappify.com">https://snappify.com</a> - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Turso DBaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cbde094eb14c530b25a0b8a5a1986e3459c7d54d</link><description><![CDATA[<a href="https://chiselstrike.com/">https://chiselstrike.com/</a> - ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides Free Forever starter plan, 8 GB of total storage, Up to 3 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.<br>
  ]]></description>
@@ -41,15 +51,6 @@
 <item>
 	<title>Add Vertopal to Design and UI.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ade8a2751909f596b3a7378f5edf5de53149dcd6</link><description><![CDATA[<a href="https://www.vertopal.com">https://www.vertopal.com</a> - Vertopal is a free online platform for converting files to a variety of file formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML and etc.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove mezmo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/116a98b1935cec0ec9d5247315683ae5ca0eb0dc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add css.glass</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a8024e90d9905e8e30f065dd30873f5f483e8dda</link><description><![CDATA[<a href="https://css.glass/">https://css.glass/</a> - Free web app for creating glassmorphic designs using CSS.<br>
  ]]></description>
 </item>
 
