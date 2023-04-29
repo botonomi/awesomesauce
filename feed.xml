@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add paperspace.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/352596d84d78221c63a52ce877e96d5c58279772</link><description><![CDATA[<a href="https://www.paperspace.com/">https://www.paperspace.com/</a> - Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/63c124cbe1b440d672d4e407aff0828de758376f</link><description><![CDATA[<a href="https://promptleo.com/">https://promptleo.com/</a> - Prompt engineering platform for creators and developers. It offers prompt engineering library, prompt forms and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.<br>
  ]]></description>
@@ -45,12 +50,6 @@
 <item>
 	<title>Updated Scalr description and category.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/65980773fd5cb470b31c599dbe1735579af27512</link><description><![CDATA[<a href="https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO">https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO</a> - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs / month for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Move patr.cloud and add details on anvil.works</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5a3ba2cf732264c688efa3be374051078ffbfc15</link><description><![CDATA[<a href="https://anvil.works">https://anvil.works</a> - Web app development with nothing but Python. Free tier with unlimited apps, 30 second timeouts.<br>
-<a href="https://patr.cloud/">https://patr.cloud/</a> - — An easy-to-use cloud platform, among its paid services it offers hosting 3 static sites for free.<br>
  ]]></description>
 </item>
 
