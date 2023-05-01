@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove `posthook.io` entry (no longer qualifies)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/630c7ca86ad3f3d2c0c939832077cbd4a7506bc7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add `nudge-hook.net`</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b4b9da601ffbb1bd48dd096f5b16c3151aaee2aa</link><description><![CDATA[<a href="https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required">https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required</a> - Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add paperspace.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/352596d84d78221c63a52ce877e96d5c58279772</link><description><![CDATA[<a href="https://www.paperspace.com/">https://www.paperspace.com/</a> - Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.<br>
  ]]></description>
@@ -45,11 +54,6 @@
 <item>
 	<title>added my landing page site lovelylanding.net</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/96c98b0752f785d2fa8fe6af06aa3c375ef3f820</link><description><![CDATA[<a href="https://www.lovelylanding.net/">https://www.lovelylanding.net/</a> - [Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet and Mobile screeshots.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Scalr description and category.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/65980773fd5cb470b31c599dbe1735579af27512</link><description><![CDATA[<a href="https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO">https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO</a> - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs / month for free.<br>
  ]]></description>
 </item>
 
