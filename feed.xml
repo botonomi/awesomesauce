@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/590b702e9f300f2feb3246bf57e2a5a1a03a7a39</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total</a> - Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total) for non-primary branch computes.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b875ee59ce33b3a01eac2866ee27fcadf03b0803</link><description><![CDATA[<a href="https://hygraph.com/">https://hygraph.com/</a> - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix: fix typo for mailcheck.ai</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a91a69fe4072b755820e7037694e67c53c862acd</link><description><![CDATA[<a href="https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month">https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month</a> - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)<br>
  ]]></description>
@@ -45,16 +55,6 @@
 <item>
 	<title>add: snappify</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/901d79a19785eaa82d2af3b2ae519204a92927a7</link><description><![CDATA[<a href="https://snappify.com">https://snappify.com</a> - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Turso DBaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cbde094eb14c530b25a0b8a5a1986e3459c7d54d</link><description><![CDATA[<a href="https://chiselstrike.com/">https://chiselstrike.com/</a> - ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides Free Forever starter plan, 8 GB of total storage, Up to 3 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated napkin.io free API calls/month</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d0874f95b2b89ba19d69ce991c025083b82d697a</link><description><![CDATA[<a href="https://www.napkin.io/">https://www.napkin.io/</a> - FaaS with 500Mb of memory, a default timeout of 15 seconds and 5,000 free API calls/month, rate-limited to 5 calls/second.<br>
  ]]></description>
 </item>
 
