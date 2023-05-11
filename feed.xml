@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7d31faef2efa6e3f45e9a1f0c6d76e33dc4f5c96</link><description><![CDATA[<a href="https://tailscale.com/">https://tailscale.com/</a> - Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and 3 user.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added kandi to Misc. section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4c2521b76f8759712b3ac20f23b4cbf4d2de45ed</link><description><![CDATA[<a href="https://kandi.openweaver.com/">https://kandi.openweaver.com/</a> - Jumpstart Application Development: build custom functions, use cases and complete application faster through code snippet and open source library reuse.<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Add paperspace.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/352596d84d78221c63a52ce877e96d5c58279772</link><description><![CDATA[<a href="https://www.paperspace.com/">https://www.paperspace.com/</a> - Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/63c124cbe1b440d672d4e407aff0828de758376f</link><description><![CDATA[<a href="https://promptleo.com/">https://promptleo.com/</a> - Prompt engineering platform for creators and developers. It offers prompt engineering library, prompt forms and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.<br>
  ]]></description>
 </item>
 
