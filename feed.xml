@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added what's free to Infisical</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/645fc7690cf51541a532ab8e714b8e5f1153fc53</link><description><![CDATA[<a href="https://infisical.com/">https://infisical.com/</a> - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Infisical to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8245b459c4a7b2b9e2a3bca2d7a7c3b9639a9d84</link><description><![CDATA[<a href="https://infisical.com/">https://infisical.com/</a> - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d31faef2efa6e3f45e9a1f0c6d76e33dc4f5c96</link><description><![CDATA[<a href="https://tailscale.com/">https://tailscale.com/</a> - Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and 3 user.<br>
  ]]></description>
@@ -46,16 +56,6 @@
 <item>
 	<title>remove `posthook.io` entry (no longer qualifies)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/630c7ca86ad3f3d2c0c939832077cbd4a7506bc7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add `nudge-hook.net`</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b4b9da601ffbb1bd48dd096f5b16c3151aaee2aa</link><description><![CDATA[<a href="https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required">https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required</a> - Job Scheduling API (with swagger/openapi client). Allows you to schedule as many adhoc/cron/periodic webhook deliveries as you like. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add paperspace.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/352596d84d78221c63a52ce877e96d5c58279772</link><description><![CDATA[<a href="https://www.paperspace.com/">https://www.paperspace.com/</a> - Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.<br>
- ]]></description>
 </item>
 
 </channel>
