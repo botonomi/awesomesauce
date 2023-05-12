@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Domain Forward</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9c9ab4263223827c314ca153b5bed02c08b1c7da</link><description><![CDATA[<a href="https://domain-forward.com/">https://domain-forward.com/</a> - - One simple tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added what's free to Infisical</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/645fc7690cf51541a532ab8e714b8e5f1153fc53</link><description><![CDATA[<a href="https://infisical.com/">https://infisical.com/</a> - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.<br>
  ]]></description>
@@ -52,10 +57,6 @@
 	<title>Add imitate.email</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/59db36f489a1036716a71ced3d238af938fa0aca</link><description><![CDATA[<a href="https://imitate.email">https://imitate.email</a> - - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free to start.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove `posthook.io` entry (no longer qualifies)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/630c7ca86ad3f3d2c0c939832077cbd4a7506bc7</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
