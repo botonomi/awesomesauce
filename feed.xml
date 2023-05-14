@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove placeholder.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e56eb3180f3a3b28cf3972bd2350c29eaeb5560c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Storyset</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2e0d392c1c2271003f706a87d7ffc5f7eaca6d82</link><description><![CDATA[<a href="https://storyset.com/">https://storyset.com/</a> - Create awesome free customised illustrations for your project using this tool.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/118ddd9e49d66088ada2f6d7db02019789393f46</link><description><![CDATA[<a href="https://ayedot.com/">https://ayedot.com/</a> - Share your ideas, knowledge and stories with the world for Free, in form of Modern multimedia short-format Miniblogs.<br>
  ]]></description>
@@ -50,16 +59,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/590b702e9f300f2feb3246bf57e2a5a1a03a7a39</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total</a> - Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total) for non-primary branch computes.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b875ee59ce33b3a01eac2866ee27fcadf03b0803</link><description><![CDATA[<a href="https://hygraph.com/">https://hygraph.com/</a> - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix: fix typo for mailcheck.ai</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a91a69fe4072b755820e7037694e67c53c862acd</link><description><![CDATA[<a href="https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month">https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month</a> - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)<br>
  ]]></description>
 </item>
 
