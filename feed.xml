@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/794f265ec285a94ebab4877b6e25edad4d3ad72b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Remove placeholder.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e56eb3180f3a3b28cf3972bd2350c29eaeb5560c</link><description><![CDATA[ ]]></description>
 </item>
@@ -32,6 +36,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Add Pinggy</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5aad73e0b06c09afb75f3e57aa1ef31900d61dca</link><description><![CDATA[<a href="https://pinggy.io">https://pinggy.io</a> - Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. Free plan has 60 minutes tunnel life time.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added what's free to Infisical</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/645fc7690cf51541a532ab8e714b8e5f1153fc53</link><description><![CDATA[<a href="https://infisical.com/">https://infisical.com/</a> - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.<br>
  ]]></description>
@@ -49,16 +58,6 @@
 <item>
 	<title>Added kandi to Misc. section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4c2521b76f8759712b3ac20f23b4cbf4d2de45ed</link><description><![CDATA[<a href="https://kandi.openweaver.com/">https://kandi.openweaver.com/</a> - Jumpstart Application Development: build custom functions, use cases and complete application faster through code snippet and open source library reuse.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Plane under Issue Tracking and Project Management</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c49bad9891877bfdf4ddee00b846ceefac4d2ebf</link><description><![CDATA[<a href="https://plane.so/">https://plane.so/</a> - Plane is a simple, extensible, open source project and product management tool. Free for unlimited members, up to 5MB file upload size, 1000 issues.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/590b702e9f300f2feb3246bf57e2a5a1a03a7a39</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total</a> - Managed PostgreSQL, 10 branches, 3 GB of storage per branch, no limit on Active time for the primary branch compute, 100 hours of Active time per month (total) for non-primary branch computes.<br>
  ]]></description>
 </item>
 
