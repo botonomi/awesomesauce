@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>The account registration is closed.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/19b353d9c4ce7a49e7082887f68b583e33b99cef</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update Terraform Cloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/899611b10579818732189c5ce0c792957256e5ff</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Will not be accepting new sign-ups for Freshping</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2afb66f4d77cf060a611ed6a47945a89ff1fcf84</link><description><![CDATA[<a href="https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT">https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT</a> - Free for public projects. Dashboards for your Internet of Things (IoT) projects<br>
  ]]></description>
@@ -48,16 +57,6 @@
 <item>
 	<title>Added what's free to Infisical</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/645fc7690cf51541a532ab8e714b8e5f1153fc53</link><description><![CDATA[<a href="https://infisical.com/">https://infisical.com/</a> - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Infisical to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8245b459c4a7b2b9e2a3bca2d7a7c3b9639a9d84</link><description><![CDATA[<a href="https://infisical.com/">https://infisical.com/</a> - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d31faef2efa6e3f45e9a1f0c6d76e33dc4f5c96</link><description><![CDATA[<a href="https://tailscale.com/">https://tailscale.com/</a> - Zero config VPN, using the open source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and 3 user.<br>
  ]]></description>
 </item>
 
