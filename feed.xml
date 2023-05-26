@@ -4,8 +4,23 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>edit to free language</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f07a7d23f70d442e87297dcfd288a5676360d6a5</link><description><![CDATA[<a href="https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever">https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever) workbooks.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added explanation of free offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3339e404f1a33187c907610ea3db60bda64d9d29</link><description><![CDATA[<a href="https://rowzero.io">https://rowzero.io</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free workbooks.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c83b3f81e4b6c49b0b21a4e5ae609fff28c9fe86</link><description><![CDATA[<a href="https://heliohost.org">https://heliohost.org</a> - Non-profit free web hosting with Plesk control panel, PHP, Node.js, Python, Django, Flask, .NET, Perl, CGI, MySQL, PostgreSQL, SQLite, IMAP/POP3/SMTP email, unlimited bandwidth, free subdomains, 1000 MB storage for free with the option to upgrade.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add rowzero.io to Analytics, Events and Statistics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b57269358620c3b0c3862435352a06e1a5f89bce</link><description><![CDATA[<a href="https://rowzero.io">https://rowzero.io</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, and graph millions of rows instantly.<br>
  ]]></description>
 </item>
 <item>
@@ -38,20 +53,6 @@
 <item>
 	<title>Added Storyset</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2e0d392c1c2271003f706a87d7ffc5f7eaca6d82</link><description><![CDATA[<a href="https://storyset.com/">https://storyset.com/</a> - Create awesome free customised illustrations for your project using this tool.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/118ddd9e49d66088ada2f6d7db02019789393f46</link><description><![CDATA[<a href="https://ayedot.com/">https://ayedot.com/</a> - Share your ideas, knowledge and stories with the world for Free, in form of Modern multimedia short-format Miniblogs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cbc9d3d2d0fac3c796572f93043044f2f18a79e6</link><description><![CDATA[<a href="https://nextui.org/">https://nextui.org/</a> - Free. Beautiful, fast and modern React & Nxt.js UI library.<br>
-<a href="https://glyphs.fyi/">https://glyphs.fyi/</a> - Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.<br>
-<a href="https://ui.shadcn.com/">https://ui.shadcn.com/</a> - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.<br>
-<a href="https://www.hyperui.dev/">https://www.hyperui.dev/</a> - Free Open Source Tailwind CSS Components.<br>
-<a href="https://ayedot.com/">https://ayedot.com/</a> - Share your ideas, knowledge and stories with the world, in form of Modern multimedia short-format Miniblogs.<br>
  ]]></description>
 </item>
 
