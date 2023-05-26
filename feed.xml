@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adjust TiDB Serverless description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9fce33a5a26f4d892e1cedf4f53804548c915c49</link><description><![CDATA[<a href="https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs">https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs</a> - — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs) available for free each month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>edit to free language</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f07a7d23f70d442e87297dcfd288a5676360d6a5</link><description><![CDATA[<a href="https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever">https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever) workbooks.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>Remove placeholder.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e56eb3180f3a3b28cf3972bd2350c29eaeb5560c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Storyset</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2e0d392c1c2271003f706a87d7ffc5f7eaca6d82</link><description><![CDATA[<a href="https://storyset.com/">https://storyset.com/</a> - Create awesome free customised illustrations for your project using this tool.<br>
- ]]></description>
 </item>
 
 </channel>
