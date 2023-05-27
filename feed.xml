@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>happi.dev is no longer available</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ee466aa2c44ede438f792439d712529cd135926e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Adjust TiDB Serverless description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9fce33a5a26f4d892e1cedf4f53804548c915c49</link><description><![CDATA[<a href="https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs">https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs</a> - — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs) available for free each month.<br>
  ]]></description>
@@ -50,10 +54,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/794f265ec285a94ebab4877b6e25edad4d3ad72b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove placeholder.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e56eb3180f3a3b28cf3972bd2350c29eaeb5560c</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
