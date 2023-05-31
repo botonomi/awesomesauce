@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove bit.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6b1b1e67ab161ba27d3527279a3593b1d5cb8159</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Serv00.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/27c942d8e9ffc2bcd651df9008e73d584852e206</link><description><![CDATA[<a href="https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial">https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial</a> - 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.<br>
  ]]></description>
@@ -49,11 +53,6 @@
 <item>
 	<title>Update Terraform Cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/899611b10579818732189c5ce0c792957256e5ff</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.<br>
- ]]></description>
-</item>
-<item>
-	<title>Will not be accepting new sign-ups for Freshping</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2afb66f4d77cf060a611ed6a47945a89ff1fcf84</link><description><![CDATA[<a href="https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT">https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT</a> - Free for public projects. Dashboards for your Internet of Things (IoT) projects<br>
  ]]></description>
 </item>
 
