@@ -4,8 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add OpenUtils.org</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a561967fbf741f59b7ed8955ad698c625259e2d3</link><description><![CDATA[<a href="https://openutils.org/">https://openutils.org/</a> - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove bit.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6b1b1e67ab161ba27d3527279a3593b1d5cb8159</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/53ea7f9b0090804a2b90d78788b961bba33dd9e6</link><description><![CDATA[<a href="https://telegra.ph/">https://telegra.ph/</a> - create web page using Quill<br>
+<a href="https://vercel.com/">https://vercel.com/</a> - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Add Serv00.com</title>
@@ -39,20 +50,6 @@
 <item>
 	<title>Add rowzero.io to Analytics, Events and Statistics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b57269358620c3b0c3862435352a06e1a5f89bce</link><description><![CDATA[<a href="https://rowzero.io">https://rowzero.io</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, and graph millions of rows instantly.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Loginllama</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b5215908b7b4ff8f18ef3390cb1fe4d753472140</link><description><![CDATA[<a href="https://loginllama.app">https://loginllama.app</a> - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>The account registration is closed.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/19b353d9c4ce7a49e7082887f68b583e33b99cef</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update Terraform Cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/899611b10579818732189c5ce0c792957256e5ff</link><description><![CDATA[<a href="https://www.terraform.io/">https://www.terraform.io/</a> - Terraform Cloud. Free remote state management and team collaboration for up to 500 resources.<br>
  ]]></description>
 </item>
 
