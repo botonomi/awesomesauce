@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove freenom</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/46b26ebb521639df5fb55df83fd98402fd456d57</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add OpenReplay</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2b94b0023b53e903ac72571158d3979d5cf58b33</link><description><![CDATA[<a href="https://www.openreplay.com">https://www.openreplay.com</a> - Open-source session replay with devtools for bug reproduction, live session for real-time support, and product analytics suite. 1,000 sessions/month with access to all features and 7-day retention.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add robusta.dev (kubernetes monitoring)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d3d3f036e89a9bf669ae3993c27c4d7320a19b71</link><description><![CDATA[<a href="https://home.robusta.dev/">https://home.robusta.dev/</a> - Powerful Kubernetes monitoring, based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. Free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add OpenUtils.org</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a561967fbf741f59b7ed8955ad698c625259e2d3</link><description><![CDATA[<a href="https://openutils.org/">https://openutils.org/</a> - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.<br>
  ]]></description>
@@ -30,26 +44,6 @@
 <item>
 	<title>Adjust TiDB Serverless description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9fce33a5a26f4d892e1cedf4f53804548c915c49</link><description><![CDATA[<a href="https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs">https://en.pingcap.com/tidb-cloud/) — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs</a> - — TiDB is an open source MySQL compatible distributed HTAP RDBMS. TiDB Serverless provides 5GB of row storage, and 5GB of column storage, and 50 million Request Units (RUs) available for free each month.<br>
- ]]></description>
-</item>
-<item>
-	<title>edit to free language</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f07a7d23f70d442e87297dcfd288a5676360d6a5</link><description><![CDATA[<a href="https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever">https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free (forever) workbooks.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added explanation of free offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3339e404f1a33187c907610ea3db60bda64d9d29</link><description><![CDATA[<a href="https://rowzero.io">https://rowzero.io</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. 3 free workbooks.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c83b3f81e4b6c49b0b21a4e5ae609fff28c9fe86</link><description><![CDATA[<a href="https://heliohost.org">https://heliohost.org</a> - Non-profit free web hosting with Plesk control panel, PHP, Node.js, Python, Django, Flask, .NET, Perl, CGI, MySQL, PostgreSQL, SQLite, IMAP/POP3/SMTP email, unlimited bandwidth, free subdomains, 1000 MB storage for free with the option to upgrade.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add rowzero.io to Analytics, Events and Statistics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b57269358620c3b0c3862435352a06e1a5f89bce</link><description><![CDATA[<a href="https://rowzero.io">https://rowzero.io</a> - - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, and graph millions of rows instantly.<br>
  ]]></description>
 </item>
 
