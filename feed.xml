@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update require</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00d3e87ceebeb379ce62cf1e6b7beb08c92af93e</link><description><![CDATA[<a href="https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required">https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required</a> - S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove 1 entry in Web Hosting section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bac8054df244126f455b3eb3da597a594c1110dd</link><description><![CDATA[ ]]></description>
 </item>
@@ -40,10 +45,6 @@
 	<title>Add Serv00.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/27c942d8e9ffc2bcd651df9008e73d584852e206</link><description><![CDATA[<a href="https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial">https://serv00.com/) — 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial</a> - 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.<br>
  ]]></description>
-</item>
-<item>
-	<title>happi.dev is no longer available</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ee466aa2c44ede438f792439d712529cd135926e</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
