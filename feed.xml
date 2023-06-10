@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated Storj Free Plan limits</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f6813ad540a3f7f1fe5397f371c4b53a932396de</link><description><![CDATA[<a href="https://storj.io/">https://storj.io/</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 25 GB storage, 25 GB bandwidth per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7fdf2ef3d693d0fa4d0c8be414d27317d4ddf5b4</link><description><![CDATA[ ]]></description>
 </item>
@@ -38,10 +43,6 @@
 	<title>Add OpenUtils.org</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a561967fbf741f59b7ed8955ad698c625259e2d3</link><description><![CDATA[<a href="https://openutils.org/">https://openutils.org/</a> - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove bit.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6b1b1e67ab161ba27d3527279a3593b1d5cb8159</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
