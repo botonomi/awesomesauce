@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove fingerprintjs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c541a3456aabaced93b691d1c8b4afe7f10a8b4</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added resend</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/40d11a0437bda6b515155132ad95d73af9ddb63e</link><description><![CDATA[<a href="https://resend.com">https://resend.com</a> - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated Storj Free Plan limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f6813ad540a3f7f1fe5397f371c4b53a932396de</link><description><![CDATA[<a href="https://storj.io/">https://storj.io/</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 25 GB storage, 25 GB bandwidth per month.<br>
  ]]></description>
@@ -37,11 +46,6 @@
 <item>
 	<title>Add robusta.dev (kubernetes monitoring)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d3d3f036e89a9bf669ae3993c27c4d7320a19b71</link><description><![CDATA[<a href="https://home.robusta.dev/">https://home.robusta.dev/</a> - Powerful Kubernetes monitoring, based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. Free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add OpenUtils.org</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a561967fbf741f59b7ed8955ad698c625259e2d3</link><description><![CDATA[<a href="https://openutils.org/">https://openutils.org/</a> - There are various free tools available for developers, such as HTML/CSS/JavaScript formatters, minifiers, converter, encoder/decoder and many others.<br>
  ]]></description>
 </item>
 
