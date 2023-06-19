@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>changes in intro</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a14b6ce1ff901b5a798f8eb9adfd0dc07cfd19f6</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code along with unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.<br>
+ ]]></description>
+</item>
+<item>
+	<title>changes in details</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8111b4b91d5517a21fba3db887dd82ca438b0231</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - Empower your application’s backend effortlessly with AppInvento. Take full control and ownership of your source code while enjoying unlimited APIs and routes for seamless integration. With our free plan, access three projects, five tables, and a game-changing Google add-on.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove fingerprintjs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8c541a3456aabaced93b691d1c8b4afe7f10a8b4</link><description><![CDATA[ ]]></description>
 </item>
@@ -13,8 +23,18 @@
  ]]></description>
 </item>
 <item>
+	<title>make the description short as per comment.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/301a07a8d2408dc3298935edb9071fdd257f2a0a</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - Build your application’s backend easily with AppInvento. you can have full control and ownership of the source code. Enjoy the added benefit of automatically generated APIs for seamless integration.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated Storj Free Plan limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f6813ad540a3f7f1fe5397f371c4b53a932396de</link><description><![CDATA[<a href="https://storj.io/">https://storj.io/</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 25 GB storage, 25 GB bandwidth per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>added no code app builder platform in code generation section.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4c5e6738736b3229cd0cc083c27b2d0820f253d4</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - AppInvento is a powerful backend builder that simplifies the process of building web applications without actually writing a single line of code and you also own the source code. It will reduce your time and also it will reduce your work by 70-80% the rest 20% is the business logic.<br>
  ]]></description>
 </item>
 <item>
@@ -33,20 +53,6 @@
 <item>
 	<title>Remove 1 entry in Web Hosting section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bac8054df244126f455b3eb3da597a594c1110dd</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove freenom</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/46b26ebb521639df5fb55df83fd98402fd456d57</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add OpenReplay</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2b94b0023b53e903ac72571158d3979d5cf58b33</link><description><![CDATA[<a href="https://www.openreplay.com">https://www.openreplay.com</a> - Open-source session replay with devtools for bug reproduction, live session for real-time support, and product analytics suite. 1,000 sessions/month with access to all features and 7-day retention.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add robusta.dev (kubernetes monitoring)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d3d3f036e89a9bf669ae3993c27c4d7320a19b71</link><description><![CDATA[<a href="https://home.robusta.dev/">https://home.robusta.dev/</a> - Powerful Kubernetes monitoring, based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. Free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.<br>
- ]]></description>
 </item>
 
 </channel>
