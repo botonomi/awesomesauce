@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3b0d592438b9850e39299079d2de378537cc81bf</link><description><![CDATA[<a href="https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name">https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name</a> - Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.<br>
+ ]]></description>
+</item>
+<item>
 	<title>changes in intro</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a14b6ce1ff901b5a798f8eb9adfd0dc07cfd19f6</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code along with unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.<br>
  ]]></description>
@@ -49,10 +54,6 @@
 	<title>update require</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/00d3e87ceebeb379ce62cf1e6b7beb08c92af93e</link><description><![CDATA[<a href="https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required">https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required</a> - S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic(credit card required).<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove 1 entry in Web Hosting section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bac8054df244126f455b3eb3da597a594c1110dd</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
