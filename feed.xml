@@ -4,6 +4,24 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update PULL_REQUEST_TEMPLATE.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1fe09be31f6963da28e62228525bb4bb5646bb0e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>ADD DUAL.MY REQUEST TEMPLATE</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fc486ff819eb6d7e190a8748ef01dbafe41cd0b4</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>ADD DUAL.MY</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/97ca7303cc7ee322eb3a04c26f3288918ed87add</link><description><![CDATA[<a href="https://dual.my/">https://dual.my/</a> - Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add DUAL.MY</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/af5497fd04ab8bb63d003c8baeaadc5fc7b854f4</link><description><![CDATA[<a href="https://dual.my/">https://dual.my/</a> - Free dynamic/static hosting service offering 5 domains and 10 records each, complete with API support.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update saucelabs.com details</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/398eeacf460f06ea558fe01971b228933d0647d1</link><description><![CDATA[<a href="https://opensource.saucelabs.com/">https://opensource.saucelabs.com/</a> - Cross-browser testing, Selenium testing, and mobile testing. The free plan includes 2000 credits per week. They also provide free licenses for selected open source projects, which can be requested [here](https://opensource.saucelabs.com/).<br>
  ]]></description>
@@ -50,19 +68,6 @@
 	<title>Updated Storj Free Plan limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f6813ad540a3f7f1fe5397f371c4b53a932396de</link><description><![CDATA[<a href="https://storj.io/">https://storj.io/</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 25 GB storage, 25 GB bandwidth per month.<br>
  ]]></description>
-</item>
-<item>
-	<title>added no code app builder platform in code generation section.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c5e6738736b3229cd0cc083c27b2d0820f253d4</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - AppInvento is a powerful backend builder that simplifies the process of building web applications without actually writing a single line of code and you also own the source code. It will reduce your time and also it will reduce your work by 70-80% the rest 20% is the business logic.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7fdf2ef3d693d0fa4d0c8be414d27317d4ddf5b4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Railway</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cd1cf32d00d18e06c570f573f2fae437b9e4c2d4</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
