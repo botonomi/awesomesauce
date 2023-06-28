@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "DNS - Add Dual.my"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5415480d7a4b3fe026202054e8bee9db92c59331</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c11171a592cce02c23764f1eeef6a01d1082350f</link><description><![CDATA[<a href="https://www.aserto.com">https://www.aserto.com</a> - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add SemanticDiff.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/51c65ab3966797eae5630d29d6c11b8d79c274e5</link><description><![CDATA[<a href="https://app.semanticdiff.com/">https://app.semanticdiff.com/</a> - Programming language aware diff for GitHub pull requests and commits, free for public repositories<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update PULL_REQUEST_TEMPLATE.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1fe09be31f6963da28e62228525bb4bb5646bb0e</link><description><![CDATA[ ]]></description>
 </item>
@@ -48,25 +62,6 @@
 <item>
 	<title>changes in details</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8111b4b91d5517a21fba3db887dd82ca438b0231</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - Empower your application’s backend effortlessly with AppInvento. Take full control and ownership of your source code while enjoying unlimited APIs and routes for seamless integration. With our free plan, access three projects, five tables, and a game-changing Google add-on.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove fingerprintjs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c541a3456aabaced93b691d1c8b4afe7f10a8b4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added resend</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/40d11a0437bda6b515155132ad95d73af9ddb63e</link><description><![CDATA[<a href="https://resend.com">https://resend.com</a> - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, 1 custom domain.<br>
- ]]></description>
-</item>
-<item>
-	<title>make the description short as per comment.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/301a07a8d2408dc3298935edb9071fdd257f2a0a</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - Build your application’s backend easily with AppInvento. you can have full control and ownership of the source code. Enjoy the added benefit of automatically generated APIs for seamless integration.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Storj Free Plan limits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f6813ad540a3f7f1fe5397f371c4b53a932396de</link><description><![CDATA[<a href="https://storj.io/">https://storj.io/</a> - Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 25 GB storage, 25 GB bandwidth per month.<br>
  ]]></description>
 </item>
 
