@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added Cosmonic WebAssembly PaaS to README</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8747101b6dab22a8e3d75a85e9d3f0a1e76a066a</link><description><![CDATA[<a href="https://cosmonic.com">https://cosmonic.com</a> - Feature rich WebAssembly PaaS and SDKs for low boilerplate, flexible, and secure by default microservices. Always free tier includes a managed host, 25 microservices, and included capabilities like a robust keyvalue store, load balanced public HTTP endpoints, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f3e42b896419fad07f9894d42e985e0cf7ac1ecd</link><description><![CDATA[<a href="https://www.gather.town/">https://www.gather.town/</a> - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 10 concurrent users.<br>
+<a href="https://home.robusta.dev/">https://home.robusta.dev/</a> - Powerful Kubernetes monitoring, based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. Free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.<br>
+<a href="https://axiom.co/">https://axiom.co/</a> - Store up to 0.5 TB of logs with 30 day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.<br>
+<a href="https://www.dronahq.com/">https://www.dronahq.com/</a> - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.<br>
+<a href="https://css.glass/">https://css.glass/</a> - Free web app for creating glassmorphic designs using CSS.<br>
+<a href="https://ipstack.com/">https://ipstack.com/</a> - Locate and identify Website Visitors by IP Address<br>
+<a href="https://ayedot.com/">https://ayedot.com/</a> - Share your ideas, knowledge and stories with the world for Free, in form of Modern multimedia short-format Miniblogs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Revert "DNS - Add Dual.my"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5415480d7a4b3fe026202054e8bee9db92c59331</link><description><![CDATA[ ]]></description>
 </item>
@@ -52,16 +68,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3b0d592438b9850e39299079d2de378537cc81bf</link><description><![CDATA[<a href="https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name">https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name</a> - Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.<br>
- ]]></description>
-</item>
-<item>
-	<title>changes in intro</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a14b6ce1ff901b5a798f8eb9adfd0dc07cfd19f6</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code along with unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.<br>
- ]]></description>
-</item>
-<item>
-	<title>changes in details</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8111b4b91d5517a21fba3db887dd82ca438b0231</link><description><![CDATA[<a href="https://appinvento.io/">https://appinvento.io/</a> - Empower your application’s backend effortlessly with AppInvento. Take full control and ownership of your source code while enjoying unlimited APIs and routes for seamless integration. With our free plan, access three projects, five tables, and a game-changing Google add-on.<br>
  ]]></description>
 </item>
 
