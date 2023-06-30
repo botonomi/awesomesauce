@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>docs: add Zeabur</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e1ce160b1316e5d6c4265ad6cfc68d3ad9475186</link><description><![CDATA[<a href="https://zeabur.com">https://zeabur.com</a> - Deploy your services with one click. Free for 3 services, with US$ 5 free credits per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix formatting for Vercel.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7eb098d35a346b94aaa5008d1b926bd30280a8e7</link><description><![CDATA[<a href="https://vercel.com/">https://vercel.com/</a> - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix typo in README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc95465501b03ec65097562572606c00c436cff3</link><description><![CDATA[<a href="https://befonts.com/">https://befonts.com/</a> - Provides several unique fonts for personal or commercial use.<br>
  ]]></description>
@@ -49,25 +59,6 @@
 <item>
 	<title>ADD DUAL.MY</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/97ca7303cc7ee322eb3a04c26f3288918ed87add</link><description><![CDATA[<a href="https://dual.my/">https://dual.my/</a> - Free dynamic/static DNS hosting service offering 5 domains and 10 records each, complete with API support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add DUAL.MY</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/af5497fd04ab8bb63d003c8baeaadc5fc7b854f4</link><description><![CDATA[<a href="https://dual.my/">https://dual.my/</a> - Free dynamic/static hosting service offering 5 domains and 10 records each, complete with API support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update saucelabs.com details</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/398eeacf460f06ea558fe01971b228933d0647d1</link><description><![CDATA[<a href="https://opensource.saucelabs.com/">https://opensource.saucelabs.com/</a> - Cross-browser testing, Selenium testing, and mobile testing. The free plan includes 2000 credits per week. They also provide free licenses for selected open source projects, which can be requested [here](https://opensource.saucelabs.com/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update service URLs and availability status</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e94ad080754ab7e73d92a02e90651a4bfb1858d0</link><description><![CDATA[<a href="https://opensource.saucelabs.com/">https://opensource.saucelabs.com/</a> - Cross browser testing, Selenium testing and mobile testing, [free for Open Source](https://opensource.saucelabs.com/)<br>
-<a href="https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT">https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT</a> - Free for public projects. Dashboards for your Internet of Things (IoT) projects<br>
-<a href="https://www.cloudimage.io/en/home">https://www.cloudimage.io/en/home</a> - Full image optimization and CDN service with 1500+ Points of Presence around the world. A variety of image resizing, compression, watermarking functions. Open source plugins for responsive images, 360 image making and image editing. Free monthly plan with 25GB of CDN traffic and 25GB of cache storage and unlimited transformations.<br>
-<a href="https://ipstack.com/">https://ipstack.com/</a> - Locate and identify Website Visitors by IP Address<br>
-<a href="https://3dassets.one/">https://3dassets.one/</a> - Over 8,000 free/paid 3D models, and PBR materials for making textures.<br>
  ]]></description>
 </item>
 
