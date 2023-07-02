@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update doprax</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/996a398332a76b285e9d80b353ddd8fec8babde6</link><description><![CDATA[<a href="https://www.doprax.com">https://www.doprax.com</a> - — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 * 256MB ram and 2 GB of disk. To create an app space, you need to have at least $3 in your account credit balance.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove lgtm.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d4189d8651089e49b4f6494c690386c4061ce7bd</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,16 +51,6 @@
 <item>
 	<title>Revert "DNS - Add Dual.my"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5415480d7a4b3fe026202054e8bee9db92c59331</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c11171a592cce02c23764f1eeef6a01d1082350f</link><description><![CDATA[<a href="https://www.aserto.com">https://www.aserto.com</a> - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add SemanticDiff.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/51c65ab3966797eae5630d29d6c11b8d79c274e5</link><description><![CDATA[<a href="https://app.semanticdiff.com/">https://app.semanticdiff.com/</a> - Programming language aware diff for GitHub pull requests and commits, free for public repositories<br>
- ]]></description>
 </item>
 
 </channel>
