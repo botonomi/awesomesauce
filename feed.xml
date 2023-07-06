@@ -5,6 +5,11 @@
 <link></link>
 <item>
 	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/91ec7264defc5b1f5b7aac5f0515cf962388dff4</link><description><![CDATA[<a href="https://skiff.com/">https://skiff.com/</a> - source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, 1 custom domain for your own website, free 4 aliases for your email address per account. Additional Crypto Wallet support for E2EE environment.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1c0d6b9066d24129c3efe0ac87451995f70dd574</link><description><![CDATA[<a href="https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate app's performance and user experience (UX">https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate app's performance and user experience (UX</a> - A mobile testing tool that enables people without performance engineering skills to evaluate app's performance and user experience (UX). Desktop version using your own device is 100% FREE with unlimited tests on both iOS and Android.<br>
  ]]></description>
 </item>
@@ -49,11 +54,6 @@
 <item>
 	<title>Fix formatting for Vercel.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7eb098d35a346b94aaa5008d1b926bd30280a8e7</link><description><![CDATA[<a href="https://vercel.com/">https://vercel.com/</a> - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix typo in README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bc95465501b03ec65097562572606c00c436cff3</link><description><![CDATA[<a href="https://befonts.com/">https://befonts.com/</a> - Provides several unique fonts for personal or commercial use.<br>
  ]]></description>
 </item>
 
