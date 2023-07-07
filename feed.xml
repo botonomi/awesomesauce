@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Adding Aiven to the list.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3588ff61a9662cc12b24734625cfc2d9aabbf679</link><description><![CDATA[<a href="#managed-data-services">#managed-data-services</a> - Services](#managed-data-services)<br>
+<a href="https://aiven.io/">https://aiven.io/</a> - Aiven offers free PostgreSQL, MySQL and Redis plans on its open source data platform. Single node, 1 CPU, 1GB RAM and for PostgreSQL and MySQL, 5GB storage. Easy migration to larger plans or across clouds.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/91ec7264defc5b1f5b7aac5f0515cf962388dff4</link><description><![CDATA[<a href="https://skiff.com/">https://skiff.com/</a> - source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, 1 custom domain for your own website, free 4 aliases for your email address per account. Additional Crypto Wallet support for E2EE environment.<br>
  ]]></description>
@@ -49,11 +55,6 @@
 <item>
 	<title>docs: add Zeabur</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e1ce160b1316e5d6c4265ad6cfc68d3ad9475186</link><description><![CDATA[<a href="https://zeabur.com">https://zeabur.com</a> - Deploy your services with one click. Free for 3 services, with US$ 5 free credits per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix formatting for Vercel.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7eb098d35a346b94aaa5008d1b926bd30280a8e7</link><description><![CDATA[<a href="https://vercel.com/">https://vercel.com/</a> - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.<br>
  ]]></description>
 </item>
 
