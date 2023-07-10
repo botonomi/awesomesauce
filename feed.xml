@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Lecturify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/57ad8489ab29f9014ffee1dd0c5494461c329f91</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added Lecturify</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/792ac96353d14ad2d98c93fdbc7c367f33a81800</link><description><![CDATA[<a href="https://www.lecturify.net/index.en.html">https://www.lecturify.net/index.en.html</a> - Free email addresses for NICK@pomelo.host.lecturify.net with 250MB storage free, with IMAP SMTP access, no webmail.<br>
+<a href="https://www.lecturify.net/index.en.html">https://www.lecturify.net/index.en.html</a> - Web hosting with sftp access for file upload and download, php available.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding Aiven to the list.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3588ff61a9662cc12b24734625cfc2d9aabbf679</link><description><![CDATA[<a href="#managed-data-services">#managed-data-services</a> - Services](#managed-data-services)<br>
 <a href="https://aiven.io/">https://aiven.io/</a> - Aiven offers free PostgreSQL, MySQL and Redis plans on its open source data platform. Single node, 1 CPU, 1GB RAM and for PostgreSQL and MySQL, 5GB storage. Easy migration to larger plans or across clouds.<br>
@@ -50,11 +60,6 @@
 <item>
 	<title>Fix typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7ab0ce626d0d5fb36d821bd96caef3ee3457299b</link><description><![CDATA[<a href="https://nextui.org/">https://nextui.org/</a> - Free. Beautiful, fast and modern React & Next.js UI library.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs: add Zeabur</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e1ce160b1316e5d6c4265ad6cfc68d3ad9475186</link><description><![CDATA[<a href="https://zeabur.com">https://zeabur.com</a> - Deploy your services with one click. Free for 3 services, with US$ 5 free credits per month.<br>
  ]]></description>
 </item>
 
