@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add aptabase</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/71526b6d67c94d700b6f33ea2ac4299989995ab0</link><description><![CDATA[<a href="https://aptabase.com">https://aptabase.com</a> - Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Pulse.red</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/90ab9eeb2663ac4511b65cf49e5f3476dcce3057</link><description><![CDATA[<a href="https://pulse.red">https://pulse.red</a> - Free Minimalistic Time Tracker and Timesheet app for projects.<br>
+ ]]></description>
+</item>
+<item>
+	<title>QUEUEMAIL.DEV - Reliable email delivery API. Free tier. Send asynchro…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f2d5939e86a905198eace1321c0bbebc06d367f</link><description><![CDATA[<a href="https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month">https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month</a> - Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Loging, Tracking, Webhooks, and more...<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Hook0</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f05e68832e43df976242232f7139d56fc9052b87</link><description><![CDATA[<a href="https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS">https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS</a> - Hook0 is an open source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update AWS CloudFront</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e76ef13fd95478d33c7fd56edc795e638d5f51d9</link><description><![CDATA[<a href="https://aws.amazon.com/cloudfront/">https://aws.amazon.com/cloudfront/</a> - 1TB egress per month and 2M Function invocations per month<br>
  ]]></description>
@@ -38,29 +58,6 @@
 	<title>Add Apptim</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d0edfd0c4388957db5bd4b59d2817b475798a647</link><description><![CDATA[<a href="https://apptim.com) — A mobile performance testing tool that empowers mobile developers and testers to effortlessly validate the performance and user experience (UX) of their Android and iOS apps. It efficiently captures and analyzes device resource usage, including CPU, Memory, FPS, Network, Crashes, Render Times, and more (FREE). The tool seamlessly facilitates running automated tests on real devices in the cloud, while offering seamless integration with CI/CD workflows (PAID">https://apptim.com) — A mobile performance testing tool that empowers mobile developers and testers to effortlessly validate the performance and user experience (UX) of their Android and iOS apps. It efficiently captures and analyzes device resource usage, including CPU, Memory, FPS, Network, Crashes, Render Times, and more (FREE). The tool seamlessly facilitates running automated tests on real devices in the cloud, while offering seamless integration with CI/CD workflows (PAID</a> - A mobile performance testing tool that empowers mobile developers and testers to effortlessly validate the performance and user experience (UX) of their Android and iOS apps. It efficiently captures and analyzes device resource usage, including CPU, Memory, FPS, Network, Crashes, Render Times, and more (FREE). The tool seamlessly facilitates running automated tests on real devices in the cloud, while offering seamless integration with CI/CD workflows (PAID).<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54970debb476e1a9936b8b85494a8bab8fe0acf3</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b424361ce036bc405a74d80538581711861fed48</link><description><![CDATA[<a href="https://www.blackfire.io/students/)  only (PHP/Python only">https://www.blackfire.io/students/)  only (PHP/Python only</a> - Blackfire is the SaaS-delivered Application Performance Solution. Free plan for [Students and Teachers](https://www.blackfire.io/students/) only (PHP/Python only)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4fdffca2839a36d4cf1cbfc106b8c89961026969</link><description><![CDATA[<a href="https://www.blackfire.io/students/)  only (PHP only">https://www.blackfire.io/students/)  only (PHP only</a> - Blackfire is the SaaS-delivered Application Performance Solution. Free plan for [Students and Teachers](https://www.blackfire.io/students/) only (PHP only)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update doprax</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/996a398332a76b285e9d80b353ddd8fec8babde6</link><description><![CDATA[<a href="https://www.doprax.com">https://www.doprax.com</a> - — Cloud hosting for your Apps, Websites and APIs. Free for one app, with 4 * 256MB ram and 2 GB of disk. To create an app space, you need to have at least $3 in your account credit balance.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove lgtm.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d4189d8651089e49b4f6494c690386c4061ce7bd</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
