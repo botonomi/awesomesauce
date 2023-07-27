@@ -4,8 +4,23 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Free tier update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4385b5a9bf870118cb69e04e2f5e1a318eaa5d45</link><description><![CDATA[<a href="https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site">https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site</a> - - Free for personal projects (includes 1 deployment server, 1 static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Cloud 66</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2926a1e778c1a4534128eef0b97c2fcc90358b4b</link><description><![CDATA[<a href="https://www.cloud66.com/">https://www.cloud66.com/</a> - - Free for personal projects. Cloud 66 gives you everything you need to build, deploy and grow your applications on any cloud, without the headache of the “server stuff”.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Okteto cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/20ddc5d56bf453df1c0380be07c9b3f067c6ecdb</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add cloud-iam</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8dee88bff0335ae1d5ce9550623572ab4299232b</link><description><![CDATA[<a href="https://www.cloud-iam.com/">https://www.cloud-iam.com/</a> - Keycloak Identity and Access Management as a Service. Free up to 100 users and 1 realm.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Add aptabase</title>
@@ -40,17 +55,6 @@
 	<title>Added Lecturify</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/792ac96353d14ad2d98c93fdbc7c367f33a81800</link><description><![CDATA[<a href="https://www.lecturify.net/index.en.html">https://www.lecturify.net/index.en.html</a> - Free email addresses for NICK@pomelo.host.lecturify.net with 250MB storage free, with IMAP SMTP access, no webmail.<br>
 <a href="https://www.lecturify.net/index.en.html">https://www.lecturify.net/index.en.html</a> - Web hosting with sftp access for file upload and download, php available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Aiven to the list.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3588ff61a9662cc12b24734625cfc2d9aabbf679</link><description><![CDATA[<a href="#managed-data-services">#managed-data-services</a> - Services](#managed-data-services)<br>
-<a href="https://aiven.io/">https://aiven.io/</a> - Aiven offers free PostgreSQL, MySQL and Redis plans on its open source data platform. Single node, 1 CPU, 1GB RAM and for PostgreSQL and MySQL, 5GB storage. Easy migration to larger plans or across clouds.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/91ec7264defc5b1f5b7aac5f0515cf962388dff4</link><description><![CDATA[<a href="https://skiff.com/">https://skiff.com/</a> - source, end-to-end encrypted anonymous email service, no additional details asked at signup, free 10GB drive storage, 1 custom domain for your own website, free 4 aliases for your email address per account. Additional Crypto Wallet support for E2EE environment.<br>
  ]]></description>
 </item>
 
