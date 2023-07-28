@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add Expose</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/74670f8d58a282aac401266b1bbd04bace2aa0cc</link><description><![CDATA[<a href="https://expose.dev/">https://expose.dev/</a> - Expose local sites via secure tunnels. Free plan includes EU Server, Random subdomains and Single user.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Free tier update</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4385b5a9bf870118cb69e04e2f5e1a318eaa5d45</link><description><![CDATA[<a href="https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site">https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site</a> - - Free for personal projects (includes 1 deployment server, 1 static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.<br>
  ]]></description>
@@ -45,16 +50,6 @@
 <item>
 	<title>Update AWS CloudFront</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e76ef13fd95478d33c7fd56edc795e638d5f51d9</link><description><![CDATA[<a href="https://aws.amazon.com/cloudfront/">https://aws.amazon.com/cloudfront/</a> - 1TB egress per month and 2M Function invocations per month<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Lecturify</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/57ad8489ab29f9014ffee1dd0c5494461c329f91</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Lecturify</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/792ac96353d14ad2d98c93fdbc7c367f33a81800</link><description><![CDATA[<a href="https://www.lecturify.net/index.en.html">https://www.lecturify.net/index.en.html</a> - Free email addresses for NICK@pomelo.host.lecturify.net with 250MB storage free, with IMAP SMTP access, no webmail.<br>
-<a href="https://www.lecturify.net/index.en.html">https://www.lecturify.net/index.en.html</a> - Web hosting with sftp access for file upload and download, php available.<br>
  ]]></description>
 </item>
 
