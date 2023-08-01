@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a08787373569ab037b500e4eef395318fe9723e8</link><description><![CDATA[<a href="https://semaphr.com">https://semaphr.com</a> - Free all-in-one kill switch for your mobile apps.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Logto</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4904f45c936c5523f9102b40b047e168d3b0e010</link><description><![CDATA[<a href="https://logto.io/">https://logto.io/</a> - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>QUEUEMAIL.DEV - Reliable email delivery API. Free tier. Send asynchro…</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f2d5939e86a905198eace1321c0bbebc06d367f</link><description><![CDATA[<a href="https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month">https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month</a> - Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blacklists, Loging, Tracking, Webhooks, and more...<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Hook0</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f05e68832e43df976242232f7139d56fc9052b87</link><description><![CDATA[<a href="https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS">https://www.hook0.com/) - Hook0 is an open source Webhooks-as-a-service (WaaS</a> - Hook0 is an open source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free.<br>
  ]]></description>
 </item>
 
