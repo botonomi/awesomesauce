@@ -4,6 +4,14 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Ns1 from the Free DNS list, Because Currently the new free Acc…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d1aa4e3503ecacd36d7ac34bf971e67d4416a8ef</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove Algorithmia from APIs, Data and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c451d64b21abaa9c33122246e56ff472ef6b3673</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>docs: add Bytebase</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/98eb2af1b286522e636a5b5703d319043ece006b</link><description><![CDATA[<a href="https://www.bytebase.com/">https://www.bytebase.com/</a> - Database CI/CD and DevOps. Free under 20 users and 10 database instances<br>
  ]]></description>
@@ -40,11 +48,6 @@
 <item>
 	<title>Add cloud-iam</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8dee88bff0335ae1d5ce9550623572ab4299232b</link><description><![CDATA[<a href="https://www.cloud-iam.com/">https://www.cloud-iam.com/</a> - Keycloak Identity and Access Management as a Service. Free up to 100 users and 1 realm.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add aptabase</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/71526b6d67c94d700b6f33ea2ac4299989995ab0</link><description><![CDATA[<a href="https://aptabase.com">https://aptabase.com</a> - Open Source, Privacy-Friendly and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron and many others. Free for up to 20.000 events per month.<br>
  ]]></description>
 </item>
 
