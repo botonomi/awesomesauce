@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated description of Pullflow in teams & collaboration section.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0034d1d60b0674e220f28277061a228263930e1c</link><description><![CDATA[<a href="https://pullflow.com">https://pullflow.com</a> - Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Pullflow link along with description in Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/53953e467ee68550f125cd04078492ea2ae76d1f</link><description><![CDATA[<a href="https://pullflow.com">https://pullflow.com</a> - Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code, enabling developers to merge quality PRs 4x faster. It minimizes distractions and context switching, providing synchronized conversations between developers, systems, and AI.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/79c46375cf3314bc2b6888c4414ace8cb3989eea</link><description><![CDATA[<a href="https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS">https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS</a> - From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Ns1 from the Free DNS list, Because Currently the new free Acc…</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d1aa4e3503ecacd36d7ac34bf971e67d4416a8ef</link><description><![CDATA[ ]]></description>
 </item>
@@ -29,25 +44,6 @@
 <item>
 	<title>add Expose</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/74670f8d58a282aac401266b1bbd04bace2aa0cc</link><description><![CDATA[<a href="https://expose.dev/">https://expose.dev/</a> - Expose local sites via secure tunnels. Free plan includes EU Server, Random subdomains and Single user.<br>
- ]]></description>
-</item>
-<item>
-	<title>Free tier update</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4385b5a9bf870118cb69e04e2f5e1a318eaa5d45</link><description><![CDATA[<a href="https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site">https://www.cloud66.com/) - Free for personal projects (includes 1 deployment server, 1 static site</a> - - Free for personal projects (includes 1 deployment server, 1 static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Cloud 66</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2926a1e778c1a4534128eef0b97c2fcc90358b4b</link><description><![CDATA[<a href="https://www.cloud66.com/">https://www.cloud66.com/</a> - - Free for personal projects. Cloud 66 gives you everything you need to build, deploy and grow your applications on any cloud, without the headache of the “server stuff”.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Okteto cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/20ddc5d56bf453df1c0380be07c9b3f067c6ecdb</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add cloud-iam</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8dee88bff0335ae1d5ce9550623572ab4299232b</link><description><![CDATA[<a href="https://www.cloud-iam.com/">https://www.cloud-iam.com/</a> - Keycloak Identity and Access Management as a Service. Free up to 100 users and 1 realm.<br>
  ]]></description>
 </item>
 
