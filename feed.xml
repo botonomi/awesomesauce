@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove airbrake</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9c8c5a836b6cc3377b2fcde3f299de6dacb0a142</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Updated description of Pullflow in teams & collaboration section.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0034d1d60b0674e220f28277061a228263930e1c</link><description><![CDATA[<a href="https://pullflow.com">https://pullflow.com</a> - Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.<br>
  ]]></description>
@@ -44,11 +48,6 @@
 <item>
 	<title>Add Logto</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4904f45c936c5523f9102b40b047e168d3b0e010</link><description><![CDATA[<a href="https://logto.io/">https://logto.io/</a> - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Expose</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/74670f8d58a282aac401266b1bbd04bace2aa0cc</link><description><![CDATA[<a href="https://expose.dev/">https://expose.dev/</a> - Expose local sites via secure tunnels. Free plan includes EU Server, Random subdomains and Single user.<br>
  ]]></description>
 </item>
 
