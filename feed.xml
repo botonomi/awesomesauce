@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add API support mention to deSEC</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b0d60590976691451f66a68251e7555cb9c7ab4d</link><description><![CDATA[<a href="https://www.securesystems.de/">https://www.securesystems.de/</a> - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add deSEC</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8efb2cd74242be5c230d3aa275d6cbf5daa54d75</link><description><![CDATA[<a href="https://www.securesystems.de/">https://www.securesystems.de/</a> - Free DNS hosting, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>add pdf factory</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b751a6e0856eba017a0556bf4a8bb3db90e52dd3</link><description><![CDATA[<a href="https://pdf-factory.com">https://pdf-factory.com</a> - - PDF Automation API, visual template editor, dynamic data integration and PDF rendering with an API. Free plan comes with 1 template, 100 PDFs/month.<br>
  ]]></description>
@@ -40,10 +50,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/79c46375cf3314bc2b6888c4414ace8cb3989eea</link><description><![CDATA[<a href="https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS">https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS</a> - From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS).<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove Ns1 from the Free DNS list, Because Currently the new free Acc…</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d1aa4e3503ecacd36d7ac34bf971e67d4416a8ef</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
