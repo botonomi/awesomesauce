@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Quant Ux</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9f2c8af0047a3e68ae30cabbfabacab2e2684fc6</link><description><![CDATA[<a href="https://quant-ux.com/">https://quant-ux.com/</a> - - Quant Ux is a prototyping and design tool. - It's completely free and also open source.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add API support mention to deSEC</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b0d60590976691451f66a68251e7555cb9c7ab4d</link><description><![CDATA[<a href="https://www.securesystems.de/">https://www.securesystems.de/</a> - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>Added Pullflow link along with description in Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/53953e467ee68550f125cd04078492ea2ae76d1f</link><description><![CDATA[<a href="https://pullflow.com">https://pullflow.com</a> - Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code, enabling developers to merge quality PRs 4x faster. It minimizes distractions and context switching, providing synchronized conversations between developers, systems, and AI.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/79c46375cf3314bc2b6888c4414ace8cb3989eea</link><description><![CDATA[<a href="https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS">https://spheron.network/) — From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS</a> - From Decentralised Cloud Storage, Web Hosting to Decentralised Compute for Apps & Developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain & Projects, $5 worth of Compute resources (Worth $50 w.r.t AWS).<br>
  ]]></description>
 </item>
 
