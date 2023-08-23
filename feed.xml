@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>LightCDN</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/20165ea15273ead3a2073b9e835cadfeb31f4286</link><description><![CDATA[<a href="https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S">https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S</a> - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S) requests.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Removed a dead service and added a substitute</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/af6aa2161315c6f2eefe14a38ed5aed5e9ca362c</link><description><![CDATA[<a href="https://cron-job.org">https://cron-job.org</a> - Online cronjobs service. Unlimited jobs free of charge.<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>Add webhook-test.com under Testing section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f14cea848f3e3c8d3539e0bdd213b3b09ab31109</link><description><![CDATA[<a href="https://webhook-test.com">https://webhook-test.com</a> - Debug and inspect webhooks, http requests during integration with a unique URL. Completely free, can create unlimited number of URLs and receive requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated description of Pullflow in teams & collaboration section.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0034d1d60b0674e220f28277061a228263930e1c</link><description><![CDATA[<a href="https://pullflow.com">https://pullflow.com</a> - Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.<br>
  ]]></description>
 </item>
 
