@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add httpSMS service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/29b6fdb150fb6ea5024a7fcb072ef761640d906b</link><description><![CDATA[<a href="https://httpsms.com">https://httpsms.com</a> - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.<br>
+<a href="https://sandbox.httpsms.com">https://sandbox.httpsms.com</a> - Send and receive test SMS messages for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove bird eats bugs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07373ce186882d244a8a3d6415e872447d93b401</link><description><![CDATA[ ]]></description>
 </item>
