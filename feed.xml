@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove humio.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42306123a5e36bfc285d360843327e971d55975b</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7eb5760f3d4bbb1114b470b1ebd4aeb0c52bfdcd</link><description><![CDATA[<a href="https://tina.io/">https://tina.io/</a> - Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX and JSON. Basic offer is free with two users available.<br>
  ]]></description>
@@ -41,11 +45,6 @@
 <item>
 	<title>Add API support mention to deSEC</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b0d60590976691451f66a68251e7555cb9c7ab4d</link><description><![CDATA[<a href="https://www.securesystems.de/">https://www.securesystems.de/</a> - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add deSEC</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8efb2cd74242be5c230d3aa275d6cbf5daa54d75</link><description><![CDATA[<a href="https://www.securesystems.de/">https://www.securesystems.de/</a> - Free DNS hosting, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).<br>
  ]]></description>
 </item>
 
