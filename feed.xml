@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md (#1)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a74b2be9f2c1004402e2065f44b4925c92282661</link><description><![CDATA[<a href="https://pixee.ai">https://pixee.ai</a> - Automated Product Security Engineer as a free GitHub bot that submits PRs to your java code base to automatically resolve vulnerabilities. Other languages coming soon!<br>
+ ]]></description>
+</item>
+<item>
 	<title>add ipbase</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/009a8a5dcaa133e937d3544851236be90aa0e56d</link><description><![CDATA[<a href="https://ipbase.com">https://ipbase.com</a> - IP Geolocation API - Forever free plan that spans 150 requests per month.<br>
  ]]></description>
@@ -39,11 +44,6 @@
 <item>
 	<title>LightCDN</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/20165ea15273ead3a2073b9e835cadfeb31f4286</link><description><![CDATA[<a href="https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S">https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S</a> - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S) requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Removed a dead service and added a substitute</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/af6aa2161315c6f2eefe14a38ed5aed5e9ca362c</link><description><![CDATA[<a href="https://cron-job.org">https://cron-job.org</a> - Online cronjobs service. Unlimited jobs free of charge.<br>
  ]]></description>
 </item>
 
