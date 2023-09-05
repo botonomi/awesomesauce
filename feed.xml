@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>update connectycube ,remove push technology</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/581942b42e2697bc3ddbe7347dc3865dc78b623d</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md (#1)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a74b2be9f2c1004402e2065f44b4925c92282661</link><description><![CDATA[<a href="https://pixee.ai">https://pixee.ai</a> - Automated Product Security Engineer as a free GitHub bot that submits PRs to your java code base to automatically resolve vulnerabilities. Other languages coming soon!<br>
  ]]></description>
@@ -39,11 +44,6 @@
 <item>
 	<title>Add onlineinterview.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/def91d840685ddc774285fc6a8f02ec8550f8671</link><description><![CDATA[<a href="https://onlineinterview.io/">https://onlineinterview.io/</a> - Free code interview platform, with embedded video chat, drawing board, and online code editor where you can compile and run your code on the browser. You can create a remote interview room with just one click.<br>
- ]]></description>
-</item>
-<item>
-	<title>LightCDN</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/20165ea15273ead3a2073b9e835cadfeb31f4286</link><description><![CDATA[<a href="https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S">https://www.lightcdn.com) - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S</a> - Free 100GB CDN with 8 international Pop. Unlimited HTTP(S) requests.<br>
  ]]></description>
 </item>
 
