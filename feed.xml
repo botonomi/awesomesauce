@@ -4,6 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>whereby already exists</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/399b94f17569d0185bedd87bb2daa80d26e1c8cf</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>add 4 services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/264935edd22bb55930f10d6fd9a0c440cb26c979</link><description><![CDATA[<a href="https://www.webex.com/">https://www.webex.com/</a> - Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.<br>
+<a href="https://www.ringcentral.com/">https://www.ringcentral.com/</a> - Video meetings with a free plan offering 50 minutes per meeting with 100 participants.<br>
+<a href="https://whereby.com/">https://whereby.com/</a> - Video meetings:1 room,100 attendees per meeting,Unlimited one-on-one meetings,Group meetings for up to 45 minutes;Video call API:2000 participant minutes monthly<br>
+<a href="https://www.metered.ca/">https://www.metered.ca/</a> - Free TURN server with 50GB included monthly TURN usage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>update connectycube ,remove push technology</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/581942b42e2697bc3ddbe7347dc3865dc78b623d</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.<br>
  ]]></description>
@@ -40,11 +52,6 @@
 <item>
 	<title>remove bird eats bugs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/07373ce186882d244a8a3d6415e872447d93b401</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add onlineinterview.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/def91d840685ddc774285fc6a8f02ec8550f8671</link><description><![CDATA[<a href="https://onlineinterview.io/">https://onlineinterview.io/</a> - Free code interview platform, with embedded video chat, drawing board, and online code editor where you can compile and run your code on the browser. You can create a remote interview room with just one click.<br>
- ]]></description>
 </item>
 
 </channel>
