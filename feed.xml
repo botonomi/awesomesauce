@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove macrometa</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4e1c0ec59734a4e43fc6cdf06abda01951cbfd27</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>whereby already exists</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/399b94f17569d0185bedd87bb2daa80d26e1c8cf</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,12 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7eb5760f3d4bbb1114b470b1ebd4aeb0c52bfdcd</link><description><![CDATA[<a href="https://tina.io/">https://tina.io/</a> - Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX and JSON. Basic offer is free with two users available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add httpSMS service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/29b6fdb150fb6ea5024a7fcb072ef761640d906b</link><description><![CDATA[<a href="https://httpsms.com">https://httpsms.com</a> - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.<br>
-<a href="https://sandbox.httpsms.com">https://sandbox.httpsms.com</a> - Send and receive test SMS messages for free.<br>
  ]]></description>
 </item>
 
