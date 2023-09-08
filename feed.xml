@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add 2 comment services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/33730c87b5499c378d0cfcee898674bbe0c1fef7</link><description><![CDATA[<a href="https://www.remarkbox.com/">https://www.remarkbox.com/</a> - Open source hosted comments platform ,pay what you can for "One moderator on a few domains with complete control over behavior & appearance"<br>
+<a href="https://intensedebate.com/">https://intensedebate.com/</a> - A feature-rich comment system for WordPress, Tumblr, Blogger and many other website platforms.<br>
+ ]]></description>
+</item>
+<item>
+	<title>commenting -> staticman is not saas</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/67b8ec32222c447f809ab122632c27c772e4dc7d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>remove macrometa</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4e1c0ec59734a4e43fc6cdf06abda01951cbfd27</link><description><![CDATA[ ]]></description>
 </item>
@@ -46,11 +56,6 @@
 <item>
 	<title>remove humio.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/42306123a5e36bfc285d360843327e971d55975b</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7eb5760f3d4bbb1114b470b1ebd4aeb0c52bfdcd</link><description><![CDATA[<a href="https://tina.io/">https://tina.io/</a> - Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX and JSON. Basic offer is free with two users available.<br>
- ]]></description>
 </item>
 
 </channel>
