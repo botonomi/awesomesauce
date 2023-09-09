@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Mailersend.com offer in README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f9e2a81f39af811edbd957f0d515c2178e7c7df5</link><description><![CDATA[<a href="https://www.mailersend.com">https://www.mailersend.com</a> - Email API, SMTP, 3,000 emails/month free for transactional emails<br>
+ ]]></description>
+</item>
+<item>
 	<title>add 2 comment services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/33730c87b5499c378d0cfcee898674bbe0c1fef7</link><description><![CDATA[<a href="https://www.remarkbox.com/">https://www.remarkbox.com/</a> - Open source hosted comments platform ,pay what you can for "One moderator on a few domains with complete control over behavior & appearance"<br>
 <a href="https://intensedebate.com/">https://intensedebate.com/</a> - A feature-rich comment system for WordPress, Tumblr, Blogger and many other website platforms.<br>
@@ -52,10 +57,6 @@
 <item>
 	<title>remove freegeoip.app</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dbb6eb9f65c560096d81cd7099050868ea543f4c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>remove humio.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/42306123a5e36bfc285d360843327e971d55975b</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
