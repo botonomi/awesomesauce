@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix typo in README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f87893f67a91130f9d93dd7253d7b8febabef821</link><description><![CDATA[<a href="https://a11ywatch.com">https://a11ywatch.com</a> - Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.<br>
+<a href="https://phpsandbox.io/">https://phpsandbox.io/</a> - Online development environment for PHP.<br>
+ ]]></description>
+</item>
+<item>
 	<title>propose dappling network</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/75ba5be3dc2b9a1b2288f595960abfb4d5ce688f</link><description><![CDATA[<a href="https://www.dappling.network/">https://www.dappling.network/</a> - - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.<br>
  ]]></description>
@@ -47,16 +53,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/74f47ccdf9006440b6713c6d2b2d962f2e0625c1</link><description><![CDATA[<a href="https://www.moesif.com/">https://www.moesif.com/</a> - Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. Free tier offers 30,000 events/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md (#1)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a74b2be9f2c1004402e2065f44b4925c92282661</link><description><![CDATA[<a href="https://pixee.ai">https://pixee.ai</a> - Automated Product Security Engineer as a free GitHub bot that submits PRs to your java code base to automatically resolve vulnerabilities. Other languages coming soon!<br>
- ]]></description>
-</item>
-<item>
-	<title>add ipbase</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/009a8a5dcaa133e937d3544851236be90aa0e56d</link><description><![CDATA[<a href="https://ipbase.com">https://ipbase.com</a> - IP Geolocation API - Forever free plan that spans 150 requests per month.<br>
  ]]></description>
 </item>
 
