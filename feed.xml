@@ -4,6 +4,41 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Welltested update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/77f2e4845c56092f5fa888f8d354c2dbea89ae59</link><description><![CDATA[<a href="https://welltested.ai">https://welltested.ai</a> - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Welltested AI Added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b5bf73dfc8ac2013cb349919da5e07cd8cd4fcd9</link><description><![CDATA[<a href="https://welltested.ai">https://welltested.ai</a> - Generate unit and integration tests within minutes for mobile languages like Flutter. Free forever for developers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding Nyckel under APIs, Data, and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/546904636ad64fb11dec937d8e0ab2a65db736b4</link><description><![CDATA[<a href="https://www.nyckel.com">https://www.nyckel.com</a> - Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a96cff5e728a55a23f365f298c65c0dd7729a290</link><description><![CDATA[<a href="https://www.mockfly.dev/">https://www.mockfly.dev/</a> - Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b8ff245b83c33929f02b4a652ff48960e07accd3</link><description><![CDATA[<a href="https://kinde.com/">https://kinde.com/</a> - Simple, powerful authentication you can integrate with your product in minutes. Everything you need to get started with 7,500 free MAU.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding Stytch to Authentication</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5efaeb1809f319a5e47fb271054bbc6ed4982faa</link><description><![CDATA[<a href="https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B">https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B</a> - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add ethereal.email service to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/796740e990e1aeacdbae6b1ae458bc518218d5d7</link><description><![CDATA[<a href="https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to">https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to</a> - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adding screeb</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d870622354ce918115c322ce903bf1e37d502bfb</link><description><![CDATA[<a href="https://screeb.app/">https://screeb.app/</a> - In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports.<br>
  ]]></description>
@@ -17,47 +52,6 @@
 <item>
 	<title>propose dappling network</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/75ba5be3dc2b9a1b2288f595960abfb4d5ce688f</link><description><![CDATA[<a href="https://www.dappling.network/">https://www.dappling.network/</a> - - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Mailersend.com offer in README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f9e2a81f39af811edbd957f0d515c2178e7c7df5</link><description><![CDATA[<a href="https://www.mailersend.com">https://www.mailersend.com</a> - Email API, SMTP, 3,000 emails/month free for transactional emails<br>
- ]]></description>
-</item>
-<item>
-	<title>add 2 comment services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/33730c87b5499c378d0cfcee898674bbe0c1fef7</link><description><![CDATA[<a href="https://www.remarkbox.com/">https://www.remarkbox.com/</a> - Open source hosted comments platform ,pay what you can for "One moderator on a few domains with complete control over behavior & appearance"<br>
-<a href="https://intensedebate.com/">https://intensedebate.com/</a> - A feature-rich comment system for WordPress, Tumblr, Blogger and many other website platforms.<br>
- ]]></description>
-</item>
-<item>
-	<title>commenting -> staticman is not saas</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/67b8ec32222c447f809ab122632c27c772e4dc7d</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>remove macrometa</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4e1c0ec59734a4e43fc6cdf06abda01951cbfd27</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>whereby already exists</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/399b94f17569d0185bedd87bb2daa80d26e1c8cf</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add 4 services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/264935edd22bb55930f10d6fd9a0c440cb26c979</link><description><![CDATA[<a href="https://www.webex.com/">https://www.webex.com/</a> - Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.<br>
-<a href="https://www.ringcentral.com/">https://www.ringcentral.com/</a> - Video meetings with a free plan offering 50 minutes per meeting with 100 participants.<br>
-<a href="https://whereby.com/">https://whereby.com/</a> - Video meetings:1 room,100 attendees per meeting,Unlimited one-on-one meetings,Group meetings for up to 45 minutes;Video call API:2000 participant minutes monthly<br>
-<a href="https://www.metered.ca/">https://www.metered.ca/</a> - Free TURN server with 50GB included monthly TURN usage.<br>
- ]]></description>
-</item>
-<item>
-	<title>update connectycube ,remove push technology</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/581942b42e2697bc3ddbe7347dc3865dc78b623d</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/74f47ccdf9006440b6713c6d2b2d962f2e0625c1</link><description><![CDATA[<a href="https://www.moesif.com/">https://www.moesif.com/</a> - Monetization](https://www.moesif.com/) - Generate revenue from APIs via usage-based billing. Connect to Stripe, Chargebee, etc. Free tier offers 30,000 events/month.<br>
  ]]></description>
 </item>
 
