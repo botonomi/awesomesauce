@@ -4,54 +4,48 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
-	<title>Welltested update</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/77f2e4845c56092f5fa888f8d354c2dbea89ae59</link><description><![CDATA[<a href="https://welltested.ai">https://welltested.ai</a> - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Welltested AI Added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b5bf73dfc8ac2013cb349919da5e07cd8cd4fcd9</link><description><![CDATA[<a href="https://welltested.ai">https://welltested.ai</a> - Generate unit and integration tests within minutes for mobile languages like Flutter. Free forever for developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Nyckel under APIs, Data, and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/546904636ad64fb11dec937d8e0ab2a65db736b4</link><description><![CDATA[<a href="https://www.nyckel.com">https://www.nyckel.com</a> - Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.<br>
- ]]></description>
-</item>
-<item>
 	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a96cff5e728a55a23f365f298c65c0dd7729a290</link><description><![CDATA[<a href="https://www.mockfly.dev/">https://www.mockfly.dev/</a> - Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.<br>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1da4559e9ac269654d1a99b77e8ef12858fb465b</link><description><![CDATA[<a href="https://www.lightly.ai/">https://www.lightly.ai/</a> - Improve your machine learning models by using the right data. Use datasets of up to 1000 samples for free.<br>
  ]]></description>
 </item>
 <item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b8ff245b83c33929f02b4a652ff48960e07accd3</link><description><![CDATA[<a href="https://kinde.com/">https://kinde.com/</a> - Simple, powerful authentication you can integrate with your product in minutes. Everything you need to get started with 7,500 free MAU.<br>
+	<title>Revert "Add GridPanel"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bd6196021792973c88e5a4c2ef89753b43ae7646</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add GridPanel</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/452f814524c342a4377442568ce7ce7c69f5126c</link><description><![CDATA[<a href="https://gridpanel.net/scraping-api">https://gridpanel.net/scraping-api</a> - Web Scraping API & mobile proxies. Helps you bypass anti-bot mechanisms and offers javascript rendering, mobile proxies, and geotargeting. Free tier of 1000 API calls.<br>
  ]]></description>
 </item>
 <item>
-	<title>Adding Stytch to Authentication</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5efaeb1809f319a5e47fb271054bbc6ed4982faa</link><description><![CDATA[<a href="https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B">https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B</a> - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).<br>
+	<title>Update CircleCI description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9616b66e1deca9d0d0a72592ca7ec17ec31bc37d</link><description><![CDATA[<a href="https://circleci.com/">https://circleci.com/</a> - Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, and ARM executors as well as local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, and up to 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.<br>
  ]]></description>
 </item>
 <item>
-	<title>Add ethereal.email service to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/796740e990e1aeacdbae6b1ae458bc518218d5d7</link><description><![CDATA[<a href="https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to">https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to</a> - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.<br>
+	<title>Added new section in contents</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/769f4ea030ad0e5a754b6ed0ab8e25316109a098</link><description><![CDATA[<a href="#feature-toggles-management-platforms">#feature-toggles-management-platforms</a> - Management Platforms](#feature-toggles-management-platforms)<br>
+<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
+<a href="https://flagsmith.com">https://flagsmith.com</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.<br>
+<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
+<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
+<a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
+<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
  ]]></description>
 </item>
 <item>
-	<title>Adding screeb</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d870622354ce918115c322ce903bf1e37d502bfb</link><description><![CDATA[<a href="https://screeb.app/">https://screeb.app/</a> - In-app surveys and product analytics for decoding user behavior. Forever free plan allows 500 monthly active users, unlimited responses and events, many integrations, export, and periodic reports.<br>
+	<title>New "Feature Toggles Management Platforms" - Added Toggled.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/09dd160823c0bc44958188f856769c7435285540</link><description><![CDATA[<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
+<a href="https://flagsmith.com">https://flagsmith.com</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.<br>
+<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
+<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
+<a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
+<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
  ]]></description>
 </item>
 <item>
-	<title>Fix typo in README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f87893f67a91130f9d93dd7253d7b8febabef821</link><description><![CDATA[<a href="https://a11ywatch.com">https://a11ywatch.com</a> - Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.<br>
-<a href="https://phpsandbox.io/">https://phpsandbox.io/</a> - Online development environment for PHP.<br>
- ]]></description>
-</item>
-<item>
-	<title>propose dappling network</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/75ba5be3dc2b9a1b2288f595960abfb4d5ce688f</link><description><![CDATA[<a href="https://www.dappling.network/">https://www.dappling.network/</a> - - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.<br>
+	<title>Update README.md to reflect new Video / Audio offering by Stream</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1af6d0972746c591df02ff050827696be617d13d</link><description><![CDATA[<a href="https://getstream.io/">https://getstream.io/</a> - Build scalable In-App Chat, Messaging, Video & Audio, and Feeds in a few hours instead of weeks<br>
  ]]></description>
 </item>
 
