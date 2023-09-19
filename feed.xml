@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update submission form mentioning pricing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/94cc7337946b9539a94ad779690549d7c1dc3bfc</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1da4559e9ac269654d1a99b77e8ef12858fb465b</link><description><![CDATA[<a href="https://www.lightly.ai/">https://www.lightly.ai/</a> - Improve your machine learning models by using the right data. Use datasets of up to 1000 samples for free.<br>
  ]]></description>
@@ -41,11 +45,6 @@
 <a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
 <a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
 <a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md to reflect new Video / Audio offering by Stream</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1af6d0972746c591df02ff050827696be617d13d</link><description><![CDATA[<a href="https://getstream.io/">https://getstream.io/</a> - Build scalable In-App Chat, Messaging, Video & Audio, and Feeds in a few hours instead of weeks<br>
  ]]></description>
 </item>
 
