@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Canopy API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4aa3a0c09a9e109aa5e5aee26572cfe8a2f9af1e</link><description><![CDATA[<a href="https://www.canopyapi.co/">https://www.canopyapi.co/</a> - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Float UI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/914c12f89a7dcb59b3f4d36e42861d6aff3a412b</link><description><![CDATA[<a href="https://floatui.com/">https://floatui.com/</a> - - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.<br>
  ]]></description>
@@ -90,11 +95,6 @@
 <item>
 	<title>Update submission form mentioning pricing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/94cc7337946b9539a94ad779690549d7c1dc3bfc</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1da4559e9ac269654d1a99b77e8ef12858fb465b</link><description><![CDATA[<a href="https://www.lightly.ai/">https://www.lightly.ai/</a> - Improve your machine learning models by using the right data. Use datasets of up to 1000 samples for free.<br>
- ]]></description>
 </item>
 
 </channel>
