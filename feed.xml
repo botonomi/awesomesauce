@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>docs: 📝 Added Buff.tools in Other Free Resources</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3158502842e09d6a9bc69732249025518bac07be</link><description><![CDATA[<a href="https://buff.tools/">https://buff.tools/</a> - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f889e20cdf3b1707a55299d88a6ca69afe374c2d</link><description><![CDATA[<a href="https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets">https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets</a> - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.<br>
+ ]]></description>
+</item>
+<item>
+	<title>docs: 📝 Added Buff.tools in Other Free Resources</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8028894add6718409558849621cf99e83f2453f9</link><description><![CDATA[<a href="https://buff.tools/">https://buff.tools/</a> - Discover a diverse range of everyday tools, from SEO and image optimization to developer utilities and website management aids, offering comprehensive solutions for your digital needs for Free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>feat: add Storyblok</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/94a031c2a55ddeb109dd39da09f556ffe9c2355c</link><description><![CDATA[<a href="https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets">https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets</a> - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.<br>
  ]]></description>
@@ -43,16 +58,6 @@
 <item>
 	<title>update service restrictions</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/80414518230d60a8609c6336742c77ea8cc5f4c6</link><description><![CDATA[<a href="https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam">https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)<br>
- ]]></description>
-</item>
-<item>
-	<title>Suggesting Metalama: edits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/99137fdd8e386b0f0aed853d229e41ccfc8754be</link><description><![CDATA[<a href="https://www.postsharp.net/metalama">https://www.postsharp.net/metalama</a> - Only for C#. Metalama generates the boilerplate the code on the fly, during compilation, so that your source code remains clean. It is completely free for open-source projects, and their commercial-friendly free tier includes 3 aspects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CodSpeed to the Code Quality section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8abbc2ba1dd22ed013fc9b69cf23232f2d59e842</link><description><![CDATA[<a href="https://codspeed.io">https://codspeed.io</a> - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.<br>
  ]]></description>
 </item>
 
