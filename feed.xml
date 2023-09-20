@@ -4,6 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>feat: add Storyblok</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/94a031c2a55ddeb109dd39da09f556ffe9c2355c</link><description><![CDATA[<a href="https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets">https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets</a> - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.<br>
+ ]]></description>
+</item>
+<item>
+	<title>move cloudflare products into single section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/efc201e32b87e66df8597f568f3f3b06f0bad4c7</link><description><![CDATA[<a href="https://www.cloudflare.com/plans/">https://www.cloudflare.com/plans/</a> - - Free DNS for unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and pagerules, WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding<br>
+<a href="https://www.cloudflare.com/plans/zero-trust-services/">https://www.cloudflare.com/plans/zero-trust-services/</a> - & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, 3 network locations<br>
+<a href="https://www.cloudflare.com/products/zero-trust/">https://www.cloudflare.com/products/zero-trust/</a> - - You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More feature (TCP tunnel, Load balancing , VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.<br>
+<a href="https://developers.cloudflare.com/pages/">https://developers.cloudflare.com/pages/</a> - Develop and deploy your web apps on Cloudflare's fast, secure global network. 500 builds per month, 100 custom domains, Integrated SSL, unlimited free seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fixes feature toggles formatting</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ed2cf59bb4fb0585db92b98e9de5a7cdb699b7d9</link><description><![CDATA[<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
+<a href="https://flagsmith.com">https://flagsmith.com</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.<br>
+<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
+<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
+<a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Canopy API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4aa3a0c09a9e109aa5e5aee26572cfe8a2f9af1e</link><description><![CDATA[<a href="https://www.canopyapi.co/">https://www.canopyapi.co/</a> - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.<br>
  ]]></description>
@@ -32,69 +54,6 @@
 	<title>Add CodSpeed to the Code Quality section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8abbc2ba1dd22ed013fc9b69cf23232f2d59e842</link><description><![CDATA[<a href="https://codspeed.io">https://codspeed.io</a> - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.<br>
  ]]></description>
-</item>
-<item>
-	<title>Metalama</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4b9af151b3e9f14f91cb84ff973131dd853ac17d</link><description><![CDATA[<a href="https://www.postsharp.net/metalama">https://www.postsharp.net/metalama</a> - With Metalama, you can generate C# code either on the fly, during compilation, or within the IDE as code fixes. The commercial-friendly free tier includes 3 aspects, and there are no limitations for open-source products.<br>
-<a href="https://www.postsharp.net/metalama">https://www.postsharp.net/metalama</a> - Metalama focuses on architecture-as-code and lets you verify your C# code against your own architecture rules. It shows warnings rights inside the IDE as you type. The commercial-friendly free tier includes 3 validation attributes, and the fluent validation API is not available, but there are no limitations for open-source products.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Metalama</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0591345e1cf8033d7852faae8e30e7990f7b3edc</link><description><![CDATA[<a href="https://www.postsharp.net/metalama">https://www.postsharp.net/metalama</a> - With Metalama, you can generate C# code either on the fly, during compilation, or within the IDE as code fixes.<br>
-<a href="https://www.postsharp.net/metalama">https://www.postsharp.net/metalama</a> - Metalama focuses on architecture-as-code and lets you verify your C# code against your own architecture rules. It shows warnings rights inside the IDE as you type.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9e8f160b6c172100750a10eb8ca0328f7ad5dd72</link><description><![CDATA[<a href="https://testapp.io">https://testapp.io</a> - Your go-to platform for making sure your mobile apps work like they should. Free plan: one app, analytics, unlimited versions & installs, and feedback collection.<br>
-<a href="https://www.diawi.com">https://www.diawi.com</a> - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, 10 installations.<br>
-<a href="https://www.installonair.com">https://www.installonair.com</a> - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.<br>
-<a href="https://www.getupdraft.com">https://www.getupdraft.com</a> - Distribute mobile apps for testing. Free plan includes: 1 app project, 3 app versions, 500 MB storage, and 100 app installations per month.<br>
-<a href="https://appho.st">https://appho.st</a> - Mobile app hosting platform. Free plan includes: 5 apps, 50 monthly downloads, and a maximum file size of 100MB.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3537cc272429521b23425434b0ca5b37d4111b41</link><description><![CDATA[<a href="https://www.wachete.com">https://www.wachete.com</a> - monitor 5 pages, checks every 24 hours.<br>
-<a href="https://simplescraper.io">https://simplescraper.io</a> - Trigger your webhook after each operation. Free plan includes 100 cloud scrape credits.<br>
-<a href="https://www.browse.ai">https://www.browse.ai</a> - — Extracting and monitoring data on the web. 50 credits per month for free.<br>
-<a href="https://ifttt.com">https://ifttt.com</a> - Automate your favorite apps and devices. Free 2 Applets<br>
-<a href="https://integrately.com">https://integrately.com</a> - Automate your tedious tasks with a single click. Free 100 Tasks, 15 Minute<br>
-<a href="https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to">https://ethereal.email) - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to</a> - Ethereal is a fake SMTP service, mostly aimed at Nodemailer and EmailEngine users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.<br>
-<a href="https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B">https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B</a> - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).<br>
-<a href="https://kinde.com/">https://kinde.com/</a> - Simple, powerful authentication you can integrate with your product in minutes. Everything you need to get started with 7,500 free MAU.<br>
-<a href="https://www.mockfly.dev/">https://www.mockfly.dev/</a> - Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. Free tier offers 500 requests per day.<br>
-<a href="https://www.nyckel.com">https://www.nyckel.com</a> - Train, deploy, and invoke image and text ML models. Free training with upto 5,000 pieces of training data. 1000 model invokes per month free.<br>
-<a href="https://welltested.ai">https://welltested.ai</a> - Generate unit and integration tests within minutes for mobile languages like Flutter. Free forever for developers.<br>
-<a href="https://welltested.ai">https://welltested.ai</a> - Generate unit and integration tests within minutes using AI for mobile languages like Flutter. Free forever for developers.<br>
-<a href="https://getstream.io/">https://getstream.io/</a> - Build scalable In-App Chat, Messaging, Video & Audio, and Feeds in a few hours instead of weeks<br>
-<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
-<a href="https://flagsmith.com">https://flagsmith.com</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.<br>
-<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
-<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
-<a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#feature-toggles-management-platforms">#feature-toggles-management-platforms</a> - Management Platforms](#feature-toggles-management-platforms)<br>
-<a href="https://configcat.com">https://configcat.com</a> - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.<br>
-<a href="https://flagsmith.com">https://flagsmith.com</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.<br>
-<a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
-<a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
-<a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="https://circleci.com/">https://circleci.com/</a> - Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, and ARM executors as well as local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, and up to 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.<br>
-<a href="https://gridpanel.net/scraping-api">https://gridpanel.net/scraping-api</a> - Web Scraping API & mobile proxies. Helps you bypass anti-bot mechanisms and offers javascript rendering, mobile proxies, and geotargeting. Free tier of 1000 API calls.<br>
-<a href="https://www.lightly.ai/">https://www.lightly.ai/</a> - Improve your machine learning models by using the right data. Use datasets of up to 1000 samples for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/66c3c42bc431fdaeab52e5114b483042c74f5bb8</link><description><![CDATA[<a href="https://embrace.io/">https://embrace.io/</a> - Mobile app monitoring. Free for small teams up to 1 million user sessions per year.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update submission form mentioning pricing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/94cc7337946b9539a94ad779690549d7c1dc3bfc</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
