@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Calendar Icons Generator and Image BG Blurer</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c3701ca4ab6d68fb983fe6d0e2c28bb345876bdc</link><description><![CDATA[<a href="https://calendariconsgenerator.app/">https://calendariconsgenerator.app/</a> - Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE<br>
+<a href="https://imagebgblurer.com/">https://imagebgblurer.com/</a> - Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools<br>
+ ]]></description>
+</item>
+<item>
 	<title>docs: 📝 Added Buff.tools in Other Free Resources</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3158502842e09d6a9bc69732249025518bac07be</link><description><![CDATA[<a href="https://buff.tools/">https://buff.tools/</a> - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.<br>
  ]]></description>
@@ -53,11 +59,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4b71e3bc184a8a8f044566ca05b5e14659d7b3dd</link><description><![CDATA[<a href="https://commercelayer.io">https://commercelayer.io</a> - - Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>update service restrictions</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/80414518230d60a8609c6336742c77ea8cc5f4c6</link><description><![CDATA[<a href="https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam">https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam</a> - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)<br>
  ]]></description>
 </item>
 
