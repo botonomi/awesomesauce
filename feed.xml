@@ -4,6 +4,40 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Shorten description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ab5df71cf95d74b8fa8c02f6d799773d8e9ee2f5</link><description><![CDATA[<a href="https://docsearch.algolia.com/">https://docsearch.algolia.com/</a> - Hosted search solution, with typo-tolerance, relevance, and UI libraries to easily create search experiences. Free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Formatting issue fixed</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6962ae90a8c4d02f290b9b6825c15e690e60f1d4</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Grammer</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4664c24e503bb9ab4cff83890cfd4729460554ba</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas, and work done by 1100+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
+<a href="https://www.cloudflare.com/plans/">https://www.cloudflare.com/plans/</a> - - Free DNS for an unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and page rules, WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding<br>
+<a href="https://www.cloudflare.com/products/zero-trust/">https://www.cloudflare.com/products/zero-trust/</a> - - You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More features (TCP tunnel, Load balancing, VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.<br>
+<a href="https://www.pulumi.com/">https://www.pulumi.com/</a> - Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.<br>
+<a href="https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO">https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO</a> - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.<br>
+<a href="https://osdn.net/">https://osdn.net/</a> - OSDN.net is a free-of-charge service for open-source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.<br>
+<a href="https://plasticscm.com/">https://plasticscm.com/</a> - Free for individuals, OSS, and nonprofit organizations<br>
+<a href="https://projectlocker.com) — One free private project (Git and Subversion">https://projectlocker.com) — One free private project (Git and Subversion</a> - One free private project (Git and Subversion) with 50 MB of space<br>
+<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases, including IP geolocation, gender detection, or even email validation.<br>
+<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, and download mock rules as a Postman collection.<br>
+<a href="https://apitemplate.io">https://apitemplate.io</a> - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required. The free plan comes with 50 images/month and 3 templates.<br>
+<a href="https://atlastk.org/">https://atlastk.org/</a> - - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.<br>
+<a href="https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having a link to the dashboard can view requests and responses">https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having a link to the dashboard can view requests and responses</a> - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having a link to the dashboard can view requests and responses).<br>
+<a href="https://bruzu.com/">https://bruzu.com/</a> - Automate Image production. Generate tons of Image variants with API, Integrations, or nocode sheet. API is FREE with a watermark.<br>
+<a href="https://www.coupler.io/">https://www.coupler.io/</a> - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.<br>
+<a href="https://promptleo.com/">https://promptleo.com/</a> - Prompt engineering platform for creators and developers. It offers a prompt engineering library, prompt forms, and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1d5cf7300c79a189b97f3db5587dd02aa90ccdaa</link><description><![CDATA[<a href="https://form2channel.com">https://form2channel.com</a> - Send form submissions to Google Sheets, Email, Email, Slack, Telegram or Webhooks. Unlimited and totally free. Features include multiple recipients, custom thank you pages, file uploads and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Calendar Icons Generator and Image BG Blurer</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c3701ca4ab6d68fb983fe6d0e2c28bb345876bdc</link><description><![CDATA[<a href="https://calendariconsgenerator.app/">https://calendariconsgenerator.app/</a> - Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE<br>
 <a href="https://imagebgblurer.com/">https://imagebgblurer.com/</a> - Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools<br>
@@ -44,21 +78,6 @@
 <a href="https://growthbook.io">https://growthbook.io</a> - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.<br>
 <a href="https://www.molasses.app">https://www.molasses.app</a> - Powerful feature flags and A/B testing. Free up to 3 environments with 5 feature flags each.<br>
 <a href="https://www.toggled.dev">https://www.toggled.dev</a> - Enterprise ready, scalable and multi-regional feature toggles management platform. Free plan up to 10 flags, 2 environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications and all other features are included in the endless free plan.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Canopy API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4aa3a0c09a9e109aa5e5aee26572cfe8a2f9af1e</link><description><![CDATA[<a href="https://www.canopyapi.co/">https://www.canopyapi.co/</a> - GraphQL API for Amazon.com product, search, and category data. Free plan includes 100 calls per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Float UI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/914c12f89a7dcb59b3f4d36e42861d6aff3a412b</link><description><![CDATA[<a href="https://floatui.com/">https://floatui.com/</a> - - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4b71e3bc184a8a8f044566ca05b5e14659d7b3dd</link><description><![CDATA[<a href="https://commercelayer.io">https://commercelayer.io</a> - - Composable commerce API that can build, place, and manage orders from any frontend. Developer plan allows 100 orders per month and up to 1,000 SKUs for free.<br>
  ]]></description>
 </item>
 
