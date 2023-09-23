@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added Webstudio in Design & UI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/22d2bd3969e06f3983f085695834fa7257fa7b9e</link><description><![CDATA[<a href="https://webstudio.is/">https://webstudio.is/</a> - Open-source alternative to Webflow. Free plan offers unlimited websites on their domain. 5 websites with custom domain. 10,000 page views/month. 2 GB asset storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9b963a0cddf9578e69c25be0d3b0244551d09cc</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - from Pull Requests, reviews, ideas, and work done by 1100+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
 <a href="#analytics-events-and-statistics">#analytics-events-and-statistics</a> - and Statistics](#analytics-events-and-statistics)<br>
@@ -118,6 +123,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Add prompt terminal</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/714c5ea1604a9d81fb5cdb235bbcb5e11025e69d</link><description><![CDATA[<a href="https://commandline.dev/">https://commandline.dev/</a> - Prompt is the modern terminal for 10x devs. Render anything inline. Save sessions and history. Powered by open web standards. MacOS only.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Shorten description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ab5df71cf95d74b8fa8c02f6d799773d8e9ee2f5</link><description><![CDATA[<a href="https://docsearch.algolia.com/">https://docsearch.algolia.com/</a> - Hosted search solution, with typo-tolerance, relevance, and UI libraries to easily create search experiences. Free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.<br>
  ]]></description>
@@ -165,16 +175,6 @@
 <item>
 	<title>Merge branch 'ripienaar:master' into master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f889e20cdf3b1707a55299d88a6ca69afe374c2d</link><description><![CDATA[<a href="https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets">https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets</a> - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs: 📝 Added Buff.tools in Other Free Resources</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8028894add6718409558849621cf99e83f2453f9</link><description><![CDATA[<a href="https://buff.tools/">https://buff.tools/</a> - Discover a diverse range of everyday tools, from SEO and image optimization to developer utilities and website management aids, offering comprehensive solutions for your digital needs for Free.<br>
- ]]></description>
-</item>
-<item>
-	<title>feat: add Storyblok</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/94a031c2a55ddeb109dd39da09f556ffe9c2355c</link><description><![CDATA[<a href="https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets">https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets</a> - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.<br>
  ]]></description>
 </item>
 
