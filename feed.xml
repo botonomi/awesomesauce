@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove CometLLM and change Comet website</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eff978dc3a3a3312f67446453eaadcfded3f6bd8</link><description><![CDATA[<a href="https://www.comet.com/site/">https://www.comet.com/site/</a> - The MLOps platform for experiment tracking, model production management, model registry, and full data lineage, covering your workflow from training straight through to production. Free for individuals and academics.<br>
+ ]]></description>
+</item>
+<item>
+	<title>chore: improve sentence formation</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d0098ee1d8ec040413a6c9403115e19dab8b7ad8</link><description><![CDATA[<a href="https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos">https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos</a> - Public Repos, 2000 min/month free for private repos)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Comet</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/394835c43fce7fcec1efa2f11806a4e3ba38f5b7</link><description><![CDATA[<a href="https://github.com/comet-ml/comet-llm">https://github.com/comet-ml/comet-llm</a> - Log, visualize, organize, and search your prompt, prompt templates, prompt variables, prompt chains and other metadata in one convenient UI. We're now open-source!<br>
+<a href="https://github.com/comet-ml/comet-examples">https://github.com/comet-ml/comet-examples</a> - The MLOps platform for experiment tracking, model production management, model registry, and full data lineage, covering your workflow from training straight through to production. Free for individuals and academics.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added Webstudio in Design & UI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/22d2bd3969e06f3983f085695834fa7257fa7b9e</link><description><![CDATA[<a href="https://webstudio.is/">https://webstudio.is/</a> - Open-source alternative to Webflow. Free plan offers unlimited websites on their domain. 5 websites with custom domain. 10,000 page views/month. 2 GB asset storage.<br>
  ]]></description>
@@ -165,16 +181,6 @@
 	<title>Add Calendar Icons Generator and Image BG Blurer</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c3701ca4ab6d68fb983fe6d0e2c28bb345876bdc</link><description><![CDATA[<a href="https://calendariconsgenerator.app/">https://calendariconsgenerator.app/</a> - Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE<br>
 <a href="https://imagebgblurer.com/">https://imagebgblurer.com/</a> - Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools<br>
- ]]></description>
-</item>
-<item>
-	<title>docs: 📝 Added Buff.tools in Other Free Resources</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3158502842e09d6a9bc69732249025518bac07be</link><description><![CDATA[<a href="https://buff.tools/">https://buff.tools/</a> - An all-in-one digital toolbox featuring Web, SEO, AI, Domain Management, unit conversion, calculators, and Image Manipulation Tools.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into master</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f889e20cdf3b1707a55299d88a6ca69afe374c2d</link><description><![CDATA[<a href="https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets">https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets</a> - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, 10 Datasources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.<br>
  ]]></description>
 </item>
 
