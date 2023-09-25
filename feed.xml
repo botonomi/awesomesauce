@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add: Platformatic</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6e83be85c2b2880ced7d996838eaa095f6ca6970</link><description><![CDATA[<a href="https://platformatic.cloud/">https://platformatic.cloud/</a> - - Platformatic offers many open-source packages to wrap your Fastify application and deploy it in the Platformatic Cloud. Built in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove CometLLM and change Comet website</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eff978dc3a3a3312f67446453eaadcfded3f6bd8</link><description><![CDATA[<a href="https://www.comet.com/site/">https://www.comet.com/site/</a> - The MLOps platform for experiment tracking, model production management, model registry, and full data lineage, covering your workflow from training straight through to production. Free for individuals and academics.<br>
  ]]></description>
@@ -170,17 +175,6 @@
 <a href="https://bruzu.com/">https://bruzu.com/</a> - Automate Image production. Generate tons of Image variants with API, Integrations, or nocode sheet. API is FREE with a watermark.<br>
 <a href="https://www.coupler.io/">https://www.coupler.io/</a> - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.<br>
 <a href="https://promptleo.com/">https://promptleo.com/</a> - Prompt engineering platform for creators and developers. It offers a prompt engineering library, prompt forms, and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1d5cf7300c79a189b97f3db5587dd02aa90ccdaa</link><description><![CDATA[<a href="https://form2channel.com">https://form2channel.com</a> - Send form submissions to Google Sheets, Email, Email, Slack, Telegram or Webhooks. Unlimited and totally free. Features include multiple recipients, custom thank you pages, file uploads and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Calendar Icons Generator and Image BG Blurer</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c3701ca4ab6d68fb983fe6d0e2c28bb345876bdc</link><description><![CDATA[<a href="https://calendariconsgenerator.app/">https://calendariconsgenerator.app/</a> - Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE<br>
-<a href="https://imagebgblurer.com/">https://imagebgblurer.com/</a> - Blurer](https://imagebgblurer.com/) -- Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira and more tools<br>
  ]]></description>
 </item>
 
