@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add deco.cx — edge app platform for instant ecommerce frontends</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/033131ca739fd0cbb073ed07b9d4785576b3bf0e</link><description><![CDATA[<a href="https://www.deco.cx/en/dev">https://www.deco.cx/en/dev</a> - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation and realtime analytics. Perfect for content-heavy and Enterprise ecommerce websites. Free up to 5k pageviews/month or open-source/personal projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add: Platformatic</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6e83be85c2b2880ced7d996838eaa095f6ca6970</link><description><![CDATA[<a href="https://platformatic.cloud/">https://platformatic.cloud/</a> - - Platformatic offers many open-source packages to wrap your Fastify application and deploy it in the Platformatic Cloud. Built in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).<br>
  ]]></description>
@@ -156,26 +161,6 @@
 <item>
 	<title>Formatting issue fixed</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6962ae90a8c4d02f290b9b6825c15e690e60f1d4</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Grammer</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4664c24e503bb9ab4cff83890cfd4729460554ba</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - the result of Pull Requests, reviews, ideas, and work done by 1100+ people. You too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or by removing ones whose offerings have changed or been retired.<br>
-<a href="https://www.cloudflare.com/plans/">https://www.cloudflare.com/plans/</a> - - Free DNS for an unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and page rules, WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding<br>
-<a href="https://www.cloudflare.com/products/zero-trust/">https://www.cloudflare.com/products/zero-trust/</a> - - You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/run-tunnel/trycloudflare), No account required. More features (TCP tunnel, Load balancing, VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.<br>
-<a href="https://www.pulumi.com/">https://www.pulumi.com/</a> - Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.<br>
-<a href="https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO">https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO</a> - Scalr is a Terraform Automation and COllaboration (TACO) product, used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full support of Terraform CLI, integration with OPA and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.<br>
-<a href="https://osdn.net/">https://osdn.net/</a> - OSDN.net is a free-of-charge service for open-source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.<br>
-<a href="https://plasticscm.com/">https://plasticscm.com/</a> - Free for individuals, OSS, and nonprofit organizations<br>
-<a href="https://projectlocker.com) — One free private project (Git and Subversion">https://projectlocker.com) — One free private project (Git and Subversion</a> - One free private project (Git and Subversion) with 50 MB of space<br>
-<a href="https://www.abstractapi.com">https://www.abstractapi.com</a> - — API suite for a variety of use cases, including IP geolocation, gender detection, or even email validation.<br>
-<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, and download mock rules as a Postman collection.<br>
-<a href="https://apitemplate.io">https://apitemplate.io</a> - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML required. The free plan comes with 50 images/month and 3 templates.<br>
-<a href="https://atlastk.org/">https://atlastk.org/</a> - - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.<br>
-<a href="https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having a link to the dashboard can view requests and responses">https://beeceptor.com) - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having a link to the dashboard can view requests and responses</a> - Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone having a link to the dashboard can view requests and responses).<br>
-<a href="https://bruzu.com/">https://bruzu.com/</a> - Automate Image production. Generate tons of Image variants with API, Integrations, or nocode sheet. API is FREE with a watermark.<br>
-<a href="https://www.coupler.io/">https://www.coupler.io/</a> - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month and unlimited integrations.<br>
-<a href="https://promptleo.com/">https://promptleo.com/</a> - Prompt engineering platform for creators and developers. It offers a prompt engineering library, prompt forms, and prompt engineering API. Free plan provides 1 prompt form, 1 prompt API endpoint and 30 generations per month.<br>
- ]]></description>
 </item>
 
 </channel>
