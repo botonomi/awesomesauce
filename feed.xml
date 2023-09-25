@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>docs: remove Scaleway. free 75GB storage not available anymore</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c1b9bfc2bd3049b3258ebae28b8e6484d5fa632c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add deco.cx — edge app platform for instant ecommerce frontends</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/033131ca739fd0cbb073ed07b9d4785576b3bf0e</link><description><![CDATA[<a href="https://www.deco.cx/en/dev">https://www.deco.cx/en/dev</a> - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation and realtime analytics. Perfect for content-heavy and Enterprise ecommerce websites. Free up to 5k pageviews/month or open-source/personal projects.<br>
  ]]></description>
@@ -152,15 +156,6 @@
 	<title>Add prompt terminal</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/714c5ea1604a9d81fb5cdb235bbcb5e11025e69d</link><description><![CDATA[<a href="https://commandline.dev/">https://commandline.dev/</a> - Prompt is the modern terminal for 10x devs. Render anything inline. Save sessions and history. Powered by open web standards. MacOS only.<br>
  ]]></description>
-</item>
-<item>
-	<title>Shorten description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ab5df71cf95d74b8fa8c02f6d799773d8e9ee2f5</link><description><![CDATA[<a href="https://docsearch.algolia.com/">https://docsearch.algolia.com/</a> - Hosted search solution, with typo-tolerance, relevance, and UI libraries to easily create search experiences. Free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Formatting issue fixed</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6962ae90a8c4d02f290b9b6825c15e690e60f1d4</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
