@@ -4,6 +4,13 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Education and Career Development</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/00602f26ab56be2803e2452e71272b9ec2c048d6</link><description><![CDATA[<a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a> - Free and Open Source Career Development. Certificates in Data Analysis, InfoSec, Web Development, and more.<br>
+<a href="https://ladderly.io/">https://ladderly.io/</a> - Free and Open Source Career Development. Includes a social network and job search tools.<br>
+<a href="https://www.theodinproject.com/">https://www.theodinproject.com/</a> - Project](https://www.theodinproject.com/) - Free and Open Source Career Development. Focus on JavaScript and Ruby.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6d12a9ef476333da165d9f85b318690e7389affa</link><description><![CDATA[<a href="https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc">https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc</a> - - AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free tier including limited transactions<br>
 <a href="https://www.cloudflare.com/plans/zero-trust-services/">https://www.cloudflare.com/plans/zero-trust-services/</a> - & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, three network locations<br>
@@ -852,11 +859,6 @@
 <item>
 	<title>Remove CometLLM and change Comet website</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eff978dc3a3a3312f67446453eaadcfded3f6bd8</link><description><![CDATA[<a href="https://www.comet.com/site/">https://www.comet.com/site/</a> - The MLOps platform for experiment tracking, model production management, model registry, and full data lineage, covering your workflow from training straight through to production. Free for individuals and academics.<br>
- ]]></description>
-</item>
-<item>
-	<title>chore: improve sentence formation</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d0098ee1d8ec040413a6c9403115e19dab8b7ad8</link><description><![CDATA[<a href="https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos">https://github.com/features/actions)(Free for Public Repos, 2000 min/month free for private repos</a> - Public Repos, 2000 min/month free for private repos)<br>
  ]]></description>
 </item>
 
