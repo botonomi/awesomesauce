@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5fad38fe6d46b211b3cd00057401871896562ed0</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 6 monitors with daily checks.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add PageCrawl.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/25cdbb352b722f98dd306c2c27984a4385ac6977</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 5 monitors with daily checks.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added fxratesapi.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/38059f7c4a701bda93e12e1416c90c68db32b069</link><description><![CDATA[<a href="https://fxratesapi.com">https://fxratesapi.com</a> - Provides real-time and historical exchange rates. The free tier requires attribution.<br>
  ]]></description>
@@ -851,15 +861,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2e7dfef56db23f9e0058c4cb75b169bc6ab3de6</link><description><![CDATA[<a href="https://onlineornot.com/">https://onlineornot.com/</a> - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. First 5 checks with a 3-minute interval are free. Free tier sends alerts via Slack, Discord, and Email.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs: remove Scaleway. free 75GB storage not available anymore</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c1b9bfc2bd3049b3258ebae28b8e6484d5fa632c</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add deco.cx — edge app platform for instant ecommerce frontends</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/033131ca739fd0cbb073ed07b9d4785576b3bf0e</link><description><![CDATA[<a href="https://www.deco.cx/en/dev">https://www.deco.cx/en/dev</a> - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation and realtime analytics. Perfect for content-heavy and Enterprise ecommerce websites. Free up to 5k pageviews/month or open-source/personal projects.<br>
  ]]></description>
 </item>
 
