@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Flightcontrol to the PaaS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a6ba6d2e90a054356510ba2007dc0c4b716527b6</link><description><![CDATA[<a href="https://flightcontrol.dev/">https://flightcontrol.dev/</a> - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. Free tier for users with 1 developer on personal GitHub repos. AWS costs are billed through AWS, but you can use credits and the AWS free tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5fad38fe6d46b211b3cd00057401871896562ed0</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 6 monitors with daily checks.<br>
  ]]></description>
@@ -856,11 +861,6 @@
 <item>
 	<title>Add Zuplo to API category</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6d47e10e5ca191c517fcb8832eff8c053f30e0fa</link><description><![CDATA[<a href="https://zuplo.com/">https://zuplo.com/</a> - Add API Key authentication, rate limiting and developer documentation to any API in minutes. The free plan offers up to 10 projects, unlimited production edge environments, up to 250 API keys, 100K requests per month, 1GB egress per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d2e7dfef56db23f9e0058c4cb75b169bc6ab3de6</link><description><![CDATA[<a href="https://onlineornot.com/">https://onlineornot.com/</a> - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. First 5 checks with a 3-minute interval are free. Free tier sends alerts via Slack, Discord, and Email.<br>
  ]]></description>
 </item>
 
