@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Rewriting description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/82ea6fb0f73d5cf89729d594a7e04b33990ce6eb</link><description><![CDATA[<a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a> - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.<br>
+<a href="https://www.theodinproject.com/">https://www.theodinproject.com/</a> - Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Mindee - OCR API Platform</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/439661a456c9f2bbe44ede3282dac75ee968ce99</link><description><![CDATA[<a href="https://developers.mindee.com/docs">https://developers.mindee.com/docs</a> - Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.<br>
  ]]></description>
@@ -49,13 +55,6 @@
 	<title>Table of Contents Includes Education</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9b289d662c04c2348465d6bd22d7f51d041be7f4</link><description><![CDATA[<a href="#education-and-career-development">#education-and-career-development</a> - Career Development](#education-and-career-development)<br>
 <a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Education and Career Development</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/00602f26ab56be2803e2452e71272b9ec2c048d6</link><description><![CDATA[<a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a> - Free and Open Source Career Development. Certificates in Data Analysis, InfoSec, Web Development, and more.<br>
-<a href="https://ladderly.io/">https://ladderly.io/</a> - Free and Open Source Career Development. Includes a social network and job search tools.<br>
-<a href="https://www.theodinproject.com/">https://www.theodinproject.com/</a> - Project](https://www.theodinproject.com/) - Free and Open Source Career Development. Focus on JavaScript and Ruby.<br>
  ]]></description>
 </item>
 
