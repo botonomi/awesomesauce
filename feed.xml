@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>chore: improvement in service description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a982c39d1302765b48cdaa40ab0dfa14583d20bd</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Free for non commercial projects + Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Rewriting description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/82ea6fb0f73d5cf89729d594a7e04b33990ce6eb</link><description><![CDATA[<a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a> - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.<br>
 <a href="https://www.theodinproject.com/">https://www.theodinproject.com/</a> - Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.<br>
@@ -20,10 +25,20 @@
  ]]></description>
 </item>
 <item>
+	<title>chore: adjusting alphabetical order</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ce3fa6cad9798909281d3b94e0465eb6722be21c</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup. Code more, manage less.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Move Resend to be in alphabetical order</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a200d22fa435ccd9132e2809e6a0b399b91a13b5</link><description><![CDATA[<a href="https://embrace.io/">https://embrace.io/</a> - Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.<br>
 <a href="https://resend.com">https://resend.com</a> - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.<br>
 <a href="https://form2channel.com">https://form2channel.com</a> - Send form submissions to Google Sheets, Email, Email, Slack, Telegram or Webhooks. Unlimited and free. Features include multiple recipients, custom thank-you pages, file uploads, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>feat: add bohr.io web hosting</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/644aa4e43e26f29ee582bc8cd547d61053b5e795</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup. Code more, manage less.<br>
  ]]></description>
 </item>
 <item>
@@ -44,17 +59,6 @@
 <item>
 	<title>Add PageCrawl.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/25cdbb352b722f98dd306c2c27984a4385ac6977</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 5 monitors with daily checks.<br>
- ]]></description>
-</item>
-<item>
-	<title>added fxratesapi.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38059f7c4a701bda93e12e1416c90c68db32b069</link><description><![CDATA[<a href="https://fxratesapi.com">https://fxratesapi.com</a> - Provides real-time and historical exchange rates. The free tier requires attribution.<br>
- ]]></description>
-</item>
-<item>
-	<title>Table of Contents Includes Education</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9b289d662c04c2348465d6bd22d7f51d041be7f4</link><description><![CDATA[<a href="#education-and-career-development">#education-and-career-development</a> - Career Development](#education-and-career-development)<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
  ]]></description>
 </item>
 
