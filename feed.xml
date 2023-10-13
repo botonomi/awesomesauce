@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Glassfy</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/878ac3b9846f5317c1ea7cfe5a75b9754fb0d560</link><description><![CDATA[<a href="https://glassfy.io/">https://glassfy.io/</a> - In-app subscriptions infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle. Free up to $10k monthly revenue.<br>
+<a href="https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android">https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android</a> - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.<br>
+ ]]></description>
+</item>
+<item>
 	<title>chore: improvement in service description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a982c39d1302765b48cdaa40ab0dfa14583d20bd</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Free for non commercial projects + Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup.<br>
  ]]></description>
@@ -54,11 +60,6 @@
 <item>
 	<title>typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5fad38fe6d46b211b3cd00057401871896562ed0</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 6 monitors with daily checks.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add PageCrawl.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/25cdbb352b722f98dd306c2c27984a4385ac6977</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 5 monitors with daily checks.<br>
  ]]></description>
 </item>
 
