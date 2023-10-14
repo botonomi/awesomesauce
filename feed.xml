@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/81cf56d27c022bd395582bef8994f5466cbe88c6</link><description><![CDATA[<a href="https://seotest.me/">https://seotest.me/</a> - Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Glassfy</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/878ac3b9846f5317c1ea7cfe5a75b9754fb0d560</link><description><![CDATA[<a href="https://glassfy.io/">https://glassfy.io/</a> - In-app subscriptions infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle. Free up to $10k monthly revenue.<br>
 <a href="https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android">https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android</a> - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.<br>
@@ -55,11 +60,6 @@
 <item>
 	<title>Add Flightcontrol to the PaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a6ba6d2e90a054356510ba2007dc0c4b716527b6</link><description><![CDATA[<a href="https://flightcontrol.dev/">https://flightcontrol.dev/</a> - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. Free tier for users with 1 developer on personal GitHub repos. AWS costs are billed through AWS, but you can use credits and the AWS free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5fad38fe6d46b211b3cd00057401871896562ed0</link><description><![CDATA[<a href="https://pagecrawl.io/">https://pagecrawl.io/</a> - Monitor website changes, free for up to 6 monitors with daily checks.<br>
  ]]></description>
 </item>
 
