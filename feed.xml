@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Markdown Tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/daa0fbfeb87015c4b8145bc0abc011f66a5b0372</link><description><![CDATA[<a href="https://markdowntools.com">https://markdowntools.com</a> - - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md with HasMySecretLeaked</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f4bd985f7100b605e3b125844013162efcd0a3ba</link><description><![CDATA[<a href="https://gitguardian.com/hasmysecretleaked">https://gitguardian.com/hasmysecretleaked</a> - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Add Mindee - OCR API Platform</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/439661a456c9f2bbe44ede3282dac75ee968ce99</link><description><![CDATA[<a href="https://developers.mindee.com/docs">https://developers.mindee.com/docs</a> - Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added SVGmix.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c86a7f43934971367cd0d968a70e4a71bdb42808</link><description><![CDATA[<a href="https://www.svgmix.com/">https://www.svgmix.com/</a> - Massive repository of 300K+ of free SVG icons, collections, and brand logos. It has a simple vector editing program right in the browser for quick file editing.<br>
  ]]></description>
 </item>
 
