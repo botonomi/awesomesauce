@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md with HasMySecretLeaked</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f4bd985f7100b605e3b125844013162efcd0a3ba</link><description><![CDATA[<a href="https://gitguardian.com/hasmysecretleaked">https://gitguardian.com/hasmysecretleaked</a> - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md, 4EVERLAND Part</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cf87c881130b25d5ae7f4dbea7fd92f110a64aa9</link><description><![CDATA[<a href="https://www.4everland.org/">https://www.4everland.org/</a> - Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.<br>
  ]]></description>
@@ -50,18 +55,6 @@
 <item>
 	<title>Added SVGmix.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c86a7f43934971367cd0d968a70e4a71bdb42808</link><description><![CDATA[<a href="https://www.svgmix.com/">https://www.svgmix.com/</a> - Massive repository of 300K+ of free SVG icons, collections, and brand logos. It has a simple vector editing program right in the browser for quick file editing.<br>
- ]]></description>
-</item>
-<item>
-	<title>chore: adjusting alphabetical order</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ce3fa6cad9798909281d3b94e0465eb6722be21c</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup. Code more, manage less.<br>
- ]]></description>
-</item>
-<item>
-	<title>Move Resend to be in alphabetical order</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a200d22fa435ccd9132e2809e6a0b399b91a13b5</link><description><![CDATA[<a href="https://embrace.io/">https://embrace.io/</a> - Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.<br>
-<a href="https://resend.com">https://resend.com</a> - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.<br>
-<a href="https://form2channel.com">https://form2channel.com</a> - Send form submissions to Google Sheets, Email, Email, Slack, Telegram or Webhooks. Unlimited and free. Features include multiple recipients, custom thank-you pages, file uploads, and more.<br>
  ]]></description>
 </item>
 
