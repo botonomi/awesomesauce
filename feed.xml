@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add xitoring</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/25e101e9e92263c1273916147cffd2b5cc5b441d</link><description><![CDATA[<a href="https://xitoring.com/">https://xitoring.com/</a> - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Design and UI list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bc6fd350c72bf126b4ff9a6e48775f7f2262335d</link><description><![CDATA[<a href="https://tw-elements.com/">https://tw-elements.com/</a> - - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Markdown Tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/daa0fbfeb87015c4b8145bc0abc011f66a5b0372</link><description><![CDATA[<a href="https://markdowntools.com">https://markdowntools.com</a> - - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown<br>
  ]]></description>
@@ -44,17 +54,6 @@
 <item>
 	<title>chore: improvement in service description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a982c39d1302765b48cdaa40ab0dfa14583d20bd</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Free for non commercial projects + Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup.<br>
- ]]></description>
-</item>
-<item>
-	<title>Rewriting description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/82ea6fb0f73d5cf89729d594a7e04b33990ce6eb</link><description><![CDATA[<a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a> - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.<br>
-<a href="https://www.theodinproject.com/">https://www.theodinproject.com/</a> - Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Mindee - OCR API Platform</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/439661a456c9f2bbe44ede3282dac75ee968ce99</link><description><![CDATA[<a href="https://developers.mindee.com/docs">https://developers.mindee.com/docs</a> - Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.<br>
  ]]></description>
 </item>
 
