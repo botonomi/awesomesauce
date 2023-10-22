@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added corbado to authentication, authorization, and user management</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/571022f05fb1b80313344210e8b1379d96e5bf98</link><description><![CDATA[<a href="https://www.corbado.com/">https://www.corbado.com/</a> - Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add xitoring</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/25e101e9e92263c1273916147cffd2b5cc5b441d</link><description><![CDATA[<a href="https://xitoring.com/">https://xitoring.com/</a> - Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>Add product</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b0c4bd264ee5529113d506c0f5239af5512ac78b</link><description><![CDATA[<a href="https://carouselhero.com/">https://carouselhero.com/</a> - - Free online tool to create social media carousels.<br>
- ]]></description>
-</item>
-<item>
-	<title>chore: improvement in service description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a982c39d1302765b48cdaa40ab0dfa14583d20bd</link><description><![CDATA[<a href="https://bohr.io">https://bohr.io</a> - Free for non commercial projects + Developer-First Deployment and Development Platform that minimizes infrastructure hassle and speed up setup.<br>
  ]]></description>
 </item>
 
