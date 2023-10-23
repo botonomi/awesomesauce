@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added the IP API named ipapi.is to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5e06d168e601c330138db54ee41ec5710d681170</link><description><![CDATA[<a href="https://ipapi.is/">https://ipapi.is/</a> - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.<br>
+ ]]></description>
+</item>
+<item>
 	<title>added corbado to authentication, authorization, and user management</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/571022f05fb1b80313344210e8b1379d96e5bf98</link><description><![CDATA[<a href="https://www.corbado.com/">https://www.corbado.com/</a> - Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/e917d3a34e0a3f8924aafb02937f61ea79498e9f</link><description><![CDATA[<a href="https://www.4everland.org/) — In-built development and deployment tools(e.g., visual and command line">https://www.4everland.org/) — In-built development and deployment tools(e.g., visual and command line</a> - In-built development and deployment tools(e.g., visual and command line) to build, deploy and host decentralised websites/applications with consensus-driven Swarm network, free SSL, global CDN, and preview URLs. The gateway node includes dynamic DNS, Data l/0, and CertManager modules. Registered users can get free 6 GB IPFS storage, 300MB Arweve storage and 100 GB/month bandwidth.<br>
 <a href="https://www.4everland.org/">https://www.4everland.org/</a> - Compatible with AWS S3 - APIs, interface operations, CLI, andother upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.<br>
 <a href="https://www.4everland.org/">https://www.4everland.org/</a> - User-friendly upload and management interface compatible with AWS S3 and supports Arweave/IPFS decentralised file storage. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add product</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b0c4bd264ee5529113d506c0f5239af5512ac78b</link><description><![CDATA[<a href="https://carouselhero.com/">https://carouselhero.com/</a> - - Free online tool to create social media carousels.<br>
  ]]></description>
 </item>
 
