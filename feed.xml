@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add lost-pixel.com to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/739176ee903d710ad6a41f6cc036d3a28e7186ab</link><description><![CDATA[<a href="https://lost-pixel.com">https://lost-pixel.com</a> - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added the IP API named ipapi.is to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5e06d168e601c330138db54ee41ec5710d681170</link><description><![CDATA[<a href="https://ipapi.is/">https://ipapi.is/</a> - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.<br>
  ]]></description>
@@ -41,19 +46,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/81cf56d27c022bd395582bef8994f5466cbe88c6</link><description><![CDATA[<a href="https://seotest.me/">https://seotest.me/</a> - Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Glassfy</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/878ac3b9846f5317c1ea7cfe5a75b9754fb0d560</link><description><![CDATA[<a href="https://glassfy.io/">https://glassfy.io/</a> - In-app subscriptions infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle. Free up to $10k monthly revenue.<br>
-<a href="https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android">https://www.revenuecat.com/) — Hosted backend for in-app purchases and subscriptions (iOS and Android</a> - Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $2.5k/mo in tracked revenue.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add 4EVERLAND</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e917d3a34e0a3f8924aafb02937f61ea79498e9f</link><description><![CDATA[<a href="https://www.4everland.org/) — In-built development and deployment tools(e.g., visual and command line">https://www.4everland.org/) — In-built development and deployment tools(e.g., visual and command line</a> - In-built development and deployment tools(e.g., visual and command line) to build, deploy and host decentralised websites/applications with consensus-driven Swarm network, free SSL, global CDN, and preview URLs. The gateway node includes dynamic DNS, Data l/0, and CertManager modules. Registered users can get free 6 GB IPFS storage, 300MB Arweve storage and 100 GB/month bandwidth.<br>
-<a href="https://www.4everland.org/">https://www.4everland.org/</a> - Compatible with AWS S3 - APIs, interface operations, CLI, andother upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.<br>
-<a href="https://www.4everland.org/">https://www.4everland.org/</a> - User-friendly upload and management interface compatible with AWS S3 and supports Arweave/IPFS decentralised file storage. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.<br>
  ]]></description>
 </item>
 
