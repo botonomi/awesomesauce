@@ -4,6 +4,42 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5679b46343a9af3d492a7dc677d64873eebcfe6d</link><description><![CDATA[<a href="https://www.alienvault.com/open-threat-exchange/reputation-monitor">https://www.alienvault.com/open-threat-exchange/reputation-monitor</a> - Uncovers compromised systems in your network<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d41d72bccf96e6e94a680b727a7a2122734dd2ab</link><description><![CDATA[<a href="https://atom.io/">https://atom.io/</a> - Atom is a free and open-source text editor developed by GitHub.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Changes Done</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e6815bf1c594194dd2528af9e7c3815ddbcce53d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Updated IDE</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5b63a32c00e5a251dbb1e8a926e03ae07c6a0c05</link><description><![CDATA[<a href="http://brackets.io/">http://brackets.io/</a> - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.<br>
+<a href="https://www.sublimetext.com/">https://www.sublimetext.com/</a> - - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.<br>
+<a href="https://phpsandbox.io/">https://phpsandbox.io/</a> - Online development environment for PHP<br>
+ ]]></description>
+</item>
+<item>
+	<title>IDE and Code Editing Resources Added</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/533426ed56b05a0ed35a2385a6967b2173be72c7</link><description><![CDATA[<a href="https://atom.io/">https://atom.io/</a> - Atom<br>
+<a href="http://brackets.io/">http://brackets.io/</a> - Brackets<br>
+<a href="https://www.gnu.org/software/emacs/">https://www.gnu.org/software/emacs/</a> - <br>
+<a href="https://www.vim.org/">https://www.vim.org/</a> - Vim<br>
+<a href="https://developer.apple.com/xcode/">https://developer.apple.com/xcode/</a> - MacOS](https://developer.apple.com/xcode/) -Xcode For MacOS<br>
+<a href="https://www.sublimetext.com/">https://www.sublimetext.com/</a> - - Sublime Text<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added WishKit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eda6db8726f2007d31b7d7f8a2b975e08fdb4d34</link><description><![CDATA[<a href="https://wishkit.io">https://wishkit.io</a> - Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add lost-pixel.com to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/739176ee903d710ad6a41f6cc036d3a28e7186ab</link><description><![CDATA[<a href="https://lost-pixel.com">https://lost-pixel.com</a> - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.<br>
  ]]></description>
@@ -29,23 +65,8 @@
  ]]></description>
 </item>
 <item>
-	<title>Added Markdown Tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/daa0fbfeb87015c4b8145bc0abc011f66a5b0372</link><description><![CDATA[<a href="https://markdowntools.com">https://markdowntools.com</a> - - Tools for converting HTML, CSVs, PDFs, JSON, and Excel files to and from Markdown<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md with HasMySecretLeaked</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f4bd985f7100b605e3b125844013162efcd0a3ba</link><description><![CDATA[<a href="https://gitguardian.com/hasmysecretleaked">https://gitguardian.com/hasmysecretleaked</a> - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md, 4EVERLAND Part</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cf87c881130b25d5ae7f4dbea7fd92f110a64aa9</link><description><![CDATA[<a href="https://www.4everland.org/">https://www.4everland.org/</a> - Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/81cf56d27c022bd395582bef8994f5466cbe88c6</link><description><![CDATA[<a href="https://seotest.me/">https://seotest.me/</a> - Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.<br>
+	<title>Adds Kinsta hosting</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2c66c7d4a66a67bfc43d068f5bc1fcaa8c284a45</link><description><![CDATA[<a href="https://kinsta.com/static-site-hosting/">https://kinsta.com/static-site-hosting/</a> - Site Hosting](https://kinsta.com/static-site-hosting/) — Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.<br>
  ]]></description>
 </item>
 
