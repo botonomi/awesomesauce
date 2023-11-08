@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add: Iconoir</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/35f9cc58d345dc43d67c4864ca9d081723d7ea98</link><description><![CDATA[<a href="https://iconoir.com">https://iconoir.com</a> - An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c05c50a750c65b23b4f67b8f57eb91e89b48dab9</link><description><![CDATA[<a href="https://www.trackingplan.com/">https://www.trackingplan.com/</a> - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.<br>
  ]]></description>
