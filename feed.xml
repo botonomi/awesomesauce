@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added listing entry for [BBEdit](https://www.barebones.com/).</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/de6b69553d6809f092870ddfb943bad612c0eb7f</link><description><![CDATA[<a href="https://www.barebones.com/products/bbedit/comparison.html">https://www.barebones.com/products/bbedit/comparison.html</a> - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Qualli - Mobile Surveys</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8a7e5a21a4e6cc21b7136e727daff0060487a38</link><description><![CDATA[<a href="https://usequalli.com">https://usequalli.com</a> - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.<br>
  ]]></description>
@@ -57,11 +62,6 @@
 <item>
 	<title>Added WishKit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/eda6db8726f2007d31b7d7f8a2b975e08fdb4d34</link><description><![CDATA[<a href="https://wishkit.io">https://wishkit.io</a> - Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.<br>
- ]]></description>
-</item>
-<item>
-	<title>add lost-pixel.com to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/739176ee903d710ad6a41f6cc036d3a28e7186ab</link><description><![CDATA[<a href="https://lost-pixel.com">https://lost-pixel.com</a> - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.<br>
  ]]></description>
 </item>
 
