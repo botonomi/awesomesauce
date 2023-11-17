@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Valid Email</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/48930b392e5e0dbe8c9c7c4e2c2fc0118ee00d24</link><description><![CDATA[<a href="https://validemail.io/">https://validemail.io/</a> - Free Tier with 1000 validations per day.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add hop</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0e525c982477cbedf479e3abc0435d699920a3ea</link><description><![CDATA[<a href="https://hop.io/">https://hop.io/</a> - Web services hosting platform without configs. Free tier with 1x Shared CPU, 512MB RAM and 3GB Storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>remove sauce labs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4e0694d7e681110c8249c659c95053e327e0d831</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added listing entry for [BBEdit](https://www.barebones.com/).</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/de6b69553d6809f092870ddfb943bad612c0eb7f</link><description><![CDATA[<a href="https://www.barebones.com/products/bbedit/comparison.html">https://www.barebones.com/products/bbedit/comparison.html</a> - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.<br>
  ]]></description>
@@ -36,32 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d41d72bccf96e6e94a680b727a7a2122734dd2ab</link><description><![CDATA[<a href="https://atom.io/">https://atom.io/</a> - Atom is a free and open-source text editor developed by GitHub.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Changes Done</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e6815bf1c594194dd2528af9e7c3815ddbcce53d</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Updated IDE</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5b63a32c00e5a251dbb1e8a926e03ae07c6a0c05</link><description><![CDATA[<a href="http://brackets.io/">http://brackets.io/</a> - Brackets is an open-source text editor specifically designed for web development. It is lightweight, easy to use, and highly customizable.<br>
-<a href="https://www.sublimetext.com/">https://www.sublimetext.com/</a> - - Sublime Text is a popular, versatile, and highly customizable text editor used for coding and text editing tasks.<br>
-<a href="https://phpsandbox.io/">https://phpsandbox.io/</a> - Online development environment for PHP<br>
- ]]></description>
-</item>
-<item>
-	<title>IDE and Code Editing Resources Added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/533426ed56b05a0ed35a2385a6967b2173be72c7</link><description><![CDATA[<a href="https://atom.io/">https://atom.io/</a> - Atom<br>
-<a href="http://brackets.io/">http://brackets.io/</a> - Brackets<br>
-<a href="https://www.gnu.org/software/emacs/">https://www.gnu.org/software/emacs/</a> - <br>
-<a href="https://www.vim.org/">https://www.vim.org/</a> - Vim<br>
-<a href="https://developer.apple.com/xcode/">https://developer.apple.com/xcode/</a> - MacOS](https://developer.apple.com/xcode/) -Xcode For MacOS<br>
-<a href="https://www.sublimetext.com/">https://www.sublimetext.com/</a> - - Sublime Text<br>
- ]]></description>
-</item>
-<item>
-	<title>Added WishKit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eda6db8726f2007d31b7d7f8a2b975e08fdb4d34</link><description><![CDATA[<a href="https://wishkit.io">https://wishkit.io</a> - Collect in-app user feedback for your iOS/macOS app and prioritize features based on user votes. Free plan up to 1 app.<br>
  ]]></description>
 </item>
 
