@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update prompt to Wave Terminal</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5d51210a366755f8b586ef0ca0afa611dec2b3fc</link><description><![CDATA[<a href="https://waveterm.dev/">https://waveterm.dev/</a> - - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.<br>
+ ]]></description>
+</item>
+<item>
 	<title>removed a11ywatch.com from the list as it no longer offer free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3d163d395382db764df8feec8efe906ccab33c9a</link><description><![CDATA[ ]]></description>
 </item>
@@ -44,11 +49,6 @@
 <item>
 	<title>Add OpenWeb Ninja API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d94c44fcea7dc7b29edee6de89e920d74d7345c6</link><description><![CDATA[<a href="https://www.openwebninja.com/">https://www.openwebninja.com/</a> - - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>add: Iconoir</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/35f9cc58d345dc43d67c4864ca9d081723d7ea98</link><description><![CDATA[<a href="https://iconoir.com">https://iconoir.com</a> - An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.<br>
  ]]></description>
 </item>
 
