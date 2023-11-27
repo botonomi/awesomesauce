@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>added cachefly.com to the CDN list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/320517260901aab5905005658a6b60858c076e13</link><description><![CDATA[<a href="https://portal.cachefly.com/signup/free2023">https://portal.cachefly.com/signup/free2023</a> - Up to 5 TB per month of Free CDN traffic, 19 Core PoPs , 1 Domain and Universal SSL.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update prompt to Wave Terminal</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5d51210a366755f8b586ef0ca0afa611dec2b3fc</link><description><![CDATA[<a href="https://waveterm.dev/">https://waveterm.dev/</a> - - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>Added Qualli - Mobile Surveys</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8a7e5a21a4e6cc21b7136e727daff0060487a38</link><description><![CDATA[<a href="https://usequalli.com">https://usequalli.com</a> - In App Surveys, designed for mobile. Use Qualli AI to craft the perfect questions. You can try it out on our free plan, up to 500 MAU, create unlimited forms and triggers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add OpenWeb Ninja API</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d94c44fcea7dc7b29edee6de89e920d74d7345c6</link><description><![CDATA[<a href="https://www.openwebninja.com/">https://www.openwebninja.com/</a> - - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.<br>
  ]]></description>
 </item>
 
