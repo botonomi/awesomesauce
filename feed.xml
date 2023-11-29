@@ -33,6 +33,10 @@
  ]]></description>
 </item>
 <item>
+	<title>remove IBM Cloud Functions</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b894069eb9d1cef5a0f5ddd4f8ffcc9c79e8b04a</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Added Valid Email</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/48930b392e5e0dbe8c9c7c4e2c2fc0118ee00d24</link><description><![CDATA[<a href="https://validemail.io/">https://validemail.io/</a> - Free Tier with 1000 validations per day.<br>
  ]]></description>
@@ -45,11 +49,6 @@
 <item>
 	<title>remove sauce labs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4e0694d7e681110c8249c659c95053e327e0d831</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added listing entry for [BBEdit](https://www.barebones.com/).</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/de6b69553d6809f092870ddfb943bad612c0eb7f</link><description><![CDATA[<a href="https://www.barebones.com/products/bbedit/comparison.html">https://www.barebones.com/products/bbedit/comparison.html</a> - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.<br>
- ]]></description>
 </item>
 
 </channel>
