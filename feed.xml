@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove ref</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec17f1155518e85b2b25a61eccb6232b02a06b9d</link><description><![CDATA[<a href="https://www.basedash.com">https://www.basedash.com</a> - Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Clerk's description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cc4e5fcafb2ed8c9a96f56d3cc445db1b4a2ac33</link><description><![CDATA[<a href="https://clerk.com">https://clerk.com</a> - User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free up to 10,000 monthly active users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Basedash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d1161b117ad11853bff3e16b7e005b8039c03d8</link><description><![CDATA[<a href="https://www.basedash.com/?ref=free-for-dev">https://www.basedash.com/?ref=free-for-dev</a> - Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d57f9ed1f2a973727c096d4eceed5cce57f98f5</link><description><![CDATA[<a href="https://logz.io/">https://logz.io/</a> - Free up to 1 GB/day, one day retention<br>
  ]]></description>
@@ -35,20 +50,6 @@
 <item>
 	<title>remove IBM Cloud Functions</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b894069eb9d1cef5a0f5ddd4f8ffcc9c79e8b04a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Valid Email</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/48930b392e5e0dbe8c9c7c4e2c2fc0118ee00d24</link><description><![CDATA[<a href="https://validemail.io/">https://validemail.io/</a> - Free Tier with 1000 validations per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>add hop</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0e525c982477cbedf479e3abc0435d699920a3ea</link><description><![CDATA[<a href="https://hop.io/">https://hop.io/</a> - Web services hosting platform without configs. Free tier with 1x Shared CPU, 512MB RAM and 3GB Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove sauce labs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4e0694d7e681110c8249c659c95053e327e0d831</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
