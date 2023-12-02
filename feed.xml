@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>updated cosmos db free teir info</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7d9a25e66fadb5490a07ff373902c9cdb192ae63</link><description><![CDATA[<a href="https://azure.microsoft.com/services/cosmos-db/">https://azure.microsoft.com/services/cosmos-db/</a> - - 25GB storage and 1000 RUs of provisioned throughput<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove ref</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ec17f1155518e85b2b25a61eccb6232b02a06b9d</link><description><![CDATA[<a href="https://www.basedash.com">https://www.basedash.com</a> - Low-code platform for building internal admin panels and dashboards. Supports SQL databases and REST APIs.<br>
  ]]></description>
@@ -46,10 +51,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a037fc9fc1970df4867d770e43f0e856fe579141</link><description><![CDATA[<a href="https://webdb.app">https://webdb.app</a> - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.<br>
  ]]></description>
-</item>
-<item>
-	<title>remove IBM Cloud Functions</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b894069eb9d1cef5a0f5ddd4f8ffcc9c79e8b04a</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
