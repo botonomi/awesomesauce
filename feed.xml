@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove elephantsql from Managed Data Services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/136f5901c8bba696b2d8a8750022b408d65a4e29</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>updated cosmos db free teir info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d9a25e66fadb5490a07ff373902c9cdb192ae63</link><description><![CDATA[<a href="https://azure.microsoft.com/services/cosmos-db/">https://azure.microsoft.com/services/cosmos-db/</a> - - 25GB storage and 1000 RUs of provisioned throughput<br>
  ]]></description>
@@ -41,16 +45,6 @@
 <item>
 	<title>removed a11ywatch.com from the list as it no longer offer free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3d163d395382db764df8feec8efe906ccab33c9a</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b94349e9ac9822a47c610b2da407bf68a43f89d6</link><description><![CDATA[<a href="https://mirna.cloud/">https://mirna.cloud/</a> - - Free Socket as a Service Platform that gives you a wss:// URL when deploying your Web Socket Server code and also allows you to monitor its performance.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a037fc9fc1970df4867d770e43f0e856fe579141</link><description><![CDATA[<a href="https://webdb.app">https://webdb.app</a> - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.<br>
- ]]></description>
 </item>
 
 </channel>
