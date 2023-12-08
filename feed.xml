@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update AWS SES free tier limits</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e4f2df1589bf9d005262cf032a20ff4da218ec37</link><description><![CDATA[<a href="https://aws.amazon.com/ses/) - 3.000 messages per month (12mo">https://aws.amazon.com/ses/) - 3.000 messages per month (12mo</a> - 3.000 messages per month (12mo)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove elephantsql from Managed Data Services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/136f5901c8bba696b2d8a8750022b408d65a4e29</link><description><![CDATA[ ]]></description>
 </item>
