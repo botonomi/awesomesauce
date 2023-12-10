@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/528ea3a612f316af813207f8309e8a0bfd04dfce</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update AWS SES free tier limits</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e4f2df1589bf9d005262cf032a20ff4da218ec37</link><description><![CDATA[<a href="https://aws.amazon.com/ses/) - 3.000 messages per month (12mo">https://aws.amazon.com/ses/) - 3.000 messages per month (12mo</a> - 3.000 messages per month (12mo)<br>
  ]]></description>
@@ -46,10 +50,6 @@
 	<title>Update prompt to Wave Terminal</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5d51210a366755f8b586ef0ca0afa611dec2b3fc</link><description><![CDATA[<a href="https://waveterm.dev/">https://waveterm.dev/</a> - - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.<br>
  ]]></description>
-</item>
-<item>
-	<title>removed a11ywatch.com from the list as it no longer offer free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3d163d395382db764df8feec8efe906ccab33c9a</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
