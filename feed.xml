@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove 4 Broken List from the List- docsapp.io ,www.3dmodelscc0.com, …</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8f74f883fd2307c0a07e27578d2309155f910cf2</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add BrowserCat to developer APIs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f04205159ec12075cc1feb81ecdee453cb08a48e</link><description><![CDATA[<a href="https://www.browsercat.com">https://www.browsercat.com</a> - Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.<br>
  ]]></description>
@@ -52,11 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/528ea3a612f316af813207f8309e8a0bfd04dfce</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update AWS SES free tier limits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e4f2df1589bf9d005262cf032a20ff4da218ec37</link><description><![CDATA[<a href="https://aws.amazon.com/ses/) - 3.000 messages per month (12mo">https://aws.amazon.com/ses/) - 3.000 messages per month (12mo</a> - 3.000 messages per month (12mo)<br>
- ]]></description>
 </item>
 
 </channel>
