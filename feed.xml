@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove harperdb</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5da66d39d798cebec3933cc57d5626638b1fd769</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Remove 4 Broken List from the List- docsapp.io ,www.3dmodelscc0.com, …</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8f74f883fd2307c0a07e27578d2309155f910cf2</link><description><![CDATA[ ]]></description>
 </item>
@@ -52,10 +56,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c52ed6e4ed6a007d0a6c35d198b25acc44b7546e</link><description><![CDATA[<a href="https://www.koyeb.com">https://www.koyeb.com</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. A credit card is not required to get started. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/528ea3a612f316af813207f8309e8a0bfd04dfce</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
