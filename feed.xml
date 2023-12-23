@@ -4,6 +4,14 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove visualime.com from the Visitor Session Recording List</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c611a9957cf5eee246a4a7be85c565658673d990</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove PageCDN from the list(CDN and Protection)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e3387e00f43c97549d0473299b9f9630c2dc2637</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>remove harperdb</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5da66d39d798cebec3933cc57d5626638b1fd769</link><description><![CDATA[ ]]></description>
 </item>
@@ -40,21 +48,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ada6edae72a50851a00fa1bf9095701a4a442719</link><description><![CDATA[<a href="https://www.koyeb.com">https://www.koyeb.com</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. No credit card is required to get started.<br>
 <a href="https://www.koyeb.com/) - Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US">https://www.koyeb.com/) - Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US</a> - Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 1GB memory, 1GB storage, and 0.25 CPU.<br>
- ]]></description>
-</item>
-<item>
-	<title>Apply suggestions from code review</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/971c46c1acb14881e47d8aa7c75da85cb8beb0e4</link><description><![CDATA[<a href="https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks">https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks</a> - Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c20efd3bdc0f3079e5e67a624812389ed2533061</link><description><![CDATA[<a href="https://cloudintel.himanshuanand.com/) — High confidence Indecator of Compromise(IOC) targeting public cloud infrastructure, A portian is available on github (https://github.com/unknownhad/AWSAttacks">https://cloudintel.himanshuanand.com/) — High confidence Indecator of Compromise(IOC) targeting public cloud infrastructure, A portian is available on github (https://github.com/unknownhad/AWSAttacks</a> - Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indecator of Compromise(IOC) targeting public cloud infrastructure, A portian is available on github (https://github.com/unknownhad/AWSAttacks). Full list is avaibale via API<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c52ed6e4ed6a007d0a6c35d198b25acc44b7546e</link><description><![CDATA[<a href="https://www.koyeb.com">https://www.koyeb.com</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. A credit card is not required to get started. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US.<br>
  ]]></description>
 </item>
 
