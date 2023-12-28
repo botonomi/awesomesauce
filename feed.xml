@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Redirect.ing to Miscellaneous</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b32cab42984bd20a0be33592f6a76bcc57bb8c83</link><description><![CDATA[<a href="https://redirect.ing/">https://redirect.ing/</a> - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove visualime.com from the Visitor Session Recording List</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c611a9957cf5eee246a4a7be85c565658673d990</link><description><![CDATA[ ]]></description>
 </item>
@@ -42,12 +47,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cbc0037daffc896c5092ec14c5226f7dd32ac636</link><description><![CDATA[<a href="https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US">https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 1GB memory, 1GB storage, and 0.25 CPU. No credit card is required to get started.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ada6edae72a50851a00fa1bf9095701a4a442719</link><description><![CDATA[<a href="https://www.koyeb.com">https://www.koyeb.com</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. No credit card is required to get started.<br>
-<a href="https://www.koyeb.com/) - Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US">https://www.koyeb.com/) - Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US</a> - Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 1GB memory, 1GB storage, and 0.25 CPU.<br>
  ]]></description>
 </item>
 
