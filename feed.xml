@@ -4,8 +4,18 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f82f08b5632ba277b8ef28c51f69a2d228d54a40</link><description><![CDATA[<a href="https://templated.io) - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp">https://templated.io) - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp</a> - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp) and PDFs with code. Free tier plan with 100 credits per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Data Dead Drop</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ba15ff00f3c662c337e01db68fb4028c48ae97e9</link><description><![CDATA[<a href="https://datadeaddrop.com">https://datadeaddrop.com</a> - Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Templated.io to APIs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f2df2a049fee800de671bac93450f5553eac3220</link><description><![CDATA[<a href="https://templated.io) - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp">https://templated.io) - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp</a> - Automate your images with a simple API and no-code integrations. Design your template in a Canva-like aditor and render images (.jpg, .png, .webp) and PDFs with code. Free tier plan with 30 credits per month.<br>
  ]]></description>
 </item>
 <item>
@@ -37,11 +47,6 @@
 <item>
 	<title>Remove 4 Broken List from the List- docsapp.io ,www.3dmodelscc0.com, …</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8f74f883fd2307c0a07e27578d2309155f910cf2</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add BrowserCat to developer APIs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f04205159ec12075cc1feb81ecdee453cb08a48e</link><description><![CDATA[<a href="https://www.browsercat.com">https://www.browsercat.com</a> - Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.<br>
- ]]></description>
 </item>
 
 </channel>
