@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Gitbook to Tools for Teams and Collaboration</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e555d7cf2d9da3b783a340841f4135d809699cc3</link><description><![CDATA[<a href="https://www.gitbook.com/">https://www.gitbook.com/</a> - Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2c9c0b79bdc5b0d81399dff00b8232fd3a8bca90</link><description><![CDATA[<a href="https://statsig.com">https://statsig.com</a> - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>New resources</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/52366956085da84fbf5d2ed0633d0a1c4ecb8050</link><description><![CDATA[<a href="https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:">https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:</a> - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)<br>
  ]]></description>
@@ -29,6 +39,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/10d6fbb15ef998ae4b9562aeaac5d7cf3b8ae8d1</link><description><![CDATA[<a href="https://statsig.com">https://statsig.com</a> - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>feat: Added Doczilla</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fcec031ae9cd48c63aff69d34ffcbc7265dfa53c</link><description><![CDATA[<a href="https://www.doczilla.app/">https://www.doczilla.app/</a> - SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.<br>
  ]]></description>
@@ -36,19 +51,6 @@
 <item>
 	<title>Remove Stormkit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9a407ccafa84d28b25ff0a5e352d92d00accbe67</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Redirect.ing to Miscellaneous</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b32cab42984bd20a0be33592f6a76bcc57bb8c83</link><description><![CDATA[<a href="https://redirect.ing/">https://redirect.ing/</a> - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove visualime.com from the Visitor Session Recording List</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c611a9957cf5eee246a4a7be85c565658673d990</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove PageCDN from the list(CDN and Protection)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e3387e00f43c97549d0473299b9f9630c2dc2637</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
