@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Tavily AI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2abc4bef824a8d696708d5310464be13c13c3613</link><description><![CDATA[<a href="https://tavily.com/">https://tavily.com/</a> - - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/689cedac33a21bba0d08770d775f4d6748fcec84</link><description><![CDATA[<a href="https://qrcode.best/">https://qrcode.best/</a> - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove plaky after unannounced plan restrictions</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3cb5b54dee8e07f2bb944eae1ba5338d25942042</link><description><![CDATA[<a href="https://datadeaddrop.com">https://datadeaddrop.com</a> - Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.<br>
 <a href="https://www.alienvault.com/open-threat-exchange/reputation-monitor">https://www.alienvault.com/open-threat-exchange/reputation-monitor</a> - Uncovers compromised systems in your network<br>
@@ -47,16 +57,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2c9c0b79bdc5b0d81399dff00b8232fd3a8bca90</link><description><![CDATA[<a href="https://statsig.com">https://statsig.com</a> - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>New resources</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/52366956085da84fbf5d2ed0633d0a1c4ecb8050</link><description><![CDATA[<a href="https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:">https://www.360converter.com/) - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:</a> - Free tier useful website to convert: Video to Text && Audio to Text && Speech to Text && Real-time Audio to Text && YouTube Video to Text && add Video Subtitle. Maybe it will be helpful in a short video conversion or in a short youtube tutorial:)<br>
- ]]></description>
-</item>
-<item>
-	<title>Added v0.dev to Code Generation section.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1a911e6baaf80e41cdde5d0918f212ef81088c0e</link><description><![CDATA[<a href="https://v0.dev/">https://v0.dev/</a> - v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.<br>
  ]]></description>
 </item>
 
