@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add MConverter</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d8e06c98f1d24a140d6a9faa169a3985459eb046</link><description><![CDATA[<a href="https://mconverter.eu/convert/to/avif/">https://mconverter.eu/convert/to/avif/</a> - Convert files in bulk. Supports many file formats, including new ones like [AVIF](https://mconverter.eu/convert/to/avif/). Extract all image frames from videos. Free for up to ten 100MB-files per day, processed in batches of two.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Tavily AI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2abc4bef824a8d696708d5310464be13c13c3613</link><description><![CDATA[<a href="https://tavily.com/">https://tavily.com/</a> - - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.<br>
  ]]></description>
@@ -47,16 +52,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/a30906ea6973c3c9b537d2639d1482f56255f7da</link><description><![CDATA[<a href="#generative-ai">#generative-ai</a> - <br>
 <a href="https://portkey.ai/">https://portkey.ai/</a> - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.<br>
 <a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Gitbook to Tools for Teams and Collaboration</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e555d7cf2d9da3b783a340841f4135d809699cc3</link><description><![CDATA[<a href="https://www.gitbook.com/">https://www.gitbook.com/</a> - Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2c9c0b79bdc5b0d81399dff00b8232fd3a8bca90</link><description><![CDATA[<a href="https://statsig.com">https://statsig.com</a> - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.<br>
  ]]></description>
 </item>
 
