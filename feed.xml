@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove DuckDocs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2faa820caf054b77fe922cc5af49eb2c1d533b58</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>added nappy.co for stock photos list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3411001d9a081f8c10ac915090f5213124629a8c</link><description><![CDATA[<a href="https://nappy.co/">https://nappy.co/</a> - Beautiful photos of Black and Brown people, for free. For commercial and personal use.<br>
  ]]></description>
@@ -49,11 +53,6 @@
 <item>
 	<title>Add WebhookBeam service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5746ceac32bb1b18cdd40757b286e5c6c530866e</link><description><![CDATA[<a href="https://webhookbeam.com">https://webhookbeam.com</a> - Set up webhooks and monitor them via push notifications and emails.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove gradient, add Braintrust</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/88c4f031babf4c7a124ff0cfa7779b05ee661924</link><description><![CDATA[<a href="https://www.braintrustdata.com/">https://www.braintrustdata.com/</a> - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.<br>
  ]]></description>
 </item>
 
