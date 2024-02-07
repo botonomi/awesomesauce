@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/667cbda26908fba1c1e47a2b1e024d92caabf41b</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/573098eaff33513c718f6e4645ecfd57fdc20f75</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add NotificationAPI to Messaging</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e95c203dde9527355248918be6160c981030f809</link><description><![CDATA[<a href="https://www.notificationapi.com/">https://www.notificationapi.com/</a> - Add user notifications to any software in 5 minutes. The free plan includes 10,000 notifications/month + 100 SMS and Automated Calls.<br>
  ]]></description>
@@ -40,19 +50,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/689cedac33a21bba0d08770d775f4d6748fcec84</link><description><![CDATA[<a href="https://qrcode.best/">https://qrcode.best/</a> - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove plaky after unannounced plan restrictions</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3cb5b54dee8e07f2bb944eae1ba5338d25942042</link><description><![CDATA[<a href="https://datadeaddrop.com">https://datadeaddrop.com</a> - Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.<br>
-<a href="https://www.alienvault.com/open-threat-exchange/reputation-monitor">https://www.alienvault.com/open-threat-exchange/reputation-monitor</a> - Uncovers compromised systems in your network<br>
-<a href="https://statsig.com">https://statsig.com</a> - All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>docs: add concord.tech and logspot.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2f9d3f0f277cc1d84d11cc7a34a575613440ac40</link><description><![CDATA[<a href="https://logspot.io) - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks">https://logspot.io) - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks</a> - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks). Free plan includes 10,000 events per month.<br>
-<a href="https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs">https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs</a> - Full data privacy platform, including consent management, privacy request handling (DSARs), and data mapping. Free tier includes core consent management features and they also provide a more advanced plan for free to verified open source projects.<br>
  ]]></description>
 </item>
 
