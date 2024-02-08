@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove templated.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c7b39752063aa378f57c25c1a87c0868bae8e68f</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/667cbda26908fba1c1e47a2b1e024d92caabf41b</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add Tavily AI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2abc4bef824a8d696708d5310464be13c13c3613</link><description><![CDATA[<a href="https://tavily.com/">https://tavily.com/</a> - - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/689cedac33a21bba0d08770d775f4d6748fcec84</link><description><![CDATA[<a href="https://qrcode.best/">https://qrcode.best/</a> - Create custom QR codes with 13 templates, full privacy, and personal branding. Features tracking pixels, project categorization, and unlimited team seats on QRCode.Best.<br>
  ]]></description>
 </item>
 
