@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Singlebase.cloud in the BaaS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/beec140dd51a6d8efe468b0b4e92b02c9adb26f0</link><description><![CDATA[<a href="https://singlebase.cloud">https://singlebase.cloud</a> - SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove templated.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c7b39752063aa378f57c25c1a87c0868bae8e68f</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add MConverter</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8e06c98f1d24a140d6a9faa169a3985459eb046</link><description><![CDATA[<a href="https://mconverter.eu/convert/to/avif/">https://mconverter.eu/convert/to/avif/</a> - Convert files in bulk. Supports many file formats, including new ones like [AVIF](https://mconverter.eu/convert/to/avif/). Extract all image frames from videos. Free for up to ten 100MB-files per day, processed in batches of two.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Tavily AI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2abc4bef824a8d696708d5310464be13c13c3613</link><description><![CDATA[<a href="https://tavily.com/">https://tavily.com/</a> - - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.<br>
  ]]></description>
 </item>
 
