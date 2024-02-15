@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update gumlet.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54153aded2ab3e00031c5a3ca91880c4cede869b</link><description><![CDATA[<a href="https://www.gumlet.com/">https://www.gumlet.com/</a> - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB / month for images.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Singlebase.cloud in the BaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/beec140dd51a6d8efe468b0b4e92b02c9adb26f0</link><description><![CDATA[<a href="https://singlebase.cloud">https://singlebase.cloud</a> - SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Added octomind to testing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/99bba8c4076f09b2b0827168d471dc080f981863</link><description><![CDATA[<a href="https://www.octomind.dev/">https://www.octomind.dev/</a> - Auto-generated, run and maintained Playwright UI tests with AI-assisted test case generation<br>
- ]]></description>
-</item>
-<item>
-	<title>Add MConverter</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d8e06c98f1d24a140d6a9faa169a3985459eb046</link><description><![CDATA[<a href="https://mconverter.eu/convert/to/avif/">https://mconverter.eu/convert/to/avif/</a> - Convert files in bulk. Supports many file formats, including new ones like [AVIF](https://mconverter.eu/convert/to/avif/). Extract all image frames from videos. Free for up to ten 100MB-files per day, processed in batches of two.<br>
  ]]></description>
 </item>
 
