@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md - added mogenius to the PaaS section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0a2e4d3ab338d744bf8ca11c8f70c2983918d315</link><description><![CDATA[<a href="https://mogenius.com">https://mogenius.com</a> - Easily build, deploy, and run services on Kubernetes. The free tier supports connecting a local Kubernetes with mogenius, enabling individual developers to create a production-like test environment on their machine.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update gumlet.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/54153aded2ab3e00031c5a3ca91880c4cede869b</link><description><![CDATA[<a href="https://www.gumlet.com/">https://www.gumlet.com/</a> - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB / month for images.<br>
  ]]></description>
@@ -45,11 +50,6 @@
 <item>
 	<title>Add AndroidIDE in IDE and Code Editing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/63ee4cb3fd42bb7819a9fd8c6875875165553bfb</link><description><![CDATA[<a href="https://m.androidide.com/">https://m.androidide.com/</a> - An Open Source IDE to develop real, Gradle-based Android applications on Android devices.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added octomind to testing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/99bba8c4076f09b2b0827168d471dc080f981863</link><description><![CDATA[<a href="https://www.octomind.dev/">https://www.octomind.dev/</a> - Auto-generated, run and maintained Playwright UI tests with AI-assisted test case generation<br>
  ]]></description>
 </item>
 
