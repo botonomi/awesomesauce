@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adding Yandex DataLens</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a2a27166b450146b64a93a93ea93e8b9ffaba678</link><description><![CDATA[<a href="https://datalens.yandex.com/">https://datalens.yandex.com/</a> - Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7b5e7036da537cd64a591fefa8ad17768ff42b00</link><description><![CDATA[<a href="https://nominatim.org/">https://nominatim.org/</a> - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Nominatim, an open-source geocoding with OpenStreetMap data</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3880e30df3cfde551a4ebe72a21b496e3d538b32</link><description><![CDATA[<a href="https://nominatim.org/">https://nominatim.org/</a> - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md - added mogenius to the PaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0a2e4d3ab338d744bf8ca11c8f70c2983918d315</link><description><![CDATA[<a href="https://mogenius.com">https://mogenius.com</a> - Easily build, deploy, and run services on Kubernetes. The free tier supports connecting a local Kubernetes with mogenius, enabling individual developers to create a production-like test environment on their machine.<br>
  ]]></description>
@@ -41,16 +56,6 @@
 <item>
 	<title>Remove DuckDocs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2faa820caf054b77fe922cc5af49eb2c1d533b58</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>added nappy.co for stock photos list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3411001d9a081f8c10ac915090f5213124629a8c</link><description><![CDATA[<a href="https://nappy.co/">https://nappy.co/</a> - Beautiful photos of Black and Brown people, for free. For commercial and personal use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add AndroidIDE in IDE and Code Editing</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/63ee4cb3fd42bb7819a9fd8c6875875165553bfb</link><description><![CDATA[<a href="https://m.androidide.com/">https://m.androidide.com/</a> - An Open Source IDE to develop real, Gradle-based Android applications on Android devices.<br>
- ]]></description>
 </item>
 
 </channel>
