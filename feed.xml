@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add analyitcs service to the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b1720fcbccc29037eb7cdbf3135d8f7ba1a62074</link><description><![CDATA[<a href="https://umami.is/">https://umami.is/</a> - Simple, fast, privacy-focused, open-source alternative to Google Analytics.<br>
+ ]]></description>
+</item>
+<item>
 	<title>adding Yandex DataLens</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a2a27166b450146b64a93a93ea93e8b9ffaba678</link><description><![CDATA[<a href="https://datalens.yandex.com/">https://datalens.yandex.com/</a> - Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.<br>
  ]]></description>
@@ -52,10 +57,6 @@
 	<title>Add NotificationAPI to Messaging</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e95c203dde9527355248918be6160c981030f809</link><description><![CDATA[<a href="https://www.notificationapi.com/">https://www.notificationapi.com/</a> - Add user notifications to any software in 5 minutes. The free plan includes 10,000 notifications/month + 100 SMS and Automated Calls.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove DuckDocs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2faa820caf054b77fe922cc5af49eb2c1d533b58</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
