@@ -4,6 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Form tools, updated posthog</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/840367cf7740955b4d4ec9ed57d95c6426cc3433</link><description><![CDATA[<a href="https://sprig.com/">https://sprig.com/</a> - 1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis.<br>
+<a href="https://feedback.fish/">https://feedback.fish/</a> - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.<br>
+<a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/15a046c075fbf4e6f773cd89f0742a7ff98c47e2</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>removed duplicated entry, extended existing description with surveys.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/294338e964e92cbb9f19db994a543d1f0fc2461d</link><description><![CDATA[<a href="https://github.com/amortka/free-for-dev/assets/8505274/a4c818b0-5d8f-4cae-b25b-4df95705054b">https://github.com/amortka/free-for-dev/assets/8505274/a4c818b0-5d8f-4cae-b25b-4df95705054b</a> - <br>
+<a href="https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300">https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300</a> - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b0337c2fdd94a710e5f58b9774ee9cc08751cbf0</link><description><![CDATA[<a href="https://www.hotjar.com/product/surveys">https://www.hotjar.com/product/surveys</a> - In App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add analyitcs service to the list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b1720fcbccc29037eb7cdbf3135d8f7ba1a62074</link><description><![CDATA[<a href="https://umami.is/">https://umami.is/</a> - Simple, fast, privacy-focused, open-source alternative to Google Analytics.<br>
  ]]></description>
@@ -36,26 +58,6 @@
 <item>
 	<title>Added Singlebase.cloud in the BaaS section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/beec140dd51a6d8efe468b0b4e92b02c9adb26f0</link><description><![CDATA[<a href="https://singlebase.cloud">https://singlebase.cloud</a> - SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove templated.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c7b39752063aa378f57c25c1a87c0868bae8e68f</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/667cbda26908fba1c1e47a2b1e024d92caabf41b</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/573098eaff33513c718f6e4645ecfd57fdc20f75</link><description><![CDATA[<a href="https://www.usefindr.com/">https://www.usefindr.com/</a> - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add NotificationAPI to Messaging</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e95c203dde9527355248918be6160c981030f809</link><description><![CDATA[<a href="https://www.notificationapi.com/">https://www.notificationapi.com/</a> - Add user notifications to any software in 5 minutes. The free plan includes 10,000 notifications/month + 100 SMS and Automated Calls.<br>
  ]]></description>
 </item>
 
