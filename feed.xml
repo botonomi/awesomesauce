@@ -4,6 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove api mocha and reverted pr</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/80dea12f34ed80aa89ebc1201aa7c969400f0188</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add wormhole and update the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d2ba1f0cce0b90404dbdcca2dee0d5ad25d29a59</link><description><![CDATA[<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 50 API requests in a rolling 24 hour period, fully customizable API responses, and download mock rules as a Postman collection.<br>
+<a href="https://wormhole.app/">https://wormhole.app/</a> - Share files up to 5GB with end-to-end encryption for up to 24hours. For files larger than 5 GB, it uses peer-to-peer transfer to send your files directly.<br>
+<a href="https://www.brevo.com/">https://www.brevo.com/</a> - 9,000 emails/month, 300 emails/day free<br>
+<a href="https://www.sender.net">https://www.sender.net</a> - to 15,000 emails/month, up to 2,500 subscribers<br>
+<a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 15,000 emails/month free<br>
+<a href="https://validemail.io/">https://validemail.io/</a> - Free Tier with 10,000 validations per month & 10 requests per second.<br>
+<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update Framacloud</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c02df0aac9f03e9601691efa23c5b6079674ea8d</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Form tools, updated posthog</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/840367cf7740955b4d4ec9ed57d95c6426cc3433</link><description><![CDATA[<a href="https://sprig.com/">https://sprig.com/</a> - 1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis.<br>
 <a href="https://feedback.fish/">https://feedback.fish/</a> - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.<br>
@@ -43,21 +64,6 @@
 <item>
 	<title>Add Nominatim, an open-source geocoding with OpenStreetMap data</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3880e30df3cfde551a4ebe72a21b496e3d538b32</link><description><![CDATA[<a href="https://nominatim.org/">https://nominatim.org/</a> - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md - added mogenius to the PaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0a2e4d3ab338d744bf8ca11c8f70c2983918d315</link><description><![CDATA[<a href="https://mogenius.com">https://mogenius.com</a> - Easily build, deploy, and run services on Kubernetes. The free tier supports connecting a local Kubernetes with mogenius, enabling individual developers to create a production-like test environment on their machine.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update gumlet.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54153aded2ab3e00031c5a3ca91880c4cede869b</link><description><![CDATA[<a href="https://www.gumlet.com/">https://www.gumlet.com/</a> - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB / month for images.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Singlebase.cloud in the BaaS section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/beec140dd51a6d8efe468b0b4e92b02c9adb26f0</link><description><![CDATA[<a href="https://singlebase.cloud">https://singlebase.cloud</a> - SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.<br>
  ]]></description>
 </item>
 
