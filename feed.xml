@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove indicative analytics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/57e1b2a6843b965db8ab0d5b4d5696f8de8732c7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update some free tier limits</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d8cabb2a34ddeddb099932d9e511d1736f32d0df</link><description><![CDATA[<a href="https://getinsights.io">https://getinsights.io</a> - Privacy-focused, cookie-free analytics, free for up to 3k events/month.<br>
+<a href="https://heap.io">https://heap.io</a> - Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.<br>
+<a href="https://numverify.com/">https://numverify.com/</a> - Global phone number validation and lookup JSON API. 100 API requests/month<br>
+<a href="https://www.coingecko.com/en/api">https://www.coingecko.com/en/api</a> - Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The demo api comes with a stable rate limit of 30 calls/min and a monthly cap of 10,000 calls.<br>
+<a href="https://currencylayer.com/">https://currencylayer.com/</a> - Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.<br>
+<a href="https://www.exchangerate-api.com">https://www.exchangerate-api.com</a> - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.<br>
+<a href="https://currencyapi.com">https://currencyapi.com</a> - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove api mocha and reverted pr</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/80dea12f34ed80aa89ebc1201aa7c969400f0188</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
  ]]></description>
@@ -54,16 +69,6 @@
 <item>
 	<title>adding Yandex DataLens</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a2a27166b450146b64a93a93ea93e8b9ffaba678</link><description><![CDATA[<a href="https://datalens.yandex.com/">https://datalens.yandex.com/</a> - Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7b5e7036da537cd64a591fefa8ad17768ff42b00</link><description><![CDATA[<a href="https://nominatim.org/">https://nominatim.org/</a> - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Nominatim, an open-source geocoding with OpenStreetMap data</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3880e30df3cfde551a4ebe72a21b496e3d538b32</link><description><![CDATA[<a href="https://nominatim.org/">https://nominatim.org/</a> - OpenStreetMap's free geocoding service, providing global address search functionality and reverse geocoding capabilities.<br>
  ]]></description>
 </item>
 
