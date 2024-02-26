@@ -4,6 +4,17 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Use Blocklists instead of Blacklists.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/788dfd43949185a4541ce34a41fc3d66027989e7</link><description><![CDATA[<a href="https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month">https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month</a> - Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4ad795765c5cd573d9746dcb4a59d63f05b083d4</link><description><![CDATA[<a href="https://www.lovelylanding.net/">https://www.lovelylanding.net/</a> - [Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet, and Mobile screenshots.<br>
+<a href="https://www.lapa.ninja/">https://www.lapa.ninja/</a> - - [Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.<br>
+ ]]></description>
+</item>
+<item>
 	<title>made the icon as an local asset and improved the look of the icon</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/86780e09faad8fa270e157c52ad1ac4fc6c46c9a</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - <br>
 <a href="#table-of-contents">#table-of-contents</a> - <br>
@@ -179,22 +190,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15a046c075fbf4e6f773cd89f0742a7ff98c47e2</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>removed duplicated entry, extended existing description with surveys.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/294338e964e92cbb9f19db994a543d1f0fc2461d</link><description><![CDATA[<a href="https://github.com/amortka/free-for-dev/assets/8505274/a4c818b0-5d8f-4cae-b25b-4df95705054b">https://github.com/amortka/free-for-dev/assets/8505274/a4c818b0-5d8f-4cae-b25b-4df95705054b</a> - <br>
-<a href="https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300">https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300</a> - Website Analytics and Reports . Free Plan allows 2000 pageviews/day. One hundred snapshots/day (max capacity: 300). Three snapshot heatmaps can be stored for 365 days. Unlimited Team Members. Also in App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b0337c2fdd94a710e5f58b9774ee9cc08751cbf0</link><description><![CDATA[<a href="https://www.hotjar.com/product/surveys">https://www.hotjar.com/product/surveys</a> - In App and standalone surveys, feedback widgets with screenshots. Free tier allows creating 3 surveys & 3 feedback widgets and collecting 20 responses per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add analyitcs service to the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b1720fcbccc29037eb7cdbf3135d8f7ba1a62074</link><description><![CDATA[<a href="https://umami.is/">https://umami.is/</a> - Simple, fast, privacy-focused, open-source alternative to Google Analytics.<br>
- ]]></description>
 </item>
 
 </channel>
