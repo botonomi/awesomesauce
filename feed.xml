@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Neon.tech Free tier Storage and Compute limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/56ccebbf7a51f0f744d35f28f893e5a32737fc2a</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total</a> - Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Use Blocklists instead of Blacklists.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/788dfd43949185a4541ce34a41fc3d66027989e7</link><description><![CDATA[<a href="https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month">https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month</a> - Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.<br>
  ]]></description>
@@ -186,10 +191,6 @@
 <a href="https://feedback.fish/">https://feedback.fish/</a> - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.<br>
 <a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/15a046c075fbf4e6f773cd89f0742a7ff98c47e2</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
