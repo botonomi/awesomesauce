@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Fly.io from Readme</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f00814d543b08c3f4dd9edafd662597c1ec42836</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update Neon.tech Free tier Storage and Compute limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/56ccebbf7a51f0f744d35f28f893e5a32737fc2a</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total</a> - Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.<br>
  ]]></description>
@@ -183,13 +187,6 @@
 <item>
 	<title>Update Framacloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c02df0aac9f03e9601691efa23c5b6079674ea8d</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Form tools, updated posthog</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/840367cf7740955b4d4ec9ed57d95c6426cc3433</link><description><![CDATA[<a href="https://sprig.com/">https://sprig.com/</a> - 1 In-Product Survey or Survey with Replay per month, with GPT-powered AI Analysis.<br>
-<a href="https://feedback.fish/">https://feedback.fish/</a> - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.<br>
-<a href="https://posthog.com">https://posthog.com</a> - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.<br>
  ]]></description>
 </item>
 
