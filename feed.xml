@@ -169,6 +169,10 @@
  ]]></description>
 </item>
 <item>
+	<title>Remove Buff.tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/61f6aa9c36e6bd6d6292630f340f366b1a7ffb32</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>remove api mocha and reverted pr</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/80dea12f34ed80aa89ebc1201aa7c969400f0188</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
  ]]></description>
@@ -182,11 +186,6 @@
 <a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 15,000 emails/month free<br>
 <a href="https://validemail.io/">https://validemail.io/</a> - Free Tier with 10,000 validations per month & 10 requests per second.<br>
 <a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Framacloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c02df0aac9f03e9601691efa23c5b6079674ea8d</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
  ]]></description>
 </item>
 
