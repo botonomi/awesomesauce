@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix spelling error on new btunnel entry</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec3fcbff25fd8af40737587fe6d78763aab51bd3</link><description><![CDATA[<a href="https://www.btunnel.in/">https://www.btunnel.in/</a> - Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add btunnel in README</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/999b1c84a2e2d38af17201dcc235a7455d43a633</link><description><![CDATA[<a href="https://www.btunnel.in/">https://www.btunnel.in/</a> - Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel tuimeout.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Fly.io from Readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f00814d543b08c3f4dd9edafd662597c1ec42836</link><description><![CDATA[ ]]></description>
 </item>
@@ -166,26 +176,6 @@
 <a href="https://currencylayer.com/">https://currencylayer.com/</a> - Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.<br>
 <a href="https://www.exchangerate-api.com">https://www.exchangerate-api.com</a> - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.<br>
 <a href="https://currencyapi.com">https://currencyapi.com</a> - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Buff.tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/61f6aa9c36e6bd6d6292630f340f366b1a7ffb32</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>remove api mocha and reverted pr</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/80dea12f34ed80aa89ebc1201aa7c969400f0188</link><description><![CDATA[<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add wormhole and update the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d2ba1f0cce0b90404dbdcca2dee0d5ad25d29a59</link><description><![CDATA[<a href="https://apimocha.com">https://apimocha.com</a> - - Completely free online API mocking for testing and prototyping. Make up to 50 API requests in a rolling 24 hour period, fully customizable API responses, and download mock rules as a Postman collection.<br>
-<a href="https://wormhole.app/">https://wormhole.app/</a> - Share files up to 5GB with end-to-end encryption for up to 24hours. For files larger than 5 GB, it uses peer-to-peer transfer to send your files directly.<br>
-<a href="https://www.brevo.com/">https://www.brevo.com/</a> - 9,000 emails/month, 300 emails/day free<br>
-<a href="https://www.sender.net">https://www.sender.net</a> - to 15,000 emails/month, up to 2,500 subscribers<br>
-<a href="https://sendpulse.com">https://sendpulse.com</a> - 500 subscribers/month, 15,000 emails/month free<br>
-<a href="https://validemail.io/">https://validemail.io/</a> - Free Tier with 10,000 validations per month & 10 requests per second.<br>
-<a href="https://framasoft.org/en/">https://framasoft.org/en/</a> - A list of Free/Libre Open Source Software and SaaS by the French non-profit [Framasoft](https://framasoft.org/en/).<br>
  ]]></description>
 </item>
 
