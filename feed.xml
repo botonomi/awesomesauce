@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Planetscale offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54851cb74d5b6824cb6e30e040c8da526a4f475d</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update OneSignal offerings</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8b827405c843abeeb492c25a30cc567999ba6b37</link><description><![CDATA[<a href="https://onesignal.com/">https://onesignal.com/</a> - Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix spelling error on new btunnel entry</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ec3fcbff25fd8af40737587fe6d78763aab51bd3</link><description><![CDATA[<a href="https://www.btunnel.in/">https://www.btunnel.in/</a> - Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.<br>
  ]]></description>
@@ -161,21 +170,6 @@
 <a href="#table-of-contents">#table-of-contents</a> - <br>
 <a href="#table-of-contents">#table-of-contents</a> - <br>
 <a href="#table-of-contents">#table-of-contents</a> - <br>
- ]]></description>
-</item>
-<item>
-	<title>remove indicative analytics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/57e1b2a6843b965db8ab0d5b4d5696f8de8732c7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update some free tier limits</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d8cabb2a34ddeddb099932d9e511d1736f32d0df</link><description><![CDATA[<a href="https://getinsights.io">https://getinsights.io</a> - Privacy-focused, cookie-free analytics, free for up to 3k events/month.<br>
-<a href="https://heap.io">https://heap.io</a> - Automatically captures every user action in iOS or web apps. Free for up to 10K monthly sessions.<br>
-<a href="https://numverify.com/">https://numverify.com/</a> - Global phone number validation and lookup JSON API. 100 API requests/month<br>
-<a href="https://www.coingecko.com/en/api">https://www.coingecko.com/en/api</a> - Provides cryptocurrency market data including the latest crypto exchange rates and historical data. The demo api comes with a stable rate limit of 30 calls/min and a monthly cap of 10,000 calls.<br>
-<a href="https://currencylayer.com/">https://currencylayer.com/</a> - Reliable Exchange Rates and Currency Conversion for your Business, 100 API requests/month free.<br>
-<a href="https://www.exchangerate-api.com">https://www.exchangerate-api.com</a> - An easy-to-use currency conversion JSON API. The free tier updates once per day with a limit of 1,500 requests/month.<br>
-<a href="https://currencyapi.com">https://currencyapi.com</a> - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.<br>
  ]]></description>
 </item>
 
