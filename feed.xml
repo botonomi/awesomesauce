@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add ReportGPT</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bf276ca09ec85c9ece1cbbee8e9fa495e2abd4a4</link><description><![CDATA[<a href="https://report-gpt.marvinvr.ai">https://report-gpt.marvinvr.ai</a> - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e244fab5467a6031bb55d21d8625bf7f414db6a3</link><description><![CDATA[<a href="https://dicloud.net/trackwith-privacy-focused-analytics/">https://dicloud.net/trackwith-privacy-focused-analytics/</a> - - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.<br>
  ]]></description>
@@ -39,11 +44,6 @@
 <item>
 	<title>Update Neon.tech Free tier Storage and Compute limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/56ccebbf7a51f0f744d35f28f893e5a32737fc2a</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total</a> - Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.<br>
- ]]></description>
-</item>
-<item>
-	<title>Use Blocklists instead of Blacklists.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/788dfd43949185a4541ce34a41fc3d66027989e7</link><description><![CDATA[<a href="https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month">https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month</a> - Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.<br>
  ]]></description>
 </item>
 
