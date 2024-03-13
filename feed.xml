@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bfee3d59160e2c7ff09d9c9c610e19b521121dd1</link><description><![CDATA[<a href="https://dubble.so/">https://dubble.so/</a> - Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add ReportGPT</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bf276ca09ec85c9ece1cbbee8e9fa495e2abd4a4</link><description><![CDATA[<a href="https://report-gpt.marvinvr.ai">https://report-gpt.marvinvr.ai</a> - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.<br>
  ]]></description>
@@ -40,11 +45,6 @@
 <item>
 	<title>Remove Fly.io from Readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f00814d543b08c3f4dd9edafd662597c1ec42836</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update Neon.tech Free tier Storage and Compute limit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/56ccebbf7a51f0f744d35f28f893e5a32737fc2a</link><description><![CDATA[<a href="https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total">https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total</a> - Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.<br>
- ]]></description>
 </item>
 
 </channel>
