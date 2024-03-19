@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Appwrite</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/acfca5433795bcf3713adb9bee817b21508345b8</link><description><![CDATA[<a href="https://appwrite.io) - Unlimited projects with no project pausing (supports websockets">https://appwrite.io) - Unlimited projects with no project pausing (supports websockets</a> - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Revert "changed  ⬆️Back to Top to an image&link icon"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4a0e2916fac27dd8328becbb3a57e079d9d01e3b</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
 <a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
@@ -170,11 +175,6 @@
 <item>
 	<title>Update OneSignal offerings</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8b827405c843abeeb492c25a30cc567999ba6b37</link><description><![CDATA[<a href="https://onesignal.com/">https://onesignal.com/</a> - Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix spelling error on new btunnel entry</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec3fcbff25fd8af40737587fe6d78763aab51bd3</link><description><![CDATA[<a href="https://www.btunnel.in/">https://www.btunnel.in/</a> - Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.<br>
  ]]></description>
 </item>
 
