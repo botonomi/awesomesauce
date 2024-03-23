@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added serveo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/34ce2948a788f8935ae48594056b29e344c8a18f</link><description><![CDATA[<a href="https://serveo.net/">https://serveo.net/</a> - Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Appwrite</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/acfca5433795bcf3713adb9bee817b21508345b8</link><description><![CDATA[<a href="https://appwrite.io) - Unlimited projects with no project pausing (supports websockets">https://appwrite.io) - Unlimited projects with no project pausing (supports websockets</a> - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.<br>
  ]]></description>
@@ -166,15 +171,6 @@
 <item>
 	<title>Add deployment.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aa82028768d076fbabb90d4c44d34e41718d050e</link><description><![CDATA[<a href="https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user">https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user</a> - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Planetscale offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54851cb74d5b6824cb6e30e040c8da526a4f475d</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update OneSignal offerings</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8b827405c843abeeb492c25a30cc567999ba6b37</link><description><![CDATA[<a href="https://onesignal.com/">https://onesignal.com/</a> - Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.<br>
  ]]></description>
 </item>
 
