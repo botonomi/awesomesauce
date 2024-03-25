@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8eff2f0719833199ca48d38a7474c926b38fe930</link><description><![CDATA[<a href="https://appcircle.io">https://appcircle.io</a> - An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Appcircle description Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/94f32f302210d0f492646efec7bb71c1fcab5c9e</link><description><![CDATA[<a href="https://appcircle.io">https://appcircle.io</a> - An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added serveo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/34ce2948a788f8935ae48594056b29e344c8a18f</link><description><![CDATA[<a href="https://serveo.net/">https://serveo.net/</a> - Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.<br>
  ]]></description>
@@ -166,11 +176,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e244fab5467a6031bb55d21d8625bf7f414db6a3</link><description><![CDATA[<a href="https://dicloud.net/trackwith-privacy-focused-analytics/">https://dicloud.net/trackwith-privacy-focused-analytics/</a> - - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add deployment.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aa82028768d076fbabb90d4c44d34e41718d050e</link><description><![CDATA[<a href="https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user">https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user</a> - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.<br>
  ]]></description>
 </item>
 
