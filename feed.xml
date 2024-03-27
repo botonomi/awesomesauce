@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add vulert as sca tool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4c0ac7aca278c2ff43a291a000d57e08e391cdaf</link><description><![CDATA[<a href="https://vulert.com">https://vulert.com</a> - Vulert continuously monitors your open-source dependencies for new vulnerabilities, recommends fixes, without requiring installation or access to your codebase. Free for open-source projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8eff2f0719833199ca48d38a7474c926b38fe930</link><description><![CDATA[<a href="https://appcircle.io">https://appcircle.io</a> - An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.<br>
  ]]></description>
@@ -171,11 +176,6 @@
 <item>
 	<title>Add ReportGPT</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bf276ca09ec85c9ece1cbbee8e9fa495e2abd4a4</link><description><![CDATA[<a href="https://report-gpt.marvinvr.ai">https://report-gpt.marvinvr.ai</a> - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e244fab5467a6031bb55d21d8625bf7f414db6a3</link><description><![CDATA[<a href="https://dicloud.net/trackwith-privacy-focused-analytics/">https://dicloud.net/trackwith-privacy-focused-analytics/</a> - - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.<br>
  ]]></description>
 </item>
 
