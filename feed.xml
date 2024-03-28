@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/318f682b55161cc06e82d0c27e67c7d091405522</link><description><![CDATA[<a href="https://www.aikido.dev">https://www.aikido.dev</a> - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add vulert as sca tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4c0ac7aca278c2ff43a291a000d57e08e391cdaf</link><description><![CDATA[<a href="https://vulert.com">https://vulert.com</a> - Vulert continuously monitors your open-source dependencies for new vulnerabilities, recommends fixes, without requiring installation or access to your codebase. Free for open-source projects.<br>
  ]]></description>
@@ -170,12 +175,12 @@
 </item>
 <item>
 	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bfee3d59160e2c7ff09d9c9c610e19b521121dd1</link><description><![CDATA[<a href="https://dubble.so/">https://dubble.so/</a> - Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.<br>
+	<link>https://github.com/ripienaar/free-for-dev/commit/82a9d668d7380bb94777510fc0e7e1af209dfa61</link><description><![CDATA[<a href="https://www.aikido.dev">https://www.aikido.dev</a> - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free for small teams.<br>
  ]]></description>
 </item>
 <item>
-	<title>Add ReportGPT</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bf276ca09ec85c9ece1cbbee8e9fa495e2abd4a4</link><description><![CDATA[<a href="https://report-gpt.marvinvr.ai">https://report-gpt.marvinvr.ai</a> - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.<br>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bfee3d59160e2c7ff09d9c9c610e19b521121dd1</link><description><![CDATA[<a href="https://dubble.so/">https://dubble.so/</a> - Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.<br>
  ]]></description>
 </item>
 
