@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/657c0c37ac020c43966693a97db7ba3c34ef925b</link><description><![CDATA[<a href="https://workos.com/">https://workos.com/</a> - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add WorkOS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/24f793e9bcc6dfa66dca5e881e5f36ec82475f34</link><description><![CDATA[<a href="https://workos.com/)">https://workos.com/)</a> - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Proton Pass</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec66abef0907048a2ec25dd8948ba1d288f4c0af</link><description><![CDATA[<a href="https://proton.me/pass">https://proton.me/pass</a> - — Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/318f682b55161cc06e82d0c27e67c7d091405522</link><description><![CDATA[<a href="https://www.aikido.dev">https://www.aikido.dev</a> - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.<br>
  ]]></description>
@@ -161,26 +176,6 @@
 <a href="#table-of-contents">#table-of-contents</a> - <br>
 <a href="#table-of-contents">#table-of-contents</a> - <br>
 <a href="#table-of-contents">#table-of-contents</a> - <br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into patch-2</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cca8709a808c430cd0ea991d4af5cf168c46a3f6</link><description><![CDATA[<a href="https://dubble.so/">https://dubble.so/</a> - Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1f9bc74e1c0c03e240eabd33204d91ae4f8a05ff</link><description><![CDATA[<a href="https://report-gpt.io">https://report-gpt.io</a> - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/82a9d668d7380bb94777510fc0e7e1af209dfa61</link><description><![CDATA[<a href="https://www.aikido.dev">https://www.aikido.dev</a> - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free for small teams.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bfee3d59160e2c7ff09d9c9c610e19b521121dd1</link><description><![CDATA[<a href="https://dubble.so/">https://dubble.so/</a> - Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.<br>
  ]]></description>
 </item>
 
