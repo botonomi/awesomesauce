@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Teaminal</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4cb3d9d8d5117bce8210a3a769e7f726bc37ebcc</link><description><![CDATA[<a href="https://www.teaminal.com">https://www.teaminal.com</a> - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add linkok.com to monitoring list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/16b3f4518292a359962e6dd66f193bbaee964c7e</link><description><![CDATA[<a href="https://linkok.com">https://linkok.com</a> - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Fix typo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/657c0c37ac020c43966693a97db7ba3c34ef925b</link><description><![CDATA[<a href="https://workos.com/">https://workos.com/</a> - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.<br>
  ]]></description>
@@ -46,136 +56,6 @@
 <item>
 	<title>Added Appwrite</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/acfca5433795bcf3713adb9bee817b21508345b8</link><description><![CDATA[<a href="https://appwrite.io) - Unlimited projects with no project pausing (supports websockets">https://appwrite.io) - Unlimited projects with no project pausing (supports websockets</a> - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "changed  ⬆️Back to Top to an image&link icon"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4a0e2916fac27dd8328becbb3a57e079d9d01e3b</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
-<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "made the icon as an local asset and improved the look of the …</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5bee26f194c9c0722228efae7dd48797d4eba0a6</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
-<a href="#table-of-contents">#table-of-contents</a> - <br>
  ]]></description>
 </item>
 
