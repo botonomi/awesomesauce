@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Sweego to Email category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e08f87175b80b40a94406a4366821c19de54bd4a</link><description><![CDATA[<a href="https://www.sweego.io/">https://www.sweego.io/</a> - European transactional emails API for developers. 500 emails/day free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Teaminal</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4cb3d9d8d5117bce8210a3a769e7f726bc37ebcc</link><description><![CDATA[<a href="https://www.teaminal.com">https://www.teaminal.com</a> - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Added serveo</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/34ce2948a788f8935ae48594056b29e344c8a18f</link><description><![CDATA[<a href="https://serveo.net/">https://serveo.net/</a> - Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Appwrite</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/acfca5433795bcf3713adb9bee817b21508345b8</link><description><![CDATA[<a href="https://appwrite.io) - Unlimited projects with no project pausing (supports websockets">https://appwrite.io) - Unlimited projects with no project pausing (supports websockets</a> - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.<br>
  ]]></description>
 </item>
 
