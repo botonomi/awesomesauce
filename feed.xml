@@ -4,6 +4,33 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Doppio.sh</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8a9da5551f1378c155195b6c36645760015a831a</link><description><![CDATA[<a href="https://doppio.sh/">https://doppio.sh/</a> - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Novu.co</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3dacecfab9a70e29f20a93c48721739f7e8cf82b</link><description><![CDATA[<a href="https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user">https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user</a> - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.<br>
+<a href="https://novu.co">https://novu.co</a> - The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.<br>
+<a href="https://singlebase.cloud">https://singlebase.cloud</a> - SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Change dash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d7c231b7ebceafbf0e4e3c8dd8b3d31945db7ef5</link><description><![CDATA[<a href="https://metricswave.com">https://metricswave.com</a> - Privacy-friendly Google Analytics alternative for developers. Free plan allows 20k pageviews per month without credit card.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add MetricsWave to Analytics services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b1e1f490ef0274b47ebfdae1d29dce2ce10737e1</link><description><![CDATA[<a href="https://metricswave.com">https://metricswave.com</a> - Privacy-friendly Google Analytics alternative for developers. Free plan allows 20k pageviews per month without credit card.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Moved engagespot from baas to messaging and streaming</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a9a1715510ce5486b98bb2a690311841c82e0f34</link><description><![CDATA[<a href="https://engagespot.co/">https://engagespot.co/</a> - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b7397f31d44b6df655a08fb6cc4efe0a5dc64567</link><description><![CDATA[ ]]></description>
 </item>
@@ -31,31 +58,6 @@
 <item>
 	<title>Add Teaminal</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4cb3d9d8d5117bce8210a3a769e7f726bc37ebcc</link><description><![CDATA[<a href="https://www.teaminal.com">https://www.teaminal.com</a> - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add linkok.com to monitoring list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/16b3f4518292a359962e6dd66f193bbaee964c7e</link><description><![CDATA[<a href="https://linkok.com">https://linkok.com</a> - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/657c0c37ac020c43966693a97db7ba3c34ef925b</link><description><![CDATA[<a href="https://workos.com/">https://workos.com/</a> - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add WorkOS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/24f793e9bcc6dfa66dca5e881e5f36ec82475f34</link><description><![CDATA[<a href="https://workos.com/)">https://workos.com/)</a> - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Proton Pass</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec66abef0907048a2ec25dd8948ba1d288f4c0af</link><description><![CDATA[<a href="https://proton.me/pass">https://proton.me/pass</a> - — Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/318f682b55161cc06e82d0c27e67c7d091405522</link><description><![CDATA[<a href="https://www.aikido.dev">https://www.aikido.dev</a> - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.<br>
  ]]></description>
 </item>
 
