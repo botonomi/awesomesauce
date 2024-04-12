@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b7397f31d44b6df655a08fb6cc4efe0a5dc64567</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add Cody AI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/be531225a0db13e6c1476112ad39612c06c7cdb4</link><description><![CDATA[<a href="https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b">https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b</a> - - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b) each month.<br>
+<a href="https://sourcegraph.com/">https://sourcegraph.com/</a> - Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add UI Bakery</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0f12a7a1c49e383a8cb96adb53c1daa616554d8d</link><description><![CDATA[<a href="https://uibakery.io">https://uibakery.io</a> - — Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add EMQX Serverless</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dc212d92a1ada802e8bbdaa8cc9889a82094afbc</link><description><![CDATA[<a href="https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required">https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required</a> - - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).<br>
  ]]></description>
@@ -41,21 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/318f682b55161cc06e82d0c27e67c7d091405522</link><description><![CDATA[<a href="https://www.aikido.dev">https://www.aikido.dev</a> - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.<br>
- ]]></description>
-</item>
-<item>
-	<title>add vulert as sca tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c0ac7aca278c2ff43a291a000d57e08e391cdaf</link><description><![CDATA[<a href="https://vulert.com">https://vulert.com</a> - Vulert continuously monitors your open-source dependencies for new vulnerabilities, recommends fixes, without requiring installation or access to your codebase. Free for open-source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8eff2f0719833199ca48d38a7474c926b38fe930</link><description><![CDATA[<a href="https://appcircle.io">https://appcircle.io</a> - An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.<br>
- ]]></description>
-</item>
-<item>
-	<title>Appcircle description Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/94f32f302210d0f492646efec7bb71c1fcab5c9e</link><description><![CDATA[<a href="https://appcircle.io">https://appcircle.io</a> - An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle<br>
  ]]></description>
 </item>
 
