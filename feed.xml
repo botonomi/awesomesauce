@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42b0da9e083dc40a8ec91507da889267936bc789</link><description><![CDATA[<a href="https://www.manageengine.com/cloud-siem/">https://www.manageengine.com/cloud-siem/</a> - Cloud](https://www.manageengine.com/cloud-siem/) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update ManageEngine free quota</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f15ff2f627e2604d9b62865b9a38e2008df08d58</link><description><![CDATA[<a href="https://www.manageengine.com/cloud-log-management">https://www.manageengine.com/cloud-log-management</a> - Cloud](https://www.manageengine.com/cloud-log-management) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Doppio.sh</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8a9da5551f1378c155195b6c36645760015a831a</link><description><![CDATA[<a href="https://doppio.sh/">https://doppio.sh/</a> - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.<br>
  ]]></description>
@@ -48,16 +58,6 @@
 <item>
 	<title>Add EMQX Serverless</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dc212d92a1ada802e8bbdaa8cc9889a82094afbc</link><description><![CDATA[<a href="https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required">https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required</a> - - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Sweego to Email category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e08f87175b80b40a94406a4366821c19de54bd4a</link><description><![CDATA[<a href="https://www.sweego.io/">https://www.sweego.io/</a> - European transactional emails API for developers. 500 emails/day free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Teaminal</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4cb3d9d8d5117bce8210a3a769e7f726bc37ebcc</link><description><![CDATA[<a href="https://www.teaminal.com">https://www.teaminal.com</a> - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.<br>
  ]]></description>
 </item>
 
