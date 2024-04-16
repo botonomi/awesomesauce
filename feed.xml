@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fix the fix - ups :D</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/531c29c56c20b242da8cffcfd17cc09365347aa7</link><description><![CDATA[<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 500 subscribers and 1,000 emails/month free.<br>
+<a href="https://maildroppa.com">https://maildroppa.com</a> - Up to 100 subscribers and unlimited emails as well as automations for free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>fix</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a84e99c7a7b9a452e1ed9671086461c648ba39b2</link><description><![CDATA[<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 100 subscribers and 1,000 emails/month free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Maildroppa</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/540fda90046819671aba61c5c0f32f1057e01196</link><description><![CDATA[<a href="https://maildroppa.com">https://maildroppa.com</a> - Up to 500 subscribers and unlimited emails as well as automations for free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Career Developement tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d181fc1df721668b113ab9aeaff4cc347f64dddb</link><description><![CDATA[<a href="https://ayehigh.com">https://ayehigh.com</a> - Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.<br>
 <a href="https://www.overleaf.com/latex/templates/tagged/cv">https://www.overleaf.com/latex/templates/tagged/cv</a> - Resume Templates & Edtior](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.<br>
@@ -49,16 +65,6 @@
 <item>
 	<title>Moved engagespot from baas to messaging and streaming</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a9a1715510ce5486b98bb2a690311841c82e0f34</link><description><![CDATA[<a href="https://engagespot.co/">https://engagespot.co/</a> - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b7397f31d44b6df655a08fb6cc4efe0a5dc64567</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Cody AI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/be531225a0db13e6c1476112ad39612c06c7cdb4</link><description><![CDATA[<a href="https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b">https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b</a> - - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. Cody gives developers a choice of LLMs (including local inference), has support for various IDEs, supports all popular programming languages, and has a free plan. The free plan gives developers 20 chat messages (using Claude 3 Sonnet as the LLM) and 500 autocompletions (using the Starcoder 16b) each month.<br>
-<a href="https://sourcegraph.com/">https://sourcegraph.com/</a> - Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source<br>
  ]]></description>
 </item>
 
