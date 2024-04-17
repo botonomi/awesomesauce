@@ -4,6 +4,30 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f9999f14065dff0314bba1beb03887b06d2ea590</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/78093abdd7754b0514498f0c0f6345fe29992bfd</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - Framagit is the software forge of Framasoft based on the Gitlab software. :<br>
+<a href="[https://about.gitlab.com/product/continuous-integration] (Free for Public Repos, 400 mins/month for private repos">[https://about.gitlab.com/product/continuous-integration] (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
+<a href="https://about.gitlab.com/product/pages)">https://about.gitlab.com/product/pages)</a> - with [FramaPages](https://about.gitlab.com/product/pages)).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Translate text</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d7a95676ff54d9c0d0de461e62edbbe3b9703078</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - is the software forge of Framasoft based on the Gitlab software. :<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Framagit in the list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f7c6305a32a3608b0ec0b0bdf96eeffcac753d5d</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - est la forge logicielle de Framasoft reposant sur le logiciel Gitlab. :<br>
+<a href="https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos">https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
+<a href="https://docs.gitlab.com/ce/user/project/pages/index.html)">https://docs.gitlab.com/ce/user/project/pages/index.html)</a> - with [FramaPages]([https://about.gitlab.com/product/pages](https://docs.gitlab.com/ce/user/project/pages/index.html)).<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix the fix - ups :D</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/531c29c56c20b242da8cffcfd17cc09365347aa7</link><description><![CDATA[<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 500 subscribers and 1,000 emails/month free.<br>
 <a href="https://maildroppa.com">https://maildroppa.com</a> - Up to 100 subscribers and unlimited emails as well as automations for free.<br>
@@ -43,28 +67,6 @@
 <item>
 	<title>Add Doppio.sh</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8a9da5551f1378c155195b6c36645760015a831a</link><description><![CDATA[<a href="https://doppio.sh/">https://doppio.sh/</a> - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Novu.co</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3dacecfab9a70e29f20a93c48721739f7e8cf82b</link><description><![CDATA[<a href="https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user">https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user</a> - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 20 job executions free per month with previews and auto-deploys included in the free tier.<br>
-<a href="https://novu.co">https://novu.co</a> - The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.<br>
-<a href="https://singlebase.cloud">https://singlebase.cloud</a> - SinglebaseCloud is an AI-powered all-in-one backend platform to accelerate app development. It offers tools like Vector DB, Relational Document DB, Auth, Search, and Storage, aiming to simplify backend development. Free/Starter Plan offers Relational Document DB, Auth, Search, Storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Change dash</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d7c231b7ebceafbf0e4e3c8dd8b3d31945db7ef5</link><description><![CDATA[<a href="https://metricswave.com">https://metricswave.com</a> - Privacy-friendly Google Analytics alternative for developers. Free plan allows 20k pageviews per month without credit card.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add MetricsWave to Analytics services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b1e1f490ef0274b47ebfdae1d29dce2ce10737e1</link><description><![CDATA[<a href="https://metricswave.com">https://metricswave.com</a> - Privacy-friendly Google Analytics alternative for developers. Free plan allows 20k pageviews per month without credit card.<br>
- ]]></description>
-</item>
-<item>
-	<title>Moved engagespot from baas to messaging and streaming</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a9a1715510ce5486b98bb2a690311841c82e0f34</link><description><![CDATA[<a href="https://engagespot.co/">https://engagespot.co/</a> - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.<br>
  ]]></description>
 </item>
 
