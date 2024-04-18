@@ -4,6 +4,29 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Pyrexp, an online regex tester and visualizer</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9edf1dd0b595797787f5e779bbd3f10b21a8bdf5</link><description><![CDATA[<a href="https://pythonium.net/regex">https://pythonium.net/regex</a> - Free web-based regex tester and visualizer for debugging regular expressions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/597f711646986c53c3294f7327d02c1f1e18d719</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Fold Requestly to single line</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/aa72ff1db7aaa11748223b9c9d8ee127934d3c98</link><description><![CDATA[<a href="https://requestly.com/products/session-book/">https://requestly.com/products/session-book/</a> - Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/). Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Requestly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/33107e2b4f589b49ac4b4da8528b7a2aad987d78</link><description><![CDATA[<a href="https://requestly.com/">https://requestly.com/</a> - <br>
+<a href="https://requestly.com/products/web-debugger/">https://requestly.com/products/web-debugger/</a> - — Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests. Alternative to Charles Proxy & Fiddler. Free tier include creating upto 5 rules. Completely free for open source projects.<br>
+<a href="https://requestly.com/products/mock-server/">https://requestly.com/products/mock-server/</a> - — Generate Mock API Endpoints. Define custom HTTP status code & custom headers. Create upto 5 mocks in free tier.<br>
+<a href="https://requestly.com/products/api-client/">https://requestly.com/products/api-client/</a> - - Open-source & Web based API Client. Minimal. Free for everyone.<br>
+<a href="https://requestly.com/products/session-book/">https://requestly.com/products/session-book/</a> - Open-source Chrome Extension - Session Recording & Replay for Developer & QA teams. Generate Link and Share. Includes Console Logs, Network Logs. Generate Mock APIs directly. Auto-generate bug report via JIRA Issue. Free tier includes upto 10 saved sessions.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f9999f14065dff0314bba1beb03887b06d2ea590</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.<br>
  ]]></description>
@@ -52,21 +75,6 @@
 <item>
 	<title>update pdf factory</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/48cd27fbe5d41aec69743ae75c5e5439278fc2b6</link><description><![CDATA[<a href="https://pdf-api.io">https://pdf-api.io</a> - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/42b0da9e083dc40a8ec91507da889267936bc789</link><description><![CDATA[<a href="https://www.manageengine.com/cloud-siem/">https://www.manageengine.com/cloud-siem/</a> - Cloud](https://www.manageengine.com/cloud-siem/) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update ManageEngine free quota</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f15ff2f627e2604d9b62865b9a38e2008df08d58</link><description><![CDATA[<a href="https://www.manageengine.com/cloud-log-management">https://www.manageengine.com/cloud-log-management</a> - Cloud](https://www.manageengine.com/cloud-log-management) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Doppio.sh</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8a9da5551f1378c155195b6c36645760015a831a</link><description><![CDATA[<a href="https://doppio.sh/">https://doppio.sh/</a> - Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.<br>
  ]]></description>
 </item>
 
