@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Jam</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/69caf5918f8e99f43439b9869022df6291cb9b79</link><description><![CDATA[<a href="https://jam.dev">https://jam.dev</a> - Developer friendly bug reports in one click. Free plan with unlimited jams.<br>
+ ]]></description>
+</item>
+<item>
 	<title>refactor info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cb020198245a4f805f72ce1ea3804555955e1c28</link><description><![CDATA[<a href="https://www.pythonanywhere.com/">https://www.pythonanywhere.com/</a> - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free<br>
  ]]></description>
@@ -455,17 +460,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/f7c6305a32a3608b0ec0b0bdf96eeffcac753d5d</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - est la forge logicielle de Framasoft reposant sur le logiciel Gitlab. :<br>
 <a href="https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos">https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
 <a href="https://docs.gitlab.com/ce/user/project/pages/index.html)">https://docs.gitlab.com/ce/user/project/pages/index.html)</a> - with [FramaPages]([https://about.gitlab.com/product/pages](https://docs.gitlab.com/ce/user/project/pages/index.html)).<br>
- ]]></description>
-</item>
-<item>
-	<title>fix the fix - ups :D</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/531c29c56c20b242da8cffcfd17cc09365347aa7</link><description><![CDATA[<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 500 subscribers and 1,000 emails/month free.<br>
-<a href="https://maildroppa.com">https://maildroppa.com</a> - Up to 100 subscribers and unlimited emails as well as automations for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a84e99c7a7b9a452e1ed9671086461c648ba39b2</link><description><![CDATA[<a href="https://mailchimp.com/">https://mailchimp.com/</a> - 100 subscribers and 1,000 emails/month free.<br>
  ]]></description>
 </item>
 
