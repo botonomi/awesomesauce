@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "add PythonAnywhere & Glitch"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e013edb5487377389cdbe7428b05da2fad00e790</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove Platform9</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/02f126e009ae4c0af3928090fb5a020b3fd4a0e7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Jam</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/69caf5918f8e99f43439b9869022df6291cb9b79</link><description><![CDATA[<a href="https://jam.dev">https://jam.dev</a> - Developer friendly bug reports in one click. Free plan with unlimited jams.<br>
  ]]></description>
@@ -441,25 +450,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f9999f14065dff0314bba1beb03887b06d2ea590</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/78093abdd7754b0514498f0c0f6345fe29992bfd</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - Framagit is the software forge of Framasoft based on the Gitlab software. :<br>
-<a href="[https://about.gitlab.com/product/continuous-integration] (Free for Public Repos, 400 mins/month for private repos">[https://about.gitlab.com/product/continuous-integration] (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
-<a href="https://about.gitlab.com/product/pages)">https://about.gitlab.com/product/pages)</a> - with [FramaPages](https://about.gitlab.com/product/pages)).<br>
- ]]></description>
-</item>
-<item>
-	<title>Translate text</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d7a95676ff54d9c0d0de461e62edbbe3b9703078</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - is the software forge of Framasoft based on the Gitlab software. :<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Framagit in the list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f7c6305a32a3608b0ec0b0bdf96eeffcac753d5d</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - est la forge logicielle de Framasoft reposant sur le logiciel Gitlab. :<br>
-<a href="https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos">https://docs.gitlab.com/ce/ci/README.html)) (Free for Public Repos, 400 mins/month for private repos</a> - for Public Repos, 400 mins/month for private repos)<br>
-<a href="https://docs.gitlab.com/ce/user/project/pages/index.html)">https://docs.gitlab.com/ce/user/project/pages/index.html)</a> - with [FramaPages]([https://about.gitlab.com/product/pages](https://docs.gitlab.com/ce/user/project/pages/index.html)).<br>
  ]]></description>
 </item>
 
