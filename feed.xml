@@ -4,8 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>moved under the zoho service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f798954682dff9130321452df64e11b9e5d753a2</link><description><![CDATA[<a href="https://www.zoho.com/assist">https://www.zoho.com/assist</a> - — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated the product name</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8c2449198bde68fa3a42f600e0645a7876c703e7</link><description><![CDATA[<a href="https://www.zoho.com/assist/free-remote-access.html">https://www.zoho.com/assist/free-remote-access.html</a> - — Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update the free licensing page link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/900dd3ba841a043ff5d06132b14bc88705f27337</link><description><![CDATA[<a href="https://www.zoho.com/assist/free-remote-access.html">https://www.zoho.com/assist/free-remote-access.html</a> - Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove LightCDN from the list.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f3f5f59e332021683d9f8c1c5b7a97acaadb5f92</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Added the zoho assist tool under the  Remote Desktop Tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bb5f28bdcddd98e00638835852e3f53cccb87152</link><description><![CDATA[<a href="https://zoho.com/assist">https://zoho.com/assist</a> - Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Update README.md</title>
@@ -432,15 +452,6 @@
 <a href="https://glitch.com/">https://glitch.com/</a> - Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR<br>
 <a href="#table-of-contents">#table-of-contents</a> - to Top](#table-of-contents)**<br>
  ]]></description>
-</item>
-<item>
-	<title>Add Pyrexp, an online regex tester and visualizer</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9edf1dd0b595797787f5e779bbd3f10b21a8bdf5</link><description><![CDATA[<a href="https://pythonium.net/regex">https://pythonium.net/regex</a> - Free web-based regex tester and visualizer for debugging regular expressions.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/597f711646986c53c3294f7327d02c1f1e18d719</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
