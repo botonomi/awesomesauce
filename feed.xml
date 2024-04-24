@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove LightCDN from the list.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f3f5f59e332021683d9f8c1c5b7a97acaadb5f92</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54bd005540c495b27b82f57635472145910820c6</link><description><![CDATA[<a href="https://www.overleaf.com/latex/templates/tagged/cv">https://www.overleaf.com/latex/templates/tagged/cv</a> - Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Revert "add PythonAnywhere & Glitch"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e013edb5487377389cdbe7428b05da2fad00e790</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
  ]]></description>
@@ -432,25 +441,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/597f711646986c53c3294f7327d02c1f1e18d719</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Fold Requestly to single line</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aa72ff1db7aaa11748223b9c9d8ee127934d3c98</link><description><![CDATA[<a href="https://requestly.com/products/session-book/">https://requestly.com/products/session-book/</a> - Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/). Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Requestly</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/33107e2b4f589b49ac4b4da8528b7a2aad987d78</link><description><![CDATA[<a href="https://requestly.com/">https://requestly.com/</a> - <br>
-<a href="https://requestly.com/products/web-debugger/">https://requestly.com/products/web-debugger/</a> - — Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests. Alternative to Charles Proxy & Fiddler. Free tier include creating upto 5 rules. Completely free for open source projects.<br>
-<a href="https://requestly.com/products/mock-server/">https://requestly.com/products/mock-server/</a> - — Generate Mock API Endpoints. Define custom HTTP status code & custom headers. Create upto 5 mocks in free tier.<br>
-<a href="https://requestly.com/products/api-client/">https://requestly.com/products/api-client/</a> - - Open-source & Web based API Client. Minimal. Free for everyone.<br>
-<a href="https://requestly.com/products/session-book/">https://requestly.com/products/session-book/</a> - Open-source Chrome Extension - Session Recording & Replay for Developer & QA teams. Generate Link and Share. Includes Console Logs, Network Logs. Generate Mock APIs directly. Auto-generate bug report via JIRA Issue. Free tier includes upto 10 saved sessions.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f9999f14065dff0314bba1beb03887b06d2ea590</link><description><![CDATA[<a href="https://framagit.org/">https://framagit.org/</a> - Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.<br>
- ]]></description>
 </item>
 
 </channel>
