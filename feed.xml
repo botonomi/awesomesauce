@@ -4,6 +4,14 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove invision link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ca762763503479ca86f2bd19701855ed5b48cc37</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove Jumpcloud link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c9e90f595f06077752f1fb15ce4d018aa2f0a895</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>remove storj because no more free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5418211e9d2134abdaef5e84db0f1d1542e6646e</link><description><![CDATA[ ]]></description>
 </item>
@@ -48,11 +56,6 @@
 <item>
 	<title>Add Jam</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/69caf5918f8e99f43439b9869022df6291cb9b79</link><description><![CDATA[<a href="https://jam.dev">https://jam.dev</a> - Developer friendly bug reports in one click. Free plan with unlimited jams.<br>
- ]]></description>
-</item>
-<item>
-	<title>refactor info</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cb020198245a4f805f72ce1ea3804555955e1c28</link><description><![CDATA[<a href="https://www.pythonanywhere.com/">https://www.pythonanywhere.com/</a> - PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web editor or simply start a console session. The platform provides one low powered CPU web app at your-username.pythonanywhere.com for free<br>
  ]]></description>
 </item>
 
