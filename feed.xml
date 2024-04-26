@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3ad2aa51bd826dc02ecc0bb9918082602ff361b9</link><description><![CDATA[<a href="https://imageengine.io/developer-program/">https://imageengine.io/developer-program/</a> - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'ripienaar:master' into patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9850ed8d1a8f41d3c5f1537dee65c6603b58684e</link><description><![CDATA[ ]]></description>
 </item>
@@ -53,11 +58,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/54bd005540c495b27b82f57635472145910820c6</link><description><![CDATA[<a href="https://www.overleaf.com/latex/templates/tagged/cv">https://www.overleaf.com/latex/templates/tagged/cv</a> - Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.<br>
- ]]></description>
-</item>
-<item>
-	<title>Revert "add PythonAnywhere & Glitch"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e013edb5487377389cdbe7428b05da2fad00e790</link><description><![CDATA[<a href="#table-of-contents">#table-of-contents</a> - Top](#table-of-contents)**<br>
  ]]></description>
 </item>
 
