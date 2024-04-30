@@ -4,6 +4,38 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add free limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4f2a81f0b89b4d74ce2ff70fe7c5fc77851deeb6</link><description><![CDATA[<a href="https://www.leiga.com/">https://www.leiga.com/</a> - Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned. Free for up to 10 users, 20 custom fields, 2GB of storage space, Video Recording with AI limited to 5 mins/video, Automation Runs at 20/user/month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Moved ConnectyCube to BaaS</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a162366bc75071215ef391f367fe43df84929795</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add backgroundstlyler</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b22f56041e6f116242dd8d5bc4daeb4c21428b06</link><description><![CDATA[<a href="https://backgroundstyler.com">https://backgroundstyler.com</a> - Create aesthetic screenshots of your code, text or images to share on social media.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/614b5b460ef5c97ee67f026d334f6fd429c2d1e1</link><description><![CDATA[<a href="https://www.lapa.ninja/">https://www.lapa.ninja/</a> - - [Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5769e70ab525cc48cce17c9c099c00fbabe28cb2</link><description><![CDATA[<a href="https://landings.dev/">https://landings.dev/</a> - [Web screenshots] Find the best landing pages for your design inspiration based on your preference.<br>
+<a href="https://pageflows.com/">https://pageflows.com/</a> - - [Mobile / web videos and screenshots] Videos of full flows across many mobile and web apps. Also includes screenshots. Highly searchable and indexed.<br>
+<a href="https://uigarage.net/">https://uigarage.net/</a> - - [Mobile / web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Leiga</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/881c138ef677d51ffa6337141dc0eb53d041a324</link><description><![CDATA[<a href="https://www.leiga.com/">https://www.leiga.com/</a> - Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8576111827481f7fb39f781baa9263bae7c7d00c</link><description><![CDATA[<a href="https://freesound.org/">https://freesound.org/</a> - Free collaborative sound library offerer with different CC licenses.<br>
  ]]></description>
@@ -30,34 +62,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/c84ebbba92f368df4ac0278cd1b445c0b35eee1a</link><description><![CDATA[<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Use your API definition to generate SDKs in popular languages, and generate API reference documentation webpages. Add Markdown pages to your API reference and host them with Fern for a full documentation solution. OpenAPI fully supported.<br>
 <a href="https://buildwithfern.com">https://buildwithfern.com</a> - Write API definitions and use them to generate SDKs/client libraries in popular languages such as TypeScript, Python, Java, Go, and more. OpenAPI fully supported. Free tier generates code for up to a max of 20 endpoints.<br>
 <a href="https://buildwithfern.com">https://buildwithfern.com</a> - Build and host a Markdown-based documentation site on Fern's free plan. You can even auto-generate an API reference for your site from API definition files. The site is hosted at _yoursite_.docs.buildwithfern.com.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove storj because no more free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5418211e9d2134abdaef5e84db0f1d1542e6646e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>moved under the zoho service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f798954682dff9130321452df64e11b9e5d753a2</link><description><![CDATA[<a href="https://www.zoho.com/assist">https://www.zoho.com/assist</a> - — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated the product name</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8c2449198bde68fa3a42f600e0645a7876c703e7</link><description><![CDATA[<a href="https://www.zoho.com/assist/free-remote-access.html">https://www.zoho.com/assist/free-remote-access.html</a> - — Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update the free licensing page link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/900dd3ba841a043ff5d06132b14bc88705f27337</link><description><![CDATA[<a href="https://www.zoho.com/assist/free-remote-access.html">https://www.zoho.com/assist/free-remote-access.html</a> - Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove LightCDN from the list.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f3f5f59e332021683d9f8c1c5b7a97acaadb5f92</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added the zoho assist tool under the  Remote Desktop Tools</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bb5f28bdcddd98e00638835852e3f53cccb87152</link><description><![CDATA[<a href="https://zoho.com/assist">https://zoho.com/assist</a> - Zoho Assist's forever free plan includes one technician and 5 URS computer licenses, enabling you to manage your assets remotely.<br>
  ]]></description>
 </item>
 
