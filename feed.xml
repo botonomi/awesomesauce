@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>cyclicsh is shutting down effective may 30</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/03c1f0b21f362ac0a1d36f8a46a205e307814ad0</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>add free limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f2a81f0b89b4d74ce2ff70fe7c5fc77851deeb6</link><description><![CDATA[<a href="https://www.leiga.com/">https://www.leiga.com/</a> - Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned. Free for up to 10 users, 20 custom fields, 2GB of storage space, Video Recording with AI limited to 5 mins/video, Automation Runs at 20/user/month.<br>
  ]]></description>
@@ -52,17 +56,6 @@
 <item>
 	<title>Remove invision link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ca762763503479ca86f2bd19701855ed5b48cc37</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove Jumpcloud link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c9e90f595f06077752f1fb15ce4d018aa2f0a895</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add Fern to lists</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c84ebbba92f368df4ac0278cd1b445c0b35eee1a</link><description><![CDATA[<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Use your API definition to generate SDKs in popular languages, and generate API reference documentation webpages. Add Markdown pages to your API reference and host them with Fern for a full documentation solution. OpenAPI fully supported.<br>
-<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Write API definitions and use them to generate SDKs/client libraries in popular languages such as TypeScript, Python, Java, Go, and more. OpenAPI fully supported. Free tier generates code for up to a max of 20 endpoints.<br>
-<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Build and host a Markdown-based documentation site on Fern's free plan. You can even auto-generate an API reference for your site from API definition files. The site is hosted at _yoursite_.docs.buildwithfern.com.<br>
- ]]></description>
 </item>
 
 </channel>
