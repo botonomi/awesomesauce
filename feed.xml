@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Smart Notes from README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4c23021e0cb8fe238ef09619ce613103236a1fdf</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>cyclicsh is shutting down effective may 30</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/03c1f0b21f362ac0a1d36f8a46a205e307814ad0</link><description><![CDATA[ ]]></description>
 </item>
@@ -40,6 +44,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Added Smart Notes</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6b474cba703b134329764392bb13a3565c86011a</link><description><![CDATA[<a href="https://smart-notes.sg-app.com">https://smart-notes.sg-app.com</a> - - Free cloud-based notepad with advanced features like Collaborative Editing, Nearby Sharing, Rich Text Support, and much more!<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8576111827481f7fb39f781baa9263bae7c7d00c</link><description><![CDATA[<a href="https://freesound.org/">https://freesound.org/</a> - Free collaborative sound library offerer with different CC licenses.<br>
  ]]></description>
@@ -48,14 +57,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3ad2aa51bd826dc02ecc0bb9918082602ff361b9</link><description><![CDATA[<a href="https://imageengine.io/developer-program/">https://imageengine.io/developer-program/</a> - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9850ed8d1a8f41d3c5f1537dee65c6603b58684e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Remove invision link</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca762763503479ca86f2bd19701855ed5b48cc37</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
