@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>feat: add nx cloud to ci cd</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a1af1ab35ee32f7d54a3c24e4bc83ede144a2f15</link><description><![CDATA[<a href="https://nx.dev/ci">https://nx.dev/ci</a> - - Nx Cloud speeds up your monorepos on CI with features such as remote caching, distribution of tasks across machines and even automated splitting of your e2e test runs. It comes with a free plan for up to 30 contributors with generous 150k credits included.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md (Added free tool)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d66932bcb1ba663dec471acd1d9140634b39bcd</link><description><![CDATA[<a href="https://imgbb.com/">https://imgbb.com/</a> - ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Revive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update SmartParse perks</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fcfd02ba49741fd6d292ca6031371d0847dc7362</link><description><![CDATA[<a href="https://smartparse.io">https://smartparse.io</a> - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.<br>
  ]]></description>
@@ -39,28 +49,6 @@
 <item>
 	<title>add backgroundstlyler</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b22f56041e6f116242dd8d5bc4daeb4c21428b06</link><description><![CDATA[<a href="https://backgroundstyler.com">https://backgroundstyler.com</a> - Create aesthetic screenshots of your code, text or images to share on social media.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/614b5b460ef5c97ee67f026d334f6fd429c2d1e1</link><description><![CDATA[<a href="https://www.lapa.ninja/">https://www.lapa.ninja/</a> - - [Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5769e70ab525cc48cce17c9c099c00fbabe28cb2</link><description><![CDATA[<a href="https://landings.dev/">https://landings.dev/</a> - [Web screenshots] Find the best landing pages for your design inspiration based on your preference.<br>
-<a href="https://pageflows.com/">https://pageflows.com/</a> - - [Mobile / web videos and screenshots] Videos of full flows across many mobile and web apps. Also includes screenshots. Highly searchable and indexed.<br>
-<a href="https://uigarage.net/">https://uigarage.net/</a> - - [Mobile / web screenshots] Daily UI inspiration & patterns for designers and developers to find inspiration, tools, and the best resources for your project.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Leiga</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/881c138ef677d51ffa6337141dc0eb53d041a324</link><description><![CDATA[<a href="https://www.leiga.com/">https://www.leiga.com/</a> - Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Smart Notes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6b474cba703b134329764392bb13a3565c86011a</link><description><![CDATA[<a href="https://smart-notes.sg-app.com">https://smart-notes.sg-app.com</a> - - Free cloud-based notepad with advanced features like Collaborative Editing, Nearby Sharing, Rich Text Support, and much more!<br>
  ]]></description>
 </item>
 
