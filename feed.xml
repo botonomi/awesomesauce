@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Aded Market Data API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/557312286419d1a2b001d32c314b58cc691e230f</link><description><![CDATA[<a href="https://www.marketdata.app">https://www.marketdata.app</a> - API](https://www.marketdata.app) - Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.<br>
+ ]]></description>
+</item>
+<item>
 	<title>feat: add nx cloud to ci cd</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a1af1ab35ee32f7d54a3c24e4bc83ede144a2f15</link><description><![CDATA[<a href="https://nx.dev/ci">https://nx.dev/ci</a> - - Nx Cloud speeds up your monorepos on CI with features such as remote caching, distribution of tasks across machines and even automated splitting of your e2e test runs. It comes with a free plan for up to 30 contributors with generous 150k credits included.<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>Moved ConnectyCube to BaaS</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a162366bc75071215ef391f367fe43df84929795</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.<br>
- ]]></description>
-</item>
-<item>
-	<title>add backgroundstlyler</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b22f56041e6f116242dd8d5bc4daeb4c21428b06</link><description><![CDATA[<a href="https://backgroundstyler.com">https://backgroundstyler.com</a> - Create aesthetic screenshots of your code, text or images to share on social media.<br>
  ]]></description>
 </item>
 
