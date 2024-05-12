@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec89e81c8db4413361a8db8990e94059599f4dda</link><description><![CDATA[<a href="https://imgbb.com/">https://imgbb.com/</a> - ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Aded Market Data API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/557312286419d1a2b001d32c314b58cc691e230f</link><description><![CDATA[<a href="https://www.marketdata.app">https://www.marketdata.app</a> - API](https://www.marketdata.app) - Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.<br>
  ]]></description>
@@ -44,11 +49,6 @@
 <item>
 	<title>add free limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4f2a81f0b89b4d74ce2ff70fe7c5fc77851deeb6</link><description><![CDATA[<a href="https://www.leiga.com/">https://www.leiga.com/</a> - Leiga is a SaaS product that uses AI to automatically manage your projects, helping your team stay focused and unleash immense potential, ensuring your projects progress as planned. Free for up to 10 users, 20 custom fields, 2GB of storage space, Video Recording with AI limited to 5 mins/video, Automation Runs at 20/user/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Moved ConnectyCube to BaaS</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a162366bc75071215ef391f367fe43df84929795</link><description><![CDATA[<a href="https://connectycube.com">https://connectycube.com</a> - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.<br>
  ]]></description>
 </item>
 
