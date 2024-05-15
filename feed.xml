@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6c9dcab44fbab223f1a63c124d6a9647786a8fcc</link><description><![CDATA[<a href="https://getampt.com/">https://getampt.com/</a> - Ampt lets teams build, deploy, and scale JavaScript apps on AWS without complicated configs or managing infrastructure. Free Preview plan includes 500 invocations hourly, 2,500 invocations daily and 50,000 invocations monthly. Custom domains are allowed only in the paid plans.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'master' into add_appfit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5e63504c32747b0e6cc36f7e90080b3ce23182a4</link><description><![CDATA[<a href="https://sourcegraph.com/cody) - Free AI coding assistant that can write (Code blocks, autocomplete, unit tests), understand (knowledge of your entire codebase">https://sourcegraph.com/cody) - Free AI coding assistant that can write (Code blocks, autocomplete, unit tests), understand (knowledge of your entire codebase</a> - Free AI coding assistant that can write (Code blocks, autocomplete, unit tests), understand (knowledge of your entire codebase), fix, and find your code.<br>
 <a href="https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai&utm_campaign=2023-12%20Cody%20GA%20Email%20Series&utm_medium=email&utm_content=286089267&utm_source=hs_automation">https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai&utm_campaign=2023-12%20Cody%20GA%20Email%20Series&utm_medium=email&utm_content=286089267&utm_source=hs_automation</a> - - Extension<br>
@@ -931,10 +936,6 @@
 	<title>Add SmartParse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ed352bfdd9f5a12ae5ce98ada544508004cdc44</link><description><![CDATA[<a href="https://smartparse.io">https://smartparse.io</a> - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove Smart Notes from README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c23021e0cb8fe238ef09619ce613103236a1fdf</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
