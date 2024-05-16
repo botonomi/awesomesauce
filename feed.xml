@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>initial commit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2f896a0e23ca1cee39b91fc2317c95a1042a5dfd</link><description><![CDATA[<a href="https://developer.wikimint.com/p/tools.html">https://developer.wikimint.com/p/tools.html</a> - - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6c9dcab44fbab223f1a63c124d6a9647786a8fcc</link><description><![CDATA[<a href="https://getampt.com/">https://getampt.com/</a> - Ampt lets teams build, deploy, and scale JavaScript apps on AWS without complicated configs or managing infrastructure. Free Preview plan includes 500 invocations hourly, 2,500 invocations daily and 50,000 invocations monthly. Custom domains are allowed only in the paid plans.<br>
  ]]></description>
@@ -930,11 +935,6 @@
 <item>
 	<title>added fonts.xz.style</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4cbe1ed79260a320c5f21a244a5db6c8511f2d1c</link><description><![CDATA[<a href="https://fonts.xz.style/">https://fonts.xz.style/</a> - and open source service for delivering font families to websites using CSS.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add SmartParse</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9ed352bfdd9f5a12ae5ce98ada544508004cdc44</link><description><![CDATA[<a href="https://smartparse.io">https://smartparse.io</a> - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.<br>
  ]]></description>
 </item>
 
