@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Fix - to -- (en dash)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f64ad13d43a22a6eb8d4a67dc7e67fc687be5b2a</link><description><![CDATA[<a href="https://translate.codeberg.org/">https://translate.codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking<br>
+ ]]></description>
+</item>
+<item>
+	<title>Updated Codeberg</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1dd9560147e89fe80d31440e8dffb2e32164d714</link><description><![CDATA[<a href="https://translate.codeberg.org/">https://translate.codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2fd7b3b82e4b826f6f663ccc4804be68e68129f</link><description><![CDATA[ ]]></description>
 </item>
@@ -57,11 +67,6 @@
 <item>
 	<title>Add DeepLearningAI Short Courses</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2e62c50f69587d5f23f27473cd1d858041991cc4</link><description><![CDATA[<a href="https://www.deeplearning.ai/short-courses/">https://www.deeplearning.ai/short-courses/</a> - Courses](https://www.deeplearning.ai/short-courses/) - Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.<br>
- ]]></description>
-</item>
-<item>
-	<title>initial commit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2f896a0e23ca1cee39b91fc2317c95a1042a5dfd</link><description><![CDATA[<a href="https://developer.wikimint.com/p/tools.html">https://developer.wikimint.com/p/tools.html</a> - - Always free tools for web developers that includes CSS minify unminify, image optimizer, image resizer, case convertor, CSS validator, JavaScript compiler, HTML editor, etc.<br>
  ]]></description>
 </item>
 
