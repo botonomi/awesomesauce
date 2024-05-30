@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Turso allowance</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/06f4a894281eaaa5470417ccf2eb079cfdd5d665</link><description><![CDATA[<a href="https://chiselstrike.com/">https://chiselstrike.com/</a> - ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add us.kg subdomain</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/77094dc60e61e3dee2d4db5b1404e5d742d95fe8</link><description><![CDATA[<a href="https://nic.us.kg/">https://nic.us.kg/</a> - Free us.kg subdomains.<br>
  ]]></description>
@@ -51,17 +56,6 @@
 <item>
 	<title>Add Momentary Email</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3cda1d3c9285375f7819477793c98d80cb82ab4b</link><description><![CDATA[<a href="https://www.momentaryemail.com/">https://www.momentaryemail.com/</a> - — Free Temporary Email Addresses. Read incoming emails on the website or by RSS feed.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Argos</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fe29565bb798b2cfec87abe99485991cbb1144e2</link><description><![CDATA[<a href="https://argos-ci.com">https://argos-ci.com</a> - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Inboxes App and SPF/DKIM/DMARC tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9a77401790cfbb20ab0afdc361bb839780d44453</link><description><![CDATA[<a href="https://inboxesapp.com">https://inboxesapp.com</a> - — A quick and easy Chrome Extension to create temporary emails, then delete them when you're done. Perfect for testing mail flows.<br>
-<a href="https://inboxesapp.com/simple-dmarc-spf-dkim-checker/">https://inboxesapp.com/simple-dmarc-spf-dkim-checker/</a> - and DMARC check tool](https://inboxesapp.com/simple-dmarc-spf-dkim-checker/) Quickly check the SPF, DKIM and DMARC is set up<br>
  ]]></description>
 </item>
 
