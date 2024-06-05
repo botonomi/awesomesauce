@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add email service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c266703647b5ad0528226bb526692812ef2339ae</link><description><![CDATA[<a href="https://yopmail.com/">https://yopmail.com/</a> - Free, temporary inboxes of your choice instantaneously.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Loadly in Mobile App Distribution</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/70a5b1f6f7de96ce552ea98b61f3de9545f36252</link><description><![CDATA[<a href="https://loadly.io">https://loadly.io</a> - iOS & Android beta apps distribution service offers completely free services with unlimited downloads, high-speed downloads, and unlimited uploads.<br>
  ]]></description>
@@ -41,17 +46,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d2fd7b3b82e4b826f6f663ccc4804be68e68129f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bd1acffd903f5ccc7f1fa2b7722c42fa9d086ced</link><description><![CDATA[<a href="https://inboxesapp.com">https://inboxesapp.com</a> - — Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f48ef417c0a8d9d02e0d72f65177295988e82106</link><description><![CDATA[<a href="https://inboxesapp.com">https://inboxesapp.com</a> - — Create up to 3 temporary emails a day, then delete them when you're done. Perfect for testing signup flows.<br>
-<a href="https://inboxesapp.com/simple-dmarc-spf-dkim-checker/">https://inboxesapp.com/simple-dmarc-spf-dkim-checker/</a> - and DMARC check tool](https://inboxesapp.com/simple-dmarc-spf-dkim-checker/) Quickly check that SPF, DKIM and DMARC is set up correctly for free.<br>
- ]]></description>
 </item>
 
 </channel>
