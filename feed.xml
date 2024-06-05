@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fix: transfernow url</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a00c51566a6c911ca274277af80221747ca508e4</link><description><![CDATA[<a href="https://www.transfernow.net/">https://www.transfernow.net/</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add simple paste site</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0d7e0e591b1802c52af2e2216690e130717b17f6</link><description><![CDATA[<a href="https://paste.sh/">https://paste.sh/</a> - This is a JavaScript and the Crypto based simple paste site.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add transfer and share files</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c920d7ccec72b516f8bbdd2eb7a375339924d533</link><description><![CDATA[<a href="https://www.transfernow.ne">https://www.transfernow.ne</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add email service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c266703647b5ad0528226bb526692812ef2339ae</link><description><![CDATA[<a href="https://yopmail.com/">https://yopmail.com/</a> - Free, temporary inboxes of your choice instantaneously.<br>
  ]]></description>
@@ -42,10 +57,6 @@
 	<title>Updated Codeberg</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1dd9560147e89fe80d31440e8dffb2e32164d714</link><description><![CDATA[<a href="https://translate.codeberg.org/">https://translate.codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking<br>
  ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d2fd7b3b82e4b826f6f663ccc4804be68e68129f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
