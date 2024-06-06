@@ -4,6 +4,31 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Description update</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ad99b936159b912a872eda148163f881f8e4203b</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Pull feedback from all sources and send follow-up surveys with one tool. Automatically analyze feedback and extract insights with AI. Free email, website, in-product or mobile surveys, AI survey creator, and 25 monthly responses.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding a brief message about what is free and changing the category t…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e303d38338728353dddb2c4d51794516aaff8c4b</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with third-party tools using native integrations. Free Plan with email, website, in-product or mobile surveys. Free 10-day trial with all Business Plan features.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Survicate</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7f52183e005775f54124350e70eba5e3d423f833</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Survicate</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6e2413ead55fbcb2f782657264a437e9b48fa5cb</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Survicate</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f876bc2fecdb97cb4619ff4ba28fe7f6a07249d8</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix: transfernow url</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a00c51566a6c911ca274277af80221747ca508e4</link><description><![CDATA[<a href="https://www.transfernow.net/">https://www.transfernow.net/</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
  ]]></description>
@@ -41,21 +66,6 @@
 <item>
 	<title>Add whitespace.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5b62fa041c296cf17df5ac69234c65bc0c2f4f2c</link><description><![CDATA[<a href="https://whitespace.dev">https://whitespace.dev</a> - One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adds Logo.dev free details.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9f60143911b3813dee2e9b163b6dd0c9b166cddb</link><description><![CDATA[<a href="https://www.logo.dev">https://www.logo.dev</a> - Company logo API with 44M+ brands that's as easy as calling a URL. First 10,000 API calls are free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix - to -- (en dash)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f64ad13d43a22a6eb8d4a67dc7e67fc687be5b2a</link><description><![CDATA[<a href="https://translate.codeberg.org/">https://translate.codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated Codeberg</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1dd9560147e89fe80d31440e8dffb2e32164d714</link><description><![CDATA[<a href="https://translate.codeberg.org/">https://translate.codeberg.org/</a> - Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking<br>
  ]]></description>
 </item>
 
