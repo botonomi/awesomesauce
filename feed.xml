@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added insomnia to ##APIs, Data, and ML</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9f45e5d12d27a13fb0f298b693d869197886e9bc</link><description><![CDATA[<a href="https://insomnia.rest">https://insomnia.rest</a> - Open-source API client for designing and testing APIs, it supports REST and GraphQL<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Statsig to Feature Toggles Management Platforms section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/38d0918b8d469928aadfa1c7b7ec182785de7c93</link><description><![CDATA[<a href="https://www.statsig.com">https://www.statsig.com</a> - A robust platform for feature management, A/B testing, analytics, and more. Its generous free plan offers unlimited seats, flags, experiments, and dynamic configurations, supporting up to 1 million events per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Updated contributor count to reflect current state</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/319ac55e534888a843159c5e5b5c8a857025270e</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.<br>
  ]]></description>
@@ -54,16 +64,6 @@
 <item>
 	<title>fix: transfernow url</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a00c51566a6c911ca274277af80221747ca508e4</link><description><![CDATA[<a href="https://www.transfernow.net/">https://www.transfernow.net/</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
- ]]></description>
-</item>
-<item>
-	<title>add simple paste site</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0d7e0e591b1802c52af2e2216690e130717b17f6</link><description><![CDATA[<a href="https://paste.sh/">https://paste.sh/</a> - This is a JavaScript and the Crypto based simple paste site.<br>
- ]]></description>
-</item>
-<item>
-	<title>add transfer and share files</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c920d7ccec72b516f8bbdd2eb7a375339924d533</link><description><![CDATA[<a href="https://www.transfernow.ne">https://www.transfernow.ne</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
  ]]></description>
 </item>
 
