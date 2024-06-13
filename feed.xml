@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove the tracking codes in the link for MarsCode</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e44541ea5c34927dd90a2608debd9e79a3043483</link><description><![CDATA[<a href="https://www.marscode.com/">https://www.marscode.com/</a> - A free AI-powered cloud-based IDE.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add MarsCode</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1ecc97fc2eb3f45e5f8adcd8705ee1af85cdc75b</link><description><![CDATA[<a href="https://www.marscode.com/?utm_source=github&utm_medium=rm">https://www.marscode.com/?utm_source=github&utm_medium=rm</a> - A free AI-powered cloud-based IDE.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added insomnia to ##APIs, Data, and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9f45e5d12d27a13fb0f298b693d869197886e9bc</link><description><![CDATA[<a href="https://insomnia.rest">https://insomnia.rest</a> - Open-source API client for designing and testing APIs, it supports REST and GraphQL<br>
  ]]></description>
@@ -54,16 +64,6 @@
 <item>
 	<title>Add Survicate</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6e2413ead55fbcb2f782657264a437e9b48fa5cb</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Survicate</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f876bc2fecdb97cb4619ff4ba28fe7f6a07249d8</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix: transfernow url</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a00c51566a6c911ca274277af80221747ca508e4</link><description><![CDATA[<a href="https://www.transfernow.net/">https://www.transfernow.net/</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
  ]]></description>
 </item>
 
