@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated contributor count to reflect current state</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/319ac55e534888a843159c5e5b5c8a857025270e</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Hypertune to ## Feature Toggles Management Platforms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/97ada7ccb262eecc69ac0e669fb837c550c7b297</link><description><![CDATA[<a href="https://www.hypertune.com">https://www.hypertune.com</a> - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and synchronous, in-memory, local flag evaluation. Free for up to 5 team members with unlimited feature flags and A/B tests.<br>
  ]]></description>
@@ -59,11 +64,6 @@
 <item>
 	<title>add transfer and share files</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c920d7ccec72b516f8bbdd2eb7a375339924d533</link><description><![CDATA[<a href="https://www.transfernow.ne">https://www.transfernow.ne</a> - simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.<br>
- ]]></description>
-</item>
-<item>
-	<title>add email service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c266703647b5ad0528226bb526692812ef2339ae</link><description><![CDATA[<a href="https://yopmail.com/">https://yopmail.com/</a> - Free, temporary inboxes of your choice instantaneously.<br>
  ]]></description>
 </item>
 
