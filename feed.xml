@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/728795e0f331604b8b0b312a1ebe567d683d5b00</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Remove the tracking codes in the link for MarsCode</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e44541ea5c34927dd90a2608debd9e79a3043483</link><description><![CDATA[<a href="https://www.marscode.com/">https://www.marscode.com/</a> - A free AI-powered cloud-based IDE.<br>
  ]]></description>
@@ -54,16 +58,6 @@
 <item>
 	<title>Adding a brief message about what is free and changing the category t…</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e303d38338728353dddb2c4d51794516aaff8c4b</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with third-party tools using native integrations. Free Plan with email, website, in-product or mobile surveys. Free 10-day trial with all Business Plan features.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Survicate</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7f52183e005775f54124350e70eba5e3d423f833</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Survicate</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e2413ead55fbcb2f782657264a437e9b48fa5cb</link><description><![CDATA[<a href="https://survicate.com/">https://survicate.com/</a> - Collect feedback from all sources. Automatically analyze, categorize and consolidate it with Feedback Hub and AI Insights Assistant to extract intelligence and make quicker decisions. Connect with dozens of third-party tools using native integrations.<br>
  ]]></description>
 </item>
 
