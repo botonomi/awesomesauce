@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Qonversion.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c0eefee42db303778801bb6e7bc694f14a4a8460</link><description><![CDATA[<a href="http://qonversion.io/">http://qonversion.io/</a> - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Hydrozen.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2fa1ebb05ae2d8dd75880ab427b4c1e750059d9b</link><description><![CDATA[<a href="https://hydrozen.io">https://hydrozen.io</a> - Uptime monitoring & Status pages, Free plan: 10 Uptime monitor, 5 heartbeat monitors, 1 Domain monitor and 1 Statuspage free.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>Add jsonserve.com to #apis-data-and-ml</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7fa9ecae9f3eb7230d1fbad7f1b34741b03f0d7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>add roadmap.sh as free education resource</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/708e427b6b262b240f5f87eeec3e0a70bdce829e</link><description><![CDATA[<a href="https://roadmap.sh">https://roadmap.sh</a> - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.<br>
- ]]></description>
 </item>
 
 </channel>
