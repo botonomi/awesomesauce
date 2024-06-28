@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added https://country-state-city.rebuscando.info/</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/10c328705de977d7e2c92d9cb82e5fb5e73e1d4b</link><description><![CDATA[<a href="https://country-state-city.rebuscando.info/">https://country-state-city.rebuscando.info/</a> - API](https://country-state-city.rebuscando.info/) - API and Microservice to provides a wide range of information including countries, regions, provinces, cities, postal codes, and much more. The free tier includes up to 100 requests per day.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add AhaSend.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/208e6147aee3ebd8953ea327de438f2e9a3746d7</link><description><![CDATA[<a href="https://ahasend.com">https://ahasend.com</a> - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.<br>
  ]]></description>
@@ -51,10 +56,6 @@
 	<title>Add Hypertune to ## Feature Toggles Management Platforms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/97ada7ccb262eecc69ac0e669fb837c550c7b297</link><description><![CDATA[<a href="https://www.hypertune.com">https://www.hypertune.com</a> - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and synchronous, in-memory, local flag evaluation. Free for up to 5 team members with unlimited feature flags and A/B tests.<br>
  ]]></description>
-</item>
-<item>
-	<title>Update JSONServe.com's details</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/91617793a980b409aa90f528d23f538f255538ae</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
