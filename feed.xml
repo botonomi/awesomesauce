@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>short description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f511e4aeeedf10ec4684c6a3c8bc6f7723a41db0</link><description><![CDATA[<a href="https://askclair.ai/">https://askclair.ai/</a> - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add Clair</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1ea5d8bd0899adf077fb89f96908d4379079840c</link><description><![CDATA[<a href="https://askclair.ai/">https://askclair.ai/</a> - Clinical AI Reference. Simply ask and receive. Clair's responses always come with links to original, clinically significant references like FDA Drug Package Inserts, the NIH Clinical Trials Database, the NLM Drug Interactions Database, and Clinical Guidelines. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added https://bismuth.cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fd9effbcf81f91fe0dbb6e9c473f61112ac206b2</link><description><![CDATA[<a href="https://www.bismuth.cloud/">https://www.bismuth.cloud/</a> - Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.<br>
  ]]></description>
@@ -45,16 +55,6 @@
 <item>
 	<title>Added insomnia to ##APIs, Data, and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9f45e5d12d27a13fb0f298b693d869197886e9bc</link><description><![CDATA[<a href="https://insomnia.rest">https://insomnia.rest</a> - Open-source API client for designing and testing APIs, it supports REST and GraphQL<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Statsig to Feature Toggles Management Platforms section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38d0918b8d469928aadfa1c7b7ec182785de7c93</link><description><![CDATA[<a href="https://www.statsig.com">https://www.statsig.com</a> - A robust platform for feature management, A/B testing, analytics, and more. Its generous free plan offers unlimited seats, flags, experiments, and dynamic configurations, supporting up to 1 million events per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Updated contributor count to reflect current state</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/319ac55e534888a843159c5e5b5c8a857025270e</link><description><![CDATA[<a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> - from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.<br>
  ]]></description>
 </item>
 
