@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Supermaven</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7509b08c42653d75ff14ceedbecc68c3b1f30b3a</link><description><![CDATA[<a href="https://www.supermaven.com/">https://www.supermaven.com/</a> - Supermaven is a fast AI code completion plugin for VSCode, JetBrains, and Neovim. Free tier provides unlimited inline completions.<br>
+ ]]></description>
+</item>
+<item>
 	<title>short description</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f511e4aeeedf10ec4684c6a3c8bc6f7723a41db0</link><description><![CDATA[<a href="https://askclair.ai/">https://askclair.ai/</a> - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Add MarsCode</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1ecc97fc2eb3f45e5f8adcd8705ee1af85cdc75b</link><description><![CDATA[<a href="https://www.marscode.com/?utm_source=github&utm_medium=rm">https://www.marscode.com/?utm_source=github&utm_medium=rm</a> - A free AI-powered cloud-based IDE.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added insomnia to ##APIs, Data, and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9f45e5d12d27a13fb0f298b693d869197886e9bc</link><description><![CDATA[<a href="https://insomnia.rest">https://insomnia.rest</a> - Open-source API client for designing and testing APIs, it supports REST and GraphQL<br>
  ]]></description>
 </item>
 
