@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Clappia in the list of Low-code platforms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8ec4bc81fbcab85946f3a87837c988a6ea4e1899</link><description><![CDATA[<a href="https://www.clappia.com">https://www.clappia.com</a> - A low-code platform designed for building business process applications with customizable mobile and web apps. Offers a drag-and-drop interface, features like Offline Support, real-time location tracking and integration with various third-party services.<br>
+ ]]></description>
+</item>
+<item>
+	<title>DNS: Add noit.at.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3be6f7331420637520002ca1b4548d196280bf66</link><description><![CDATA[<a href="https://noip.at/">https://noip.at/</a> - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.<br>
+ ]]></description>
+</item>
+<item>
+	<title>DNS: Add Dynv6.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5488a9d5727cef536794530b6a290502633c92b7</link><description><![CDATA[<a href="https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others">https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others</a> - Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add OneVM</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1200bad077bf995504fdb9d8b8ca45dfc8d58f13</link><description><![CDATA[<a href="https://onevm.uk.to/">https://onevm.uk.to/</a> - KVM VPS, 1 GB RAM, 1 vCore, 15 GB storage, 10 ports + 1 SSH port, 350 mbps ethernet, free 20 hours/day.<br>
  ]]></description>
@@ -40,16 +55,6 @@
 <item>
 	<title>Added https://bismuth.cloud</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fd9effbcf81f91fe0dbb6e9c473f61112ac206b2</link><description><![CDATA[<a href="https://www.bismuth.cloud/">https://www.bismuth.cloud/</a> - Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added https://country-state-city.rebuscando.info/</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/10c328705de977d7e2c92d9cb82e5fb5e73e1d4b</link><description><![CDATA[<a href="https://country-state-city.rebuscando.info/">https://country-state-city.rebuscando.info/</a> - API](https://country-state-city.rebuscando.info/) - API and Microservice to provides a wide range of information including countries, regions, provinces, cities, postal codes, and much more. The free tier includes up to 100 requests per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add AhaSend.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/208e6147aee3ebd8953ea327de438f2e9a3746d7</link><description><![CDATA[<a href="https://ahasend.com">https://ahasend.com</a> - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.<br>
  ]]></description>
 </item>
 
