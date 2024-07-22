@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Seline analytics</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df1c5dad55941a6e1a316bd32f2c1d3d79b4e9e8</link><description><![CDATA[<a href="https://seline.so">https://seline.so</a> - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add PostPulse</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cc7cd819529bfee34870d290382e9ff7976b73ae</link><description><![CDATA[<a href="https://post-pulse.io">https://post-pulse.io</a> - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Clappia in the list of Low-code platforms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8ec4bc81fbcab85946f3a87837c988a6ea4e1899</link><description><![CDATA[<a href="https://www.clappia.com">https://www.clappia.com</a> - A low-code platform designed for building business process applications with customizable mobile and web apps. Offers a drag-and-drop interface, features like Offline Support, real-time location tracking and integration with various third-party services.<br>
  ]]></description>
@@ -40,21 +50,6 @@
 <item>
 	<title>Add Supermaven</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7509b08c42653d75ff14ceedbecc68c3b1f30b3a</link><description><![CDATA[<a href="https://www.supermaven.com/">https://www.supermaven.com/</a> - Supermaven is a fast AI code completion plugin for VSCode, JetBrains, and Neovim. Free tier provides unlimited inline completions.<br>
- ]]></description>
-</item>
-<item>
-	<title>short description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f511e4aeeedf10ec4684c6a3c8bc6f7723a41db0</link><description><![CDATA[<a href="https://askclair.ai/">https://askclair.ai/</a> - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.<br>
- ]]></description>
-</item>
-<item>
-	<title>add Clair</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1ea5d8bd0899adf077fb89f96908d4379079840c</link><description><![CDATA[<a href="https://askclair.ai/">https://askclair.ai/</a> - Clinical AI Reference. Simply ask and receive. Clair's responses always come with links to original, clinically significant references like FDA Drug Package Inserts, the NIH Clinical Trials Database, the NLM Drug Interactions Database, and Clinical Guidelines. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added https://bismuth.cloud</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fd9effbcf81f91fe0dbb6e9c473f61112ac206b2</link><description><![CDATA[<a href="https://www.bismuth.cloud/">https://www.bismuth.cloud/</a> - Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.<br>
  ]]></description>
 </item>
 
