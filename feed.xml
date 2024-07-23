@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove tracking from alerty URL</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d7905b9241a9a0ab1842e6ecc87cccea45685a11</link><description><![CDATA[<a href="https://www.alerty.ai">https://www.alerty.ai</a> - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Seline analytics</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df1c5dad55941a6e1a316bd32f2c1d3d79b4e9e8</link><description><![CDATA[<a href="https://seline.so">https://seline.so</a> - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.<br>
  ]]></description>
@@ -29,6 +34,11 @@
  ]]></description>
 </item>
 <item>
+	<title>Add Alerty startup monitoring</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/faec6b6514edbdb9f2048dc3e52e537173b842e2</link><description><![CDATA[<a href="https://www.alerty.ai/?utm_source=github&utm_medium=rm&utm_campaign=awesome-developer-first">https://www.alerty.ai/?utm_source=github&utm_medium=rm&utm_campaign=awesome-developer-first</a> - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add OneVM</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1200bad077bf995504fdb9d8b8ca45dfc8d58f13</link><description><![CDATA[<a href="https://onevm.uk.to/">https://onevm.uk.to/</a> - KVM VPS, 1 GB RAM, 1 vCore, 15 GB storage, 10 ports + 1 SSH port, 350 mbps ethernet, free 20 hours/day.<br>
  ]]></description>
@@ -45,11 +55,6 @@
 <item>
 	<title>Koyeb update free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cbee82cee96461f933b28196a696652e3355638f</link><description><![CDATA[<a href="https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US">https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 512MB memory, 2GB storage, and 0.1 CPU. No credit card is required to get started.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Supermaven</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7509b08c42653d75ff14ceedbecc68c3b1f30b3a</link><description><![CDATA[<a href="https://www.supermaven.com/">https://www.supermaven.com/</a> - Supermaven is a fast AI code completion plugin for VSCode, JetBrains, and Neovim. Free tier provides unlimited inline completions.<br>
  ]]></description>
 </item>
 
