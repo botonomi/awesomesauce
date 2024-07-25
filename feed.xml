@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Altcha Spam Filter - free plan info</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/09192869ab407ea9763bf5383878f9d48ebedb4e</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Altcha.org Spam Filter to Security and PKI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b472be729dff55c056933539bfd424a26d8e1b1b</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove tracking from alerty URL</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d7905b9241a9a0ab1842e6ecc87cccea45685a11</link><description><![CDATA[<a href="https://www.alerty.ai">https://www.alerty.ai</a> - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.<br>
  ]]></description>
@@ -46,15 +56,6 @@
 <item>
 	<title>Add TempMailDetector.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/915708cbc8a3912b8e01c69177266bb894d13941</link><description><![CDATA[<a href="https://tempmaildetector.com/">https://tempmaildetector.com/</a> - Verify up to 200 emails a month for free and see if an email is temporary or not.<br>
- ]]></description>
-</item>
-<item>
-	<title>Doprax Cloud no longer have free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1b9487a30a81588fdc4609c017f4043151c9a177</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Koyeb update free plan</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cbee82cee96461f933b28196a696652e3355638f</link><description><![CDATA[<a href="https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US">https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US</a> - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 512MB memory, 2GB storage, and 0.1 CPU. No credit card is required to get started.<br>
  ]]></description>
 </item>
 
