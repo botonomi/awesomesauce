@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/aef097a498aa8e427810c94e092a59781c6a4381</link><description><![CDATA[<a href="https://pagetools.co/">https://pagetools.co/</a> - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Altcha Spam Filter - free plan info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/09192869ab407ea9763bf5383878f9d48ebedb4e</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Add OneVM</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1200bad077bf995504fdb9d8b8ca45dfc8d58f13</link><description><![CDATA[<a href="https://onevm.uk.to/">https://onevm.uk.to/</a> - KVM VPS, 1 GB RAM, 1 vCore, 15 GB storage, 10 ports + 1 SSH port, 350 mbps ethernet, free 20 hours/day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add TempMailDetector.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/915708cbc8a3912b8e01c69177266bb894d13941</link><description><![CDATA[<a href="https://tempmaildetector.com/">https://tempmaildetector.com/</a> - Verify up to 200 emails a month for free and see if an email is temporary or not.<br>
  ]]></description>
 </item>
 
