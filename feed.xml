@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9ea6e1b33769ac49e5f8620a0a3caaeddcdf6b8d</link><description><![CDATA[<a href="https://docsparse.com/">https://docsparse.com/</a> - GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e70a374831ca11e8dd061a298a63f5688b9fc3ce</link><description><![CDATA[<a href="https://keywordsai.co">https://keywordsai.co</a> - - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!<br>
  ]]></description>
@@ -51,16 +56,6 @@
 <item>
 	<title>DNS: Add noit.at.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3be6f7331420637520002ca1b4548d196280bf66</link><description><![CDATA[<a href="https://noip.at/">https://noip.at/</a> - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.<br>
- ]]></description>
-</item>
-<item>
-	<title>DNS: Add Dynv6.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5488a9d5727cef536794530b6a290502633c92b7</link><description><![CDATA[<a href="https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others">https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others</a> - Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Alerty startup monitoring</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/faec6b6514edbdb9f2048dc3e52e537173b842e2</link><description><![CDATA[<a href="https://www.alerty.ai/?utm_source=github&utm_medium=rm&utm_campaign=awesome-developer-first">https://www.alerty.ai/?utm_source=github&utm_medium=rm&utm_campaign=awesome-developer-first</a> - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.<br>
  ]]></description>
 </item>
 
