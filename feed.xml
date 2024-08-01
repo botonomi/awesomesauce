@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add freeimage.host to "Storage and Media processing"</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5bd8e00db672d70148ff7dcb2f08e817d9f7c868</link><description><![CDATA[<a href="https://freeimage.host/">https://freeimage.host/</a> - With free image host you can use our API and forum/website plugin for seamless image upload, at no cost. 128 MB limit. Direct image links, BBCode and HTML thumbnails.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9ea6e1b33769ac49e5f8620a0a3caaeddcdf6b8d</link><description><![CDATA[<a href="https://docsparse.com/">https://docsparse.com/</a> - GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.<br>
  ]]></description>
@@ -46,16 +51,6 @@
 <item>
 	<title>Add PostPulse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cc7cd819529bfee34870d290382e9ff7976b73ae</link><description><![CDATA[<a href="https://post-pulse.io">https://post-pulse.io</a> - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Clappia in the list of Low-code platforms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8ec4bc81fbcab85946f3a87837c988a6ea4e1899</link><description><![CDATA[<a href="https://www.clappia.com">https://www.clappia.com</a> - A low-code platform designed for building business process applications with customizable mobile and web apps. Offers a drag-and-drop interface, features like Offline Support, real-time location tracking and integration with various third-party services.<br>
- ]]></description>
-</item>
-<item>
-	<title>DNS: Add noit.at.</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3be6f7331420637520002ca1b4548d196280bf66</link><description><![CDATA[<a href="https://noip.at/">https://noip.at/</a> - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.<br>
  ]]></description>
 </item>
 
