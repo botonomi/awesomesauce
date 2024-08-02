@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Revert "Add freeimage.host to "Storage and Media processing""</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f6c123586a75ce8f0eb346e11fb1c88ee93e3619</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add freeimage.host to "Storage and Media processing"</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5bd8e00db672d70148ff7dcb2f08e817d9f7c868</link><description><![CDATA[<a href="https://freeimage.host/">https://freeimage.host/</a> - With free image host you can use our API and forum/website plugin for seamless image upload, at no cost. 128 MB limit. Direct image links, BBCode and HTML thumbnails.<br>
  ]]></description>
