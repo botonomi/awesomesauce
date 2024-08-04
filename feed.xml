@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bbab166a886302726e92aca78ed975f8cbc77317</link><description><![CDATA[<a href="https://touchlead.app">https://touchlead.app</a> - A multi-purpose marketing automation tool, with lead management, form builder, and automation. Free for limited number of leads and automations<br>
+ ]]></description>
+</item>
+<item>
 	<title>added langtrace</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bb14839d152716e9d03d20c77845a1f2361313cd</link><description><![CDATA[<a href="https://langtrace.ai">https://langtrace.ai</a> - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Remove tracking from alerty URL</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d7905b9241a9a0ab1842e6ecc87cccea45685a11</link><description><![CDATA[<a href="https://www.alerty.ai">https://www.alerty.ai</a> - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Seline analytics</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df1c5dad55941a6e1a316bd32f2c1d3d79b4e9e8</link><description><![CDATA[<a href="https://seline.so">https://seline.so</a> - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.<br>
  ]]></description>
 </item>
 
