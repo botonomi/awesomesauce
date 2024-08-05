@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>kick builds</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2ebf99270275d63785c8fdee275de45abe0c5a7f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bbab166a886302726e92aca78ed975f8cbc77317</link><description><![CDATA[<a href="https://touchlead.app">https://touchlead.app</a> - A multi-purpose marketing automation tool, with lead management, form builder, and automation. Free for limited number of leads and automations<br>
  ]]></description>
@@ -50,11 +54,6 @@
 <item>
 	<title>Add Altcha.org Spam Filter to Security and PKI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b472be729dff55c056933539bfd424a26d8e1b1b</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove tracking from alerty URL</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d7905b9241a9a0ab1842e6ecc87cccea45685a11</link><description><![CDATA[<a href="https://www.alerty.ai">https://www.alerty.ai</a> - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.<br>
  ]]></description>
 </item>
 
