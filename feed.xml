@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/93990216d34d3cf7e39d44224accf83efe93691c</link><description><![CDATA[<a href="https://apiverve.com">https://apiverve.com</a> - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>kick builds</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2ebf99270275d63785c8fdee275de45abe0c5a7f</link><description><![CDATA[ ]]></description>
 </item>
@@ -49,11 +54,6 @@
 <item>
 	<title>Altcha Spam Filter - free plan info</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/09192869ab407ea9763bf5383878f9d48ebedb4e</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Altcha.org Spam Filter to Security and PKI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b472be729dff55c056933539bfd424a26d8e1b1b</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning.<br>
  ]]></description>
 </item>
 
