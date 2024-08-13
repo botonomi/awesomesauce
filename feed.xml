@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>edits to Checkly</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/60cbb4a13979a383683d315f14c7a7c095712410</link><description><![CDATA[<a href="https://checklyhq.com">https://checklyhq.com</a> - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/93990216d34d3cf7e39d44224accf83efe93691c</link><description><![CDATA[<a href="https://apiverve.com">https://apiverve.com</a> - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aef097a498aa8e427810c94e092a59781c6a4381</link><description><![CDATA[<a href="https://pagetools.co/">https://pagetools.co/</a> - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.<br>
- ]]></description>
-</item>
-<item>
-	<title>Altcha Spam Filter - free plan info</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/09192869ab407ea9763bf5383878f9d48ebedb4e</link><description><![CDATA[<a href="https://altcha.org/anti-spam">https://altcha.org/anti-spam</a> - A Spam Filter for websites and APIs powered by natural language processing and machine learning. Free plan includes 200 requests a day per domain.<br>
  ]]></description>
 </item>
 
