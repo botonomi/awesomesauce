@@ -4,6 +4,19 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove some dead ai services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f426deb589e6658c4286f3d97ff4d5314e6c6874</link><description><![CDATA[<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Write API definitions and use them to generate SDKs/client libraries in popular languages such as TypeScript, Python, Java, Go, and more. OpenAPI fully supported. Free tier generates code for up to a max of 20 endpoints.<br>
+<a href="https://fonts.xz.style/">https://fonts.xz.style/</a> - and open source service for delivering font families to websites using CSS.<br>
+<a href="https://keywordsai.co">https://keywordsai.co</a> - - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!<br>
+ ]]></description>
+</item>
+<item>
+	<title>add ultra ai</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/801de12b432b928784d33a7f594a6c5c33793891</link><description><![CDATA[<a href="https://langtrace.ai">https://langtrace.ai</a> - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.<br>
+<a href="https://ultraai.app">https://ultraai.app</a> - - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Zuplo to APIs</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1ea844f63257730dcb8eb56e273dfd212bed831d</link><description><![CDATA[<a href="https://zuplo.com">https://zuplo.com</a> - Free API Management platform to design, build, and deploy APIs to the Edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript.<br>
  ]]></description>
@@ -40,16 +53,6 @@
 <item>
 	<title>Revert "Add freeimage.host to "Storage and Media processing""</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f6c123586a75ce8f0eb346e11fb1c88ee93e3619</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add freeimage.host to "Storage and Media processing"</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5bd8e00db672d70148ff7dcb2f08e817d9f7c868</link><description><![CDATA[<a href="https://freeimage.host/">https://freeimage.host/</a> - With free image host you can use our API and forum/website plugin for seamless image upload, at no cost. 128 MB limit. Direct image links, BBCode and HTML thumbnails.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9ea6e1b33769ac49e5f8620a0a3caaeddcdf6b8d</link><description><![CDATA[<a href="https://docsparse.com/">https://docsparse.com/</a> - GPT powered AI processing of PDFs, Images, into structured data in JSON, CSV, EXCEL formats. 30 credits for free each month.<br>
- ]]></description>
 </item>
 
 </channel>
