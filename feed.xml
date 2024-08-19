@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add MySQL Visual Explain</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ca2f6e1d07d9197ebd65e5d4ae3a6e3b0c7c00e9</link><description><![CDATA[<a href="https://mysqlexplain.com">https://mysqlexplain.com</a> - Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove some dead ai services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f426deb589e6658c4286f3d97ff4d5314e6c6874</link><description><![CDATA[<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Write API definitions and use them to generate SDKs/client libraries in popular languages such as TypeScript, Python, Java, Go, and more. OpenAPI fully supported. Free tier generates code for up to a max of 20 endpoints.<br>
 <a href="https://fonts.xz.style/">https://fonts.xz.style/</a> - and open source service for delivering font families to websites using CSS.<br>
@@ -49,10 +54,6 @@
 	<title>added langtrace</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bb14839d152716e9d03d20c77845a1f2361313cd</link><description><![CDATA[<a href="https://langtrace.ai">https://langtrace.ai</a> - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.<br>
  ]]></description>
-</item>
-<item>
-	<title>Revert "Add freeimage.host to "Storage and Media processing""</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f6c123586a75ce8f0eb346e11fb1c88ee93e3619</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
