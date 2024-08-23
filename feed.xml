@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added useplunk.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ebdff5eeaf3c0b39b93790f89a09974187f11a34</link><description><![CDATA[<a href="https://useplunk.com">https://useplunk.com</a> - 3K emails/month for free<br>
+ ]]></description>
+</item>
+<item>
 	<title>Adds Netcad, Skills for all</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c70682059d3e9e339060039c07b673316bb47d0a</link><description><![CDATA[<a href="https://skillsforall.com/">https://skillsforall.com/</a> - Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>kick builds</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2ebf99270275d63785c8fdee275de45abe0c5a7f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bbab166a886302726e92aca78ed975f8cbc77317</link><description><![CDATA[<a href="https://touchlead.app">https://touchlead.app</a> - A multi-purpose marketing automation tool, with lead management, form builder, and automation. Free for limited number of leads and automations<br>
- ]]></description>
 </item>
 
 </channel>
