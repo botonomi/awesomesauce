@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Stack Auth</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2b5522fe1c1f9096e6283f9f79e2fa7622bbf9b1</link><description><![CDATA[<a href="https://stack-auth.com">https://stack-auth.com</a> - — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added free tool to the Authentication, Authorization, and User Manage…</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a27fd2f8eb15b4969ca18b6850e5c743d92c1314</link><description><![CDATA[<a href="https://www.cerbos.dev/product-cerbos-hub">https://www.cerbos.dev/product-cerbos-hub</a> - - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>edits to Checkly</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/60cbb4a13979a383683d315f14c7a7c095712410</link><description><![CDATA[<a href="https://checklyhq.com">https://checklyhq.com</a> - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/93990216d34d3cf7e39d44224accf83efe93691c</link><description><![CDATA[<a href="https://apiverve.com">https://apiverve.com</a> - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month.<br>
  ]]></description>
 </item>
 
