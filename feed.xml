@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6439b3b5df898304bbd3580c1122fa5798acf2c</link><description><![CDATA[<a href="https://faxmail.co">https://faxmail.co</a> - Professional and legit looking free temporary emails.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Stack Auth</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2b5522fe1c1f9096e6283f9f79e2fa7622bbf9b1</link><description><![CDATA[<a href="https://stack-auth.com">https://stack-auth.com</a> - — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.<br>
  ]]></description>
@@ -49,11 +54,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/23d8b5744f02ba0c0f2141b388691e5953acd514</link><description><![CDATA[<a href="https://dicloud.net/sweetuptime-server-uptime-monitoring/">https://dicloud.net/sweetuptime-server-uptime-monitoring/</a> - Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.<br>
- ]]></description>
-</item>
-<item>
-	<title>edits to Checkly</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/60cbb4a13979a383683d315f14c7a7c095712410</link><description><![CDATA[<a href="https://checklyhq.com">https://checklyhq.com</a> - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.<br>
  ]]></description>
 </item>
 
