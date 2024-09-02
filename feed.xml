@@ -4,6 +4,24 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fix: resolve typo of ttl.sh md syntax</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/69a47c04c05822253e91603a1d1af86ea2669e0f</link><description><![CDATA[<a href="https://ttl.sh/">https://ttl.sh/</a> - Anonymous & ephemeral Docker image registry<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'ripienaar:master' into master</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/17a75d96f0133f6985ea750f20c1c0540ac5c775</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Killercoda - Interactive playground for learning Linux, Containers, K…</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/11a8d49650cad5b31a1a96c0d40f397bf47d0b3c</link><description><![CDATA[<a href="https://killercoda.com/">https://killercoda.com/</a> - - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking<br>
+ ]]></description>
+</item>
+<item>
+	<title>feat: add ttl.sh a docker registry</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b6395ea404c8d776fa7b3bb6364a88345decf73f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c6439b3b5df898304bbd3580c1122fa5798acf2c</link><description><![CDATA[<a href="https://faxmail.co">https://faxmail.co</a> - Professional and legit looking free temporary emails.<br>
  ]]></description>
@@ -31,24 +49,6 @@
 <item>
 	<title>Add MySQL Visual Explain</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ca2f6e1d07d9197ebd65e5d4ae3a6e3b0c7c00e9</link><description><![CDATA[<a href="https://mysqlexplain.com">https://mysqlexplain.com</a> - Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove some dead ai services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f426deb589e6658c4286f3d97ff4d5314e6c6874</link><description><![CDATA[<a href="https://buildwithfern.com">https://buildwithfern.com</a> - Write API definitions and use them to generate SDKs/client libraries in popular languages such as TypeScript, Python, Java, Go, and more. OpenAPI fully supported. Free tier generates code for up to a max of 20 endpoints.<br>
-<a href="https://fonts.xz.style/">https://fonts.xz.style/</a> - and open source service for delivering font families to websites using CSS.<br>
-<a href="https://keywordsai.co">https://keywordsai.co</a> - - The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!<br>
- ]]></description>
-</item>
-<item>
-	<title>add ultra ai</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/801de12b432b928784d33a7f594a6c5c33793891</link><description><![CDATA[<a href="https://langtrace.ai">https://langtrace.ai</a> - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.<br>
-<a href="https://ultraai.app">https://ultraai.app</a> - - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Zuplo to APIs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1ea844f63257730dcb8eb56e273dfd212bed831d</link><description><![CDATA[<a href="https://zuplo.com">https://zuplo.com</a> - Free API Management platform to design, build, and deploy APIs to the Edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript.<br>
  ]]></description>
 </item>
 
