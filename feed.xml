@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove some dead and bad services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f194eb318da537f0a1455e56afcb9792d9176351</link><description><![CDATA[<a href="https://temp-mail.org/en/">https://temp-mail.org/en/</a> - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.<br>
+<a href="https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads">https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads</a> - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.<br>
+ ]]></description>
+</item>
+<item>
+	<title>no more fake mail stuff</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bcb7a48dd28ccc56af2d0a681f7bda5f2bd432d7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c14dd3998c81fe78aea2692406c300fd54a113a8</link><description><![CDATA[<a href="https://temp-mail.org/en/">https://temp-mail.org/en/</a> - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.<br>
+<a href="https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads">https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads</a> - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix: resolve typo of ttl.sh md syntax</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/69a47c04c05822253e91603a1d1af86ea2669e0f</link><description><![CDATA[<a href="https://ttl.sh/">https://ttl.sh/</a> - Anonymous & ephemeral Docker image registry<br>
  ]]></description>
@@ -39,16 +55,6 @@
 <item>
 	<title>Added useplunk.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ebdff5eeaf3c0b39b93790f89a09974187f11a34</link><description><![CDATA[<a href="https://useplunk.com">https://useplunk.com</a> - 3K emails/month for free<br>
- ]]></description>
-</item>
-<item>
-	<title>Adds Netcad, Skills for all</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c70682059d3e9e339060039c07b673316bb47d0a</link><description><![CDATA[<a href="https://skillsforall.com/">https://skillsforall.com/</a> - Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add MySQL Visual Explain</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ca2f6e1d07d9197ebd65e5d4ae3a6e3b0c7c00e9</link><description><![CDATA[<a href="https://mysqlexplain.com">https://mysqlexplain.com</a> - Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.<br>
  ]]></description>
 </item>
 
