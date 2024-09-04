@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added cname.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c516726c98711e1608dc40f15a1f226fe0fa2b1c</link><description><![CDATA[<a href="https://cname.dev/">https://cname.dev/</a> - Free and secure dynamic reverse proxy service.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove some dead and bad services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f194eb318da537f0a1455e56afcb9792d9176351</link><description><![CDATA[<a href="https://temp-mail.org/en/">https://temp-mail.org/en/</a> - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.<br>
 <a href="https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads">https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads</a> - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.<br>
@@ -50,11 +55,6 @@
 <item>
 	<title>Added free tool to the Authentication, Authorization, and User Manage…</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a27fd2f8eb15b4969ca18b6850e5c743d92c1314</link><description><![CDATA[<a href="https://www.cerbos.dev/product-cerbos-hub">https://www.cerbos.dev/product-cerbos-hub</a> - - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added useplunk.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ebdff5eeaf3c0b39b93790f89a09974187f11a34</link><description><![CDATA[<a href="https://useplunk.com">https://useplunk.com</a> - 3K emails/month for free<br>
  ]]></description>
 </item>
 
