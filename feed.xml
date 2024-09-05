@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added revolt.chat</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cc9cfa4aa5a568ba69013a79e35b2669235e67f6</link><description><![CDATA[<a href="https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial">https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial</a> - An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/08d4b1e472956bf1c4f868b5dcb8142529d6e385</link><description><![CDATA[<a href="https://www.tryabby.com">https://www.tryabby.com</a> - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>feat: add ttl.sh a docker registry</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b6395ea404c8d776fa7b3bb6364a88345decf73f</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c6439b3b5df898304bbd3580c1122fa5798acf2c</link><description><![CDATA[<a href="https://faxmail.co">https://faxmail.co</a> - Professional and legit looking free temporary emails.<br>
- ]]></description>
 </item>
 
 </channel>
