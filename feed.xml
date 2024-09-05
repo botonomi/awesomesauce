@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/08d4b1e472956bf1c4f868b5dcb8142529d6e385</link><description><![CDATA[<a href="https://www.tryabby.com">https://www.tryabby.com</a> - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added a new tool in Educationa & carrer development</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/498b559458eef054fb4837b224838bb4650c379a</link><description><![CDATA[<a href="https://www.youtube.com/@mitocw/featured">https://www.youtube.com/@mitocw/featured</a> - - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)<br>
  ]]></description>
@@ -50,11 +55,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c6439b3b5df898304bbd3580c1122fa5798acf2c</link><description><![CDATA[<a href="https://faxmail.co">https://faxmail.co</a> - Professional and legit looking free temporary emails.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Stack Auth</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2b5522fe1c1f9096e6283f9f79e2fa7622bbf9b1</link><description><![CDATA[<a href="https://stack-auth.com">https://stack-auth.com</a> - — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.<br>
  ]]></description>
 </item>
 
