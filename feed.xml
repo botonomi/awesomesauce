@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>catch wrong format</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9334ea237de59e3571a257c86637a7c310844cb6</link><description><![CDATA[<a href="https://jsonserve.com/">https://jsonserve.com/</a> - — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added revolt.chat</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cc9cfa4aa5a568ba69013a79e35b2669235e67f6</link><description><![CDATA[<a href="https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial">https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial</a> - An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.<br>
  ]]></description>
@@ -52,10 +57,6 @@
 	<title>Killercoda - Interactive playground for learning Linux, Containers, K…</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/11a8d49650cad5b31a1a96c0d40f397bf47d0b3c</link><description><![CDATA[<a href="https://killercoda.com/">https://killercoda.com/</a> - - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking<br>
  ]]></description>
-</item>
-<item>
-	<title>feat: add ttl.sh a docker registry</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b6395ea404c8d776fa7b3bb6364a88345decf73f</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
