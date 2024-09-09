@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/41a21d79f25646123910b6ee7b2f7770a4dc28ae</link><description><![CDATA[<a href="https://mossaik.app">https://mossaik.app</a> - Free SVG image generator with different tools like waves, blogs and patterns.<br>
+ ]]></description>
+</item>
+<item>
 	<title>catch wrong format</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9334ea237de59e3571a257c86637a7c310844cb6</link><description><![CDATA[<a href="https://jsonserve.com/">https://jsonserve.com/</a> - — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.<br>
  ]]></description>
@@ -52,11 +57,6 @@
 <item>
 	<title>Merge branch 'ripienaar:master' into master</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/17a75d96f0133f6985ea750f20c1c0540ac5c775</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Killercoda - Interactive playground for learning Linux, Containers, K…</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/11a8d49650cad5b31a1a96c0d40f397bf47d0b3c</link><description><![CDATA[<a href="https://killercoda.com/">https://killercoda.com/</a> - - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking<br>
- ]]></description>
 </item>
 
 </channel>
