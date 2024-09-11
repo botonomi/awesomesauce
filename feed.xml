@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/61937f473465afa5f6f05237777aa689b6370118</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6e2efc2380af8df5faef451c6bc6d0bfdb0ad930</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Lade</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9c8a3e2fce843903367d51eae90f95bd2c8b0d56</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes five services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
  ]]></description>
@@ -47,12 +57,6 @@
 <item>
 	<title>no more fake mail stuff</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bcb7a48dd28ccc56af2d0a681f7bda5f2bd432d7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c14dd3998c81fe78aea2692406c300fd54a113a8</link><description><![CDATA[<a href="https://temp-mail.org/en/">https://temp-mail.org/en/</a> - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.<br>
-<a href="https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads">https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads</a> - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.<br>
- ]]></description>
 </item>
 
 </channel>
