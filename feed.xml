@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Delete link invalid</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/86fea1afd42e8bc50007a5fd126b3865bebbece7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Applied suggested changes</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4c4da4aa9d2ee026b07b7f1c157959d855b16ed3</link><description><![CDATA[<a href="https://testcollab.com">https://testcollab.com</a> - A user-friendly test management software, its free plan includes Jira integration, unlimited projects, test case import using CSV/XLSx, time tracking, and 1 GB file storage.<br>
  ]]></description>
@@ -51,11 +55,6 @@
 <item>
 	<title>Added a new tool in Educationa & carrer development</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/498b559458eef054fb4837b224838bb4650c379a</link><description><![CDATA[<a href="https://www.youtube.com/@mitocw/featured">https://www.youtube.com/@mitocw/featured</a> - - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)<br>
- ]]></description>
-</item>
-<item>
-	<title>Added cname.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c516726c98711e1608dc40f15a1f226fe0fa2b1c</link><description><![CDATA[<a href="https://cname.dev/">https://cname.dev/</a> - Free and secure dynamic reverse proxy service.<br>
  ]]></description>
 </item>
 
