@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/820ebb253c95d619dece6a287f2fa2ded659a157</link><description><![CDATA[<a href="https://hackmd.io/pricing">https://hackmd.io/pricing</a> - Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).<br>
+ ]]></description>
+</item>
+<item>
 	<title>Delete link invalid</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/86fea1afd42e8bc50007a5fd126b3865bebbece7</link><description><![CDATA[ ]]></description>
 </item>
@@ -50,11 +55,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/08d4b1e472956bf1c4f868b5dcb8142529d6e385</link><description><![CDATA[<a href="https://www.tryabby.com">https://www.tryabby.com</a> - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added a new tool in Educationa & carrer development</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/498b559458eef054fb4837b224838bb4650c379a</link><description><![CDATA[<a href="https://www.youtube.com/@mitocw/featured">https://www.youtube.com/@mitocw/featured</a> - - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)<br>
  ]]></description>
 </item>
 
