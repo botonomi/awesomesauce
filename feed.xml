@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Hop.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/3f03f4e9b069a86e6d04af1f0d2f8372b97591df</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>removed codebox</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6540ab68caa30ffb32af8688b36c20d972337053</link><description><![CDATA[ ]]></description>
 </item>
@@ -51,11 +55,6 @@
 <item>
 	<title>Add Lade</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/9c8a3e2fce843903367d51eae90f95bd2c8b0d56</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes five services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/41a21d79f25646123910b6ee7b2f7770a4dc28ae</link><description><![CDATA[<a href="https://mossaik.app">https://mossaik.app</a> - Free SVG image generator with different tools like waves, blogs and patterns.<br>
  ]]></description>
 </item>
 
