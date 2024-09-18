@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Maileroo.com</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f0e906857ce56cc33267956b95bb99249743f1cd</link><description><![CDATA[<a href="https://maileroo.com">https://maileroo.com</a> - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove openpipe.ai</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b3d0bc78928dae28a8208d6b50f607c0f73e0d36</link><description><![CDATA[ ]]></description>
 </item>
@@ -54,11 +59,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6e2efc2380af8df5faef451c6bc6d0bfdb0ad930</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Lade</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9c8a3e2fce843903367d51eae90f95bd2c8b0d56</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes five services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
  ]]></description>
 </item>
 
