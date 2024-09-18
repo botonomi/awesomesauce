@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>fix for free and premium</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f67a1cb07896591b79e2bc4943cae314bc37aee5</link><description><![CDATA[<a href="https://formlick.com">https://formlick.com</a> - Typeform alternative with lifetime deal. Users can create 1 free form and receive unlimited submissions. In premium, users can create unlimited forms and unlimited submissions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>correct formlick spelling in the forms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4eafdf6d815e116c2fff6967143b06fa841abd83</link><description><![CDATA[<a href="https://formlick.com">https://formlick.com</a> - Typeform alternative with lifetime deal. Users can create unlimited forms and recieve unlimited submissions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add formlick.com in forms category</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cb09992f81fc2b1188926a42087b09e308804f93</link><description><![CDATA[<a href="https://formclick.com">https://formclick.com</a> - Typeform alternative with lifetime deal. Users can create unlimited forms and recieve unlimited submissions.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Geolocated.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/663caeac612cc89817f2a117c2714b5582bbaba6</link><description><![CDATA[<a href="https://geolocated.io">https://geolocated.io</a> - IP Geolocation API with multi-continent servers, offering a forever free plan with 60000 requests per month for hobbyists.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Maileroo.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f0e906857ce56cc33267956b95bb99249743f1cd</link><description><![CDATA[<a href="https://maileroo.com">https://maileroo.com</a> - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.<br>
  ]]></description>
@@ -40,26 +60,6 @@
 <item>
 	<title>Delete link invalid</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/86fea1afd42e8bc50007a5fd126b3865bebbece7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Applied suggested changes</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4c4da4aa9d2ee026b07b7f1c157959d855b16ed3</link><description><![CDATA[<a href="https://testcollab.com">https://testcollab.com</a> - A user-friendly test management software, its free plan includes Jira integration, unlimited projects, test case import using CSV/XLSx, time tracking, and 1 GB file storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added TestCollab to Testing section</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0bde42455d5d8f8eacdc87b3ea95d15995d085d6</link><description><![CDATA[<a href="https://testcollab.io/start_trial">https://testcollab.io/start_trial</a> - A user-friendly test management software, its [free](https://testcollab.com/pricing) plan includes QA Copilot for AI aided test automation, Jira integration, unlimited projects, and test case import using CSV/XLSx. Signup [here](https://testcollab.io/start_trial).<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/61937f473465afa5f6f05237777aa689b6370118</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6e2efc2380af8df5faef451c6bc6d0bfdb0ad930</link><description><![CDATA[<a href="https://codehooks.io/">https://codehooks.io/</a> - Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, and a message queue. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.<br>
- ]]></description>
 </item>
 
 </channel>
