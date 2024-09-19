@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Webacus</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5faf08e03861c7e41488fffa535aa04fd240b1ce</link><description><![CDATA[<a href="https://webacus.dev">https://webacus.dev</a> - Access a wide range of free developer tools for encoding, decoding, and data manipulation.<br>
+ ]]></description>
+</item>
+<item>
 	<title>fix for free and premium</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/f67a1cb07896591b79e2bc4943cae314bc37aee5</link><description><![CDATA[<a href="https://formlick.com">https://formlick.com</a> - Typeform alternative with lifetime deal. Users can create 1 free form and receive unlimited submissions. In premium, users can create unlimited forms and unlimited submissions.<br>
  ]]></description>
@@ -56,10 +61,6 @@
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/820ebb253c95d619dece6a287f2fa2ded659a157</link><description><![CDATA[<a href="https://hackmd.io/pricing">https://hackmd.io/pricing</a> - Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).<br>
  ]]></description>
-</item>
-<item>
-	<title>Delete link invalid</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/86fea1afd42e8bc50007a5fd126b3865bebbece7</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
