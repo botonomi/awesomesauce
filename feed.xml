@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Lockitbot</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f9db9077d0ad381f2141fb986c88fb919b3e996</link><description><![CDATA[<a href="https://www.lockitbot.com/">https://www.lockitbot.com/</a> - Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md (add ParityVend)</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/aa9d68dd046d2dd256c546a2ebc6fc34b6c65fa0</link><description><![CDATA[<a href="https://www.ambeteco.com/ParityVend/) – Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity">https://www.ambeteco.com/ParityVend/) – Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity</a> - Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.<br>
  ]]></description>
@@ -50,16 +55,6 @@
 <item>
 	<title>Remove Hop.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3f03f4e9b069a86e6d04af1f0d2f8372b97591df</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>removed codebox</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6540ab68caa30ffb32af8688b36c20d972337053</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Added Pastefy and Pastefy Codebox as Service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ee1b73081edef3473946075fde0e0adfeebf01cd</link><description><![CDATA[<a href="https://pastefy.app/">https://pastefy.app/</a> - Beautiful and simple Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more.<br>
-<a href="https://box.pastefy.app/">https://box.pastefy.app/</a> - - A Code-Playground for web-developers built on top of Pastefy with Vue, React, Svelte support and more.<br>
- ]]></description>
 </item>
 
 </channel>
