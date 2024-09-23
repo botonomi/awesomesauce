@@ -5,7 +5,42 @@
 <link></link>
 <item>
 	<title>Remove m3o</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/abb623366424127ef777e13f0c0bc9f89858341e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>feat(media): add imgix - media management and caching</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bdfc7509e16918ab6f3703db5546927ad1d751bc</link><description><![CDATA[<a href="https://www.imgix.com/">https://www.imgix.com/</a> - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth<br>
+ ]]></description>
+</item>
+<item>
+	<title>add blacksmith</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4fcb7e39f2fdaec4868690ade8b55f49f43bf162</link><description><![CDATA[<a href="https://www.blacksmith.sh/">https://www.blacksmith.sh/</a> - Managed performance runners for GitHub Actions that provides 3,000 free minutes per month, with no credit card needed.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Merge branch 'master' into patch-2</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/12a807293154d0b100bd554c68bd41572a59660d</link><description><![CDATA[<a href="https://genezio.com/">https://genezio.com/</a> - Serverless function provider that gives 1 million function invocations, 100GB bandwidth, and 10 cron jobs per month.<br>
+<a href="https://genezio.com/">https://genezio.com/</a> - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add genezio</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7df784e050666177ad0e6938278d7767a93ea808</link><description><![CDATA[<a href="https://genezio.com/">https://genezio.com/</a> - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.<br>
+ ]]></description>
+</item>
+<item>
+	<title>add genezio</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ce30f12397bb2653c775356ce7bfb4f5029469ff</link><description><![CDATA[<a href="https://genezio.com/">https://genezio.com/</a> - Serverless function provider that gives 1 million function invocations, 100GB bandwidth, and 10 cron jobs per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove m3o</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15d1c5f639b5a7b86e959bd968aad151907f5600</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Move Mendix to low-code</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0d7ef51110421ec0431d5f4684e9e22864073c50</link><description><![CDATA[<a href="https://www.mendix.com/">https://www.mendix.com/</a> - Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Remove Cosmonic</title>
@@ -14,46 +49,6 @@
 <item>
 	<title>Add Lockitbot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f9db9077d0ad381f2141fb986c88fb919b3e996</link><description><![CDATA[<a href="https://www.lockitbot.com/">https://www.lockitbot.com/</a> - Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md (add ParityVend)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/aa9d68dd046d2dd256c546a2ebc6fc34b6c65fa0</link><description><![CDATA[<a href="https://www.ambeteco.com/ParityVend/) – Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity">https://www.ambeteco.com/ParityVend/) – Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity</a> - Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add UseWebhook.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5af55a1e7d51bf56f2ab78e8c1c0fe87d8beb4fb</link><description><![CDATA[<a href="https://usewebhook.com">https://usewebhook.com</a> - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Webacus</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5faf08e03861c7e41488fffa535aa04fd240b1ce</link><description><![CDATA[<a href="https://webacus.dev">https://webacus.dev</a> - Access a wide range of free developer tools for encoding, decoding, and data manipulation.<br>
- ]]></description>
-</item>
-<item>
-	<title>fix for free and premium</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f67a1cb07896591b79e2bc4943cae314bc37aee5</link><description><![CDATA[<a href="https://formlick.com">https://formlick.com</a> - Typeform alternative with lifetime deal. Users can create 1 free form and receive unlimited submissions. In premium, users can create unlimited forms and unlimited submissions.<br>
- ]]></description>
-</item>
-<item>
-	<title>correct formlick spelling in the forms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4eafdf6d815e116c2fff6967143b06fa841abd83</link><description><![CDATA[<a href="https://formlick.com">https://formlick.com</a> - Typeform alternative with lifetime deal. Users can create unlimited forms and recieve unlimited submissions.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add formlick.com in forms category</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cb09992f81fc2b1188926a42087b09e308804f93</link><description><![CDATA[<a href="https://formclick.com">https://formclick.com</a> - Typeform alternative with lifetime deal. Users can create unlimited forms and recieve unlimited submissions.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Geolocated.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/663caeac612cc89817f2a117c2714b5582bbaba6</link><description><![CDATA[<a href="https://geolocated.io">https://geolocated.io</a> - IP Geolocation API with multi-continent servers, offering a forever free plan with 60000 requests per month for hobbyists.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Maileroo.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/f0e906857ce56cc33267956b95bb99249743f1cd</link><description><![CDATA[<a href="https://maileroo.com">https://maileroo.com</a> - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.<br>
  ]]></description>
 </item>
 
