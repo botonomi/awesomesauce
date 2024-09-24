@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove dead service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4180aa70d9d36af4e73bb339113acd39b627ed1e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md with EdgeOne Pages</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d3e4dbd653fc76421c82950d12e74e27bda50d7b</link><description><![CDATA[<a href="https://edgeone.ai/products/pages">https://edgeone.ai/products/pages</a> - - EdgeOne Pages enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance. Free access to all features.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md with Nile</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/29ebf0811397c1bd3914cdae97588c318128241f</link><description><![CDATA[<a href="https://www.thenile.dev/) — A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total">https://www.thenile.dev/) — A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total</a> - A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings<br>
  ]]></description>
@@ -46,15 +55,6 @@
 <item>
 	<title>Remove m3o</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/15d1c5f639b5a7b86e959bd968aad151907f5600</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Move Mendix to low-code</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0d7ef51110421ec0431d5f4684e9e22864073c50</link><description><![CDATA[<a href="https://www.mendix.com/">https://www.mendix.com/</a> - Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Cosmonic</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d8d0d33655f4f4400085757b73b7ef7f58360fe3</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
