@@ -4,6 +4,50 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Merge branch 'ripienaar:master' into patch-1</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/244d387a0c0c7f85b56bf9806553822fad860a48</link><description><![CDATA[<a href="https://difftext.com">https://difftext.com</a> - Instantly find the differences between two blocks of code. Completely free to use.<br>
+<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove services (Divio, EdgeOne) without free tier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cda96dce0105740681f5cc896d80fe2e43aa6e32</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove more dead services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d6b22a937643de62ae54e6665d5f8ef1b941757f</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove dead service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27cd7f5332f716533ab76562ad5c169c6505227c</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove deprecated service</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/da94db14c752f2355a2f01e303acbcbc0c0f6290</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove more dead services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6eb1a5a7ea21b00a0e0cf3787ab164e327d3dfe9</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove more dead services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6662c68c8b9e11c18ccf5caeb2efd7afd91b7127</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove more dead services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/a602646d1d6462a0464c934ff427c85e785a822e</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Remove dead services and fix links</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/acbce99ab6e0ddb3930409241e0eeea78295d682</link><description><![CDATA[<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add difftext to code quality</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6a199ed8cae47ec771dec5213d0561355d0e4922</link><description><![CDATA[<a href="https://difftext.com">https://difftext.com</a> - Instantly find the differences between two blocks of code. Completely free to use.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove dead service</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4180aa70d9d36af4e73bb339113acd39b627ed1e</link><description><![CDATA[ ]]></description>
 </item>
@@ -21,40 +65,6 @@
 	<title>feat(data): Adding JSONGrid.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b1a1cecefdb91dbee6a8deb2f2f5ae501d8fad06</link><description><![CDATA[<a href="https://jsongrid.com">https://jsongrid.com</a> - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.<br>
  ]]></description>
-</item>
-<item>
-	<title>Remove m3o</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/abb623366424127ef777e13f0c0bc9f89858341e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>feat(media): add imgix - media management and caching</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/bdfc7509e16918ab6f3703db5546927ad1d751bc</link><description><![CDATA[<a href="https://www.imgix.com/">https://www.imgix.com/</a> - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth<br>
- ]]></description>
-</item>
-<item>
-	<title>add blacksmith</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4fcb7e39f2fdaec4868690ade8b55f49f43bf162</link><description><![CDATA[<a href="https://www.blacksmith.sh/">https://www.blacksmith.sh/</a> - Managed performance runners for GitHub Actions that provides 3,000 free minutes per month, with no credit card needed.<br>
- ]]></description>
-</item>
-<item>
-	<title>Merge branch 'master' into patch-2</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/12a807293154d0b100bd554c68bd41572a59660d</link><description><![CDATA[<a href="https://genezio.com/">https://genezio.com/</a> - Serverless function provider that gives 1 million function invocations, 100GB bandwidth, and 10 cron jobs per month.<br>
-<a href="https://genezio.com/">https://genezio.com/</a> - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.<br>
- ]]></description>
-</item>
-<item>
-	<title>add genezio</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7df784e050666177ad0e6938278d7767a93ea808</link><description><![CDATA[<a href="https://genezio.com/">https://genezio.com/</a> - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.<br>
- ]]></description>
-</item>
-<item>
-	<title>add genezio</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ce30f12397bb2653c775356ce7bfb4f5029469ff</link><description><![CDATA[<a href="https://genezio.com/">https://genezio.com/</a> - Serverless function provider that gives 1 million function invocations, 100GB bandwidth, and 10 cron jobs per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove m3o</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/15d1c5f639b5a7b86e959bd968aad151907f5600</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
