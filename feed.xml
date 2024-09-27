@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove Metered.ca free offering</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/045db16804af849a53c29aed7fdc78c2c7ba24a8</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add new free TURN service by Cloudflare</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4dfee305891ca56f29fb6ab322b23eb4f453be1a</link><description><![CDATA[<a href="https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing">https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing</a> - 1TB of free (outgoing) traffic per month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Merge branch 'ripienaar:master' into patch-1</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/244d387a0c0c7f85b56bf9806553822fad860a48</link><description><![CDATA[<a href="https://difftext.com">https://difftext.com</a> - Instantly find the differences between two blocks of code. Completely free to use.<br>
 <a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
@@ -54,16 +63,6 @@
 <item>
 	<title>Update README.md with EdgeOne Pages</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d3e4dbd653fc76421c82950d12e74e27bda50d7b</link><description><![CDATA[<a href="https://edgeone.ai/products/pages">https://edgeone.ai/products/pages</a> - - EdgeOne Pages enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance. Free access to all features.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md with Nile</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/29ebf0811397c1bd3914cdae97588c318128241f</link><description><![CDATA[<a href="https://www.thenile.dev/) — A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total">https://www.thenile.dev/) — A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total</a> - A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings<br>
- ]]></description>
-</item>
-<item>
-	<title>feat(data): Adding JSONGrid.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b1a1cecefdb91dbee6a8deb2f2f5ae501d8fad06</link><description><![CDATA[<a href="https://jsongrid.com">https://jsongrid.com</a> - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.<br>
  ]]></description>
 </item>
 
