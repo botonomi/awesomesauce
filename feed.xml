@@ -4,12 +4,27 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/392cf52f1244a7fc9ae91543f36e94d1b18446c9</link><description><![CDATA[<a href="https://www.comet.com/site/products/opik/">https://www.comet.com/site/products/opik/</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove Metered.ca free offering</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/045db16804af849a53c29aed7fdc78c2c7ba24a8</link><description><![CDATA[ ]]></description>
 </item>
 <item>
+	<title>Update name</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/caff14c4ce224eec4783dc856b6774553a01ba2c</link><description><![CDATA[<a href="https://github.com/comet-ml/opik">https://github.com/comet-ml/opik</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add new free TURN service by Cloudflare</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4dfee305891ca56f29fb6ab322b23eb4f453be1a</link><description><![CDATA[<a href="https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing">https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing</a> - 1TB of free (outgoing) traffic per month.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Opik</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6b8c4278e76efed1823495229a9f2548c6277860</link><description><![CDATA[<a href="https://github.com/comet-ml/opik">https://github.com/comet-ml/opik</a> - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
  ]]></description>
 </item>
 <item>
@@ -49,20 +64,6 @@
 <item>
 	<title>Remove dead services and fix links</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/acbce99ab6e0ddb3930409241e0eeea78295d682</link><description><![CDATA[<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Add difftext to code quality</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6a199ed8cae47ec771dec5213d0561355d0e4922</link><description><![CDATA[<a href="https://difftext.com">https://difftext.com</a> - Instantly find the differences between two blocks of code. Completely free to use.<br>
- ]]></description>
-</item>
-<item>
-	<title>remove dead service</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4180aa70d9d36af4e73bb339113acd39b627ed1e</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md with EdgeOne Pages</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d3e4dbd653fc76421c82950d12e74e27bda50d7b</link><description><![CDATA[<a href="https://edgeone.ai/products/pages">https://edgeone.ai/products/pages</a> - - EdgeOne Pages enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance. Free access to all features.<br>
  ]]></description>
 </item>
 
