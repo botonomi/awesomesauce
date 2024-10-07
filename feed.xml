@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/896296073e3e05667681e04340199477fb86d3f4</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Clarify RDS free tier terms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c060c17d657633afab2333712b67ea51ea48b489</link><description><![CDATA[<a href="https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo">https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo</a> - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)<br>
  ]]></description>
@@ -22,6 +27,11 @@
 <item>
 	<title>Added Flyon UI Tailwind Component Library</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/888038731de5a4f96da59a4ec62ebabb578c9ffe</link><description><![CDATA[<a href="https://flyonui.com/">https://flyonui.com/</a> - The Easiest Components Library For Tailwind CSS.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Adding Treblle</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4ec7363440335e71c9b01c9919d19aa0451eed8c</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging, it enables API-first companies to innovate and drive progress efficiently.<br>
  ]]></description>
 </item>
 <item>
@@ -46,16 +56,6 @@
 <item>
 	<title>Update name</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/caff14c4ce224eec4783dc856b6774553a01ba2c</link><description><![CDATA[<a href="https://github.com/comet-ml/opik">https://github.com/comet-ml/opik</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add new free TURN service by Cloudflare</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4dfee305891ca56f29fb6ab322b23eb4f453be1a</link><description><![CDATA[<a href="https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing">https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing</a> - 1TB of free (outgoing) traffic per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Opik</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6b8c4278e76efed1823495229a9f2548c6277860</link><description><![CDATA[<a href="https://github.com/comet-ml/opik">https://github.com/comet-ml/opik</a> - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
  ]]></description>
 </item>
 
