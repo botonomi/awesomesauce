@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Clarify RDS free tier terms</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c060c17d657633afab2333712b67ea51ea48b489</link><description><![CDATA[<a href="https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo">https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo</a> - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add S3 free tier</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8ada3d6019ed4358a80885adfa1884bca4aa68cc</link><description><![CDATA[<a href="https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo">https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo</a> - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo)<br>
+<a href="https://aws.amazon.com/glacier/">https://aws.amazon.com/glacier/</a> - 10GB long-term object storage<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix typo</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/38729b97e01b277b2b3f32a56889d2fcb3926d45</link><description><![CDATA[<a href="https://aws.amazon.com/cloudwatch/">https://aws.amazon.com/cloudwatch/</a> - 10 custom metrics and ten alarms<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Flyon UI Tailwind Component Library</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/888038731de5a4f96da59a4ec62ebabb578c9ffe</link><description><![CDATA[<a href="https://flyonui.com/">https://flyonui.com/</a> - The Easiest Components Library For Tailwind CSS.<br>
  ]]></description>
@@ -41,16 +57,6 @@
 	<title>Add Opik</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6b8c4278e76efed1823495229a9f2548c6277860</link><description><![CDATA[<a href="https://github.com/comet-ml/opik">https://github.com/comet-ml/opik</a> - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
  ]]></description>
-</item>
-<item>
-	<title>Merge branch 'ripienaar:master' into patch-1</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/244d387a0c0c7f85b56bf9806553822fad860a48</link><description><![CDATA[<a href="https://difftext.com">https://difftext.com</a> - Instantly find the differences between two blocks of code. Completely free to use.<br>
-<a href="https://account.seclookup.com/">https://account.seclookup.com/</a> - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove services (Divio, EdgeOne) without free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cda96dce0105740681f5cc896d80fe2e43aa6e32</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
