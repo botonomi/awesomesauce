@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add whats free</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6a0ec8ab41d5e7ae5f47271e6aa22c36c039c8fa</link><description><![CDATA[<a href="https://github.com/langfuse/langfuse">https://github.com/langfuse/langfuse</a> - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Langfuse</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/27717d498aa1d909e7c0b6fb7701c8bbddda22c1</link><description><![CDATA[<a href="https://github.com/langfuse/langfuse">https://github.com/langfuse/langfuse</a> - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/896296073e3e05667681e04340199477fb86d3f4</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.<br>
  ]]></description>
@@ -47,15 +57,6 @@
 <item>
 	<title>Update link</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/392cf52f1244a7fc9ae91543f36e94d1b18446c9</link><description><![CDATA[<a href="https://www.comet.com/site/products/opik/">https://www.comet.com/site/products/opik/</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Metered.ca free offering</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/045db16804af849a53c29aed7fdc78c2c7ba24a8</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update name</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/caff14c4ce224eec4783dc856b6774553a01ba2c</link><description><![CDATA[<a href="https://github.com/comet-ml/opik">https://github.com/comet-ml/opik</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles.<br>
  ]]></description>
 </item>
 
