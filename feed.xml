@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>SuperPM renamed to Crosswork</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1558532289c86e134bfd2a3710c7ec98322085ea</link><description><![CDATA[<a href="https://crosswork.app/">https://crosswork.app/</a> - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add GetVM to IDE and Code Editing section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc96d248b5e92fdf42df959cb2ed3aa68e932334</link><description><![CDATA[<a href="https://getvm.io">https://getvm.io</a> - Instant free Linux and IDEs chrome sidebar. The free tier includes 5 VMs per day.<br>
  ]]></description>
@@ -52,11 +57,6 @@
 <item>
 	<title>Add JSONing to APIs, Data, and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/910ddfcfd11bc1b7a02663c337018b648dc0c542</link><description><![CDATA[<a href="https://jsoning.com/api/">https://jsoning.com/api/</a> - Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added lil'bots to readme</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/3723682d29b53c6f795b4ccaf4355bd5e0fce505</link><description><![CDATA[<a href="https://www.lilbots.io/">https://www.lilbots.io/</a> - write and run scripts online utlizing free built-in APIs like OpenAI, Anthropic, Firecrawl and others. Great for building AI agents / internal tooling and sharing with team. Free-tier includes full access to APIs, AI coding assistant and 10,000 execution credits / month.<br>
  ]]></description>
 </item>
 
