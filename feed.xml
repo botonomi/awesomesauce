@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update the monthly time limit of Appetize's free plan</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8de21bf4933616a11b91949f37f3073ace64f0db</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e92c27ff067c8b3f48ec4ec95fbfabf90de7df84</link><description><![CDATA[<a href="https://uiland.design/">https://uiland.design/</a> - - [Mobile screenshots] Explore Mobile and Web UI Designs from Leading Companies in Africa and the world.<br>
+ ]]></description>
+</item>
+<item>
 	<title>SuperPM renamed to Crosswork</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1558532289c86e134bfd2a3710c7ec98322085ea</link><description><![CDATA[<a href="https://crosswork.app/">https://crosswork.app/</a> - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.<br>
  ]]></description>
@@ -52,11 +62,6 @@
 <item>
 	<title>Adding Treblle</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/4ec7363440335e71c9b01c9919d19aa0451eed8c</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging, it enables API-first companies to innovate and drive progress efficiently.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add JSONing to APIs, Data, and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/910ddfcfd11bc1b7a02663c337018b648dc0c542</link><description><![CDATA[<a href="https://jsoning.com/api/">https://jsoning.com/api/</a> - Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.<br>
  ]]></description>
 </item>
 
