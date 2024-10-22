@@ -4,13 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add LabEx to list of Education and Career Development</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0334031e8c7874a6aefc02c991629705ddb92a6f</link><description><![CDATA[<a href="https://labex.io">https://labex.io</a> - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update the monthly time limit of Appetize's free plan</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8de21bf4933616a11b91949f37f3073ace64f0db</link><description><![CDATA[<a href="https://appetize.io">https://appetize.io</a> - Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.<br>
  ]]></description>
 </item>
 <item>
+	<title>Add fontsensei</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/7a66b31bb42c637aaf98472993836bbc3963877b</link><description><![CDATA[<a href="https://fontsensei.com/) Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,Korean">https://fontsensei.com/) Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,Korean</a> - Google fonts tagged by users. With CJK (Chinese,Japanese,Korean) font tags.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e92c27ff067c8b3f48ec4ec95fbfabf90de7df84</link><description><![CDATA[<a href="https://uiland.design/">https://uiland.design/</a> - - [Mobile screenshots] Explore Mobile and Web UI Designs from Leading Companies in Africa and the world.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add LabEx Teams to list of collaboration tools</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/42cc3bfc6c938280e85e531ef0746a033310d22d</link><description><![CDATA[<a href="https://labex.io/teams">https://labex.io/teams</a> - - A free platform for teams and schools to manage tech skill trees and track learning progress, available for up to 100 members.<br>
  ]]></description>
 </item>
 <item>
@@ -41,27 +56,6 @@
 <item>
 	<title>Clarify RDS free tier terms</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c060c17d657633afab2333712b67ea51ea48b489</link><description><![CDATA[<a href="https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo">https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo</a> - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)<br>
- ]]></description>
-</item>
-<item>
-	<title>Add S3 free tier</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8ada3d6019ed4358a80885adfa1884bca4aa68cc</link><description><![CDATA[<a href="https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo">https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo</a> - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo)<br>
-<a href="https://aws.amazon.com/glacier/">https://aws.amazon.com/glacier/</a> - 10GB long-term object storage<br>
- ]]></description>
-</item>
-<item>
-	<title>Fix typo</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/38729b97e01b277b2b3f32a56889d2fcb3926d45</link><description><![CDATA[<a href="https://aws.amazon.com/cloudwatch/">https://aws.amazon.com/cloudwatch/</a> - 10 custom metrics and ten alarms<br>
- ]]></description>
-</item>
-<item>
-	<title>Added Flyon UI Tailwind Component Library</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/888038731de5a4f96da59a4ec62ebabb578c9ffe</link><description><![CDATA[<a href="https://flyonui.com/">https://flyonui.com/</a> - The Easiest Components Library For Tailwind CSS.<br>
- ]]></description>
-</item>
-<item>
-	<title>Adding Treblle</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4ec7363440335e71c9b01c9919d19aa0451eed8c</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging, it enables API-first companies to innovate and drive progress efficiently.<br>
  ]]></description>
 </item>
 
