@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dcd62d347d6b79f43bd8487b396b333eefe29bf3</link><description><![CDATA[<a href="https://ip.alstra.ca/">https://ip.alstra.ca/</a> - Address Checker](https://ip.alstra.ca/) — A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add LabEx to list of Education and Career Development</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0334031e8c7874a6aefc02c991629705ddb92a6f</link><description><![CDATA[<a href="https://labex.io">https://labex.io</a> - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/896296073e3e05667681e04340199477fb86d3f4</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Clarify RDS free tier terms</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c060c17d657633afab2333712b67ea51ea48b489</link><description><![CDATA[<a href="https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo">https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo</a> - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)<br>
  ]]></description>
 </item>
 
