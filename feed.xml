@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Lade free tier service limit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1e555bf2981390f093c51d0ebe702ccd6838720d</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes three services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dcd62d347d6b79f43bd8487b396b333eefe29bf3</link><description><![CDATA[<a href="https://ip.alstra.ca/">https://ip.alstra.ca/</a> - Address Checker](https://ip.alstra.ca/) — A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Add Langfuse</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/27717d498aa1d909e7c0b6fb7701c8bbddda22c1</link><description><![CDATA[<a href="https://github.com/langfuse/langfuse">https://github.com/langfuse/langfuse</a> - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/896296073e3e05667681e04340199477fb86d3f4</link><description><![CDATA[<a href="https://www.treblle.com">https://www.treblle.com</a> - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.<br>
  ]]></description>
 </item>
 
