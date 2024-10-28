@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add zed.dev in IDE and Code Editing</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/272e5b7c1ea51b466ef13c415845c3f4c1f30683</link><description><![CDATA[<a href="https://zed.dev/">https://zed.dev/</a> - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Lade free tier service limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1e555bf2981390f093c51d0ebe702ccd6838720d</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes three services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
  ]]></description>
@@ -46,16 +51,6 @@
 <item>
 	<title>Add GetVM to IDE and Code Editing section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bc96d248b5e92fdf42df959cb2ed3aa68e932334</link><description><![CDATA[<a href="https://getvm.io">https://getvm.io</a> - Instant free Linux and IDEs chrome sidebar. The free tier includes 5 VMs per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add whats free</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6a0ec8ab41d5e7ae5f47271e6aa22c36c039c8fa</link><description><![CDATA[<a href="https://github.com/langfuse/langfuse">https://github.com/langfuse/langfuse</a> - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Langfuse</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/27717d498aa1d909e7c0b6fb7701c8bbddda22c1</link><description><![CDATA[<a href="https://github.com/langfuse/langfuse">https://github.com/langfuse/langfuse</a> - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource](https://github.com/langfuse/langfuse)<br>
  ]]></description>
 </item>
 
