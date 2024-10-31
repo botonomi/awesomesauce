@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added pollinations to Generative AI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c00851e13c07d059d90b1912990bf82852abf140</link><description><![CDATA[<a href="https://github.com/pollinations/pollinations">https://github.com/pollinations/pollinations</a> - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b17c67e3f1256aa9f83e0a7bac0be409bd09c528</link><description><![CDATA[<a href="https://repoforge.io">https://repoforge.io</a> - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Add LabEx Teams to list of collaboration tools</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/42cc3bfc6c938280e85e531ef0746a033310d22d</link><description><![CDATA[<a href="https://labex.io/teams">https://labex.io/teams</a> - - A free platform for teams and schools to manage tech skill trees and track learning progress, available for up to 100 members.<br>
- ]]></description>
-</item>
-<item>
-	<title>SuperPM renamed to Crosswork</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1558532289c86e134bfd2a3710c7ec98322085ea</link><description><![CDATA[<a href="https://crosswork.app/">https://crosswork.app/</a> - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.<br>
  ]]></description>
 </item>
 
