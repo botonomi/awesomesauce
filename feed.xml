@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Terramate in CI and CD</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c3ae2fc17f909f9e70453423a252958250940e4e</link><description><![CDATA[<a href="https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC">https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC</a> - Terramate is an orchestration and management platform for Infrastructure as Code (IaC) tools such as Terraform, OpenTofu, and Terragrunt. Free up to 2 users including all features.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Move to monitoring section</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/61d4c12d9beef77ea0ef4b63c2fb32484967194b</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>Add zed.dev in IDE and Code Editing</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/272e5b7c1ea51b466ef13c415845c3f4c1f30683</link><description><![CDATA[<a href="https://zed.dev/">https://zed.dev/</a> - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Lade free tier service limit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1e555bf2981390f093c51d0ebe702ccd6838720d</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes three services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
  ]]></description>
 </item>
 
