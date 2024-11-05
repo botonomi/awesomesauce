@@ -4,6 +4,26 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Move to monitoring section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/61d4c12d9beef77ea0ef4b63c2fb32484967194b</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update dash `—`</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/857d40fe152459d62210a69d1a3ffabe917366e9</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update wording</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/eec52da4f03d62533db899b6b558ce1911369b6f</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) - Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add CN Test Free Tool</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/2d1be1de14fd397e4781344d953ada3086ddb26f</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) - A free tool that helps you determine if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add cirun.io in CI/CD</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d932ecad74933921d18f13c9b1f16326087c81a</link><description><![CDATA[<a href="https://cirun.io">https://cirun.io</a> - Free for public GitHub repositories<br>
  ]]></description>
@@ -41,16 +61,6 @@
 <item>
 	<title>Update Lade free tier service limit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/1e555bf2981390f093c51d0ebe702ccd6838720d</link><description><![CDATA[<a href="https://www.lade.io/">https://www.lade.io/</a> - Lade is a cloud platform built for developers. The free tier includes three services, which can be either apps or databases. Each service includes 128 MB RAM and 1 GB storage.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/dcd62d347d6b79f43bd8487b396b333eefe29bf3</link><description><![CDATA[<a href="https://ip.alstra.ca/">https://ip.alstra.ca/</a> - Address Checker](https://ip.alstra.ca/) — A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add LabEx to list of Education and Career Development</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0334031e8c7874a6aefc02c991629705ddb92a6f</link><description><![CDATA[<a href="https://labex.io">https://labex.io</a> - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.<br>
  ]]></description>
 </item>
 
