@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add CodeRabbit</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8bab751cf32e88c7bb7071766129b2412fc39584</link><description><![CDATA[<a href="https://coderabbit.ai">https://coderabbit.ai</a> - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added UptimeObserver</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/098de140cd2222549e6612ba937e6ba42702c745</link><description><![CDATA[<a href="https://uptimeobserver.com">https://uptimeobserver.com</a> - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>Added pollinations to Generative AI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c00851e13c07d059d90b1912990bf82852abf140</link><description><![CDATA[<a href="https://github.com/pollinations/pollinations">https://github.com/pollinations/pollinations</a> - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b17c67e3f1256aa9f83e0a7bac0be409bd09c528</link><description><![CDATA[<a href="https://repoforge.io">https://repoforge.io</a> - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.<br>
  ]]></description>
 </item>
 
