@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add composio</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/063e58d25f53fb8a68e4214c565305ac702df8ea</link><description><![CDATA[<a href="https://composio.dev/">https://composio.dev/</a> - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add CodeRabbit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8bab751cf32e88c7bb7071766129b2412fc39584</link><description><![CDATA[<a href="https://coderabbit.ai">https://coderabbit.ai</a> - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.<br>
  ]]></description>
@@ -56,11 +61,6 @@
 <item>
 	<title>Add Sqlable to APIs, Data, and ML</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2221984d34e6a0153e113fb293d39a0a8ff88cb7</link><description><![CDATA[<a href="https://sqlable.com/">https://sqlable.com/</a> - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added pollinations to Generative AI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c00851e13c07d059d90b1912990bf82852abf140</link><description><![CDATA[<a href="https://github.com/pollinations/pollinations">https://github.com/pollinations/pollinations</a> - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)<br>
  ]]></description>
 </item>
 
