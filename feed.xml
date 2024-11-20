@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove spheron</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6f7aa939e41fb14386958f193a1f11eb256ec8ea</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df778c75536de9dd29dce2201bb56a8863f6a7e0</link><description><![CDATA[<a href="https://gocardless.com/">https://gocardless.com/</a> - Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add composio</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/063e58d25f53fb8a68e4214c565305ac702df8ea</link><description><![CDATA[<a href="https://composio.dev/">https://composio.dev/</a> - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.<br>
  ]]></description>
@@ -46,21 +55,6 @@
 <item>
 	<title>Add cirun.io in CI/CD</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d932ecad74933921d18f13c9b1f16326087c81a</link><description><![CDATA[<a href="https://cirun.io">https://cirun.io</a> - Free for public GitHub repositories<br>
- ]]></description>
-</item>
-<item>
-	<title>Update description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/95ca5da684796dcf5de4091fc8cd95c78f1f33c2</link><description><![CDATA[<a href="https://mintlify.com">https://mintlify.com</a> - Modern standard for API documentation. Beautiful and easy-to-maintain UI components, in-app search, and interactive playground. Free for 1 editor.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Mintlify to APIs, Data, and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/64807298a786ddc354f7f72815a470500c214c38</link><description><![CDATA[<a href="https://mintlify.com">https://mintlify.com</a> - Modern standard for API documentation. Beautiful and easy-to-maintain UI components and interactive playground.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Sqlable to APIs, Data, and ML</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2221984d34e6a0153e113fb293d39a0a8ff88cb7</link><description><![CDATA[<a href="https://sqlable.com/">https://sqlable.com/</a> - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.<br>
  ]]></description>
 </item>
 
