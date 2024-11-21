@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update Auth0</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ebf0141b2a741906ddc847f8202942a72640032d</link><description><![CDATA[<a href="https://auth0.com/">https://auth0.com/</a> - Hosted SSO. The free plan includes 25,000 MAUs, unlimited Social Connections, a custom domain, and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove spheron</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6f7aa939e41fb14386958f193a1f11eb256ec8ea</link><description><![CDATA[ ]]></description>
 </item>
@@ -50,11 +55,6 @@
 <item>
 	<title>Add CN Test Free Tool</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2d1be1de14fd397e4781344d953ada3086ddb26f</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) - A free tool that helps you determine if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add cirun.io in CI/CD</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d932ecad74933921d18f13c9b1f16326087c81a</link><description><![CDATA[<a href="https://cirun.io">https://cirun.io</a> - Free for public GitHub repositories<br>
  ]]></description>
 </item>
 
