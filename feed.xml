@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Pocket Alert</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1cdb8b09e033cc97b0bce425cc4fce37a48628bf</link><description><![CDATA[<a href="https://pocketalert.app">https://pocketalert.app</a> - - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add Pocket Alert</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6babf9d724f9395b9de25a6db67fb93a115bad17</link><description><![CDATA[<a href="https://pocketalert.app">https://pocketalert.app</a> - - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Auth0</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ebf0141b2a741906ddc847f8202942a72640032d</link><description><![CDATA[<a href="https://auth0.com/">https://auth0.com/</a> - Hosted SSO. The free plan includes 25,000 MAUs, unlimited Social Connections, a custom domain, and more.<br>
  ]]></description>
@@ -45,16 +55,6 @@
 <item>
 	<title>Update dash `—`</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/857d40fe152459d62210a69d1a3ffabe917366e9</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update wording</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/eec52da4f03d62533db899b6b558ce1911369b6f</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) - Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CN Test Free Tool</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/2d1be1de14fd397e4781344d953ada3086ddb26f</link><description><![CDATA[<a href="https://cntest.ontarionet.ca">https://cntest.ontarionet.ca</a> - Test](https://cntest.ontarionet.ca) - A free tool that helps you determine if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.<br>
  ]]></description>
 </item>
 
