@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>remove trailing slash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/39b983b69cfe7e440d726ebce8b054ebc0b8b96c</link><description><![CDATA[<a href="https://openobserve.ai/">https://openobserve.ai/</a> - 200 GB Ingestion/month free, 15 Days Retention<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add openobserve.ai</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0e5e78e3c28350da2ab931b559d19e78502f7e73</link><description><![CDATA[<a href="https://openobserve.ai/">https://openobserve.ai/</a> - 200 GB Ingestion/month free, 15 Days Retention<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add mailchannels</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d312e9ffdce4bf8d971ccd1b2b1d73089d861c0</link><description><![CDATA[<a href="https://www.mailchannels.com">https://www.mailchannels.com</a> - Email API with REST API and SMTP integrations, free for upto 3,000 emails/month.<br>
  ]]></description>
@@ -45,11 +55,6 @@
 <item>
 	<title>Add CodeRabbit</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8bab751cf32e88c7bb7071766129b2412fc39584</link><description><![CDATA[<a href="https://coderabbit.ai">https://coderabbit.ai</a> - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added UptimeObserver</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/098de140cd2222549e6612ba937e6ba42702c745</link><description><![CDATA[<a href="https://uptimeobserver.com">https://uptimeobserver.com</a> - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.<br>
  ]]></description>
 </item>
 
