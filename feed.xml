@@ -4,6 +4,21 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>refactor(Testing): Sort the Testing list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/54c0af8b34f37b488e4d410214e1fb6edb985281</link><description><![CDATA[<a href="https://argos-ci.com">https://argos-ci.com</a> - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.<br>
+<a href="https://bugbug.io/">https://bugbug.io/</a> - Lightweight test automation tool for web applications. It is easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. You also get cloud monitoring and CI/CD integration for an additional monthly fee.<br>
+<a href="https://www.checkbot.io/">https://www.checkbot.io/</a> - Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.<br>
+<a href="https://knapsackpro.com">https://knapsackpro.com</a> - Speed up your tests with optimal test suite parallelization on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes of test files and free unlimited plan for Open Source projects.<br>
+<a href="https://www.lambdatest.com/open-source-cross-browser-testing-tool">https://www.lambdatest.com/open-source-cross-browser-testing-tool</a> - Manual, visual, screenshot, and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)<br>
+<a href="https://lost-pixel.com">https://lost-pixel.com</a> - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.<br>
+<a href="https://preflight.com">https://preflight.com</a> - No-code automated web testing. Record tests on your browser that are resilient to UI changes and run them on Windows machines. Could you integrate with your CI/CD? The free plan includes 50 monthly test runs with video, HTML sessions, and more.<br>
+<a href="https://qase.io">https://qase.io</a> - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.<br>
+<a href="https://www.websitepulse.com/tools/">https://www.websitepulse.com/tools/</a> - Various free network and server tools.<br>
+<a href="https://webhook.site">https://webhook.site</a> - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.<br>
+<a href="https://webhookbeam.com">https://webhookbeam.com</a> - Set up webhooks and monitor them via push notifications and emails.<br>
+ ]]></description>
+</item>
+<item>
 	<title>remove trailing slash</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/39b983b69cfe7e440d726ebce8b054ebc0b8b96c</link><description><![CDATA[<a href="https://openobserve.ai/">https://openobserve.ai/</a> - 200 GB Ingestion/month free, 15 Days Retention<br>
  ]]></description>
@@ -50,11 +65,6 @@
 <item>
 	<title>Add composio</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/063e58d25f53fb8a68e4214c565305ac702df8ea</link><description><![CDATA[<a href="https://composio.dev/">https://composio.dev/</a> - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add CodeRabbit</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/8bab751cf32e88c7bb7071766129b2412fc39584</link><description><![CDATA[<a href="https://coderabbit.ai">https://coderabbit.ai</a> - AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.<br>
  ]]></description>
 </item>
 
