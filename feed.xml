@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove dead and paid only services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ac3c59890d62bf1d9604c870ccc6383a3d1db8bd</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/85d6f4b6afce4442f4ef0416abaaa90f49bef2e2</link><description><![CDATA[<a href="https://screensharing.net">https://screensharing.net</a> - via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.<br>
  ]]></description>
@@ -61,11 +65,6 @@
 <item>
 	<title>Add Pocket Alert</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/6babf9d724f9395b9de25a6db67fb93a115bad17</link><description><![CDATA[<a href="https://pocketalert.app">https://pocketalert.app</a> - - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update Auth0</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ebf0141b2a741906ddc847f8202942a72640032d</link><description><![CDATA[<a href="https://auth0.com/">https://auth0.com/</a> - Hosted SSO. The free plan includes 25,000 MAUs, unlimited Social Connections, a custom domain, and more.<br>
  ]]></description>
 </item>
 
