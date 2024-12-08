@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>merged zuplo duplicate to just one, fixed description also</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e709182db6012783f2698aeadf04e98cf0983e50</link><description><![CDATA[<a href="https://zuplo.com/">https://zuplo.com/</a> - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Tuta Nota -> Tuta</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e33e5294ff7ef7e54e681e772cb04f5fe0ae299c</link><description><![CDATA[<a href="https://github.com/tutao/tutanota">https://github.com/tutao/tutanota</a> - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.<br>
  ]]></description>
@@ -55,11 +60,6 @@
 <item>
 	<title>Add mailchannels</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/7d312e9ffdce4bf8d971ccd1b2b1d73089d861c0</link><description><![CDATA[<a href="https://www.mailchannels.com">https://www.mailchannels.com</a> - Email API with REST API and SMTP integrations, free for upto 3,000 emails/month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add phare.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b1f6871661e8929ad8ed05e00332a2286bfc58e8</link><description><![CDATA[<a href="https://phare.io/">https://phare.io/</a> - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.<br>
  ]]></description>
 </item>
 
