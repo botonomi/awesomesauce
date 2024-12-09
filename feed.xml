@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove filestash</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bb6ce6b0d706efe62be1e50c941fd969db48c8d8</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>merged zuplo duplicate to just one, fixed description also</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e709182db6012783f2698aeadf04e98cf0983e50</link><description><![CDATA[<a href="https://zuplo.com/">https://zuplo.com/</a> - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.<br>
  ]]></description>
@@ -55,11 +59,6 @@
 <item>
 	<title>Add openobserve.ai</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/0e5e78e3c28350da2ab931b559d19e78502f7e73</link><description><![CDATA[<a href="https://openobserve.ai/">https://openobserve.ai/</a> - 200 GB Ingestion/month free, 15 Days Retention<br>
- ]]></description>
-</item>
-<item>
-	<title>Add mailchannels</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/7d312e9ffdce4bf8d971ccd1b2b1d73089d861c0</link><description><![CDATA[<a href="https://www.mailchannels.com">https://www.mailchannels.com</a> - Email API with REST API and SMTP integrations, free for upto 3,000 emails/month.<br>
  ]]></description>
 </item>
 
