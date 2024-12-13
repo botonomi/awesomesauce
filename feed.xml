@@ -4,6 +4,13 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update URLs</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/4e693d8f1c4a33a31328eea05d1c9d640a4550cd</link><description><![CDATA[<a href="https://developer.android.com/studio">https://developer.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!<br>
+<a href="https://www.branch.io">https://www.branch.io</a> - Mobile Analytics Platform. Free Tier offers up to 10K Mobile App Users with deep-linking & other services.<br>
+<a href="https://reqbin.com/">https://reqbin.com/</a> - Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added SiteDots</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/93ef6140be09b19cf3a8f909bc1d0e7981f44404</link><description><![CDATA[<a href="https://sitedots.com/">https://sitedots.com/</a> - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.<br>
  ]]></description>
@@ -44,21 +51,6 @@
 <item>
 	<title>Add Orama Cloud search</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/076ca8a8ca0a4200583877418c86e36a7c70a08b</link><description><![CDATA[<a href="https://orama.com/pricing">https://orama.com/pricing</a> - — Free 3 indexes, 100K docs/index, unlimited full-text/vector/hybrid searches, 60 days analytics<br>
- ]]></description>
-</item>
-<item>
-	<title>refactor(Testing): Sort the Testing list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/54c0af8b34f37b488e4d410214e1fb6edb985281</link><description><![CDATA[<a href="https://argos-ci.com">https://argos-ci.com</a> - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.<br>
-<a href="https://bugbug.io/">https://bugbug.io/</a> - Lightweight test automation tool for web applications. It is easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. You also get cloud monitoring and CI/CD integration for an additional monthly fee.<br>
-<a href="https://www.checkbot.io/">https://www.checkbot.io/</a> - Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.<br>
-<a href="https://knapsackpro.com">https://knapsackpro.com</a> - Speed up your tests with optimal test suite parallelization on any CI provider. Split Ruby, JavaScript tests on parallel CI nodes to save time. Free plan for up to 10 minutes of test files and free unlimited plan for Open Source projects.<br>
-<a href="https://www.lambdatest.com/open-source-cross-browser-testing-tool">https://www.lambdatest.com/open-source-cross-browser-testing-tool</a> - Manual, visual, screenshot, and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)<br>
-<a href="https://lost-pixel.com">https://lost-pixel.com</a> - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.<br>
-<a href="https://preflight.com">https://preflight.com</a> - No-code automated web testing. Record tests on your browser that are resilient to UI changes and run them on Windows machines. Could you integrate with your CI/CD? The free plan includes 50 monthly test runs with video, HTML sessions, and more.<br>
-<a href="https://qase.io">https://qase.io</a> - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.<br>
-<a href="https://www.websitepulse.com/tools/">https://www.websitepulse.com/tools/</a> - Various free network and server tools.<br>
-<a href="https://webhook.site">https://webhook.site</a> - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.<br>
-<a href="https://webhookbeam.com">https://webhookbeam.com</a> - Set up webhooks and monitor them via push notifications and emails.<br>
  ]]></description>
 </item>
 
