@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c5d851fa8bdd2911b4b65282e0be02348babe73d</link><description><![CDATA[<a href="https://repoflow.io">https://repoflow.io</a> - RepoFlow Simplifies package management with support for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or self-hosted for personal use only.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/dd99d8f79cf165aa41a8b72a8bd6a470698bd4cf</link><description><![CDATA[<a href="https://repoflow.io">https://repoflow.io</a> - RepoFlow simplifies package management with support for npm, PyPI, Docker, Go, Helm, and more. Try it for free, in the cloud or self-hosted.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add one-signal mail service in readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/67feac830d07dc94cb04430b2c235bfcf8acd077</link><description><![CDATA[<a href="https://onesignal.com/">https://onesignal.com/</a> - 10,000 emails/month,No Credit Cards are required.<br>
  ]]></description>
@@ -42,16 +52,6 @@
 <item>
 	<title>Remove dead and paid only services</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/ac3c59890d62bf1d9604c870ccc6383a3d1db8bd</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/85d6f4b6afce4442f4ef0416abaaa90f49bef2e2</link><description><![CDATA[<a href="https://screensharing.net">https://screensharing.net</a> - via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add WeatherXu.com</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/6bbb82872738a970675b37e21caa0a5582e445fb</link><description><![CDATA[<a href="https://weatherxu.com/">https://weatherxu.com/</a> - Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.<br>
- ]]></description>
 </item>
 
 </channel>
