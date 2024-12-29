@@ -4,6 +4,22 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add W3Schools & Khan Academy</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/ec06967edc27e560242fabe56f69aae6418b4a84</link><description><![CDATA[<a href="https://www.w3schools.com/">https://www.w3schools.com/</a> - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.<br>
+<a href="https://www.khanacademy.org/computing/computer-programming">https://www.khanacademy.org/computing/computer-programming</a> - - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.<br>
+ ]]></description>
+</item>
+<item>
+	<title>move line to Google services</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5ea7ca45124b34164a2f4acfec2587ead7adb073</link><description><![CDATA[<a href="https://idx.dev">https://idx.dev</a> - Project IDX. Online VSCode running on Google Cloud.<br>
+ ]]></description>
+</item>
+<item>
+	<title>idx.dev</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/75d57798842d823639b243edc27686c067222974</link><description><![CDATA[<a href="https://idx.dev">https://idx.dev</a> - Project IDX. Online VSCode running on Google Cloud.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add Stacks to free-for-dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a6a7bb884246fae88634449d4fcc02b8a55fa38c</link><description><![CDATA[<a href="https://betterstacks.com/">https://betterstacks.com/</a> - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.<br>
  ]]></description>
@@ -43,16 +59,6 @@
 <item>
 	<title>Remove filestash</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/bb6ce6b0d706efe62be1e50c941fd969db48c8d8</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>merged zuplo duplicate to just one, fixed description also</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e709182db6012783f2698aeadf04e98cf0983e50</link><description><![CDATA[<a href="https://zuplo.com/">https://zuplo.com/</a> - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.<br>
- ]]></description>
-</item>
-<item>
-	<title>Tuta Nota -> Tuta</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e33e5294ff7ef7e54e681e772cb04f5fe0ae299c</link><description><![CDATA[<a href="https://github.com/tutao/tutanota">https://github.com/tutao/tutanota</a> - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.<br>
- ]]></description>
 </item>
 
 </channel>
