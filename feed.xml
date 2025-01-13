@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added Othor AI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e6acc94e0af3bad33c69294034a87d63700acd01</link><description><![CDATA[<a href="https://github.com/othorai/othor.ai">https://github.com/othorai/othor.ai</a> - - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics. [#opensource](https://github.com/othorai/othor.ai)<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added Othor AI</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/421b53a2ddd75419751050b426290107a74e6762</link><description><![CDATA[<a href="https://github.com/othorai/othor.ai">https://github.com/othorai/othor.ai</a> - - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. [#opensource](https://github.com/othorai/othor.ai)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update Stytch</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/84c93f9e8fc090375d5d9ea3f72c3d9286602c6e</link><description><![CDATA[<a href="https://www.stytch.com/">https://www.stytch.com/</a> - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.<br>
  ]]></description>
@@ -49,16 +59,6 @@
 	<link>https://github.com/ripienaar/free-for-dev/commit/4e693d8f1c4a33a31328eea05d1c9d640a4550cd</link><description><![CDATA[<a href="https://developer.android.com/studio">https://developer.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!<br>
 <a href="https://www.branch.io">https://www.branch.io</a> - Mobile Analytics Platform. Free Tier offers up to 10K Mobile App Users with deep-linking & other services.<br>
 <a href="https://reqbin.com/">https://reqbin.com/</a> - Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added SiteDots</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/93ef6140be09b19cf3a8f909bc1d0e7981f44404</link><description><![CDATA[<a href="https://sitedots.com/">https://sitedots.com/</a> - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1bc58e82bb66107db171162eac6f4cdc5b2258c5</link><description><![CDATA[<a href="https://incidenthub.cloud/) — Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord">https://incidenthub.cloud/) — Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord</a> - Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.<br>
  ]]></description>
 </item>
 
