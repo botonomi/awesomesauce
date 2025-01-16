@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Terrateam</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1ee64bfab4e2fc2b685f2a4bc312b0c8f04094c5</link><description><![CDATA[<a href="https://terrateam.io">https://terrateam.io</a> - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Othor AI</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e6acc94e0af3bad33c69294034a87d63700acd01</link><description><![CDATA[<a href="https://github.com/othorai/othor.ai">https://github.com/othorai/othor.ai</a> - - An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics. [#opensource](https://github.com/othorai/othor.ai)<br>
  ]]></description>
@@ -52,13 +57,6 @@
 <item>
 	<title>add one-signal mail service in readme</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/67feac830d07dc94cb04430b2c235bfcf8acd077</link><description><![CDATA[<a href="https://onesignal.com/">https://onesignal.com/</a> - 10,000 emails/month,No Credit Cards are required.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update URLs</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/4e693d8f1c4a33a31328eea05d1c9d640a4550cd</link><description><![CDATA[<a href="https://developer.android.com/studio">https://developer.android.com/studio</a> - — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!<br>
-<a href="https://www.branch.io">https://www.branch.io</a> - Mobile Analytics Platform. Free Tier offers up to 10K Mobile App Users with deep-linking & other services.<br>
-<a href="https://reqbin.com/">https://reqbin.com/</a> - Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.<br>
  ]]></description>
 </item>
 
