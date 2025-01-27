@@ -4,6 +4,12 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove uptime robot</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/fec583a5e7842372904d020a3fe202e53c65d3d7</link><description><![CDATA[<a href="https://betterstacks.com/">https://betterstacks.com/</a> - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.<br>
+<a href="https://permit.io">https://permit.io</a> - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Added Permit.io to Auth solutions list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/e7bbaaf78bcf4a7dbf165c69484bc4bb1ee3e501</link><description><![CDATA[<a href="https://permit.io">https://permit.io</a> - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.<br>
  ]]></description>
@@ -52,11 +58,6 @@
 <item>
 	<title>idx.dev</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/75d57798842d823639b243edc27686c067222974</link><description><![CDATA[<a href="https://idx.dev">https://idx.dev</a> - Project IDX. Online VSCode running on Google Cloud.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Stacks to free-for-dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a6a7bb884246fae88634449d4fcc02b8a55fa38c</link><description><![CDATA[<a href="https://betterstacks.com/">https://betterstacks.com/</a> - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.<br>
  ]]></description>
 </item>
 
