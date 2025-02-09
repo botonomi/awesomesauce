@@ -4,6 +4,20 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Update OneCompiler description in development tools list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d5a54c49de8a0c68d89939c9969e4c688e72890f</link><description><![CDATA[<a href="https://onecompiler.com/">https://onecompiler.com/</a> - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove YugabyteDB</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/e2e99e545e199f0f3e82d333cceaf3ea8935c5f7</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add OneCompiler to development tools list</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/df5d0412d6835121748609640e83db7a2d130041</link><description><![CDATA[<a href="https://onecompiler.com/">https://onecompiler.com/</a> - A free online compiler that helps over 12.8 million users worldwide write, run, and share code online.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove uptime robot</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/fec583a5e7842372904d020a3fe202e53c65d3d7</link><description><![CDATA[<a href="https://betterstacks.com/">https://betterstacks.com/</a> - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.<br>
 <a href="https://permit.io">https://permit.io</a> - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.<br>
@@ -42,22 +56,6 @@
 <item>
 	<title>Update Stytch</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/84c93f9e8fc090375d5d9ea3f72c3d9286602c6e</link><description><![CDATA[<a href="https://www.stytch.com/">https://www.stytch.com/</a> - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.<br>
- ]]></description>
-</item>
-<item>
-	<title>add W3Schools & Khan Academy</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/ec06967edc27e560242fabe56f69aae6418b4a84</link><description><![CDATA[<a href="https://www.w3schools.com/">https://www.w3schools.com/</a> - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.<br>
-<a href="https://www.khanacademy.org/computing/computer-programming">https://www.khanacademy.org/computing/computer-programming</a> - - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.<br>
- ]]></description>
-</item>
-<item>
-	<title>move line to Google services</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5ea7ca45124b34164a2f4acfec2587ead7adb073</link><description><![CDATA[<a href="https://idx.dev">https://idx.dev</a> - Project IDX. Online VSCode running on Google Cloud.<br>
- ]]></description>
-</item>
-<item>
-	<title>idx.dev</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/75d57798842d823639b243edc27686c067222974</link><description><![CDATA[<a href="https://idx.dev">https://idx.dev</a> - Project IDX. Online VSCode running on Google Cloud.<br>
  ]]></description>
 </item>
 
