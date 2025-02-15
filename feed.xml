@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>adds it-tools.tech</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b2583d11a579e1ac572ed809af9f8f7be4edf356</link><description><![CDATA[<a href="it-tools.tech">it-tools.tech</a> - - Useful tools for developer and people working in IT.<br>
+ ]]></description>
+</item>
+<item>
 	<title>add Sevallo web hosting</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dcacb81453c2f65c57982b334e92aff5a98901d5</link><description><![CDATA[<a href="https://sevalla.com/">https://sevalla.com/</a> - Hosting platform designed to simplify the deployment and management of applications, databases, and static websites - 1GB site limit, 100GB free bandwidth, 600 free build minutes, 100 sites per account.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>Add servervana.com to Monitoring</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2543ff47c483266b791d7a739f0293b553d3391a</link><description><![CDATA[<a href="https://servervana.com">https://servervana.com</a> - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.<br>
- ]]></description>
-</item>
-<item>
-	<title>Tailkits added</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/79bd47fcfe8e01d9d4fb2b334981d1e6f232a94a</link><description><![CDATA[<a href="https://tailkits.com/">https://tailkits.com/</a> - A curated collection of Tailwind templates, components, and tools, plus useful generators for code, grids, box shadows, and more.<br>
  ]]></description>
 </item>
 
