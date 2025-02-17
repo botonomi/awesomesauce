@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove tab; Fix LocalOps placement;</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d299cc77e1012ab6b44e9e1349e8cb2e100380e8</link><description><![CDATA[<a href="https://localops.co/">https://localops.co/</a> - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add PDFBolt.com</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/93dfa4f220cfc21347ceb5c43a2ff3edaf7ca330</link><description><![CDATA[<a href="https://pdfbolt.com">https://pdfbolt.com</a> - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.<br>
  ]]></description>
@@ -45,12 +50,6 @@
 <item>
 	<title>Add OneCompiler to development tools list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/df5d0412d6835121748609640e83db7a2d130041</link><description><![CDATA[<a href="https://onecompiler.com/">https://onecompiler.com/</a> - A free online compiler that helps over 12.8 million users worldwide write, run, and share code online.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove uptime robot</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fec583a5e7842372904d020a3fe202e53c65d3d7</link><description><![CDATA[<a href="https://betterstacks.com/">https://betterstacks.com/</a> - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.<br>
-<a href="https://permit.io">https://permit.io</a> - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.<br>
  ]]></description>
 </item>
 
