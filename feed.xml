@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated description</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/793378b1998e2675d722028c29a85a9a99cf92af</link><description><![CDATA[<a href="https://cors-error.dev/cors-tester/">https://cors-error.dev/cors-tester/</a> - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Add CORS-Tester in Testing section</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/f2bcea299d648d4f8c6630b8f5a5e325e45a9f34</link><description><![CDATA[<a href="https://cors-error.dev/cors-tester/">https://cors-error.dev/cors-tester/</a> - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove tab; Fix LocalOps placement;</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d299cc77e1012ab6b44e9e1349e8cb2e100380e8</link><description><![CDATA[<a href="https://localops.co/">https://localops.co/</a> - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.<br>
  ]]></description>
@@ -41,15 +51,6 @@
 <item>
 	<title>Update OneCompiler description in development tools list</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d5a54c49de8a0c68d89939c9969e4c688e72890f</link><description><![CDATA[<a href="https://onecompiler.com/">https://onecompiler.com/</a> - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove YugabyteDB</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e2e99e545e199f0f3e82d333cceaf3ea8935c5f7</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Add OneCompiler to development tools list</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/df5d0412d6835121748609640e83db7a2d130041</link><description><![CDATA[<a href="https://onecompiler.com/">https://onecompiler.com/</a> - A free online compiler that helps over 12.8 million users worldwide write, run, and share code online.<br>
  ]]></description>
 </item>
 
