@@ -15,8 +15,7 @@
 </item>
 <item>
 	<title>Updated description</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/793378b1998e2675d722028c29a85a9a99cf92af</link><description><![CDATA[<a href="https://cors-error.dev/cors-tester/">https://cors-error.dev/cors-tester/</a> - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.<br>
- ]]></description>
+	<link>https://github.com/ripienaar/free-for-dev/commit/793378b1998e2675d722028c29a85a9a99cf92af</link><description><![CDATA[ ]]></description>
 </item>
 <item>
 	<title>Add CORS-Tester in Testing section</title>
