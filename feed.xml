@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add core-web-vitals history checker</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/8706826360e4cb0ee7736f9ab4f39c7c6aa99b22</link><description><![CDATA[<a href="https://punits.dev/core-web-vitals-historical/">https://punits.dev/core-web-vitals-historical/</a> - Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c33528512bf407e35b1651615c97df4b62f03f96</link><description><![CDATA[<a href="https://ipquery.io">https://ipquery.io</a> - Unlimited IP API for developers, no ratelimits, or pricing.<br>
  ]]></description>
@@ -46,11 +51,6 @@
 <item>
 	<title>add Sevallo web hosting</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/dcacb81453c2f65c57982b334e92aff5a98901d5</link><description><![CDATA[<a href="https://sevalla.com/">https://sevalla.com/</a> - Hosting platform designed to simplify the deployment and management of applications, databases, and static websites - 1GB site limit, 100GB free bandwidth, 600 free build minutes, 100 sites per account.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/fea0ccac77642d3676ac61e1b4221c8e66fea35a</link><description><![CDATA[<a href="https://django-tutorial.dev">https://django-tutorial.dev</a> - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.<br>
  ]]></description>
 </item>
 
