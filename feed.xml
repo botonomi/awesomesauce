@@ -14,6 +14,12 @@
  ]]></description>
 </item>
 <item>
+	<title>Update to new URL of PostPulse and ReportGPT</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d49dafc1419ba418a3c12376f570f12e6effbdad</link><description><![CDATA[<a href="https://ReportGPT.app">https://ReportGPT.app</a> - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.<br>
+<a href="https://PostPulseAI.com">https://PostPulseAI.com</a> - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add core-web-vitals history checker</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/8706826360e4cb0ee7736f9ab4f39c7c6aa99b22</link><description><![CDATA[<a href="https://punits.dev/core-web-vitals-historical/">https://punits.dev/core-web-vitals-historical/</a> - Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.<br>
  ]]></description>
@@ -51,11 +57,6 @@
 <item>
 	<title>add LocalOps</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5ff1c44e80d32092e8e238aa7d83fadf03e7d8bc</link><description><![CDATA[<a href="https://localops.co/">https://localops.co/</a> - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.<br>
- ]]></description>
-</item>
-<item>
-	<title>adds it-tools.tech</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/b2583d11a579e1ac572ed809af9f8f7be4edf356</link><description><![CDATA[<a href="it-tools.tech">it-tools.tech</a> - - Useful tools for developer and people working in IT.<br>
  ]]></description>
 </item>
 
