@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Added opensource tag on Opik</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/c6e26e59f57cede172cff41ce33a59c65a6ea31c</link><description><![CDATA[<a href="https://github.com/comet-ml/opik/">https://github.com/comet-ml/opik/</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/)<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add SSOJet</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cbd6e264db81b742451e6b9df21e7b345f8d59eb</link><description><![CDATA[<a href="https://ssojet.com/">https://ssojet.com/</a> - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.<br>
  ]]></description>
@@ -42,15 +47,6 @@
 	<title>Add Tomorrow.io Weather API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b6568aefbb23c0ceec573dfa19cc6611bf3c6aef</link><description><![CDATA[<a href="https://www.tomorrow.io/weather-api/">https://www.tomorrow.io/weather-api/</a> - API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.<br>
  ]]></description>
-</item>
-<item>
-	<title>Add Easy Site Search, remove Httpic - my previous startup (discountin…</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0c9f365c5b3daed590c546ba7b7b59c4536acbdf</link><description><![CDATA[<a href="https://easysitesearch.com/">https://easysitesearch.com/</a> - Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a14fea084f2d183707049a73df9bd74cd48757ed</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
