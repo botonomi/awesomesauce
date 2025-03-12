@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add SSOJet</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cbd6e264db81b742451e6b9df21e7b345f8d59eb</link><description><![CDATA[<a href="https://ssojet.com/">https://ssojet.com/</a> - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update PromptLoop description for clarity and detail</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/1458ae09351951f69f62f7b80d067816a9fa5b5d</link><description><![CDATA[<a href="https://www.promptloop.com/">https://www.promptloop.com/</a> - PromptLoop delivers 10X easier AI web scraping with near-zero adoption time, 85%+ time saved on existing workflows, and operates 4X faster than manual research without compromise and includes a REST API endpoint for all research tasks. The first 1,000 credits are free each month.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Add OpenRouter free AI models</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/369589a0f5d54e60923b744108fc6a8309fbdd2b</link><description><![CDATA[<a href="https://openrouter.ai/models?q=free">https://openrouter.ai/models?q=free</a> - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.<br>
  ]]></description>
@@ -41,16 +51,6 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a14fea084f2d183707049a73df9bd74cd48757ed</link><description><![CDATA[ ]]></description>
-</item>
-<item>
-	<title>Update order</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/9c58018b055284a49985554b1b4b6e927d324cb0</link><description><![CDATA[<a href="https://proxed.ai/">https://proxed.ai/</a> - - Secure AI APIs in iOS - No SDK, Just Change Your API URL. Offers 1000 free API calls per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>Add Proxed AI</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/e902cd923e6095c1f908fc82f1ca53835b64cb1e</link><description><![CDATA[<a href="https://proxed.ai/">https://proxed.ai/</a> - - Secure AI APIs in iOS - No SDK, Just Change Your API URL. Offers 1000 free API calls per month.<br>
- ]]></description>
 </item>
 
 </channel>
