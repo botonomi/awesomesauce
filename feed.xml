@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>feat: add leapcell.io</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/5ad3ebc31aa03b7f576a182768aa2165fe56b7bd</link><description><![CDATA[<a href="https://leapcell.io/">https://leapcell.io/</a> - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d9f5f51c01a18b12e9844d7a668fa691e0f4eb56</link><description><![CDATA[<a href="https://excalidraw.com/">https://excalidraw.com/</a> - A free online drawing document web page with free save to local and export support.<br>
  ]]></description>
@@ -51,11 +56,6 @@
 <item>
 	<title>Add Amazon SageMaker</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8dad42026d949032f5259f8f461d8384b16323e</link><description><![CDATA[<a href="https://studiolab.sagemaker.aws/) — A cloud-based ML platform with JupyterLab and terminal access. The free tier includes 8 hours of CPU (max 4 hours per session">https://studiolab.sagemaker.aws/) — A cloud-based ML platform with JupyterLab and terminal access. The free tier includes 8 hours of CPU (max 4 hours per session</a> - — A cloud-based ML platform with JupyterLab and terminal access. The free tier includes 8 hours of CPU (max 4 hours per session) or 4 hours of GPU per day.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md (Add Tailcolors)</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/857a180b29684c7d163d2fbc68a0685a443c0542</link><description><![CDATA[<a href="https://tailcolors.com/">https://tailcolors.com/</a> - A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.<br>
  ]]></description>
 </item>
 
