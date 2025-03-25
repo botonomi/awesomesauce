@@ -4,6 +4,11 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add QRMESH</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b03ce7b8325c118c3f54215b5885f3a87f7662c7</link><description><![CDATA[<a href="https://qrme.sh">https://qrme.sh</a> - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.<br>
+ ]]></description>
+</item>
+<item>
 	<title>chore: remove eu.org entry in Domain category</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/3dab8bc9acc6a3b38ae28a7ff545c09b8aadc09b</link><description><![CDATA[ ]]></description>
 </item>
@@ -45,16 +50,6 @@
 <item>
 	<title>Added opensource tag on Opik</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c6e26e59f57cede172cff41ce33a59c65a6ea31c</link><description><![CDATA[<a href="https://github.com/comet-ml/opik/">https://github.com/comet-ml/opik/</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/)<br>
- ]]></description>
-</item>
-<item>
-	<title>Add SSOJet</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/cbd6e264db81b742451e6b9df21e7b345f8d59eb</link><description><![CDATA[<a href="https://ssojet.com/">https://ssojet.com/</a> - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update PromptLoop description for clarity and detail</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/1458ae09351951f69f62f7b80d067816a9fa5b5d</link><description><![CDATA[<a href="https://www.promptloop.com/">https://www.promptloop.com/</a> - PromptLoop delivers 10X easier AI web scraping with near-zero adoption time, 85%+ time saved on existing workflows, and operates 4X faster than manual research without compromise and includes a REST API endpoint for all research tasks. The first 1,000 credits are free each month.<br>
  ]]></description>
 </item>
 
