@@ -4,6 +4,15 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Add Unirate API to Currency Exchange</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/562c82f9f3ee1c941bb1fe541a108488dae85645</link><description><![CDATA[<a href="https://unirateapi.com">https://unirateapi.com</a> - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Remove Fleek</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/0abbc14be93d0c137aa4c91cf0ed5369e5dea382</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add QRMESH</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/b03ce7b8325c118c3f54215b5885f3a87f7662c7</link><description><![CDATA[<a href="https://qrme.sh">https://qrme.sh</a> - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.<br>
  ]]></description>
@@ -45,11 +54,6 @@
 <item>
 	<title>Add vidhook.io</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/a96097c900288867e19e578efa244ca621d4e6fa</link><description><![CDATA[<a href="https://vidhook.io/">https://vidhook.io/</a> - Collect feedback using delightful surveys with high response rates. Free plan includes 1 active survey, 25 responses per survey and customizable templates.<br>
- ]]></description>
-</item>
-<item>
-	<title>Added opensource tag on Opik</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/c6e26e59f57cede172cff41ce33a59c65a6ea31c</link><description><![CDATA[<a href="https://github.com/comet-ml/opik/">https://github.com/comet-ml/opik/</a> - - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/)<br>
  ]]></description>
 </item>
 
