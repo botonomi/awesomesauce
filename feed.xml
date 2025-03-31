@@ -4,6 +4,10 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Remove FaunaDB.</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/cb9789a1be915123823b179116aa2d2a3a0abe46</link><description><![CDATA[ ]]></description>
+</item>
+<item>
 	<title>Add Unirate API to Currency Exchange</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/562c82f9f3ee1c941bb1fe541a108488dae85645</link><description><![CDATA[<a href="https://unirateapi.com">https://unirateapi.com</a> - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.<br>
  ]]></description>
@@ -44,16 +48,6 @@
 <item>
 	<title>Update README.md with LangWatch</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/358dd4322edede2cced66195f14c269e67af5a25</link><description><![CDATA[<a href="https://github.com/langwatch/langwatch">https://github.com/langwatch/langwatch</a> - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizer. [#opensource](https://github.com/langwatch/langwatch)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/03433ff829911f725abfc368ef937e30a7851fbe</link><description><![CDATA[<a href="https://github.com/langwatch/langwatch">https://github.com/langwatch/langwatch</a> - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. [#opensource](https://github.com/langwatch/langwatch)<br>
- ]]></description>
-</item>
-<item>
-	<title>Add vidhook.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/a96097c900288867e19e578efa244ca621d4e6fa</link><description><![CDATA[<a href="https://vidhook.io/">https://vidhook.io/</a> - Collect feedback using delightful surveys with high response rates. Free plan includes 1 active survey, 25 responses per survey and customizable templates.<br>
  ]]></description>
 </item>
 
