@@ -4,8 +4,28 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>add Remote Desktop Tools(AnyDesk)</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/9cf29ab3c610d7668beaf353dd9858c4858be850</link><description><![CDATA[<a href="https://anydesk.com">https://anydesk.com</a> - Free for 3 devices, no limits on the number and duration of sessions<br>
+ ]]></description>
+</item>
+<item>
+	<title>Fix Cloudflare Quick Tunnels link</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/bfcb2e07d60a4773ecd64a66ef88b07eb3bdbcb9</link><description><![CDATA[<a href="https://www.cloudflare.com/products/zero-trust/">https://www.cloudflare.com/products/zero-trust/</a> - - You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/), No account required. More features (TCP tunnel, Load balancing, VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.<br>
+ ]]></description>
+</item>
+<item>
+	<title>The IP API: Mention daily free limits</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/b106e2bfe1b3f1691a3ef13b52f3939f1c5e437e</link><description><![CDATA[<a href="https://theipapi.com/">https://theipapi.com/</a> - API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.<br>
+ ]]></description>
+</item>
+<item>
 	<title>Remove FaunaDB.</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/cb9789a1be915123823b179116aa2d2a3a0abe46</link><description><![CDATA[ ]]></description>
+</item>
+<item>
+	<title>Add https://theipapi.com/ IP Geolocation API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/d8b2610a1b972b8577fd1ec0d77367391457dc68</link><description><![CDATA[<a href="https://theipapi.com/">https://theipapi.com/</a> - API](https://theipapi.com/) - IP Geolocation API with 1000 free requests. Provides information about the location of an IP address, including country, city, region, and more.<br>
+ ]]></description>
 </item>
 <item>
 	<title>Add Unirate API to Currency Exchange</title>
@@ -28,26 +48,6 @@
 <item>
 	<title>feat: add peasy</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/5d3f678c6d9a4f514b6e16e9155a8a84327344b8</link><description><![CDATA[<a href="https://peasy.so">https://peasy.so</a> - Peasy is a lightweight, privacy-focused analytics tool for websites and products. Free plan includes 3,000 events per month.<br>
- ]]></description>
-</item>
-<item>
-	<title>feat: add leapcell.io</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/5ad3ebc31aa03b7f576a182768aa2165fe56b7bd</link><description><![CDATA[<a href="https://leapcell.io/">https://leapcell.io/</a> - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d9f5f51c01a18b12e9844d7a668fa691e0f4eb56</link><description><![CDATA[<a href="https://excalidraw.com/">https://excalidraw.com/</a> - A free online drawing document web page with free save to local and export support.<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/d48ffe9bb515facfe2ac11a962a941ec22572f13</link><description><![CDATA[<a href="https://github.com/langwatch/langwatch">https://github.com/langwatch/langwatch</a> - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch)<br>
- ]]></description>
-</item>
-<item>
-	<title>Update README.md with LangWatch</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/358dd4322edede2cced66195f14c269e67af5a25</link><description><![CDATA[<a href="https://github.com/langwatch/langwatch">https://github.com/langwatch/langwatch</a> - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizer. [#opensource](https://github.com/langwatch/langwatch)<br>
  ]]></description>
 </item>
 
