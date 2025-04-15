@@ -4,6 +4,16 @@
 <description>New Free Resources</description>
 <link></link>
 <item>
+	<title>Updated IP2Location.io API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/13f95e10cf17d3ca467e2e9bbd196a23a6d3d791</link><description><![CDATA[<a href="https://www.ip2location.io/">https://www.ip2location.io/</a> - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, and more. The free plan includes 30k credits per month. IP2Location.io also offers free WHOIS and hosted domain lookups. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.<br>
+ ]]></description>
+</item>
+<item>
+	<title>Added domain WHOIS API and Hosted Domain API</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/752ed70ddd42cf60a7b60f821847d49b6247795f</link><description><![CDATA[<a href="https://www.ip2location.io/">https://www.ip2location.io/</a> - Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP, etc. The free plan is available with 30k credits per month. IP2Location.io also offers WHOIS lookups and hosted domain lookup services for free, lets you access domain registration details like ownership, registrar, and key dates such as creation and expiration. The Hosted domain lookup reveals which domains are hosted on a specific IP address, helping identify shared hosting environments. Subscribe to paid plans for more advanced features or contact us for a personalized plan.<br>
+ ]]></description>
+</item>
+<item>
 	<title>alphabetize Low Code section, add Superblocks</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/2e6bf992148d8661965c5890b1c7b599eccb7b41</link><description><![CDATA[<a href="https://www.appsmith.com/">https://www.appsmith.com/</a> - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.<br>
 <a href="https://www.clappia.com">https://www.clappia.com</a> - A low-code platform designed for building business process applications with customizable mobile and web apps. Offers a drag-and-drop interface, features like Offline Support, real-time location tracking and integration with various third-party services<br>
@@ -17,6 +27,12 @@
 <item>
 	<title>Update README.md</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/c17eb927b8406294e1c8d38b1feb629e18c6ec8e</link><description><![CDATA[<a href="https://www.vaocherapp.com/qr-code-generator">https://www.vaocherapp.com/qr-code-generator</a> - Code Generator](https://www.vaocherapp.com/qr-code-generator) – Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...<br>
+ ]]></description>
+</item>
+<item>
+	<title>Update README.md</title>
+	<link>https://github.com/ripienaar/free-for-dev/commit/6025f5ce087b0a490fe639677ae10de92d3c6f62</link><description><![CDATA[<a href="https://www.ip2whois.com/developers-api">https://www.ip2whois.com/developers-api</a> - WHOIS API](https://www.ip2whois.com/developers-api) — Obtain domain information, WHOIS record, by using a domain name. The WHOIS API returns a comprehensive WHOIS data such as creation date, updated date, expiration date, domain age, the contact information of the registrant, mailing address, phone number, email address, nameservers the domain is using and much more. IP2WHOIS supports the query for 1221 TLDs and 634 ccTLDs. Free plan is available. Subscribe to paid plans for more credits.<br>
+<a href="https://ip2whois.com/developers-domains-api">https://ip2whois.com/developers-domains-api</a> - Domain API](https://ip2whois.com/developers-domains-api) — Get get the list of hosted domain names by IP address in real time. The REST API supports both IPv4 and IPv6 address lookup. The free plan is available. Subscribe to paid plans for more credits.<br>
  ]]></description>
 </item>
 <item>
@@ -47,15 +63,6 @@
 	<title>Add https://theipapi.com/ IP Geolocation API</title>
 	<link>https://github.com/ripienaar/free-for-dev/commit/d8b2610a1b972b8577fd1ec0d77367391457dc68</link><description><![CDATA[<a href="https://theipapi.com/">https://theipapi.com/</a> - API](https://theipapi.com/) - IP Geolocation API with 1000 free requests. Provides information about the location of an IP address, including country, city, region, and more.<br>
  ]]></description>
-</item>
-<item>
-	<title>Add Unirate API to Currency Exchange</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/562c82f9f3ee1c941bb1fe541a108488dae85645</link><description><![CDATA[<a href="https://unirateapi.com">https://unirateapi.com</a> - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.<br>
- ]]></description>
-</item>
-<item>
-	<title>Remove Fleek</title>
-	<link>https://github.com/ripienaar/free-for-dev/commit/0abbc14be93d0c137aa4c91cf0ed5369e5dea382</link><description><![CDATA[ ]]></description>
 </item>
 
 </channel>
